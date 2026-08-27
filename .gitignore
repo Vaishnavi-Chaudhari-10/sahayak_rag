@@ -27,3 +27,9 @@ models/
 
 # Local llama.cpp repository
 llama.cpp/
+
+# Ignore raw chunked data
+data/chunks_legal/
+
+# Keep cleaned text files
+!data/cleaned/
