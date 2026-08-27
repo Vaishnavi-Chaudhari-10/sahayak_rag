@@ -1,0 +1,16 @@
+The manufacturer shall;- 
+(a) identify the processes needed for the quality management system and their application 
+throughout the organization; 
+(b) determine the sequence and interaction of these processes; 
+(c) determine criteria and methods needed to ensure that both the operation and control of these 
+processes are effective; 
+(d) ensure the availability of resources and information necessary to support the operation and 
+monitoring of these processes; 
+(e) monitor, measure and analyse these processes; and 
+(f) implement actions necessary to achieve planned results and maintain the effectiveness of these 
+processes. 
+
+These processes shall be managed by the manufacturer in accordance with the requirements of this 
+Schedule. Where a manufacturer chooses to outsource any process that affects product conformity 
+with requirements, the manufacturer shall ensure control over such processes. Control of such 
+outsourced processes shall be identified within the quality management system

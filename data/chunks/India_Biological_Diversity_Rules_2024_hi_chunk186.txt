@@ -1,0 +1,33 @@
+s of the applicant (Drop down menu) 
+a. NRI 
+b. Non-Indian 
+c. Entity covered under section 3(2) of the 
+Act 
+(iv) Address of the applicant 
+
+(Postal address including PIN code, email, mobile and 
+alternate mobile numbers and/or landline number) 
+
+(v) Profile of the individual/entity 
+(vi) Nature of the business (applicable if the applicant is an 
+entity) 
+
+(vii) Details of the authorised representative for the applicant 
+(applicable if the applicant is an entity) 
+
+(Name with postal address including PIN code, email, 
+mobile and alternate mobile numbers and/or landline 
+number) 
+
+(viii) Contact person of the applicant in India (If any) 
+
+(Name with postal address including PIN code, email, 
+mobile and alternate mobile numbers and/or landline 
+number) 
+
+(2) Details of the biological resources and knowledge associated thereto intended to be accessed 
+(i) Details of biological resource (Drop down menu) 
+
+i. Nature of the biological resource 
+(plants/animals/microbes/genetic 
+material/var

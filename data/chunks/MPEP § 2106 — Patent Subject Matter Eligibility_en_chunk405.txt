@@ -1,0 +1,22 @@
+ms directed to clear improvements
+ to computer-related technology do not need the full eligibility analysis.
+
+Enfish,
+ 822 F.3d at 1339, 118 USPQ2d at 1691-92 (claims to a
+ self-referential table for a computer database held eligible at step 1 of the
+
+Alice/Mayo
+ test as not directed to an abstract idea). Claims
+ directed to improvements to other technologies or technological processes, beyond
+ computer improvements, may also avoid the full eligibility analysis. 
+McRO,
+ Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d 1299, 1316, 120 USPQ2d
+ 1091, 1103 (Fed. Cir. 2016) (claims to automatic lip synchronization and facial
+ expression animation found eligible at Step 1 of the 
+Alice/Mayo
+
+ test as directed to an improvement in computer-related technology). In these cases,
+ when the claims were viewed as a whole, their eligibility was self-evident based on
+ the clear improvement, so no further analysis was needed. Although the Federal
+ Circuit held these claims eligible at Step 2A as not bei

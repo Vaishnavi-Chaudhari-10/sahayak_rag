@@ -1,0 +1,24 @@
+porting a
+ conclusion that an additional element (or combination of additional
+ elements) is well-understood, routine, conventional activity, see
+
+MPEP § 2106.07(a)
+,
+ subsection III.
+
+3. 
+Even if one or more additional elements
+ are well-understood, routine, conventional activity when considered
+ individually, the combination of additional elements may amount to an
+ inventive concept.
+Diamond v. Diehr,
+ 450 U.S. at 188, 209 USPQ at 9 (1981)
+ (“[A] new combination of steps in a process may be patentable even though
+ all the constituents of the combination were well known and in common use
+ before the combination was made.”). For example, a microprocessor that
+ performs mathematical calculations and a clock that produces time data may
+ individually be generic computer components that perform merely generic
+ computer functions, but when combined may perform functions that are not
+ generic computer functions and thus be an inventive concept. See,
+
+e.g. Rapid Litig. Mgmt. v. CellzDirect, I

@@ -1,0 +1,42 @@
+ligibility
+ analysis. If the judicial exception to which the claim is directed is a "tentative
+ abstract idea," i.e., an abstract idea that does not fall within any of the
+ groupings of abstract ideas discussed in 
+MPEP §
+ 2106.04(a)(2)
+, then the Step 2B rejection must also use
+ form paragraph 
+7.05.017
+ (in addition to form paragraphs
+
+7.04.01
+, 
+7.05
+, and
+
+7.05.016
+) and include the TC Director's
+ signature.
+
+¶ 7.04.01 Statement of Statutory Basis, 35 U.S.C. 101
+
+35 U.S.C. 101 reads as follows:
+
+Whoever invents or discovers any new and useful process, machine,
+ manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a
+ patent therefor, subject to the conditions and requirements of this title.
+
+Examiner Note:
+
+ This form paragraph must precede the first use of
+
+35 U.S.C.
+ 101
+ in all first actions on the merits and final rejections.  
+
+¶ 7.05 Rejection, 35 U.S.C. 101, -Heading Only- (Utility, Nonstatutory,
+ Inoperative)
+
+Claim 
+[1]
+ rejected unde

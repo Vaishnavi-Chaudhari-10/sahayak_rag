@@ -1,0 +1,18 @@
+. While
+ step (a) administers vaccines to the cats, this administration is performed
+ in order to gather data for the mental analysis step, and is a necessary
+ precursor for all uses of the recited exception. It is thus extra-solution
+ activity, and does not integrate the judicial exception into a practical
+ application. Conversely, consider a claim reciting the same steps (a) and
+ (b), but also reciting step (c) “vaccinating a second group of domestic cats
+ in accordance with the lowest-risk vaccination schedule.” Step (c) applies
+ the exception, in that the information from the mental analysis in step (b)
+ is used to alter the order and timing of the vaccinations so that the second
+ group of cats has a lower risk of developing chronic immune-mediated
+ disorders. Step (c) thus integrates the abstract idea into a practical
+ application.
+
+Examiners may find it helpful to evaluate
+ other considerations such as the insignificant extra-solution activity
+ consideration (see 
+MPEP § 2106.05(

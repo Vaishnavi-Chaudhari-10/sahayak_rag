@@ -1,0 +1,18 @@
+rials and products. Many pharmaceutical products and 
+some packaging materials are radiation -sensitive, so this 
+method is permissible only when the absence of deleterious 
+effects on the product has been confirmed experimentally. 
+Ultraviolet irradiation is not an acceptable method for terminal 
+sterilisation. 
+6.11.1.9. If sterilisation by radiation is done by an outside contractor, 
+the manufacturer is responsible for ensuring that the 
+requirements of paragraph 6.8 are met and that the 
+sterilisation process is validated. 
+6.11.1.10. During the sterilisation procedure the radiation dose shall be 
+measured. The dosimeters used for this purpose shall be 
+independent of the dose rate and shall provide a quantitative 
+measurement of the dose received by the product itself. 
+Dosimeters shall be inserted in the load in sufficient number 
+and close enough togeth er to ensure that there is always a 
+dosimeter in the chamber. Where plastic dosimeters are used 
+they shall be used within the

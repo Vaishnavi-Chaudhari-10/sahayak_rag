@@ -1,0 +1,24 @@
+claim is based on the discovery of
+ something natural. Notably, the court did not distinguish between the types of
+ technology when determining the invention improved technology. However, it is
+ important to keep in mind that an improvement in the abstract idea itself
+ (
+e.g.
+ a recited fundamental economic concept) is not an
+ improvement in technology. For example, in 
+Trading Technologies Int’l v.
+ IBG,
+ 921 F.3d 1084, 1093-94, 2019 USPQ2d 138290 (Fed. Cir. 2019), the
+ court determined that the claimed user interface simply provided a trader with
+ more information to facilitate market trades, which improved the business process
+ of market trading but did not improve computers or technology.
+
+Examples that the courts have indicated may be
+ sufficient to show an improvement in existing technology include: 
+
+i. Particular computerized method of operating
+ a rubber molding press, 
+e.g.,
+ a modification of
+ conventional rubber-molding processes to utilize a thermocouple inside the
+ mold

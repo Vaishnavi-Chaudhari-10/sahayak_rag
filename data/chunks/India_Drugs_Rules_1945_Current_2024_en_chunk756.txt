@@ -1,0 +1,25 @@
+redients 
+(5) Pharmacological classification of the drug: 
+(6) Indication for which proposed to be used: 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+(7) Manufacture of the raw material (bulk drug substances): 
+1018[***] 
+2. Data submitted along with the application (as per Schedule Y with indexing 
+ and page nos.) 
+A. Permission to market a new drug: 
+(1) Chemical and Pharmaceutical information 
+(2) Animal pharmacology 
+(3) Animal Toxicology 
+(4) Human/Clinical Pharmacology (Phase 1) 
+(5) Exploratory Clinical Trials (Phase II) 
+(6) Confirmatory Clinical Trials (Phase III) (including published review 
+articles) 
+(7) Bio-availability, dissolution and stability study Data 
+(8) Regulatory status in other countries 
+(9) Marketing information: 
+(a) Proposed product monograph 
+(b) Drafts of label and cartoons 
+(10) Application for test license 
+1019[(11) New Chemical Entity and Global Clinical Trial— 
+(a) Assessment of risk ver

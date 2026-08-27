@@ -1,0 +1,16 @@
+dia  of 963 
+(2) A test sample failing in the above test is to considered defective. If the 
+cumulative total of rejects 'R' is found to be equal to or greater than the number 
+shown against 'R' in Annexure III, the batch or lot shall be declared as not of 
+standard quality. 
+(C) Dimensions—At least two samples from the lot or batch shall satisfy the 
+requirements regarding dimensions as specified in paragraph 8 of this Schedule. 
+5. Procedure for sampling and testing of condoms by a purchaser.— 
+(A) Wafer Leakage Test.—(1) Statistical sampling of condoms by a purchaser 
+for Water Leakage Test shall be done in accordance with the pant set out in 
+Annexure II to this Schedule. 
+(2) A test sample failing in the above test is to be considered as defective. If 
+the cumulative total of rejects 'R' is found to be equal to or greater than the 
+number shown against 'R' in Annexure -II, the batch or lot shall be declared as 
+not of standard quality. 
+(B) Bursting Volume and Pressure Test. —(1)

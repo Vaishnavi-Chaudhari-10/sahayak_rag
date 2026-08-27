@@ -1,0 +1,28 @@
+paper”). 
+
+The use of a physical aid
+ (
+e.g.,
+ pencil and paper or a slide rule) to help
+ perform a mental step (
+e.g.,
+ a mathematical calculation)
+ does not negate the mental nature of the limitation, but simply accounts for
+ variations in memory capacity from one person to another. For instance, in
+
+CyberSource,
+ the court determined that the step of
+ “constructing a map of credit card numbers” was a limitation that was able
+ to be performed “by writing down a list of credit card transactions made
+ from a particular IP address.” In making this determination, the court
+ looked to the specification, which explained that the claimed map was
+ nothing more than a listing of several (
+e.g.,
+ four)
+ credit card transactions. The court concluded that this step was able to be
+ performed mentally with a pen and paper, and therefore, it qualified as a
+ mental process. 654 F.3d at 1372-73, 99 USPQ2d at 1695. See also
+
+Flook,
+ 437 U.S. at 586, 198 USPQ at 196 (claimed
+ “computations can be made

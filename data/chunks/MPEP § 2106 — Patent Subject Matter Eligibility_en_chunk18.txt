@@ -1,0 +1,21 @@
+bject matter that
+ falls within a statutory category (the random-access memory), as well as subject matter
+ that does not (the carrier waves), the claims as a whole were not to a statutory
+ category and thus failed the first criterion for eligibility.
+
+With regard to the second criterion for eligibility, the
+
+Alice/Mayo
+ test, claim interpretation can affect the first part of
+ the test (whether the claims are directed to a judicial exception). For example, the
+ patentee in 
+Synopsys
+ argued that the claimed methods of logic circuit
+ design were intended to be used in conjunction with computer-based design tools, and
+ were thus not mental processes. 
+Synopsys, Inc. v. Mentor Graphics
+ Corp.,
+ 839 F.3d 1138, 1147-49, 120 USPQ2d 1473, 1480-81 (Fed. Cir. 2016).
+ The court disagreed, because it interpreted the claims as encompassing nothing other
+ than pure mental steps (and thus falling within an abstract idea grouping) because the
+ claims did not include any limitations requiring computer

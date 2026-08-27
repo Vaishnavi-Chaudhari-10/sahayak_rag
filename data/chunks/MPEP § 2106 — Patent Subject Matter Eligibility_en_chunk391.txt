@@ -1,0 +1,14 @@
+roadcaster via a streaming signal, (2) is configured to wirelessly download an
+ application for performing those functions, and (3) contains a display that allows
+ the user to select particular content. 838 F.3d at 1255-56, 120 USPQ2d at 1202. The
+ court identified the claimed concept of providing out-of-region access to regional
+ broadcast content as an abstract idea, and noted that the additional elements limited
+ the wireless delivery of regional broadcast content to cellular telephones (as
+ opposed to any and all electronic devices such as televisions, cable boxes,
+ computers, or the like). 838 F.3d at 1258-59, 120 USPQ2d at 1204. Although the
+ additional elements did limit the use of the abstract idea, the court explained that
+ this type of limitation merely confines the use of the abstract idea to a particular
+ technological environment (cellular telephones) and thus fails to add an inventive
+ concept to the claims. 838 F.3d at 1259, 120 USPQ2d at 1204. 
+
+Examples of limitations

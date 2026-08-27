@@ -1,0 +1,16 @@
+sses 
+(fermentation) shall form part of the batch record. Where continuous 
+culture is used, special consideration shall be given to parameters such as 
+temperature, pH, pO2, CO2 and the rate of feed or carbon source with 
+respect to growth of cells. 
+9.6. In cases where a viral inactivation or removal process is performed, 
+measures shall be taken (for example, in relation to facility layout, 
+unidirectional flow and equipment) to avoid the risk of recontamination 
+of treated products by non-treated products. 
+9.7. A wide variety of equipment and components (for example, resins, 
+matrices and cassettes) are used for purification purposes. QRM 
+principles shall be applied to devise the contr ol strategy regarding such 
+equipment and associated components when used in campaign 
+manufacture and in multi -product facilities. The reuse of components at 
+different stages of processing of one product is discouraged but, if 
+performed, shall be validated. Acceptance criteria, operating condit

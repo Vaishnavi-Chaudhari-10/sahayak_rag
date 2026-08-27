@@ -1,0 +1,31 @@
+,
+
+7.05
+,
+ and 
+7.05.01
+ for rejections based on a failure to
+ claim an invention that falls within any of the statutory categories of invention
+ (i.e., the claim is not to at least one of the four statutory categories of
+ invention and is thus rejected at Step 1 of the eligibility analysis). As a
+ reminder, it is not necessary to identify a single category into which a claim
+ falls, so long as it is clear that the claim falls into at least one category. See
+
+MPEP § 2106.03
+.
+
+Use form paragraphs 
+7.04.01
+,
+
+7.05
+,
+ and 
+7.05.016
+ for rejections based on a failure to
+ claim an invention that is directed to patent-eligible subject matter, i.e., the
+ claim is directed to a judicial exception without providing an inventive
+ concept/significantly more, and is thus rejected at Step 2B of the eligibility
+ analysis. If the judicial exception to which the claim is directed is a "tentative
+ abstract idea," i.e., an abstract idea that does not fall within any of the
+ groupings of abstract ideas

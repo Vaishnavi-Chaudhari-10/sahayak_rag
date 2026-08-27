@@ -1,0 +1,35 @@
+ionale why it is
+ considered a law of nature or natural phenomenon.
+
+ • For Step 2A Prong Two, the rejection should
+ identify any additional elements (specifically point to claim
+ features/limitations/steps) recited in the claim beyond the identified judicial
+ exception; and 
+evaluate
+ the integration of the judicial exception
+ into a practical application 
+by explaining
+ that 1) there are no
+ additional elements in the claim; or 2) the claim as a whole, looking at the
+ additional elements individually and in combination, does not integrate the
+ judicial exception into a practical application using the considerations set
+ forth in 
+MPEP §§ 2106.04(d)
+,
+
+2106.05(a)
+- 
+(c)
+ and 
+(e)
+- 
+(h)
+. Examiners should give weight to all of the
+ claimed additional elements in Prong Two, even if those elements represent
+ well-understood, routine, conventional activity.
+
+ • For Step 2B, the rejection should
+
+explain why
+ the additional elements, taken individually and in
+ combination, do not result i

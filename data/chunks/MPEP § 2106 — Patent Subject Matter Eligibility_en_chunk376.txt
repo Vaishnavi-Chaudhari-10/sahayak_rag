@@ -1,0 +1,23 @@
+card transactions in order to detect whether the transactions were fraudulent. 
+
+As explained by the Supreme Court, the addition of
+ insignificant extra-solution activity does not amount to an inventive concept,
+ particularly when the activity is well-understood or conventional. 
+Parker v.
+ Flook,
+ 437 U.S. 584, 588-89, 198 USPQ 193, 196 (1978). In
+
+Flook,
+ the Court reasoned that “[t]he notion that post-solution
+ activity, no matter how conventional or obvious in itself, can transform an
+ unpatentable principle into a patentable process exalts form over substance. A
+ competent draftsman could attach some form of post-solution activity to almost any
+ mathematical formula”. 437 U.S. at 590; 198 USPQ at 197; 
+Id.
+
+ (holding that step of adjusting an alarm limit variable to a figure computed
+ according to a mathematical formula was “post-solution activity”). See also
+
+Mayo Collaborative Servs. v. Prometheus Labs. Inc.,
+ 566 U.S.
+ 66, 79, 101 USPQ2d 1961, 1968 (2012) (additional element

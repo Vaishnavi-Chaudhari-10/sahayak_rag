@@ -1,0 +1,35 @@
+in 
+Classen
+ Immunotherapies Inc. v. Biogen IDEC,
+ 659 F.3d 1057, 1066-68,
+ 100 USPQ2d 1492, 1499-1502 (Fed. Cir. 2011) (see 
+MPEP §
+ 2106.05(e)
+).
+
+ Limitations that the courts have found not to be
+ enough to qualify as “significantly more” when recited in a claim with a judicial
+ exception include: 
+
+i. Adding the words “apply it” (or an
+ equivalent) with the judicial exception, or mere instructions to implement
+ an abstract idea on a computer, 
+e.g.,
+ a limitation
+ indicating that a particular function such as creating and maintaining
+ electronic records is performed by a computer, as discussed in
+
+Alice Corp.,
+ 573 U.S. at 225-26, 110 USPQ2d at 1984
+ (see 
+MPEP § 2106.05(f)
+);
+
+ii. Simply appending well-understood, routine,
+ conventional activities previously known to the industry, specified at a
+ high level of generality, to the judicial exception,
+
+e.g.,
+ a claim to an abstract idea requiring no more
+ than a generic computer to perform generic computer functions that are
+ well-u

@@ -1,0 +1,18 @@
+a concise summary of the matter 
+contained in the specification. The summary shall indicate clearly 
+the technical field to which the invention belongs, technical 
+problem to which the invention relates and the solution to the 
+problem through t he invention and principal use or uses of the 
+invention. Where ver necessary, the abstract shall contain the 
+chemical formula which characterizes the invention. 
+d) The abstract may not contain more than 150 words. 
+e) If the specification contains any drawing, the applicant sha ll 
+indicate reference numerals of drawings in the abstract, which may 
+accompany the abstract when published. Each main feature 
+mentioned in the abstract and illustrated by a drawing shall be 
+followed by the reference sign used in that drawing. 
+f) The Controller may amend the abstract for providing better 
+information to third parties. 
+05.03.12 Best Method 
+The Act specifically requires that the complete specification must 
+describe the best method of performing

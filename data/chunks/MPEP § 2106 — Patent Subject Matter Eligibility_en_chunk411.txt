@@ -1,0 +1,21 @@
+ecited
+ therein.
+
+If the evaluation of the claimed invention results in a
+ conclusion that it is more likely than not that the claim as a whole does not satisfy
+ both criteria for eligibility (Step 1: NO and/or Step 2B: NO), then examiners should
+ formulate an appropriate rejection of that claim under Step 1 and/or Step 2B. The
+ rejection should set forth a 
+prima facie
+ case of ineligibility under
+ the substantive law. The concept of the 
+prima facie
+ case is a
+ procedural tool of patent examination, which allocates the burdens going forward between
+ the examiner and applicant. In particular, the initial burden is on the examiner to
+ explain why a claim or claims are ineligible for patenting clearly and specifically, so
+ that applicant has sufficient notice and is able to effectively respond.
+
+ When an examiner determines a claim does not fall
+ within a statutory category (Step 1: NO), the rejection should provide an explanation of
+ why the claim does not fall within one of the four s

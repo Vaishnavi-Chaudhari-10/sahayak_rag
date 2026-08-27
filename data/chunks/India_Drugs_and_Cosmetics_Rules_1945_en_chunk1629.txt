@@ -1,0 +1,27 @@
+ant; 
+(e) assay or purity of the product; 
+(f) process completion check by TLC / any other means. 
+5.2. In-process control for physical operations may include the following: 
+(a) appearance and colour; 
+(b) uniformity of the blend; 
+(c) temperature of a process; 
+(d) concentration of a solution; 
+(e) processing rate or time; 
+(f) particle size analysis; 
+(g) bulk/tap density; 
+(h) pH determination; 
+(i) moisture content. 
+
+Drugs and Cosmetics Rules 1945 
+470 
+
+6. Product Containers and Closures: 
+
+6.1. All containers and closures shall comply with the pharmacopoeial or any 
+other requirement, suitable sampling methods, sample sizes, specifications, test methods, 
+cleaning procedures and sterilization procedures, when indicated, shall be used to assure that 
+containers, closures and other component parts of drug packages are suitable and are not 
+reactive, additive, adsorptive or leachable to an extent that significantly affects the quality or 
+purity of the drug. 
+
+6.2. The drug produc

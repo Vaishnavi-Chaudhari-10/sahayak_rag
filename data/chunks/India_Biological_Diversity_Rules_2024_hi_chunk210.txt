@@ -1,0 +1,53 @@
+hundred and fifty words) 
+
+(iii) Details of the patent office where the applicant intends to file 
+patent application for the said invention 
+[Names of the countries to be placed in the drop 
+down menu] 
+(iv) Whether any patent application has been filed 
+in or outside India for the present invention as on date 
+Yes/ No 
+
+(vi) 
+If answer to (v) is ‘Yes’, details to be provided: 
+
+Sl 
+No 
+Name of 
+the 
+country 
+[Drop 
+down 
+menu] 
+Patent office in 
+which application 
+has been filed 
+[Drop down menu] 
+Date of filing of 
+the patent 
+application 
+Patent 
+application 
+number 
+Status of the 
+application as on date 
+(Filed/published/ 
+under examination 
+/under hearing/ 
+granted) 
+ [Drop down menu] 
+If granted, 
+patent 
+number and 
+date of 
+grant 
+
+(5) Details of the biological resource accessed/ claimed in the 
+invention 
+
+a. Nature of the accessed biological 
+resource(s) (Plant/animal/ 
+microorganism/ fungi/algae and others) 
+[Drop down] 
+b. Common name 
+c. Scientific name (Genus and speci

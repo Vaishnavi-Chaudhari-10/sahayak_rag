@@ -1,0 +1,19 @@
+urposes to avoid the loss of 
+particles ≥ 5.0 μm. Isokinetic sample heads shall be used in 
+unidirectional airflow systems. 
+4.6.4. “In operation” classification may be demonstrated during 
+normal operations, simulated operations or during media fills as 
+worst-case simulation is required for this. ISO standards provide 
+information on testing to demonstrate continued compliance 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+with the assigned cleanliness classification. 
+
+4.7. Clean rooms and clean-air devices shall be routinely monitored while in 
+operation and the monitoring locations based on a formal risk analysis 
+study and the results obtained during the classification of rooms or 
+clean-air devices or both. 
+4.7.1. For Grade A zones, particle monitoring shall be undertaken for the 
+full duration of critical processing, including equipment assembly, 
+except where justified by contaminants in the process that would 
+da

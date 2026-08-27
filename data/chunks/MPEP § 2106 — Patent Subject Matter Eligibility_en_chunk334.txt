@@ -1,0 +1,24 @@
+OM Global Internet Servs. v. AT&T Mobility
+ LLC,
+ 827 F.3d 1341, 1350-51, 119 USPQ2d 1236, 1243-44
+ (2016).
+
+ A rejection should only be made if an examiner
+ relying on the examiner's expertise in the art can conclude in the Step 2B inquiry
+ that the additional elements do not amount to significantly more (Step 2B: NO). If
+ the elements or functions are beyond those recognized in the art or by the courts
+ as being well‐understood, routine, conventional activity, then the elements or
+ functions will in most cases amount to significantly more (Step 2B: YES). For more
+ information on formulating a subject matter eligibility rejection involving
+ well-understood, routine, conventional activity, see 
+MPEP §
+ 2106.07(a)
+. 
+
+II.
+ ELEMENTS THAT THE COURTS HAVE
+ RECOGNIZED AS WELL-UNDERSTOOD, ROUTINE, CONVENTIONAL ACTIVITY IN PARTICULAR
+ FIELDS 
+Because examiners should rely on what the courts
+ have recognized, or those of ordinary skill in the art would recognize, as
+ elements that describe wel

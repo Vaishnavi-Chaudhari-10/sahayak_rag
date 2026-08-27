@@ -1,0 +1,44 @@
+r. 2018), modifying 
+SAP
+ America, Inc. v. InvestPic, LLC,
+ 890 F.3d 1016, 126
+ USPQ2d 1638 (Fed. Cir. 2018);
+
+ii. calculating a number representing an
+ alarm limit value using the mathematical formula
+ ‘‘B
+1
+=B
+0
+ (1.0–F) +
+ PVL(F)’’, 
+Parker v. Flook,
+ 437 U.S. 584, 585, 198
+ USPQ 193, 195 (1978);
+
+iii. using a formula to convert geospatial
+ coordinates into natural numbers, 
+Burnett v. Panasonic
+ Corp.,
+ 741 Fed. Appx. 777, 780 (Fed. Cir. 2018)
+ (non-precedential);
+
+iv. managing a stable value protected life
+ insurance policy via performing calculations, 
+Bancorp Servs.,
+ LLC v. Sun Life Assur. Co. of Canada (U.S.)
+, 687 F.3d
+ 1266, 1280, 103 USPQ2d 1425, 1434 (Fed. Cir. 2012);
+
+v. using an algorithm for determining the
+ optimal number of visits by a business representative to a client,
+
+In re Maucorps,
+ 609 F.2d 481, 482, 203 USPQ 812,
+ 813 (CCPA 1979); and 
+
+vi. calculating the difference between
+ local and average data values, 
+In re Abele,
+ 684
+ F.2d 902, 903, 214 USPQ 682, 683-

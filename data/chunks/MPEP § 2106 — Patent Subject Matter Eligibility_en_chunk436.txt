@@ -1,0 +1,22 @@
+USPQ2d 1090, 1092-94 (Fed. Cir. 2015) (same);
+
+Content Extraction & Transmission LLC v. Wells Fargo
+ Bank,
+ N.A., 776 F.3d 1343, 1347, 113 USPQ2d 1354, 1357-58 (Fed. Cir.
+ 2014) (same).
+
+At Step 2A Prong Two or Step 2B, there is no
+ requirement for evidence to support a finding that the exception is not integrated
+ into a practical application or that the additional elements do not amount to
+ significantly more than the exception unless the examiner asserts that additional
+ limitations are well-understood, routine, conventional activities in Step 2B. 
+
+Examiners should not assert that an additional
+ element (or combination of elements) is well-understood, routine, or conventional
+ unless the examiner finds, and expressly supports the rejection in writing with
+ one or more of the following: 
+
+(A) A citation to an express statement in the
+ specification or to a statement made by an applicant during prosecution that
+ demonstrates the well-understood, routine, conventional nature of the
+ a

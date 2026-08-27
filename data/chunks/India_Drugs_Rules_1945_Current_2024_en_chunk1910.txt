@@ -1,0 +1,19 @@
+ntract shall permit the contract giver to audit the contract 
+acceptor’s facilities for compliance with GMP. 
+16.5. Where sub-contracting is allowed, the contract acceptor shall not pass 
+to a third party any of the work entrusted to h im or her under the 
+contract without the contract giver’s prior evaluation and approval of 
+the arrangements. 
+16.6. Manufacturing and laboratory records shall be kept at the site where 
+the activity takes place and be readily available. 
+16.7. Changes in the process, equ ipment, test methods, speciﬁcations or 
+other contractual requirements shall not be made unless the contract 
+giver is informed and approves the changes. 
+
+17. Speciﬁc guidance for APIs manufactured by cell culture or 
+fermentation:- 
+17.1. General- 
+17.1.1. The principles of fer mentation for “classical” processes for 
+production of small molecules and for processes using 
+recombinant and non-recombinant organisms for production of 
+proteins or polypeptides or both are the same, altho

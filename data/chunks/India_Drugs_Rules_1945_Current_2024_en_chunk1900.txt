@@ -1,0 +1,17 @@
+by the quality units. 
+13.4. The potential impact of the proposed chang e on the quality of the 
+intermediate or API shall be evaluated. A classiﬁcation procedure may 
+help in determining the level of testing, validation and documentation 
+needed to justify changes to a validated process. Changes can be 
+classiﬁed (e.g., as minor or major) depending on their nature and 
+extent and the effects these changes may have on the process. 
+Scientiﬁc judgement shall be used to determine what additional testing 
+and validation studies are appropriate to justify a change in a validated 
+process. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+13.5. When implementing approved changes, measures shall be taken to 
+ensure that all documents affected by the changes are revised. 
+13.6. After the change has been implemented there shall be an evaluation of 
+the ﬁrst batch produced or tested under the change. 
+13.7. The potential for critical

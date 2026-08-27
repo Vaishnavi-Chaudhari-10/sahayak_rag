@@ -1,0 +1,27 @@
+rity 
+ Checks for national security clearance/FFL (as per section 39 of 
+Patent Act 1970) 
+ Forwards the record copy to IB and the search copy to ISA, 
+including any required translation (Article 12, Rules 22.1 and 23.1) 
+ Forwards and receives correspondence from applicants and the 
+international authorities 
+ Prepares the priority documents of PCT applications filed with it. 
+ COMPETENT INTERNATIONAL SEARCHING 
+AUTHORITIES (ISAs) (Article 16, Rule 35) 
+ Indian Patent Office (IN) 
+ Austrian Patent Office (AT) 
+ Australian Patent Office (AU) 
+ European Patent Office (EP) 
+ The State Intellectual Property Office of The People’s 
+Republic of China (CN) 
+ United States Patent & Trademark Office (US) 
+ Swedish Patent And Registration Office (SE) 
+ Updated information is available on WIPO website 
+(www.wipo.int) 
+
+58 
+
+ Fees payable to the receiving Office (RO) 
+ transmittal fee ( No fee , if applied through e-PCT) 
+ international filing fee (for IB) 
+ search fee (for ISA)

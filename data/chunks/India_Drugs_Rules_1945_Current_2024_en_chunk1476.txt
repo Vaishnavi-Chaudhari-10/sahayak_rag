@@ -1,0 +1,17 @@
+s at the point of fill when filling is in 
+progress, due to the generation of particles or droplets from the 
+product itself. 
+4.7.2. It is recommended that a similar system be used for Grade B 
+zones, although the sample frequency may be decreased. The 
+importance of the particle monitoring system shall be determined 
+by the effectiveness of the segregation between the adjacent Grade 
+A and B zones. The Grade B zone shall be monitored at a 
+frequency and with a sample size such that changes i n levels of 
+contamination and any deterioration of the system would be 
+captured and alarms triggered if alert limits are exceeded. 
+4.7.3. Airborne particle monitoring systems may consist of independent 
+particle counters; a network of sequentially accessed samplin g 
+points connected by manifold to a single particle counter; or 
+multiple small particle counters located near monitoring points and 
+networked to a data acquisition system. Combination of systems 
+can also be used. The system selec

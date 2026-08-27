@@ -1,0 +1,24 @@
+omena. Thus, it
+ is sufficient for this analysis for the examiner to identify that the claimed concept
+ (the specific claim limitation(s) that the examiner believes may recite an exception)
+ aligns with at least one judicial exception. 
+
+The Supreme Court has explained that the judicial
+ exceptions reflect the Court’s view that abstract ideas, laws of nature, and natural
+ phenomena are “the basic tools of scientific and technological work”, and are thus
+ excluded from patentability because “monopolization of those tools through the grant
+ of a patent might tend to impede innovation more than it would tend to promote it.”
+
+Alice Corp.,
+ 573 U.S. at 216, 110 USPQ2d at 1980 (quoting
+
+Myriad,
+ 569 U.S. at 589, 106 USPQ2d at 1978 and 
+Mayo
+ Collaborative Servs. v. Prometheus Labs. Inc.,
+ 566 U.S. 66, 71, 101
+ USPQ2d 1961, 1965 (2012)). The Supreme Court’s concern that drives this “exclusionary
+ principle” is pre-emption. 
+Alice Corp.,
+ 573 U.S. at 216, 110
+ USPQ2d at 1980. The Court has hel

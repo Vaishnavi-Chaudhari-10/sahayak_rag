@@ -1,0 +1,34 @@
+plant protection is also available under the
+ Plant Patent Act (
+35 U.S.C. 161
+ - 
+164
+) and the Plant Variety
+ Protection Act (7 U.S.C. 2321 
+et. seq.
+). 
+J.E.M. Ag
+ Supply, Inc. v. Pioneer Hi-Bred Int’ l, Inc.,
+ 534 U.S. 124, 143-46, 60
+ USPQ2d 1865, 1874 (2001) (The scope of coverage of 
+35 U.S.C. 101
+
+ is not limited by the Plant Patent Act or the Plant Variety Protection Act; each
+ statute can be regarded as effective because of its different requirements and
+ protections).
+
+See 
+MPEP §
+ 2106.03
+ for a discussion of the categories of statutory
+ subject matter. 
+
+B.
+Living Subject Matter May Be Eligible for Patent Protection
+The Supreme Court in 
+Chakrabarty
+
+ held a claim to a genetically engineered bacterium eligible, because the claimed
+ bacterium was not a “product of nature” exception. As the Court explained, the
+ modified bacterium was patentable because the patent claim was not to a “hitherto
+ unknown natural phenomenon,” but instead had “markedly different characteristics

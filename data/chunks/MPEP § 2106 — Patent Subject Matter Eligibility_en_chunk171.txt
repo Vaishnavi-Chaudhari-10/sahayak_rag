@@ -1,0 +1,22 @@
+pes of claims are drafted in a way that focuses on the product rather than
+ the process steps. For example, consider a claim that recites, in its entirety,
+ “a method of providing an apple.” Under the broadest reasonable interpretation,
+ this claim is focused on the apple fruit itself, which is a nature-based
+ product. Similarly, claims to detecting naturally occurring cell-free fetal DNA
+ (cffDNA) in maternal blood were held to be directed to the cffDNA, because the
+ “existence and location of cffDNA is a natural phenomenon [and thus]
+ identifying its presence was merely claiming the natural phenomena itself.”
+
+Rapid Litig. Mgmt.,
+ 827 F.3d at 1048, 119 USPQ2d at 1374,
+ (explaining the holding in 
+Ariosa Diagnostics, Inc. v.
+ Sequenom,
+ 788 F.3d 1371, 115 USPQ2d 1152 (Fed. Cir. 2015)). 
+
+II.
+ HOW TO PERFORM THE MARKEDLY
+ DIFFERENT CHARACTERISTICS ANALYSIS 
+The markedly different characteristics analysis
+ compares the nature-based product limitation to its naturally occurring
+ counterp

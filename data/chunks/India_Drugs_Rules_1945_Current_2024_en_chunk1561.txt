@@ -1,0 +1,38 @@
+to provide additional protection the ﬁrst ﬁlter fail. 
+DOP 
+Injection 
+Filterintegrity test &De-contamination by-pass duct 
+E 
+Shut-
+offDamper
+s 
+VFD 
+Shut-
+offDampe
+r 
+EXHAUSTAI
+RFAN 
+M M M 
+SECONDARYFI
+LTER 
+VFD=VelocitySensor 
+V=Variable FrequencyDrive 
+M= Filter 
+PressureDifferensialGua
+ge 
+V 
+M M M HEPAFIL
+TER 
+HEPABag-
+In,Bag-OutUnits 
+•🠖 •🠖 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+9.4. All ﬁlter banks shall be provided with pressure differential i ndication 
+gauges to indicate the ﬁlter dust loading and remaining lifespan of the 
+ﬁlters. Connection to these gauges shall be copper or stainless steel and 
+not plastic tubing, which could perish causing a contamination hazard. 
+The tube connections on the ﬁ lter casing shall be provided with 
+stopcocks, for safe removal or calibration of gauges. 
+9.5. Monitoring of ﬁlters shall be done at regular intervals to prevent 
+excessive ﬁlter loading that could force dust p

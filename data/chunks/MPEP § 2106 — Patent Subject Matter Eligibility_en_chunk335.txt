@@ -1,0 +1,19 @@
+E, CONVENTIONAL ACTIVITY IN PARTICULAR
+ FIELDS 
+Because examiners should rely on what the courts
+ have recognized, or those of ordinary skill in the art would recognize, as
+ elements that describe well‐understood, routine activities, the following section
+ provides examples of elements that have been recognized by the courts as
+ well-understood, routine, conventional activity in particular fields. It should be
+ noted, however, that many of these examples failed to satisfy other considerations
+ (
+e.g.,
+ because they were recited at a high level of
+ generality and thus were mere instructions to apply an exception, or were
+ insignificant extra-solution activity). Thus, examiners should carefully analyze
+ additional elements in a claim with respect to all relevant Step 2B
+ considerations, including this consideration, before making a conclusion as to
+ whether they amount to an inventive concept.
+
+The courts have recognized the following computer
+ functions as well‐understood, routine, and

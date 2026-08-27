@@ -1,0 +1,19 @@
+suit or both shall 
+result in the interior of the mask and suit being at a positive pressure 
+relative to the facility environment. 
+4.5. Central breathing air supply systems shall have a one hundred percent 
+back-up system in the event of the main system failing. This could be in 
+the form of a gas bottle system with atleast five minutes supp ly. Change 
+over from the no rmal supply to the back -up supp ly shall be automatic. 
+The system shall h ave a monitoring system and send ala rm signals to a 
+permanently manned location in the following situations, namely:- 
+(i) failure of main air supply; 
+(ii) temperature out of speciﬁcation (OOS); 
+(iii) humidity OOS; 
+(iv) carbon dioxide (CO2) OOS; 
+(v) carbon monoxide (CO) OOS; and 
+(vi) sulfur dioxide (SO2) OOS. 
+4.6. Breathing air shall be ﬁltered by means of pre -ﬁlters, coalescing ﬁlters 
+and ﬁnal ﬁlters to have the minimum air quality speciﬁcations of ISO 
+standards and European norms. 
+4.7. Where air is delivered through a central sys

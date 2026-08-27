@@ -1,0 +1,18 @@
+d ones, are subject to validation. 
+12.7. Process revalidation may be triggered by a process change as part of 
+the change control system. In addition, because of the va riability of 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+processes, products and methods, process revalidation may be 
+conducted at pre -determined regular intervals according to risk 
+considerations. A detailed review of all changes, trends and deviations 
+occurring within a defined time period for exa mple, one year, based 
+on the regular Product Quality Review (PQR) may indicate a need for 
+process revalidation. 
+12.8. The integrity and specified hold times of containers used to store 
+intermediate products shall be validated unless such intermediate 
+products are freshly prepared and used immediately. 
+
+13. Quality Control:- 
+13.1. As part of quality control sampling and testing procedures for 
+biological materials and products, special consideration

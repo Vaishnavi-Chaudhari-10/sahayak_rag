@@ -1,0 +1,16 @@
+ly potent, final filters on a dust exhaust 
+system shall be fine dust filters with a filter classification of 5µ. 
+1.49. Where reverse-pulse dust collectors are used for removing dust from dust 
+extraction systems, they shall usually be equipped with cartridge filters 
+containing a compressed air lance, and be capable of continuous 
+operation without interrupting the airflow. 
+1.50. Mechanical-shaker dust collectors shall not be used for applications 
+where continuous airflow is required, in order to avoid unacceptable 
+fluctuations in room pressures, except in the case where room pressures 
+are automatically controlled. 
+1.51. When wet scrubbers are used, the dust -slurry shall be removed by a 
+suitable means, e.g., a drainage system or waste removal contractor. 
+1.52. The quality of the exhaust air shall be determined to see whether the 
+filtration efficiency is adequate with all types of dust collectors and wet 
+scrubbers. 
+1.53. Where necessary, additional filtration may be provide

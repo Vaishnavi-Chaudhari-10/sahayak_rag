@@ -1,0 +1,21 @@
+ists
+ is not necessarily sufficient to make the use of the particular technique
+ routine or conventional in the relevant field. The examiner in this
+ situation would already know, based on the examiner's expertise in the
+ field, that blood glucose is routinely and conventionally monitored by other
+ techniques (
+e.g.,
+ via placing a small droplet of blood on
+ a diagnostic test strip, or via an implanted insulin pump with a glucose
+ sensor). Thus, the examiner would not need to perform a prior art search in
+ order to determine that the particular claimed technique using the
+ glucose-sensing earring was not well-understood, routine, conventional
+ activity previously engaged in by scientists in the field. 
+
+The required factual determination must be
+ expressly supported in writing, as discussed in 
+MPEP §
+ 2106.07(a)
+. Appropriate forms of support include
+ one or more of the following: (a) A citation to an express statement in the
+ specification or to a statement made by an applicant durin

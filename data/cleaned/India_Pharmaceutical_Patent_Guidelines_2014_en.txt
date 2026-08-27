@@ -1,0 +1,901 @@
+GUIDELINES FOR
+EXAMINATION OF
+BIOTECHNOLOGY
+APPLICATIONS FOR
+PATENT
+
+One
+ar
+
+OFFICE OF THE CONTROLLER
+GENERAL OF PATENTS, DESIGNS
+AND TRADE MARKS
+
+March 2013
+
+1 
+
+GUIDELINES FOR EXAMINATION OF BIOTECHNOLOGY APPLICATIONS FOR PATENT 
+
+1. INTRODUCTION 
+Biotechnology exploits biological materials, living or non -living, and is broadly classified 
+as classical and modern biotechnology. The age -old fermentation process for producing 
+alcohol, isolation of antibiotics from moulds or other micro -organisms are only a few 
+examples of classical biotechnology. Modern biotechnology started with the gene splicing 
+technology or genetic engineering which developed in the late seventies of the last cen tury. 
+By using genetic engineering, many useful things like human insulin, human growth factors, 
+monoclonal antibodies, etc. have been developed. 
+The biotechnological inventions therefore include products and/ or processes of gene 
+engineering technologies, methods of producing organisms, methods of isolation of micro -
+organisms from culture medium, methods of mutation, cultures, mutants, transformants, 
+plasmids, processes for making monoclonal antibodies, cell lines for making monoclonal 
+antibodies, etc. Whi le on the one side, biotechnological inventions have resolved many 
+problems and branched out to several fields, on the other side, they have invoked many 
+debates. The application of genetic engineering in plants and animals has resulted in 
+exciting and yet debatable technological developments such as transgenic plants, animals 
+and isolation of human genes for using them to produce medicaments. 
+Scientists across the world are using bioinformatics tools, ingenious techniques and 
+genomes of organisms to probe the mysteries of biological processes and the living world 
+thereby generating vast amounts of information which may provide the keys to new medical 
+treatments, improved crops and so on. 
+However, there are some issues relating to patentability of biotechno logical inventions 
+which are of serious concern to the users of Patent System such as novelty, obviousness, 
+industrial applicability, extent of disclosure and clarity in claims. In addition, a few special 
+issues have also evolved such as those relating to moral and ethical concerns, 
+environmental safety, issues relating to patenting of ESTs (Expressed Sequence Tags) of 
+partial gene sequences, cloning of farm animals, stem cells, gene diagnostics, etc. Thus, the 
+patenting of inventions in the field of biotec hnology poses challenges to the applicants for 
+patents as well as to the Patent Office. Therefore, there is an urgent need to put in place 
+Guidelines to establish uniform and consistent practice s in the examination of patent 
+applications in the field of bi otechnology and allied subjects under the Patents Act, 1970. 
+Thus the guidelines are intended to help the examiners and controllers of the Patent Office 
+so as to achieve uniformity and consistency. 
+However, these guidelines do not constitute rule making. In case of any conflict between 
+these guidelines and the provisions of the Patents Act , 1970 and the Patents Rules , 2003, 
+the said provisions of Act and Rules will prevail over these guidelines. The guidelines are 
+subject to revision from time to time based on interpretations by a Court of Law, statutory 
+amendments and valuable inputs from the stakeholders. 
+
+2 
+
+2. BRIEF HISTORY OF PATENTING OF BIOTECHNOLOGY IN INDIA 
+Till 2002, as per the prevailing practice in the Patent Office, patents were not granted for 
+inventions relating to (a) living entities of natural or artificial origin, (b) biological materials 
+or other materials having replicating properties, (c) substances derived from such materials 
+and (d) any processes for the production of living substances/entities including nucleic acids. 
+However, patents could be granted for processes of producing non -living substances by 
+chemical processes, bioconversion and microbiological processes using micro -organisms or 
+biological materials. For instance, claims for proces ses for the preparation of antibodies or 
+proteins or vaccines consisting of non-living substances were allowable. 
+In 2002, the Hon’ble Calcutta High Court, in its decision in ‘Dimminaco AG v. Controller 
+of Patents and Designs’, opened the doors for the gra nt of patents to inventions where the 
+final product of the claimed process contained living microorganisms. The court concluded 
+that a new and useful art or process is an invention, and where the end product (even if it 
+contains living organism) is a new a rticle, the process leading to its manufacture is an 
+invention. The Dimminaco case was related to a process for the preparation of a live vaccine 
+for protecting poultry against Bursitis infection. The Controller of Patents had refused the 
+application for grant of patent on the ground that the vaccine involved processing of certain 
+microbial substances and contained gene sequence. The Controller had decided that the 
+said claim was not patentable because the claimed process was only a natural process 
+devoid of any manufacturing activity and the end-product contained living material. 
+The Hon’ble High Court held that the word “manufacture” was not defined in the statute 
+therefore, the dictionary meaning attributed to the word in the particular trade or business 
+can be accepted if the end product is a commercial entity. The court further held that there 
+was no statutory bar in the patent statute to accept a manner of manufacture as patentable 
+even if the end product contained a living organism. The court asserted that one of the most 
+common tests was the vendibility test. The said test would be satisfied if the invention 
+resulted in the production of some vendible item or it improved or restored the former 
+conditions of the vendible item or its effect was the pres ervation and prevention from 
+deterioration of some vendible product. The court further stated that the vendible product 
+meant something which could be passed on from one man to another upon transaction of 
+purchase and sale. In other words, the product should be a commercial entity. 
+The subsequent major step, which further opened the arena of grant of patents in the 
+field of biotechnology, was in the year 2002 when the Patents Act, 1970 was amended by 
+the Patents (Amendment) Act, 2002 where biochemical, biot echnological and 
+microbiological processes were included within the scope of chemical processes for the 
+grant of patent. The definition of “invention” was also changed to “any new product or 
+process involving an inventive step and capable of industrial app lication” thereby deleting 
+the word “manner of manufacture” as mentioned in the earlier Act. 
+India joined the Budapest Treaty on the International Recognition of the Deposit of 
+Microorganisms for the Purposes of Patent Procedure on 17 th December 2001. 
+Consequently, section 10 of the Act was amended in 2002 to provide for deposition of the 
+
+3 
+
+biological material and its reference in the patent application in case the invention relates to 
+a biological material which is not possible to be described in a sufficie nt manner and which 
+is not available to the public. The Patents Act, 1970 was amended by the Patents 
+(Amendment) Act, 2005 paving the way for the grant of product patents in any field of 
+technology including biotechnology with certain exceptions keeping in view the national 
+policy to protect the public interest. T he Act, as amended, recognizes the International 
+Depository Authorities (IDAs) under the Budapest Treaty. 
+3. BIODIVERSITY RELATED ISSUES 
+The Biological Diversity Act, 2002 (hereinafter referred to a s BD Act) provides a 
+mechanism for access to the genetic resources and benefit sharing accrued therefrom. 
+Section 6 of the BD Act came into force on 1 st July 2004, and prescribes that obtaining IPRs 
+from the utilization of biological resources in India is subject to the approval of the National 
+Biodiversity Authority (hereinafter referred to as NBA). 
+To facilitate this access and benefit sharing and in order to prevent any unauthorized use 
+of the biological resources of India, in 2005 suitable amendments w ere made in Section 10 
+of the Patents Act, 1970, wherein disclosure of the source and geographical origin of the 
+biological material was made mandatory in an application for patent when the said material 
+is used in an invention. In addition, a declaration by the applicant regarding the required 
+permission from the competent authority was inserted in Form 1 of the Patents Rules, 2003. 
+Therefore, the issues related to the BD Act and those related to mandatory disclosure of 
+the source and geographical origin c onstitute an essential element of examination of 
+biotechnology related subject matters. 
+In view of the above background, the guidelines for the examination of patent 
+applications in the field of biotechnology and allied subjects within the Patent Office have 
+become essential in order to establish uniform and consistent practice. The guidelines as set 
+out below are supplemental to the practices and procedures followed by Patent Office as 
+published in the ‘Manual of Patent Office Practice and Procedure’. 
+4. PROVISIONS COVERED 
+The following sections of the Patents Act, 1970 are emphasised in the context of 
+examination of applications in biotechnology and allied fields: 
+I. Section 2 (1) (j) : Novelty, inventive step & industrial applicability of products or 
+processes, 
+II. Section 3 (b) : Inventions contrary to morality or which cause serious prejudice to 
+human, animal or plant life or health or environment, 
+III. Section 3 (c) : Discovery of any living thing or non -living substance occurring in 
+nature, 
+
+4 
+
+IV. Section 3 (d): Mere discovery of new form of known substance which does not result 
+in enhancement of known efficacy or mere discovery of any new property or new 
+use for a known substance, 
+V. Section 3 (e): Mere admixture resulting only in aggregation of the properties, 
+VI. Section 3 (h): Method of agriculture and horticulture, 
+VII. Section 3 (i): Method of treatment and diagnosis, 
+VIII. Section 3 (j) : Plants and animals in whole or any part thereof other than micro -
+organisms, but including seeds, varieties and species, and essentially biological 
+processes, 
+IX. Section 3 (k): Computer programs per se and algorithms, mathematical methods, 
+X. Section 3 (p): Inventions which are in effect traditional knowledge, 
+XI. Section 10 (4) : Sufficiency of disclosure and the best method of performing the 
+invention, and 
+XII. Section 10 (5): Unity of invention and clarity, succinctness and support of the claims. 
+5. CLAIMS OF BIOTECHNOLOGICAL INVENTIONS 
+The details of wording of claims, clarity, support and sufficiency of the disclosure are 
+discussed under appropriate headings. Howe ver, for better understanding of the issues 
+related to novelty and inventive step, it is felt that we should begin with a preliminary 
+discussion of claims of biotechnology related inventions which are usually filed in patent 
+applications of the relevant fields. 
+Usually the biotechnology applications comprise the claims relating to the following 
+subject matters: 
+(a) Polynucleotides or gene sequences (product and/or process), 
+(b) Polypeptides or protein sequences (product and/or process), 
+(c) Vectors (e.g., plasmids) (product and/or process), 
+(d) Gene constructs or cassettes and gene libraries, 
+(e) Host cells, microorganisms and stem cells (product and/or process), transgenic cells, 
+(f) Plants and animals tissue culture (product and/or process) 
+(g) Pharmaceutical or vaccine compositions comprising microorganisms, proteins, 
+polynucleotides (product and/or process), 
+(h) Antibodies or antigen binding fragments thereof (monoclonal or polyclonal), 
+
+5 
+
+(i) Diagnostic kits and tests, and 
+(j) Diagnostic tests (products/process) such as a test for the detection of a mutation in a 
+gene/protein which might be associated with a particular condition such as protein 
+expression or a disease. 
+6. PRIOR ART SEARCH 
+While conducting a prior art search, the Examiner should design a comprehensive 
+search strategy by combining various search parameters including key words, IPC, 
+sequences, etc. and thorough search should be carried out in patent as well as non -patent 
+databases. 
+If a patent application discloses sequence listing of nucleotides and/or amino acids 
+as per Rule 9 (1) of the Patents Rules 2003, the same shall also be filed in electronic form. 
+To facilitate the processing of patent applications, the sequence listings should be filed in 
+computer readable format. The examiner should carry out the sequence search on the 
+commercial databases available to the office and freely available databases using diverse 
+search tools such as BLAST, FASTA, etc. 
+7. NOVELTY 
+In the case of biotechnological inventions the assessment of novelty shall be carried 
+out in the same manner as for other inventions. For the purpose of ascertaining novelty 
+during the examination, the prior art is to be construed as prescribed under Section 13 (read 
+with Sections 29 to 34) of the Act. The Manual of Patent Office Practice & Procedure has set 
+out the gu idelines for assessment of novelty of inventions (Chapter 8, Para 08.03.02) that 
+may be referred to. 
+According to Section 2 (1) (j) of the Act, an "invention" means a new product or 
+process involving an inventive step and capable of industrial application . An invention will 
+be patentable only if it is new in the light of prior art, or is not anticipated by prior art. The 
+prior art includes all information and knowledge relating to the invention, which is available 
+in any publication before the date of prio rity of the patent application. For the purpose of 
+examination, an invention will not be new if it forms part of the prior art or has entered the 
+public domain. For anticipation, such publication must be before the date of priority of the 
+patent applicatio n. Also, a ny application for patent filed in India, but published after the 
+date of filing of a subsequent application for patent in India claiming the same subject -
+matter shall be treated as a prior art (i.e. prior claiming) to the said subsequent applica tion 
+provided that the previous application has earlier priority date. 
+7.1. PRODUCT-BY-PROCESS CLAIMS 
+A claim to a product obtained or produced by a process is anticipated by any prior 
+disclosure of that particular product per se, regardless of its method of production. 
+Examples of ‘Product-by-process’ claims– 
+(a) A polypeptide/compound which is the product of the method according to claim X. 
+
+6 
+
+(b) A transgenic microorganism obtained by the method ….characterized in that …..” 
+(c) A plasmid obtained by the method of …… 
+Such claims are admissible only if the products themselves fulfil the requirement of 
+patentability over the prior art. The claimed products cannot be considered novel merely 
+due to the novelty in the processes by which they are produced, but rather novelty can 
+only be established, if technical evidences are provided showing that the modifications in 
+the processes result in other products which are distinct with regard to their properties 
+over the products known in the prior art. Such technical evidences may vary from case to 
+case. 
+7.2. SEQUENCE CLAIMS 
+A claim to a polynucleotide sequence that was available, e.g. as part of a library 
+before the priority date, lacks novelty, even if activity or function of the said sequence of 
+the polynucleotide has not bee n previously determined. A claim to a specific fragment of 
+polynucleotide may be considered to be novel, but subject to fulfilment of the inventive 
+step and non-patentability under relevant clauses of Section 3 of the Act. 
+A prior disclosure of the same se quence as the claimed sequence, even without any 
+indication of its activity , would prima facie constitute anticipation to the novelty of the 
+claimed sequence. The reasoning is that the earlier sequence inherently possesses the 
+activity of the claimed seque nce. If any sequence of a polynucleotide/polypeptide from a 
+prior art does not exactly match with the claimed sequence of 
+polynucleotide/polypeptide, then the subject -matter of such claims cannot be said to be 
+anticipated by the prior art sequence. However, such sequence of 
+polynucleotide/polypeptide of the prior art would be relevant for deciding inventive step or 
+non-patentability under relevant clauses of Section 3 of the Act. 
+7.3. COMBINATION/COMPOSITION CLAIMS 
+Quite often, the claims of combination of products of biotechnology escape the 
+question of novelty and are dealt under the inventive step or relevant clauses of Section 3 of 
+the Act. However, sometimes it may happen that the combination has already fallen in the 
+public domain and hence, to be dealt under novelty. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A composition useful against diphtheria toxin, comprising anti -diphtheria antibodies 
+together with acceptable preservatives and stabilizers, wherein the antibodies are obtained 
+from chicken egg yolk (IgY). 
+Prior art discloses a composition useful against the diphtheria toxin comprising antibodies 
+obtained from chicken egg yolk, physiologically acceptable carrier and other additives & 
+adjuvants. The prior art further discloses a process for preparing egg yolk an tibodies by 
+employing the same steps right from an immunization of a chicken with a diphtheria antigen 
+to antibodies purification as claimed in the present invention. 
+
+7 
+
+Analysis: The claim lacks novelty, as being anticipated by the said prior art which discl oses 
+all the features of claimed composition useful against the diphtheria toxin. Thus, the 
+claimed subject matter lacks novelty. 
+8. INVENTIVE STEP 
+The Manual of Patent Office Practice & Procedure has set out the guidelines for 
+assessment of Inventive Ste p of inventions (Chapter 8, Para 08.03.03) that may be referred 
+to. An invention should possess an inventive step in order to be eligible for patent 
+protection. As per the Patents Act, an invention will have inventive step if the invention 
+involves (a) technically advanced as compared to existing knowledge or (b) having economic 
+significance or (c) both , and that makes the invention not -obvious to a person skill ed in the 
+art. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: An isolated DNA sequence encoding a mature human IL -3 protein having a proline 
+residue at position 8 of the mature polypeptide, said protein possessing bone marrow 
+proliferation-inducing activity in a human bone marrow proliferation assay. 
+Difference with prior art is that the claimed compound at position 8, there was a proline 
+moiety whereas in the prior art compound in the same position there was a serine 
+molecule. 
+Analysis: Primate IL -3 are part of family proteins which are similar in their amino acid 
+sequences, but are minor variants or point mutations of each other. A single variation in the 
+amino acid sequence does not normally change the activity and function of the protein 
+unless the single variation is in a critical region of the protein. The applicant could not 
+provide any evidence that the protein coded by the claimed DNA was any different from 
+that of the prior art in its chemical properties. Thus, the inventive step cannot be 
+acknowledged. 
+ The claimed subject -matter would lack inventive step if it is obvious to a person 
+skilled in the relevant a rt in view of a single prior art or a mosaic of the relevant prior art 
+documents. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: An improved process for the production of galactooligosaccharides (GOS) of high 
+yield and purity comprising the steps of: (i) isolating Bullera singularis and Saccharomyces 
+sp. (ii) immobilizing the B. Singularis and Saccharomyces sp; (iii) hydrolysis of lactose by the 
+immobilized microbial cells, said reaction being carried out until galactose content being at 
+least 65 % and (iv) optionally concentrating the galactooligosaccharides solution. 
+Prior Art: D1 discloses a process for the production of galacto -oligosaccharides from lactose 
+using immobilized B. singularis cells. D1 does not explicitly teach the combined use of B. 
+Singularis and Saccharomyces sp. in the production of galacto-oligosaccharides. 
+
+8 
+
+D2 discloses the use of Saccharomyces sp . for the production of galacto -oligosaccharides 
+from lactose. It further discloses that Saccharomyces sp. uses lactose as a carbon source & 
+approximately it removes 92% of glucose from the GOS mixture by fermentation without 
+losing the GOS content. 
+Analysis: Since it is evident from D2 that Saccharomyces sp . consume glucose, one of 
+ordinary person skilled in the art would be motivated to use Saccharomyces sp . in 
+combination with B. singularis to solve the problem of separation of saccharides and also, 
+reducing the competitive inhibition of beta -galactosidase enzyme by glucose, which leading 
+to high yield & purity of GOS. Thus, the claimed subject-matter lacks inventive step. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A culture independent method of removal of plasmids from live and multiplying 
+plasmid containing bacteria comprising the following steps: (a) preparing an aqueous first 
+suspension of sub -micronic silver partic les; (b) estimating MIC (minimum inhibitory 
+concentration) of the silver particles for the bacteria to determine the inhibitory 
+concentration of the particles suspension for the bacteria; (c) adding in a reaction vessel, 
+the first suspension and growth med ium of the bacteria to obtain a second suspension 
+containing sub -MIC concentration of silver particles; (d) introducing the bacteria in the 
+reaction vessel under conditions favouring the multiplication of the bacteria, for 12 to 48 
+hrs., to obtain subseque nt generations of the bacteria and (e) testing the bacterial 
+generations for absence of plasmids to obtain a generation of plasmid free bacteria. 
+Prior art discloses a method in which an antimicrobial activity of silver nano-particles against 
+E. coli was i nvestigated as a model for Gram -negative bacteria. Bacteriological tests were 
+performed in LB medium on solid agar plates and in liquid systems supplemented with 
+different concentrations of silver nano -sized particles. To examine the effect of silver 
+nanoparticles on Gram -negative bacteria, approximately 105 colony -forming units (CFU) of 
+E. coli strain were cultured on LB agar plates supplemented with silver nano -sized particles 
+in the concentrations of 10 to 100 µg cm -3. Silver-free LB plates cultured unde r the same 
+conditions were used as a control. The plates were incubated for 24 hours at 37 OC. E. coli 
+bacteria were grown in 100 cm3 of liquid LB medium supplemented with 10, 50, & 100 µg of 
+these particles per cm3 of medium. Growth rates & bacterial conce ntrations were 
+determined by measuring optical density (OD) at 600 nm each 30 min (OD of 0.1 
+corresponds to a concentration of 108 cells per cm3). The size and morphology of the silver 
+nanoparticles were examined by transmission electron microscopy (TEM). The results 
+confirmed that the treated E. coli cells were damaged, showing formation of “pits” in the 
+cell wall of the bacteria, while the silver nanoparticles were found to accumulate in the 
+bacterial membrane. A membrane with such morphology exhibits a s ignificant increase in 
+permeability, which leads to leaking of intracellular substances (that is admitted by the 
+applicant on page 16, 3rd paragraph in the specification of the present invention). The TEM 
+micrograph also shows coagulation of nano-sized particles at the bacterial surface. 
+Analysis: Prior art discloses each and every aspect of claimed invention right from the 
+selection of E. coli strain, preparation of silver nanoparticles, culturing of the bacterial strain 
+with different concentration of sil ver nanoparticles, conditions for bacterial growth and 
+assessment of effect of silver nanoparticles on gram negative bacteria. Prior art does not 
+
+9 
+
+explicitly teach removal of plasmid from bacteria; however, it teaches that the silver 
+nanoparticles were resp onsible for significantly increasing the permeability of bacterial cell 
+membrane that leads to leaking of intracellular substances (which may include plasmids) 
+from E. coli. Thus, the teaching of cited art would motivate a person having ordinary skill in 
+the art with reasonable expectation of success to provide an alternative method for removal 
+of plasmids from plasmid containing bacteria in order to solve the problem faced with 
+plasmid containing bacteria using varied concentration of silver nanoparticles, as these 
+particles effectively increase bacterial cell membrane permeability leading to removal of 
+intracellular substances, which may include plasmids. Thus, the claimed subject-matter lacks 
+inventive step in view of prior art. 
+If the claimed invention r elates to a polynucleotide/polypeptide having 
+mutation(s) in a known sequence of polynucleotide/polypeptide, which does not result in 
+an unexpected property whatsoever, then the claimed subject -matter lacks inventive 
+step. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: Pro-insulin having a C-peptide encompassing only two amino acids selected from Arg-
+Lys, Lys-Lys and Lys-Arg*. 
+(*Human Pro-insulin is comprised of three chains, A, B and C, in the insulin the two chains 
+are combined eliminating the third chain, i.e. the C–chain consisting of thirty amino acids). 
+Prior art discloses natural Pro -insulin having 30 amino acids C -peptide, Pro -insulin with C -
+peptide as short as two amino acids (Arg-Arg). 
+Analysis: The claim was held to be prima facie obvious. The applicant argued that the yield 
+of claimed Pro -insulin having a C -peptide expressed in yeast is 1.6 to 2.0 mmol/l whereas 
+the yield of the prior art Pro -insulin with a C -chain of Arg -Arg is only 1.0 mmol/l. Such a 
+difference in change did not constitute ‘unexpected property’ and hence, the subject-matter 
+is held to be obvious. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A recombinant DNA sequence of SEQ ID NO: X encoding human interferon α2 
+polypeptide. 
+Prior art discloses a nucleic acid sequence of SEQ ID NO: X1 encoding human interferon α1 
+polypeptide. 
+Analysis: The claimed human interferon α2 is structurally clo se to the prior art’s human 
+interferon α1. However, the alleged invention can be held non -obvious, because of the fact 
+that the claimed human interferon is thirty times more potent in its antiviral activity than its 
+prior art analogue. 
+
+10 
+
+9. INDUSTRIAL APPLICATION 
+As per Section 2(1) (ac) of the Act, the expression “capable of industrial application”, 
+in relation to an invention, means that the invention is capable of being made or used in an 
+industry”. Further, Section 64 (1) (g) of the Act provides that a patent is liable to be revoked 
+if the invention is not useful. 
+To be patentable an invention must be useful and capable of industrial application. 
+The specification should disclose the usefulness and industrial applicability of an invention in 
+a distinct and credible manner unless the usefulness and industrial applicability of the 
+invention is already established, either in explicit or in implicit manner. 
+In the context of the gene sequences, it may be said that whatever ingenuity is 
+involved in discoveri ng a gene sequence, one cannot have a patent for it or a protein 
+encoded by it unless it is disclosed how it can be used. It is therefore necessary to consider 
+whether the invention claimed has a useful purpose, and whether the specification 
+identifies any practical way of using it. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: A polypeptide in substantially isolated form comprising a contiguous sequence of at 
+least 10 amino acids encoded by the genome of hepatitis C virus (HCV) and comprising an 
+antigenic determinant, w herein HCV is characterized by: (i) a positive stranded RNA 
+genome; (ii) said genome comprising an open reading frame (ORF) encoding a polyprotein; 
+and (iii) said polyprotein comprising an amino acid sequence having at least 40% homology 
+to the 859 amino acid sequence X. 
+Upon examination it was found that the above claim was sufficiently enabled and its 
+use was properly established in the specification. Therefore, claim 1 was allowable. 
+Another claim of the specification read as “A polypeptide in substanti ally isolated 
+form whose sequence is shown in any one of SEQ IDs 1, 3 to 32, 36, 46 and 47, or whose 
+sequence is encoded in a polynucleotide selectively hybridisable with the polynucleotide as 
+shown in any one of SEQ IDs 1, 3-32, 36,46 or 47." 
+Upon examination, it was seen that the said claim covered an almost vast number of 
+polypeptides for which no use was established and the said claim therefore, was not 
+allowable on the ground that it lacked industrial applicability. 
+The use of claimed subject -matter (e .g. a gene or a protein) disclosed in the 
+specification should not be merely speculative, rather the said use should be specific, 
+substantial and credible for establishing industrial applicability of the claimed subject -
+matter. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim 1: A V28 protein (V28) having a function as a receptor (of a kind known as 7TM). 
+Claim 2: A method of verifying the function of a V28 protein as claimed in claim 1. 
+
+11 
+
+Analysis: The function of V28 protein as a receptor was based on prediction upon vario us 
+structural elements in the deduced amino acid sequence and homology to known 7TM 
+receptors but the specification disclosed no ligand. The use of the invention is disclosed in 
+the specification, which is however based on a proposed function of the V28 pr otein as a 
+receptor that is not sufficiently disclosed in the specification. Thus, the use disclosed in the 
+application is speculative, i.e. is not specific, substantial and credible and as such is not 
+considered industrially applicable. 
+9.1. FRAGMENTS/ESTs 
+Fragments/ESTs (Expression Sequence Tag) are allowable if they in addition to other 
+conditions satisfy the question of usefulness and industrial application. An EST whose use is 
+disclosed simply as a ‘gene probe’ or ‘chromosome marker’ would not be cons idered to 
+have an industrial application. A credible, specific and substantial use of the EST should be 
+disclosed, for example use as a probe to diagnose a specific disease. 
+10. SECTION 3 (B): INVENTIONS CONTRARY TO MORALITY OR WHICH CAUSE 
+SERIOUS PREJUDICE TO HUMAN, ANIMAL OR PLANT LIFE OR HEALTH OR ENVIRONMENT 
+Biotechnology deals with living subject matters and involves alteration of genomic 
+materials of an organism. Such change may influence or may have a deep impact upon the 
+environment or the human, a nimal or plant life or may involve serious questions about 
+morality. Hence, adequate care should be taken while examining the inventions vis -a-vis 
+their primary or intended use or commercial exploitation and it should be carefully dealt 
+so that the subject-matter must not be contrary to public order, morality or causes serious 
+prejudice to human, animal or plant life or health or to the environment. A few non 
+limiting examples may further clarify the issues: (a) a process for cloning human beings or 
+animals; (b) a process for modifying the germ line of human beings; (c) a process for 
+modifying the genetic identity of animals which are likely to cause them suffering without 
+any substantial medical or other benefit to man or animal, and also animals resulting from 
+such process; (d) a process for preparing seeds or other genetic materials comprising 
+elements which might cause adverse environmental impact; (e) uses of human embryos for 
+commercial exploitation. 
+11. SECTION 3(C): SCIENTIFIC PRINCIPLES OR ABSTRACT THEORY OR DISCOVERY OF 
+LIVING THINGS OR NON-LIVING SUBSTANCES 
+According to Section 3 (c) of the Act, the mere discovery of a scientific principle or 
+the formulation of an abstract theory or discovery of any living thing or non -living substance 
+occurring in nature is not a patentable invention. Products such as microorganisms, nucleic 
+acid sequences, proteins, enzymes, compounds, etc., which are directly isolated from 
+nature, are not patentable subject -matter. However, processes of isolation of these 
+products can be considered subject to requirements of Section 2 (1) (j) of the Act. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: Bacillus sp. IN123 comprising rDNA (ribosomal DNA) sequence represented as SEQ ID 
+NO: 1 (deposition No. XXXXXX). 
+
+12 
+
+Analysis: The subject -matter of cla im falls within the scope of Section 3 (c) of the Act, as it 
+attempts to claim an isolated Bacillus sp. IN123 (i.e. a living substance) occurring in nature 
+(i.e. from soil as disclosed in the specification). Thus, what is claimed in the claim is treated 
+as a discovery of a living thing occurring in nature and hence, not patentable. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A novel agent for promoting cardiac development activity, said agent having SEQ ID 
+NO: 1, wherein the agent is obtained from the perivitelline flu id of horseshoe crab, 
+Tachypleus gigas. 
+Analysis: The subject-matter is not patentable under Section 3 (c) of the Act, because the 
+claim attempts to claim an agent, which is isolated from perivitelline fluid of embryos of 
+horseshoe crab, Tachypleus gigas (i.e. a peptide which is non -living substance occurring in 
+nature). As per Section 3 (c) of the Act, a non -living substance occurring in nature is not 
+patentable subject-matter and thus, it is not patentable. 
+ILLUSTRATIVE EXAMPLE 3: 
+Claim: An isolated pepti de that is structural equivalent of a cupredoxin or cytochrome that 
+can inhibit parasitemia in malaria -infected red blood cells and intracellular replication of a 
+malarial parasite in malaria-infected human red blood cells. 
+Analysis: The subject -matter of claim falls within the scope of Section 3 (c) of the Act, 
+because the disclosure does not clearly indicate what modifications/alterations/deletions 
+are made in the wild-type peptides. In fact, the definition of a word “isolated” used in claims 
+refers to ma terials, which are substantially or essentially free from components, which 
+normally accompany the materials as they found in their natives states. Thus, the subject -
+matter of claim is considered to be isolated non -living substances occurring in the nature 
+and functional features for said isolated peptide is considered inherent to a cupredoxin or a 
+cytochrome proteins, which is not patentable as per Section 3 (c) of the Act. 
+12. SECTION 3(D): DISCOVERY OF NEW FORM OF KNOWN SUBSTANCE WHICH 
+DOES NOT RESULT IN ENHANCEMENT OF EFFICACY 
+Section 3 (d) of the Act requires that any minor modifications in the already existing 
+substance in the prior art are not patentable unless the improved property/efficacy of the 
+modified substance is established. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: Pre-protein A being one of the factors which primarily control glucose metabolism in 
+mammals having C -peptide, wherein said C -peptide comprises two amino acids selected 
+from XY, YZ and ZX. 
+Analysis: Prior art discloses modified protein A havi ng C -peptide, wherein said C -peptide 
+consists of amino acids XX. The applicant failed to demonstrate any therapeutic efficacy as a 
+result of claimed modification over the prior art. Hence, the subject -matter of claim is not 
+patentable under Section 3 (d) of the Act. 
+
+13 
+
+The inventions relating to three -dimensional or crystal structure of a polypeptide 
+attracts the provision of Section 3 (d) of the Act unless it is proved that such polypeptide 
+differs significantly in the properties with regards to therapeutic efficacy. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A crystal of a peptide consisting of SEQ ID NO: A, wherein said crystal comprises an 
+asymmetric unit, said asymmetric unit comprises four molecules of said peptide per Zn 2+ 
+and further wherein the crystal belongs to space group X, Y, Z. 
+Analysis: The amorphous forms of peptide of SEQ ID NO: A are known. The applicant failed 
+to demonstrate any significant improvement in properties with regards to the therapeutic 
+efficacy over the known amorphous peptide. Hence, it is no t allowable under Section 3 (d) 
+of the Act. 
+13. SECTION 3 (E): MERE ADMIXTURE RESULTING ONLY IN AGGREGATION OF THE 
+PROPERTIES OR A METHOD OF MAKING SUCH MERE ADMIXTURE 
+It is a well accepted principle of Patent Law that mere placing side by side of old 
+integers so that each performs its own proper function independently of any of the others 
+is not a patentable combination, but that where the old integers when placed together 
+has some working interrelation producing a new or improved result, then there is 
+patentable subject matter in the idea of the working inter relations brought about by the 
+collocation of the integers. 
+In Ram Pratap v Bhaba Atomic Research Centre (1976) IPLR 28 at 35, it was held that 
+a mere juxtaposition of features already known before t he priority date which have been 
+arbitrarily chosen from among a number of different combinations which could be chosen 
+was not a patentable invention. 
+Section 3(e) of the Act reflects the legislative intent on the law of patenting of 
+combination inventions in the field of chemical as well as biotechnological sciences. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A composition of innovative combination of dormant spore of naturally occurring 
+Paecilomyces lilacinus and Arthrobotrys sp . fungus with enzymes, fats and growth 
+promoting molecules to control plant-parasitic nematodes. 
+Analysis: The subject-matter of claim falls within the scope of Section 3 (e) of the Act. Upon 
+examination, it is found that the claim is directed to a composition of two known fungal 
+species. The sa id two species used in the alleged invention are known for their nematode 
+bio-control activity. The specification is silent on advantages of a combinative effect of these 
+two fungal species over the sum of their individual effects. Thus, the subject -matter of the 
+claim is not patentable under Section 3 (e) of the Act. 
+
+14 
+
+14. SECTION 3 (H): METHOD OF AGRICULTURE AND HORTICULTURE 
+According to Section 3 (h) of the Act, a method of agriculture or horticulture is not 
+considered as patentable subject matter. While deciding patentability under Section 3 (h), 
+conventional methods performed on actual open fields should be construed as method of 
+agriculture/horticulture. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A method of growing leguminous plants as inter -cropping for improvin g fertility of 
+soil by augmenting nitrogen content of the soil. 
+Analysis: The subject -matter of the claim is agriculture method and hence, falls within the 
+scope of Section 3 (h) of the Act. 
+15. SECTION 3 (I): METHOD OF TREATMENT 
+According to Section 3 (i) of the Act, any process for the medicinal, surgical, curative, 
+prophylactic, diagnostic, therapeutic or other treatment of human beings or any process for 
+a similar treatment of animals to render them free of disease or to increase their economic 
+value or that of their products is not an invention. In the context of Section 3 (i), the Manual 
+of Patent Office Practice & Procedure states that this provision excludes from the 
+patentability the followings: 
+(a) Medicinal methods: As for example a process of ad ministering medicines orally, 
+or through injectables, or topically or through a dermal patch. 
+(b) Surgical methods: As for example a stitch-free incision for cataract removal. 
+(c) Curative methods: As for example a method of cleaning plaque from teeth. 
+(d) Prophylactic methods: As for example a method of vaccination. 
+(e) Diagnostic methods: Diagnosis is the identification of the nature of a medical 
+illness, usually by investigating its history and symptoms and by applying tests. 
+Determination of the gen eral physical state of an individual (e.g. a fitness test) is 
+considered to be diagnostic. 
+(f) Therapeutic methods: The term “therapy’’ includes prevention as well as 
+treatment or cure of disease. Therefore, the process relating to therapy may be 
+considered as a method of treatment and as such not patentable. 
+(g) Any method of treatment of animal to render them free of disease or to increase 
+their economic value or that of their products. As for example, a method of treating 
+sheep for increasing wool yiel d or a method of artificially inducing the body mass of 
+poultry. 
+
+15 
+
+(h) Further examples of subject matters excluded under this provision are: any 
+operation on the body, which requires the skill and knowledge of a surgeon and 
+includes treatments such as cosme tic treatment, the termination of pregnancy, 
+castration, sterilization, artificial insemination, embryo transplants, treatments for 
+experimental and research purposes and the removal of organs, skin or bone 
+marrow from a living donor, any therapy or diagno sis practiced on the human or 
+animal body and further includes methods of abortion, induction of labour, control 
+of estrus or menstrual regulation. 
+(i) Application of substances to the body for purely cosmetic purposes is not therapy. 
+(j) Patent may howe ver be obtained for surgical, therapeutic or diagnostic 
+instrument or apparatus. Also the manufacture of prostheses or artificial limbs and 
+taking measurements thereof on the human body are patentable. 
+Sometimes the claims are so drafted that a combination /composition of drugs in 
+certain dosage forms is claimed , but the claimed subject -matter relates to application or 
+administration of individual drugs in simultaneous, sequential or concomitant manner. In 
+such cases, although the claims are directed to a co mbination/composition of drugs, but the 
+claimed invention resides in the method of administration of individual drugs in the said 
+manner and thus, it falls within the scope of section 3 (i) of the Act. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A method of monitoring dr ug response in a patient suffering from cancer treated 
+with a combination of Gemcitabine and P1446A, comprising detection of a gene signature 
+with at least two drug response markers, wherein the said drug response markers are 
+selected from the group consisting of P21, REV3L, FGF5, PTK7, POLH, P27 and SSTR2. 
+Analysis: The subject-matter of claim is directed to method of diagnosis of human beings or 
+animals, which are statutorily barred from the patentability under Section 3 (i) of the Act. 
+Hence, the subject-matter of claim is not patentable. 
+16. SECTION 3 (J): PLANTS & ANIMALS IN WHOLE OR ANY PART, SEEDS, VARIETIES, 
+SPECIES OTHER THAN MICROORGANISMS & ESSENTIALLY BIOLOGICAL PROCESSES ARE 
+NOT PATENTABLE SUBJECT MATTER 
+According to Section 3 (j) of the Act, plants and animals in whole or any part thereof 
+other than micro -organisms but including seeds, varieties and species and essentially 
+biological processes for production or propagation of plants and animals are not patentable 
+inventions. 
+Although, microor ganisms are excluded from non -patentability list, a conjoined 
+reading with Section 3 (c) of the Act implies that only modified microorganisms , which do 
+not constitute discovery of living thing occurring in nature, are patentable subject matter 
+under the Act. 
+
+16 
+
+Claims relating to essential biological processes of growing plants, germination of 
+seeds, of development stages of plants and animals shall be objected under Section 3 (j) of 
+the Act. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claims: A therapeutic composition for treat ing an immune-related disorder in a mammalian 
+subject, the composition comprises as an effective ingredient ex vivo educated autologous 
+NK T cells capable of modulating Th1/Th2 cell balance toward anti -inflammatory cytokine 
+producing cells and optionally c omprising pharmaceutically acceptable carrier, diluent, 
+excipient and/or additive. 
+Analysis: The claimed subject -matter falls within the scope of Section 3 (j) of the Act for 
+claiming ex vivo educated autologous NK T cells in the form of therapeutic compos ition. 
+Although the claim is directed to a composition, but there is nothing like a composition; in 
+fact the educated autologous NK T cells alone would be treated as a final product, because 
+other ingredients are kept as optional. Just by wording a claim a s a composition claim 
+comprising additional one or more routine ingredients (for example pharmaceutically 
+acceptable carriers) has no effect on the final product and it does not exclude the claim 
+from falling within the scope of Section 3 (j) of the Act. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A method of producing at least one of substantially pure hybrid seeds, plants and 
+crops, comprising the steps of (i) producing a male parent which is male fertile, (ii) breeding 
+the male parent with a female parent which is s ubstantially male sterile, and (iii) harvesting 
+seeds from the female parent which contain pure hybrid seeds. 
+Analysis: The claimed method involves the step of cross breeding for producing pure hybrid 
+seeds, plants and crops. Thus, it is an essentially bio logical process and not allowable under 
+Section 3 (j) of the Act. 
+17. SECTION 3 (K): MATHEMATICAL OR BUSINESS METHOD OR A COMPUTER 
+PROGRAMME PER SE OR ALGORITHMS 
+According to Section 3 (k) of the Act, a mathematical or business method or a 
+computer programme per se or algorithms are not patentable inventions. Bio -informatics is 
+a relatively young science and has emerged from the combination of information 
+technology and biotechnology. Thus, the determination of patentability of inventions 
+relating to bioinformatics requires special attention vis-a-vis exclusions under Section 3 (k) 
+of the Act. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: A data processing method, wherein a first chemical substance is a compound; a 
+second chemical substance is nucleic acid, protein or a complex thereof; a first characteristic 
+amount is expressed as a vector comprised of more than one type of chemical substance 
+information of the first chemical substance; a second characteristic amount is expressed as 
+a vector comprised of more than one typ e of biological information of the second chemical 
+
+17 
+
+substance; and the first characteristic amount and the second characteristic amount are 
+map-transformed using a multivariate analysis technique or a mechanical leaning method so 
+as to increase a correlatio n between first space expressing the first characteristic amount 
+and second space expressing the second characteristic amount. 
+Analysis: The claimed invention is considered as a mathematical method or computer 
+programme per se in so far as that it relates to data processing of certain technical 
+parameters of chemical and biological substances, but does not lead to any product 
+whatsoever. Various references to chemical and biological substances therein are only 
+to the meaning of data itself and do not relate to any technical implementation 
+details for carrying out the methods. Hence, the subject -matter of claim falls within the 
+scope of statutorily non-patentable inventions under Section 3 (k) of the Act. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A computer -assisted me thod of generating a compound that inhibits the glutamine 
+formation active site activity of a glutamine synthetase polypeptide, wherein said test 
+compound is capable of inhibiting the interaction between an adenylated catalytic triad site 
+of the glutamine formation active site and a -glutamyl phosphate intermediate, or of 
+inhibiting the interaction between an de -adenylated catalytic triad site of the glutamine 
+formation active site and a -glutamyl phosphate intermediate, the method comprising the 
+steps of: (a) providing a three -dimensional structure of a glutamine formation active site of 
+a glutamine synthetase polypeptide; and (b) designing, based on the three -dimensional 
+structure, a test compound capable of inhibiting the interaction between the glutami ne 
+formation active site and a -glutamyl phosphate intermediate. 
+Analysis: The claimed method is considered as a mathematical method or computer 
+programme per se as it relates to a method of designing the inhibitory compound based on 
+three dimensional structures, but does not lead to a real product whatsoever. Thus, the 
+subject-matter of claim falls within the scope of statutorily non -patentable inventions under 
+Section 3 (k) of the Act. 
+18. SECTION 3(P): TRADITIONAL KNOWLEDGE RELATED INVENTIONS 
+According to Section 3 (p) of the Act, an invention which, in effect, is traditional 
+knowledge or which is an aggregation or duplication of known properties of traditionally 
+known component or components is not a patentable subject matter. 
+For the examination of T K related subject matters, separate guidelines have 
+already been issued by the Office of CGPDTM. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: Serum of pigeon possessing the anti-paralysis activity. 
+Analysis: The use of pigeon serum for the treatment of paralysis (as it possess anti-paralytic 
+activity) is a traditional knowledge in India or is an aggregation or duplication of known 
+properties of traditionally known component. It is clearly evident from D1 (Mahawar et al., 
+“Animals and their products utilized as medicines by the inhabitants surrounding the 
+
+18 
+
+Ranthambhore National Park, India”, Journal of Ethnobiology and Ethnomedicine, 2006, 
+2:46, see entire document especially Table I), which discloses the use of pigeon blood for 
+treating paralysis. 
+19. SUFFICIENCY OF DISCLOSURE, CLARITY & SUPPORT OF THE CLAIMS & UNITY OF 
+INVENTIONS 
+Section 10 (4) of the Act requires that every complete specification shall fully and 
+particularly describe the invention and its operation or its use and the method by which it is 
+to be performed . Every specification shall also disclose the best method of performing the 
+invention known to the applicant for which he is entitled to claim protection. A complete 
+specification shall end with a set of claim(s) defining the scope of invention for which 
+protection is sought. 
+As per Section 10 (5) of the Act, the claim(s) shall be clear and succinct and shall be 
+fairly based on the matter disclosed in the specification. 
+The purpose of the disclosure and the claims are not same and yet mutually 
+supportive. Whereas, the disclosure of the specification constitutes the essential 
+component of the quid pro quo of the patent system, the claims notify the public the 
+forbidden area. 
+While assessing the sufficiency of disclosure, the examiner must be careful to 
+ensure that at least one method for performing the invention must be described so that 
+the whole subject -matter that is claimed in the claims, and not only a part of it, must be 
+capable of being carried out by a skilled person in the relevant art without the burden of 
+an undue amount of experimentation or the application of inventive ingenuity. If the 
+skilled person, following the directions given in the specification has to find out something 
+that is new in order to reproduce the invention, the disclosure is insufficient. 
+Where the claims in an application are broad and indeterminate and of a speculative 
+character, the claims will be treated as not supported by the description. 
+If the specification discloses a listing of a wide range of unrelated diseases as 
+potential future therapeutic or diagnostic targets of a claimed gene or the protein that it 
+encodes, the claims of such gene are known as Claims having laundry list. It is possible that 
+the gene may play an important role in the treatment of one or more of the listed diseases; 
+it is unlikely that gene or its product will have a role in all of the diseases. Such claims are 
+generally made when the activity of the protein has not been fully characterised, and 
+therefore any potential uses of the protein are speculative. Even if the function of the 
+polypeptide has been characterised, and its association with one type of disease has been 
+ascertained, this is not enough to support the use of the polypeptide in the diagnosis or 
+treatment of numerous other unrelat ed diseases. Therefore, if there is no evidence in the 
+specification as filed that the gene or polypeptide is of therapeutic or diagnostic use in each 
+different disease listed, then the specification is insufficient. 
+When claims seek to protect things that are not identified by the applicant at the 
+time of filing the application, but that may be identified in the future by carrying out the 
+applicant’s process, such claims are not patentable on the ground of insufficiency of 
+
+19 
+
+description. Thus, the claims rea ch through to things, which are not yet identified by the 
+applicant. 
+ In Raj Praksh v Mangatram Chowdhury AIR 1978 Del 1 at 9, it was observed 
+following Farbewerke Hoechst Aktiengesellschaft Vormals Meister Lucius & Bruning a 
+Corporation etc. Vs. Unichem Laboratories and Ors”., AIR1969Bom255 : the complete 
+specification must describe “an embodiment” of the invention claimed in each of the 
+claims and the description must be sufficient to enable those in the industry concerned to 
+carry it into effect without their making further inventions “and the description must be 
+fair, i.e. it must not be unnecessarily difficult to follow”. 
+An insufficient complete specification cannot become sufficient because of general 
+developments in the state of the art after the fi ling date. The relevant date for complying 
+with the requirement for sufficiency is the date of complete specification. In other words, a 
+complete specification should provide enough information to allow a person skilled in the 
+art to carry out substantially all that which falls within the ambit of what is claimed. 
+ Analogues or variants of polynucleotides or polypeptide sequences, in the form of 
+additions, substitutions or deletions, could extend to an almost infinite number of variants. 
+In such cases, the claim should be restricted to variants sharing a common specific activity 
+with each other that are disclosed in the specification. The said activity disclosed should not 
+be predictable in nature. 
+When DNA sequences are claimed on the basis that they hybri dise with a specifically 
+identified probe and that they possess a certain activity, the claim will not be supported if 
+the hybridisation conditions are not specifically disclosed and if the skilled person needs to 
+perform an undue experimentation to achieve the desired result. 
+Claims to antibodies that may have therapeutic or diagnostic potential are 
+unsupported if a role for the target protein in a specific disease has not been identified 
+and proved by sufficient data. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A metho d comprising: (i) contacting polypeptide X with a compound to be screened 
+and determining whether the compound affects the activity of the polypeptide and (ii) 
+formulating any active compound into a pharmaceutical composition. 
+Analysis: Any method that mer ely screens existing materials does not give rise to products 
+and claims resulting from such methods ‘reach through’ to as yet unidentified materials. In 
+the absence of any knowledge of any relationship, either from the specification or from 
+common general knowledge, the skilled person would not know how to produce and use 
+the compounds. It would require an undue burden of experimentation to screen undefined 
+compounds for the desired activity. There will also be a lack of support where the function 
+of the compounds identified is not specified. 
+
+20 
+
+19.1. UNITY OF INVENTION 
+According to Section 10 (5) of the Act, the claim or claims of a complete specification 
+shall relate to a single invention, or to a group of inventions linked so as to form a single 
+inventive concept. In the field of gene technology it is quite common for a patent 
+application to claim, a large number of polynucleotide and polypeptide sequences. This 
+raises problems at the various phases of the application such as publication stage, 
+examination especially the searching stage. In particular, it is not always clear whether 
+claimed sequences relate to a single invention, or to a group of inventions linked so as to 
+form a single inventive concept. 
+Lack of unity may be evident in an application in the following ways: 
+`A priori’ , i.e., before consideration of prior art, if the claims falling in different 
+groups do not share a same or corresponding technical feature. 
+`A posteriori’, i.e., after a search of the prior art , if the shared technical feature fails 
+to make a contribution over the prior art. 
+Examples of a priori determination of prior art is given as herein below: 
+ILLUSTRATIVE EXAMPLE OF A PRIORI DETERMINATION OF UNITY OF INVENTION: 
+1) A DNA construct for improved expression of a heterologous or h omologous 
+polypeptide comprising: (a) isolated DNA sequence (SEQ ID NO: A) or a portion 
+thereof which retains promoter activity adapted for recombinant protein expression, 
+(b) DNA sequence encoding the desired polypeptide such that said DNA sequence is 
+in operative association with said promoter and is expressed under the control of the 
+said promoter, wherein said isolated DNA sequence is a constitutive promoter for 
+citrate synthase (citA) gene from filamentous fungi Aspergillus niger. 
+2) A DNA construct for i mproved expression of a heterologous or homologous 
+polypeptide comprising: (a) a promoter sequence according to SEQ ID NO: B or a 
+portion thereof which retains promoter activity, (b) DNA sequence encoding the 
+desired polypeptide such that said DNA sequence is in operative association with 
+said promoter and is expressed under the control of the said promoter. 
+3) A DNA construct for improved expression of a heterologous or homologous 
+polypeptide comprising: (a) a promoter sequence according to SEQ ID NO: C or a 
+portion thereof which retains promoter activity, (b) DNA sequence encoding the 
+desired polypeptide such that said DNA sequence is in operative association with 
+said promoter and is expressed under the control of the said promoter. 
+Analysis: The subject-matter of claims 1-3 does not relate to a single invention, or to 
+a group of inventions linked so as to form a single inventive concept as per Section 
+10 (5) of the Act. Thus, claims 1-3 contain following groups of inventions: 
+Group-I: Claim 1 directed to a D NA construct for improved expression of a 
+heterologous or homologous polypeptide comprising isolated DNA sequence (SEQ ID 
+NO: A), 
+
+21 
+
+Group-II: Claim 2 directed to a DNA construct for improved expression of a 
+heterologous or homologous polypeptide comprising i solated DNA sequence (SEQ ID 
+B) and 
+Group-III: Claim 3 directed to a DNA construct for improved expression of a 
+heterologous or homologous polypeptide comprising isolated DNA sequence (SEQ ID 
+NO: C). 
+Upon examination, it is found that the DNA sequences as described SEQ ID NO: A, B 
+& C do not share any common structural feature. Therefore, as there is no special technical 
+feature, which could serve as basis for unifying the above -said groups of inventions, each of 
+these groups has to be considered as a separate invention. Thus, these three groups are said 
+to lack unity a priori. 
+ILLUSTRATIVE EXAMPLE OF A POSTERIORI DETERMINATION OF UNITY OF INVENTION: 
+1) A composition comprising a combination of X and Protein Y to identify a gene for 
+prostate cancer, wherein X is selected from a group of hetero -cycles as depicted in 
+formula 1 [Formula 1 given] 
+2) A composition comprising a combination of X and Protein Z to identify a gene for 
+prostate cancer, wherein X is selected from a group of hetero -cycles as claimed in 
+claim 1. 
+Analysis: Claims 1 -2 contain the following inventions or group of inventions, which 
+are not so linked as to form a single general inventive concept as required u/s 10 (5) 
+of the Patents Act, 1970 (as amended): 
+Group I: Claim 1 drawn to a composition comprising a combination of X and Protein Y 
+to identify a gene for prostrate caner, wherein X is selected from a group of hetero -
+cycles as depicted in formula 1. 
+Group II: Claim 2 drawn to a composition comprising a combination of X and Protein 
+Z to identify a gene for prostrate caner, wherein X is selected from a group of hetero-
+cycles as claimed in claim 1. 
+The above said groups are linked by the technical feature “X”. Upon prior art search, 
+it is found that “X” is already known in the prior art. Thus, this feature is not a special 
+technical feature, because it does not constitute advancement over the prior art. The unity 
+of invention is treated to be fulfilled only when there is a technical relationship among 
+inventions involving one or more of the same or corresponding special technical features. 
+Thus, claims 1 & 2 failed to meet the requirements of Section 10 (5) of the Act. 
+Consequently, the application may be objected for lacking unity a posteriori. 
+20. DEPOSIT OF BIOLOGICAL MATERIAL 
+If the invention rel ates to a biological material which is not possible to be described 
+in a sufficient manner and which is not available to the public, the application shall be 
+completed by depositing the material to an International Depository Authority (IDA) under 
+the Budapest Treaty. The deposit of the material shall be made not later than the date of 
+
+22 
+
+filing of the application in India and a reference of the deposit shall be given in the 
+specification within three months from the date of filing of the patent application i n India. 
+All the available characteristics of the material required for it to be correctly identified or 
+indicated are to be included in the specification including the name, address of the 
+depository institute and the date and number of the deposit. 
+Depositary Authorities: Reference to IDA under the Budapest Treaty under Section 
+10 (4) should be read with Section 2 (1) (aba) of the Act. 
+21. BIODIVERSITY RELATED ISSUES 
+It has been discussed in the beginning that biodiversity related matters play a vital 
+role in the patentability of the biological substances. The Biological D iversity Act , 2002 
+provides mechanism for conservation of biological diversity, sustainable use of its 
+components and fair and equitable sharing of the benefits arising out of the use of biological 
+resources, knowledge and for matters connected therewith or incidental thereto. 
+In order to prevent misappropriation of biological resources and traditional 
+knowledge of India, the Biological D iversity Act requires that access to the biological 
+resources of India is subject to the equitable benefit sharing through the approval of 
+National Biodiversity Authority (NBA). No I ntellectual Property Rights (I PRs), including 
+patents based on research or information on biological resources obtained from India shall 
+be granted without the approval of the NBA. 
+The Patents Act provides interfaces with the process of obtaining patents and access 
+to and benefits sharing from utilization of Indian biological resources. Thus, disclosure of the 
+source and geographical origin of a biological material used in an application for a patent 
+has been made mandatory as per Section 10 (4) of the Act . Also, Section 3 (p) of t he Act 
+prohibits patenting of any invention which, in effect, is traditional knowledge. 
+With respect to the patenting of inventions related to traditional knowledge and 
+biological material obtained from India, the instructions issued by the Controller Gen eral Of 
+Patents, Designs and Trademarks should be strictly followed. 
+[End of document]

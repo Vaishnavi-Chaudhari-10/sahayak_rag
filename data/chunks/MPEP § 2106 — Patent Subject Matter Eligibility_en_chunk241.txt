@@ -1,0 +1,24 @@
+ole.’” 
+Alice Corp.,
+ 573 U.S. at 218 n.3, 110
+ USPQ2d at 1981 (quoting 
+Diamond v. Diehr,
+ 450 U.S. 175, 188, 209
+ USPQ 1, 8-9 (1981)). Consideration of the elements in combination is particularly
+ important, because even if an additional element does not amount to significantly
+ more on its own, it can still amount to significantly more when considered in
+ combination with the other elements of the claim. 
+See, e.g., Rapid Litig.
+ Mgmt. v. CellzDirect,
+ 827 F.3d 1042, 1051, 119 USPQ2d 1370, 1375 (Fed.
+ Cir. 2016) (process reciting combination of individually well-known freezing and
+ thawing steps was “far from routine and conventional” and thus eligible);
+
+BASCOM Global Internet Servs. v. AT&T Mobility LLC,
+ 827
+ F.3d 1341, 1350, 119 USPQ2d 1236, 1242 (Fed. Cir. 2016) (inventive concept may be
+ found in the non-conventional and non-generic arrangement of components that are
+ individually well-known and conventional). 
+
+Although the courts often evaluate considerations such
+ as the co

@@ -1,0 +1,22 @@
+y processing paper checks, all of which contained limitations setting
+ forth receiving merchant transaction data from a merchant, crediting a merchant’s
+ account, and receiving and scanning paper checks after the merchant’s account is
+ credited. In part one of the 
+Alice/Mayo
+ test, the Federal
+ Circuit determined that the claims were directed to the abstract idea of crediting
+ the merchant’s account before the paper check is scanned. The court first
+ determined that the recited limitations of “crediting a merchant’s account as
+ early as possible while electronically processing a check” is a “long-standing
+ commercial practice” like in 
+Alice
+ and
+
+Bilski
+. 931 F.3d at 1167, 2019 USPQ2d 281076, at *5 (Fed.
+ Cir. 2019). The Federal Circuit then continued with its analysis under part one of
+ the 
+Alice/Mayo
+ test finding that the claims are not directed to
+ an improvement in the functioning of a computer or an improvement to another
+ technology. In particular, the court determined that t

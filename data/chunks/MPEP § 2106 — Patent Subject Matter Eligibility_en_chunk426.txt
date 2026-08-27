@@ -1,0 +1,19 @@
+ecites eligible subject matter. It is important to remember that a new
+ combination of steps in a process may be patent eligible even though all the steps
+ of the combination were individually well known and in common use before the
+ combination was made. 
+Diamond v. Diehr,
+ 450 U.S. 175, 188, 209
+ USPQ 1, 9 (1981). Thus, it is particularly critical to address the combination of
+ additional elements, because while individually-viewed elements may not appear to
+ integrate an exception into a practical application or add significantly more,
+ those additional elements when viewed in combination may amount to significantly
+ more than the exception by meaningfully limiting the judicial exception. See
+
+MPEP § 2106.05
+ for more information about Step 2B of
+ the eligibility analysis.
+
+A rejection should be made only if it is readily
+ apparent to an examiner relying on the examiner's expertise in the art in the Step
+ 2A Prong Two inquiry and Step 2B inquiry that the additional elements do not

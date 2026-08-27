@@ -1,0 +1,20 @@
+comparing the printed votes to votes stored in the
+ computer, and determining whether the printed ballot is acceptable. 887 F.3d
+ at 1384-85, 126 USPQ2d at 1503-04. The Federal Circuit found that the claims
+ were directed to the abstract idea of “voting, verifying the vote, and
+ submitting the vote for tabulation”, which is a “fundamental activity that
+ forms the basis of our democracy” and has been performed by humans for
+ hundreds of years. 887 F.3d at 1385-86, 126 USPQ2d at 1504-05. 
+
+Another example of a claim reciting social
+ activities is 
+Interval Licensing LLC, v. AOL, Inc.,
+ 896
+ F.3d 1335, 127 USPQ2d 1553 (Fed. Cir. 2018). The social activity at issue
+ was the social activity of “’providing information to a person without
+ interfering with the person’s primary activity.’” 896 F.3d at 1344, 127
+ USPQ2d 1553 (citing 
+Interval Licensing LLC v. AOL, Inc.,
+
+ 193 F. Supp.3d 1184, 1188 (W.D. 2014)). The patentee claimed an attention
+ manager for acquiring content from an information

@@ -1,0 +1,23 @@
+ns
+A claim may recite multiple judicial exceptions.
+ For example, claim 4 at issue in 
+Bilski v. Kappos,
+ 561 U.S.
+ 593, 95 USPQ2d 1001 (2010) recited two abstract ideas, and the claims at issue in
+
+Mayo Collaborative Servs. v. Prometheus Labs. Inc.,
+ 566 U.S.
+ 66, 101 USPQ2d 1961 (2012) recited two laws of nature. However, these claims were
+ analyzed by the Supreme Court in the same manner as claims reciting a single
+ judicial exception, such as those in 
+Alice Corp.,
+ 573 U.S. 208,
+ 110 USPQ2d 1976. 
+
+During examination, examiners should apply the
+ same eligibility analysis to all claims regardless of the number of exceptions
+ recited therein. Unless it is clear that a claim recites distinct exceptions, such
+ as a law of nature and an abstract idea, care should be taken not to parse the
+ claim into multiple exceptions, particularly in claims involving abstract ideas.
+ Accordingly, if possible examiners should treat the claim for Prong Two and Step
+ 2B purposes as containing a single

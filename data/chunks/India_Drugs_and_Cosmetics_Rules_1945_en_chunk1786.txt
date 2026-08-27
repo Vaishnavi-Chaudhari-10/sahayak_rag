@@ -1,0 +1,39 @@
+ction: 
+(i) Arrangements for the handling of complaints ; 
+(ii) Arrangements for the handling of field safety corrective action 
+
+11. Internal Audit: 
+Short Description of the internal audit system. 
+
+12. Contract Activities: 
+Description of the way in which the compliance of the contract acceptor is assessed. 
+
+Drugs and Cosmetics Rules 1945 
+523 
+
+Annexure ‗C‘ 
+Environmental requirement for Notified medical devices and in-vitro diagnostics 
+
+Name of Device Type of Operation ISO Class (At rest) 
+Cardiac stent/Drug Eluting 
+Stent 
+
+Primary Packing and Crimping 5 
+Washing, Ultrasonic cleaning &Drug 
+coating 
+7 
+Assembly, Wrapping & Packaging 8 
+Laser cutting, Descaling, Annealing & 
+Electro polishing 
+9 
+Heart Valves 
+
+Valve Packing 5 
+Ultrasonic Cleaning & Visual Inspection 7 
+Frame & Disc Assembly 7 
+Intra Ocular Lenses Packing & Sealing 5 
+Final Inspection 7 
+Power Checking& Final Cleaning 8 
+Tumble Polishing & Lathe Cutting 9 
+Bone Cements Final Product Filling 5 
+Sieving & Calcinat

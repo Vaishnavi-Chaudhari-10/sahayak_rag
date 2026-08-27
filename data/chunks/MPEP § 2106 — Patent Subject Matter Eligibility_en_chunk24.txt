@@ -1,0 +1,42 @@
+al exception
+ (Step 2B: YES) are eligible at Pathway C. See 
+MPEP §
+ 2106.05
+ for more information about this pathway and Step
+ 2B. 
+
+Claims that could have been found eligible at Pathway A
+ (streamlined analysis), but are subjected to further analysis at Steps 2A or Step 2B,
+ will ultimately be found eligible at Pathways B or C. Thus, if the examiner is uncertain
+ about whether a streamlined analysis is appropriate, the examiner is encouraged to
+ conduct a full eligibility analysis. However, if the claim is not found eligible at any
+ of Pathways A, B or C, the claim is patent ineligible and should be rejected under
+
+35 U.S.C.
+ 101
+.
+
+Regardless of whether a rejection under 
+35 U.S.C. 101
+ is
+ made, a complete examination should be made for every claim under each of the other
+ patentability requirements: 
+35 U.S.C. 102
+, 
+103
+,
+
+112
+, and 
+101
+ (utility, inventorship and
+ double patenting) and non-statutory double patenting. 
+MPEP §
+ 2103
+.
+
+2106.01 [Reserved]
+
+2106.02 [Reserved]
+
+2106

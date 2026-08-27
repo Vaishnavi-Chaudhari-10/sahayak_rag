@@ -1,0 +1,26 @@
+ing poor oral bioavailability 
+was converted into an ester using amino acids selected from lysine, valine, leucine and 
+the like, as an esterifying agent, which exhibit improved oral bioavailability in the 
+treatment of cancer diseases. Amino acid used in the prior art as well as in the 
+claimed invention is lysine. 
+
+Prior Art Claimed Invention 
+R-CH2-OH 
+
+R-CH2-OR’ 
+
+R’ is lysine, valine, leucine and the like 
+HO –CH2-R-CH2-OH 
+
+HO –CH2-R-CH2-OR’ 
+
+R’ is lysine, valine, leucine and the like 
+
+Analysis: Object of the claimed invention was to provide a solution to overcome the 
+poor oral bioavailability of diol, when administered as oral delivery system. One of the 
+alcohol groups in the diol was converted into ester using lysine for improving the oral 
+bioavailability of the diol. 
+
+Prior art addressed poor oral bioavailability for substantially similar structure of 
+monoalcohol. The problem was solved by converting the monoalcohol into ester using 
+lysine as an esterifying agent. T h

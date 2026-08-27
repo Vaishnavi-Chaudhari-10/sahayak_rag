@@ -1,0 +1,19 @@
+s doubt as to whether the applicant is
+ effectively seeking coverage for a judicial exception itself, the full eligibility
+ analysis (the 
+Alice/Mayo
+ test described in 
+MPEP § 2106
+,
+ subsection III) should be conducted to determine whether the claim integrates the
+ judicial exception into a practical application or recites significantly more than the
+ judicial exception.
+
+ The results of the streamlined analysis will always be
+ the same as the full analysis, thus the streamlined analysis is not a means of avoiding
+ a finding of ineligibility that would occur if a claim were to undergo the full
+ eligibility analysis. Similarly, a claim that qualifies as eligible after Step 2A
+ (Pathway B) or Step 2B (Pathway C) of the full analysis would also be eligible if the
+ streamlined analysis (Pathway A) were applied to that claim. It may not be apparent that
+ an examiner employed the streamlined analysis because the result is a conclusion that
+ the claim is eligible, and there will be no rejec

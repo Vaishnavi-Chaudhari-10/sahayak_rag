@@ -1,0 +1,19 @@
+o, and
+
+MPEP
+ § 2106.07(b)
+ for more information about improvements in the
+ streamlined analysis context. 
+
+If it is asserted that the invention improves upon
+ conventional functioning of a computer, or upon conventional technology or
+ technological processes, a technical explanation as to how to implement the invention
+ should be present in the specification. That is, the disclosure must provide
+ sufficient details such that one of ordinary skill in the art would recognize the
+ claimed invention as providing an improvement. The specification need not explicitly
+ set forth the improvement, but it must describe the invention such that the
+ improvement would be apparent to one of ordinary skill in the art. Conversely, if the
+ specification explicitly sets forth an improvement but in a conclusory manner (i.e.,
+ a bare assertion of an improvement without the detail necessary to be apparent to a
+ person of ordinary skill in the art), the examiner should not determine the claim
+ improves tec

@@ -1,0 +1,27 @@
+effects 
+5.3 General Pharmacological effects 
+5.4 Pharmacokinetics, absorption, distribution, metabolism, excretion 
+5.5 Pharmacodynamics/early measurement of drug activity 
+6. Therapeutic exploratory trials (Phase II) 
+6.1 Summary 
+6.2 Study report(s) as given in Appendix II 
+7. Therapeutic confirmatory trials (Phase III) 
+7.1 Summary 
+7.2 Individual study reports with listing of sites and investigators 
+8. Special studies 
+8.1 Summary 
+8.2 Bioavailability/Bioequivalence 
+8.3 Other studies e.g. geriatrics, paediatrics, pregnant or nursing 
+women 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+9. Regulatory status in other countries 
+9.1. Countries where the drug is 
+(a) Marketed 
+(b) Approved 
+(c) Approved as IND 
+(d) Withdrawn, if any, with reasons 
+9.2. Restrictions on use, if any, in countries where marketed/approved 
+9.3 Free sale certificate or certificate of analysis, as appropriate 
+10. Prescribing information 
+10.1

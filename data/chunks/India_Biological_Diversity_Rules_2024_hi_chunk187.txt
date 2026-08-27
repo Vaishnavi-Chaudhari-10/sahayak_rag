@@ -1,0 +1,29 @@
+ces and knowledge associated thereto intended to be accessed 
+(i) Details of biological resource (Drop down menu) 
+
+i. Nature of the biological resource 
+(plants/animals/microbes/genetic 
+material/variety/hybrid) 
+ii. Common name 
+iii. Scientific name (Genus and species/ 
+variety/strain) 
+iv. Plant parts (Seed, stem, bark, leaf, flower, 
+fruit, root, rhizome, genetic material, 
+extract, exudate, etc.) 
+v. Quantity of each biological resource (in 
+Kg/gm/ml) 
+vi. Duration of access (expected start and end 
+date) 
+vii. Source of access (wild/cultivated/ 
+institution/repository/trader/ market) 
+
+[भाग II—खण् ड 3(i)] भारत का रािपत्र : असाधारण 65 
+
+viii. Geographical location (village, taluk, 
+district, state). If procured from a trader 
+institute, their name, address and contact 
+details to be provided; if procured from 
+repository/institution, then origin of 
+collection to be provided. 
+(ii) Details about the knowledge associated thereto: 
+(a) Nature of the knowledge associated (Oral/ docum

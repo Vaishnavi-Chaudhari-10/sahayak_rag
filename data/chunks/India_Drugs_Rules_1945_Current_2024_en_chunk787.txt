@@ -1,0 +1,28 @@
+per unit area (powder), particle size, count, methoxy value 200 each 
+(k) Limit test for impurities 100 each 
+(1) Related substances (i) TLC method 
+ (A) Without reference standards 150 
+ (B) With reference standards (ii) Gas Liquid Chromatography 250 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+ (A) Without reference standards 250 
+ (B) With reference standards 350 
+ (iii) High Pressure Liquid Chromatography 500 
+ (A) Without reference standards 500 
+ (B) With reference standards 200 
+
+(m) Water (Karl Fisher) 
+(5) Assays— 
+(a) General chemical method 100 for each ingredient 
+(b) Non-aqueous/instrumental 200 for each ingredient 
+(c) Chromatography 
+(i) TLC 250 
+(ii) Column 200 
+(iii) GLC 350 
+(iv) HPLC 500 
+(v) Gel filtration 400 
+(d) Nitrogen determination 200 
+(e) Medicinal gases 400 
+(6) Polymorph test— 300 
+(Content of polymorph A in chloramphenicol-palmitate) 
+Surgical sutures (Depending on number of tests to be car

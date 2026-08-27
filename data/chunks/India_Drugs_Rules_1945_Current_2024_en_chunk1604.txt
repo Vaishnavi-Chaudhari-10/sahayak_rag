@@ -1,0 +1,16 @@
+containment requirements apply to poliomyelitis vaccine to 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+minimise poliovirus facility associated risk and for the safe production 
+and quality control of inactivated poliomyelitis vaccine manufactured 
+from wild polioviruses. The measures and procedures necessary for 
+containment (i.e., for protecting the enviro nment and ensuring the 
+safety of the operator) shall not conflict with those for ensuring 
+product quality. 
+7.6. Air-handling systems shall be designed, constructed and maintained to 
+minimise the risk of cross -contamination between different 
+manufacturing areas as required. The need for dedicated air handling 
+units or single pass systems shall be based on QRM principles, taking 
+into account the biohazard classification and containment 
+requirements of the relevant organism, and process and equipment 
+risks. In the case of Biosafety Risk Group 3 organisms, air s

@@ -1,0 +1,26 @@
+Cir. 2016) (“that the
+ improvement is not defined by reference to ‘physical’ components does not doom the
+ claims”). See also 
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+
+ 837 F.3d 1299, 1315, 120 USPQ2d 1091, 1102 (Fed. Cir. 2016), (holding that a
+ process producing an intangible result (a sequence of synchronized, animated
+ characters) was eligible because it improved an existing technological
+ process).
+
+In addition, a specific way of achieving a result
+ is not a stand-alone consideration in Step 2A Prong Two. However, the specificity
+ of the claim limitations is relevant to the evaluation of several considerations
+ including the use of a particular machine, particular transformation and whether
+ the limitations are mere instructions to apply an exception. See
+
+MPEP §§ 2106.05(b)
+, 
+2106.05(c)
+, and 
+2106.05(f)
+. For example, in 
+Parker v.
+ Flook,
+ 437 U.S. 584, 198 USPQ 193 (1978), the Supreme Court noted
+ that the “patent application does not purport to explain how to select the

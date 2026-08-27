@@ -1,0 +1,24 @@
+o explicitly recite the improvement described in the
+ specification (
+e.g.,
+ “thereby increasing the bandwidth of the
+ channel”).
+
+While the courts usually evaluate “improvements” as
+ part of the “directed to” inquiry in part one of the 
+Alice/Mayo
+
+ test (equivalent to Step 2A), they have also performed this evaluation in part two
+ of the 
+Alice/Mayo
+ test (equivalent to Step 2B). See,
+
+e.g., BASCOM Global Internet v. AT&T Mobility LLC,
+ 827
+ F.3d 1341, 1349-50, 119 USPQ2d 1236, 1241-42 (Fed. Cir. 2016). However, the
+ improvement analysis at Step 2A Prong Two differs in some respects from the
+ improvements analysis at Step 2B. Specifically, the “improvements” analysis in
+ Step 2A determines whether the claim pertains to an improvement to the functioning
+ of a computer or to another technology without reference to what is
+ well-understood, routine, conventional activity. That is, the claimed invention
+ may integrate the judicial exception into a practical application by demonstrating

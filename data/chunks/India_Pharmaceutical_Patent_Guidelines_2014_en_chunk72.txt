@@ -1,0 +1,13 @@
+struct for improved expression of a heterologous or h omologous 
+polypeptide comprising: (a) isolated DNA sequence (SEQ ID NO: A) or a portion 
+thereof which retains promoter activity adapted for recombinant protein expression, 
+(b) DNA sequence encoding the desired polypeptide such that said DNA sequence is 
+in operative association with said promoter and is expressed under the control of the 
+said promoter, wherein said isolated DNA sequence is a constitutive promoter for 
+citrate synthase (citA) gene from filamentous fungi Aspergillus niger. 
+2) A DNA construct for i mproved expression of a heterologous or homologous 
+polypeptide comprising: (a) a promoter sequence according to SEQ ID NO: B or a 
+portion thereof which retains promoter activity, (b) DNA sequence encoding the 
+desired polypeptide such that said DNA sequence is in operative association with 
+said promoter and is expressed under the control of the said promoter. 
+3) A DNA construct for improved expression of a heterolog

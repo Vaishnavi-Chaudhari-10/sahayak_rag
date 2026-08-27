@@ -1,0 +1,24 @@
+dicial exception.
+
+Because a judicial exception is not eligible
+ subject matter, 
+Bilski,
+ 561 U.S. at 601, 95 USPQ2d at 1005-06
+ (quoting 
+Chakrabarty,
+ 447 U.S. at 309, 206 USPQ at 197 (1980)),
+ if there are no additional claim elements besides the judicial exception, or if
+ the additional claim elements merely recite another judicial exception, that is
+ insufficient to integrate the judicial exception into a practical application.
+ See, 
+e.g., RecogniCorp, LLC v. Nintendo Co.,
+ 855 F.3d 1322,
+ 1327, 122 USPQ2d 1377 (Fed. Cir. 2017) (“Adding one abstract idea (math) to
+ another abstract idea (encoding and decoding) does not render the claim
+ non-abstract”); 
+Genetic Techs. Ltd. v. Merial LLC,
+ 818 F.3d
+ 1369, 1376, 118 USPQ2d 1541, 1546 (Fed. Cir. 2016) (eligibility “cannot be
+ furnished by the unpatentable law of nature (or natural phenomenon or abstract
+ idea) itself.”). For a claim reciting a judicial exception to be eligible, the
+ additional elements (if any) in the claim must “t

@@ -1,0 +1,46 @@
+analysis, organ 
+weights, gross pathology and detailed histopathology. Comprehensive descriptions of benign and 
+
+Drugs and Cosmetics Rules 1945 
+612 
+
+malignant tumour development, time of their detection, site, dimensions, histological typing etc. 
+should be given. 
+
+ 1.8 Animal toxicity requirements for clinical trials and marketing of a new drug. 
+Systemic Toxicity Studies 
+
+Route of administration 
+Duration of 
+proposed human 
+administration 
+Human Phase(s) 
+for which study is 
+proposed to be 
+conducted 
+Long term toxicity 
+requirements 
+ 1[Oral or Parenteral or 
+Transdermal 
+Single dose or 
+several doses in one 
+day, Upto 1wk 
+I,II,III 2sp,2wks 
+
+> 1 wk but upto 2wks I,II,III 2sp;4wks 
+
+Upto 2 wks Marketing permission 2sp;4wks 
+
+> 2 wk but upto 4wks I,II,III 2 sp; equal to duration of human 
+exposure 
+
+ Marketing permission 2 sp; 12 wks 
+
+> 4 wks but upto 12 wks I,II,III 2 sp; equal to duration of human 
+exposure 
+
+ Marketing permission 2sp;24wks 
+
+> 12 wks but upto 24 
+wks 
+I,I

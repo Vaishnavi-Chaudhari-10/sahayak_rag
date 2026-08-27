@@ -1,0 +1,2352 @@
+Guidelines for Examination of 
+Patent Applications in the 
+Field of Pharmaceuticals 
+
+Office of the Controller General of Patents, 
+Designs and Trademarks 
+
+October 2014
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Table of Contents 
+
+Paragraph 
+nos. 
+ Page nos. 
+1 Development of the pharmaceutical patenting in India 2-5 
+2 The scope of the present guidelines 5-5 
+3 Provisions Covered 5-6 
+4 Claims Of Pharmaceutical Inventions 6-7 
+ Markush claims 8-8 
+5 Prior Art Search 9-9 
+6 What is an invention: Section 2 (1) (j) 9-10 
+7 Assessment of Novelty 10-17 
+8 Assessment of Inventive Step 17-26 
+9 Industrial applicability 26-27 
+10 Inventions not patentable 27-37 
+11 Sufficiency of description, clarity and support of the claims 37-45 
+12 Unity of invention 45-50 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+1. Development of pharmaceutical patenting in India 
+
+1.1 Pharmaceutical patenting is an extremely important aspect of India’s Patent system. 
+At the time of Independence, India’s patent regime was governed by the Patents and 
+Designs Act, 1911, which had provisions both for product and process patents. It was 
+felt that there was a need for a change in the existing patent law since it had not 
+helped in the promotion of scientific research and industrialization in the country. 
+
+1.2 Immediately after independence, a Committee headed by Justice (Dr) Bakshi Tek 
+Chand, a retired judge of t he Lahore High Court, was constituted to undertake a 
+comprehensive review of t he working of t he 1911 Act (1948-50). The Committee 
+submitted its interim report on August 4, 1949 and t he final report in 1950 making 
+recommendations f or prevention of misuse or a buse of patent rights in I ndia. T he 
+Committee also recounted that the Patent Act should contain a clear indication that 
+food and medicine and surgical and curative devices were to be made available to the 
+public at the cheapest price while giving reasonable c ompensation to the patentee. 
+Based on t he recommendations of the Committee, amendments were made in the 
+Patents and Designs Act, 1911, first in 1950 (by Act XXXII of 1950) in relation to 
+working of inventions, including compulsory licensing and revocation of patents, and 
+then in 1952, (by Act LXX of 1952) to provide for compulsory license for f ood and 
+medicines, insecticide, germicide or fungicide, and for the process for producing 
+substance or any invention relating to surgical or curative devices. 
+
+1.3 Subsequent to that, a nother C ommittee under Justice Ayyanger ( 1957-59) was 
+constituted. Justice Ayyangar’s report specially discussed (a) patents for chemical 
+inventions and (b) patents for inventions relating to food and medicine. After 
+thoroughly examining the c ontemporary law of patents governing inventions on 
+chemical substances of different countries, t he Committee recommended t hat only 
+process claims be allowed. For foods and medicines, the Committee recommended 
+that inventions related to foods and medicines including insecticides and fungicides 
+should not be patentable as such and processes for their productions should alone be 
+patentable. 
+
+1.4 On the basis of these reports and other deliberations, the Patents Act 1970 was 
+enacted and came into force from 1972. The Patents Act 1970 allowed process patents 
+for drugs, foods a nd products of c hemical reactions but no product patents w ere 
+allowed for inventions related to such substances [erstwhile Section 5 of the Patents 
+Act 1970]. The definition of Drugs included pesticides and insecticides. Also, the term 
+of patents, f or processes related to drugs and f oods, was reduced to a maximum of 
+seven years as opposed to fourteen years for the general category patents. During 
+the period 1970-1994, the Indian pharmaceutical industry became nearly self-
+sufficient and one of the largest exporters of generic medicines. A large number of 
+developing countries depend upon the supply of cheaper generic medicines from India. 
+
+1.5 The 1990s marked the beginning of a new era in the world economy. From the 
+Uruguay round of General Agreement on Tariffs and Trade, emerged the World Trade 
+Organization (WTO), which also integrated IPR laws in international trade in a 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+comprehensive manner. The WTO agreement, of which India is a signatory, came 
+into force from 01.01.1995. TRIPs (Trade Related Aspects of I ntellectual Properties) 
+agreement ( Annexure 1C of the WTO a greement) under Article 27, required 
+introduction of both product and process patenting in all fields of technology including 
+drugs, foods, products of chemical reactions and micro-organisms. 
+
+1.6 To introduce product patents, TRIPs, under Article 65, allowed a ten years transition 
+period for developing countries which did not have product patenting. However, for 
+such developing countries like India, an interim measure was required to be adopted 
+for pharmaceutical and agrochemical product related applications. Article 70.8 of 
+TRIPS stipulated that such countries were required to introduce mail-box provisions 
+for receiving applications claim ing products in the r elevant field. Also Article 70.9 
+mandated that Exclusive Marketing Rights (EMR) were to be made available for such 
+applications subject to certain conditions for a term of five years from the date of 
+grant of such rights or till the grant or rejection of patents claiming such products. 
+
+1.7 Accordingly, after the WTO agreement, the Patents Act 1970 was amended in a phased 
+manner in 1999, 2002 and 2005 in conformity with the TRIPs agreement. 
+
+1.8 In 1999, mail-box and EMR provisions were introduced in India with a retrospective 
+effect from 01.01.1995. Erstwhile Section 5 of the Patents Act 1970 was bifurcated to 
+create a new Section 5(2) (mail-box provision) to r eceive applications claiming 
+pharmaceuticals and agrochemicals product and a new chapter IVA was introduced to 
+deal with EMR applications. 
+
+1.9 By the 2002 amendments, the term of all patents was uniformly made twenty years. 
+
+1.10 After the introduction of product patenting in 2005, mail-box and EMR provisions 
+[Section 5 and Chapter IVA of the Patents Act 1970] were deleted and consequently 
+product patents have been made available for inventions related to pharmaceuticals, 
+agrochemicals, foods and products of chemical reactions since 01.01.2005. 
+
+1.11 While introducing the amendments, utmost care was taken to protect the public 
+health and nutrition. Also, provisions for both pre and post-grant oppositions were 
+engrafted in the Patents Act. 
+
+1.12 Other than the WTO agreement, India is signatory to various international agreements 
+which, inter alia, have bearing on patenting in pharmaceuticals. These include Paris 
+Convention (since 1998), Patent Cooperation Treaty (since 1998) and Budapest Treaty 
+on the International Recognition of the Deposit of Microorganisms for the Purposes of 
+Patent Procedure (since 2001), Convention on Biological Diversity (since 1992). The 
+amendments of the Patents Act 1970 were also c alibrated to recognize India’s 
+accession to these treaties. 
+
+1.13 In the wake of the public health crisis afflicting many developing and least-developed 
+countries, especially those resulting from HIV/AIDS, tuberculosis, malaria and other 
+epidemics, the ministerial conference of WTO adopted ‘The Doha declaration on TRIPS 
+and Public Health’ (2001). The Doha declaration provided a mechanism for compulsory 
+licensing to supply medicines to countries with insufficient or no-manufacturing 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+capacities. The declaration also explicitly stressed that the TRIPs Agreement can and 
+should be interpreted and implemented in a manner supportive of WTO members 
+right to protect public health and, in particular, to promote access to medicines for all. 
+Consequently, a provision ( Section 92A) was introduced in t he Patents Act for 
+Compulsory Licensing for the purpose of export of pharmaceuticals products to any 
+country having insufficient or no manufacturing capacity. 
+
+1.14 Convention of Biological Diversity (CBD) acknowledged the sovereign right of the 
+nations on their genetic resources and mandated t hat the access to the genetic 
+resources and any intellectual property derived t herefrom should be subject to the 
+benefit sharing accrued from such access. The CBD also warranted that the member 
+states should protect their traditional and indigenous knowledge. 
+
+1.15 In consequence of the CBD, India passed the Biological Diversity Act, 2002 which 
+provides a mechanism for access to the genetic resources and benefit sharing accrued 
+therefrom. Section 6 of the Biological Diversity Act came into force on 1st July 2004, 
+and prescribes that obtaining IPRs from the utilization of biological resources in India is 
+subject to the approval of the National Biodiversity Authority (hereinafter referred to 
+as NBA). To facilitate this acc ess and benefit sharing and in order to prevent any 
+unauthorized use of the biological resources of India, in 2005 suitable amendments 
+were made in Section 10 of the Patents Act, 1970, wherein disclosure of the source 
+and geographical origin of the biological material was made mandatory in an 
+application for patent when the said material was used in an invention. 
+
+1.16 Pharmaceutical patenting in India is of utmost concern not only to the people of India, 
+but also for the world community as India has emerged as "the pharmacy of the 
+world". While traversing the history of the development of the legislation related to 
+pharmaceuticals, Honorable Supreme Court referred to a letter written by the 
+HIV/AIDS Director of the WHO, dated December 17, 2004, to the then Minister of 
+Health and Family Welfare, Government of India. A part of the said letter is quoted 
+herein below: 
+
+“As India is the leader in the global supply of affordable antiretroviral drugs and other 
+essential medicines, we hope that the Indian government will take the necessary steps 
+to continue to account for the needs of the poorest nations that urgently need access 
+to anti-retrovirals, wit hout adopting unnecessary restrictions that are not r equired 
+under the TRIPS Agreement and that would impede access to medicines”. 
+
+1.17 Pharmaceutical patenting in India is therefore, an extremely important and sensitive 
+issue since, while a bad patent is a burden to society, good patents are also essential 
+for promoting innovation a nd technological development in the country. Quality, 
+consistency and uniformity of examination a nd grant of patents t hereafter are, 
+therefore, the top most priority concerns for the Patent Office. In order to achieve 
+these targets the Patent Office is continuously upgrading its internal resources. Apart 
+from updating its physical re sources like revamping its internal work modules or its 
+public interfaces, the Office, in an att empt to bring in quality, consistency a nd 
+uniformity, has introduced guidelines for examination in c ertain key areas like 
+traditional knowledge and biotechnology. Further, many of the issues related to the 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+product patenting in the field of pharmaceuticals are now becoming clear through the 
+decisions of the Cour ts . Therefore, there is a need to develop guidelines for 
+examination of pharmaceutical patents, incorporating the analysis of the Courts, with 
+the objective that the guidelines will help improve the examination standard and will 
+introduce harmonious practice amongst the technical Officers of the system. 
+
+2. Scope of the present guidelines 
+
+The guidelines as set out below are s upplemental to the practices a nd procedures 
+followed by the Patent Office as published in the ‘Manual of Patent Office Practice and 
+Procedure’, “Guidelines For Examination of Biotechnology Applications” and the 
+“Guidelines For Processing of Patent Applications Relating to Traditional Knowledge 
+and Biological Material”. The present guidelines are prepared with the objective that 
+the Guidelines will help the Examiners and the Controllers of t he Patent Office in 
+achieving consistently uniform standards of patent examination and grant. The 
+guidelines set out below contain, where feasible, certain illustrations. These illustrations 
+are not intended to exhaust the manner in which the relevant guidelines are to be applied 
+in practice. Exa miners are requested to examine applications on a case-to-case basis, 
+without being prejudiced by the specific illustrations being provided herein. In case of any 
+conflict between these Guidelines and the Patents Act, 1970 and the Rules made 
+thereunder, the provisions of the Act and Rules will prevail. The Guidelines are dynamic 
+and Patent Office will update the same as and when required. 
+
+3. Provisions covered 
+
+The following sections of the Patents Act, 1970 are emphasized in the context of 
+examination of applications in pharmaceuticals and allied fields: 
+
+Section 2 (1) (j): "invention" means a new product or process involving an inventive 
+step and capable of industrial application; 
+Section 2(1)(j)(a): "inventive step" means a feature of an invention that involves 
+technical advance as compared to the existing knowledge or having economic 
+significance or both and that makes the invention not obvious to a person skilled in 
+the art; 
+
+Section 2(1)( (ac) "capable of industrial application", in relation to an invention, 
+means that the invention is capable of being made or used in an industry; 
+
+Section 3 specifies that the following are not patentable inventions within the 
+meaning of the Act: 
+
+(i) Section 3 (b): an invention the primary or intended use or commercial 
+exploitation of which could be contrary to public order or morality or which 
+causes serious prejudice to human, animal or plant life or health or to the 
+environment; 
+
+(ii) Section 3 (c): the mere discovery of a scientific principle or the formulation 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+of an abstract theory or discovery of any living thing or non-living substance 
+occurring in nature; 
+(iii) Section 3 (d): the mere discovery of a new form of a known substance which 
+does not result in the enhancement of the known efficacy of that substance 
+or the mere discovery of any new property or new use for a known 
+substance or of the mere use of a known process, machine or apparatus 
+unless such known process results in a new product or employs at least one 
+new reactant. 
+
+Explanation.—For the purposes of this clause, salts, este rs, ethers, 
+polymorphs, metabolites, pure form, particle size, is omers, mixtures of 
+isomers, complexes, combinations and other derivatives of known substance 
+shall be considered to be the same substance, unless they differ significantly 
+in properties with regard to efficacy; 
+
+(iv) Section 3 (e): a substance obtained by a mere admixture resulting only in 
+the aggregation of the properties of the components thereof or a process 
+for producing such substance; 
+
+(v) Section 3 (i): any process for the medicinal, surgical, curative, prophylactic, 
+diagnostic, therapeutic or other treatment of human beings or any process 
+for a similar treatment of an imals to render them free of disease or to 
+increase their economic value or that of their products. 
+
+(vi) Section 3(j): plants and animals in whole or any part thereof other than 
+micro-organisms but including seeds, varieties and s pecies and essentially 
+biological processes for production or propagation of plants and animals; 
+
+(vii) Section 3 (p): an invention which in effect, is traditional knowledge or which 
+is an aggregation or duplication of known properties of traditionally known 
+component or components. 
+
+Section 10 (4): Sufficiency of disclosure, the best method of performing the invention 
+and claims defining the scope of invention, and 
+
+Section 10 (5): Unity of invention and clarity, succinctness and support of the claims. 
+
+4. Claims of Pharmaceutical Inventions 
+
+4.1 The details of wording of claims, clarity, support and sufficiency of the disclosure are 
+discussed under appropriate headings. However, for better understanding of the 
+issues related to novelty a nd inventive step and other patentability criteria, a 
+preliminary reference is made hereunder on claims of pharmaceuticals and allied 
+inventions which are usually filed in patent applications of the relevant fields. 
+
+4.2 Generally, applications pertaining to pharmaceutical and allied subject-matters 
+comprise the claims relating to the following subject matters, but not limited to: 
+
+I. Product claims: 
+
+i. Pharmaceutical product: 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+a. New Chemical Entities; 
+b. Formulations/Compositions; 
+c. Combinations/ dosage/dose; 
+d. New forms of known substance such as: 
+salts, ethers and esters; polymorphs; solvates, including hydrates; 
+clathrates; st ereoisomers; enantiomers; metabolites and pro-drugs; 
+conjugates; pure forms; particle size; isomers and mixtures thereof; 
+complexes; derivatives of known substances; and 
+
+ii. Kits; 
+iii. Product-by-process. 
+
+II. Claims for process/method of manufacturing; 
+
+III. Claims related to new property, new use of known substance or use claims, 
+including second indications; 
+
+IV. Claims for method of treatment and/or diagnosis of human beings and animals; 
+
+V. Claims related to selection inventions (relating to product and process) 
+
+The Guidelines have been designed In such a manner that the explanations given with regard 
+to the separate concepts such as novelty, inventive step, industrial use etc would be 
+applicable generally to all the types of claims given above but where there seems to be a 
+requirement of additional clarification or a different approach, an attempt has been made to 
+explain it separately under the same conceptual head in t he context of the pertinent 
+provisions of law. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Markush claims 
+
+Often broad (“generic”) patent claims are drafted covering a family of a large number (s ometimes 
+thousands or millions) of possible compounds. The so-called ‘Markush claims’ r efer to a chemical 
+structure with plurality of functionally equivalent chemical groups in one or more parts of the 
+compound. The Markush claims are drafted to obtain a wide scope of protection encompassing a large 
+number of compounds whose properties might not have been tested, but only theoretically 
+inferred from the equivalence with other compounds with in the claim. Quite often the Markush 
+claims generate confusions regarding the novelty, non-obviousness and industrial applicability of a group 
+of compounds covered within the said Markush formula. Also, the Markush claims may invoke the 
+questions of sufficiency and plurality of distinct group of inventions surrounding such claims. 
+
+Illustrative example: 
+
+Claim 1: The compounds of the general formula: 
+
+Wherein, R1 is selected from phenyl, pyridyl, thiazolyl, thioalkyl, alkoxyl and methyl; R2 -R4 are methyl, tolyl 
+or phenyl the compounds are used as a pharmaceutical for increasing the oxygen intaking capability of 
+blood. 
+While examining above said Markush claims, the complete specification should be critically examined 
+whether: (i) it discloses best representatives, as known to the applicant, of the possible embodiments;(ii) 
+such embodiments share a common use or property; (iii) such possible embodiments share common 
+structure; (iv) physical and/ or chemical properties of best representatives of such embodiments known to 
+the applicant are disclosed; (v) test conducted for the representatives of such embodiments known to the 
+applicant is provided; (vi) in case of product claims at least one process for preparing the compounds has 
+been disclosed enabling the whole scope of the invention. 
+Moreover, if any one of (i) to (vi) are not met such a Markush claims may be objected depending upon 
+the circumstances of the application so examined under 'Unity of invention' and insufficiency of disclosure 
+suitably. Compounds can be said t o have a common structure where the compounds share a common 
+chemical structure which occupies a large portion of their structures, or in case the compounds have in 
+common only a small portion of their structures, the commonly shared structure constitutes a structurally 
+distinctive portion in view of existing prior art. The structural element may be a single component or a 
+combination of individual components linked together. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+5. Prior Art Search 
+
+5.1 W hile conducting a prior art search , the Examiner should design/frame a 
+comprehensive search strategy by combining various search parameters including key 
+words, IPC, compound searches, etc. and t horough s earch s hould be carried out in 
+patent as well as non-patent databases. 
+
+5.2 The compounds can be searched and identified from the various databases by using 
+several methods1: 
+
+a) Molecular formula and structural formula searching; 
+
+b) Name searching using IUPAC nomenclature; 
+
+c) Compound searching using CAS Registry Numbers; 
+
+d) Generic name searching (INN); and 
+
+e) Search using International Patent Classification (IPC). 
+
+5.3 It is to be noted that quite often the claims of the pharmaceutical compounds involve 
+derivatives of known compounds having established pharmaceutical activities. Also, it 
+has been observed t hat such pharmaceutical substances have already been assigned 
+generic names (International Non-Proprietary Names, INN). W hen t he patent 
+specification under examination disclose such INNs, the examiner should search the 
+prior art on the basis of such INNs as well. 
+
+5.4 In case it is found that the applicant claims the second use/indication in the form of a 
+product claim of an already known pharmaceutical compound/new form of a known 
+substance or compound, the examiner should follow the same methodology and ask 
+the applicant to inform the INN of the said pharmaceutical substance. If the applicant 
+does not inform the INN even on the request, the examiner should try to find out the 
+INN and use the same in the search strategy. 
+
+6. What is an invention: Section 2 (1) (j) 
+
+6.1 According to Section 2 (1) (j) of the Act, an "invention" means a new product or 
+process involving an i nventive step and capable of industrial application. An invention 
+will be patentable only if it is new in the light of prior art, or is not anticipated by prior 
+art. From the plain reading of section 2(1)(j), it is amply clear that only products 
+and/or processes for making pharmaceutical compounds are considered to be 
+inventions under the said clause. Sometimes, it is observed that applicants file claims 
+in the following manner: 
+
+1) Use of compounds in the treatment of ------------------- 
+
+2) A product or a substance (which is known) for the treatment of new disease (which 
+is nothing but use/application claim). 
+
+1Page 32 of Patent Information and Transparency: A Methodology for Patent Searches on Essential Medicines in 
+Developing Countries, Published by United Nations Development Programme304 E 45th Street New York, NY 
+10017, USA ,www.undp.org 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+The above two categories of claims are not to be considered as inventions, since the 
+claimed s ubject matter neither pertains to product nor to process. Further, an 
+objection with regard to Section 3(i) and Section 3(d) would be invoked. 
+
+6.2 Also, it may be noted that sometimes such claimed inventions relate to the second use 
+of already known compounds which have fallen in t he public domain. Necessary care 
+may be exercised to examine those cases in the light of Section 2(1)(j) and Section 3. 
+Further, it should be borne in mind that finding the new property of an already known 
+substance does not make the substance novel and/or inventive. 
+
+Illustrative example: In an Order, Hon’ble Intellectual Property Appellate Board (IPAB) 
+rejected one such application. The application initially claimed the use of known 
+Fumaric acid derivatives for a second medical indication. The examiner raised 
+objections on two counts i.e. claims are not allowable under section 2(1)(j) in that the 
+claims relate neither to product nor process and the compounds of the invention were 
+admittedly known2.Facing the objections the claims were amended to product claims, 
+but the question of lackin g in novelty was maintained. The Controller refused the 
+application on the ground of lacking in novelty. Later, the IPAB upheld the decision of 
+the Controller. 
+
+7. Assessment of Novelty: 
+
+7.1 Section 2 (1)(l) of t he Act states t hat ‘”new invention" means any invention or 
+technology which has not been anticipated by publication in any document or used in 
+the country or elsewhere in the world before the date of filing of patent application 
+with complete specification, i.e., the subject matter has not fallen in public domain or 
+that it does not form part of the state of the art’. For the purpose of ascertaining the 
+novelty during the examination, the prior art is to be construed as prescribed under 
+Section 2 (1)(l) and Section 13 (read with Sections 29 to 34) of the Act. The Manual of 
+Patent Office Practice & Procedure has set out the guidelines for assessment of 
+novelty of inventions (Chapter 8, Para 08.03.02) that may be referred to. 
+
+7.2 Documents: It should be noted that while assessing novelty (as distinct from 
+inventive step), it is generally not permitted to combine separate items of prior art 
+together. It is also not permissible to combine separate items belonging to different 
+embodiments described in o ne and the same document, unless such combination has 
+specifically been suggested or essentially linked to one another. If a Markush formula 
+covers innumerable compounds and if some of the compounds fall within one prior 
+art and certain other c ompounds fall within another prior art, in such cases all 
+these prior art documents are to be cited. A generic disclosure in the prior art 
+may not necessarily take away the novelty of a specific disclosure. A specific 
+disclosure in the prior art takes away the novelty of a generic disclosure. 
+
+2 In FUMAPHARM AG vs THE CONTROLLER OF PATENTS & DESIGNS, OA/6/2009/PT/KOL and Miscellaneous 
+Petition No. 34/2011 in OA/6/2009/PT/KOL, ORDER (No. 73 of 2013)2 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+7.3 Relevant date of a prior document: According to Section 2 (1) (w) of the Act, “priority 
+date” has t he meaning assigned to it by Section 11. In determining novelty, a prior 
+document should be read as it would have been read by a person skilled in the art on 
+the relevant date of the document. An invention will be patentable only if it is new in 
+the light of prior art, or is not anticipated by prior art . The prior art includes all 
+information and knowledge relating to the invention, which is available in a ny 
+publication before the date of priority of the patent application. For the purpose of 
+examination, an invention will not be new; if it forms part of the prior art or has 
+entered in public domain. For anticipation, such publication must be before the date 
+of priority of the claim under consideration. Also, any application for patent filed in 
+India, but published after the date of filing of a subsequent application for patent 
+in India claim ing the same subject-matter shall be treated as a prior art (i.e. prior 
+claiming) to the said subsequent application provided that the previous application has 
+earlier priority date. The prior art document must be enabling i.e. there should be a 
+clear and unmistakable direction for the invention in the prior art. 
+
+7.4 Implicit disclosure: The lack of novelty must normally be clearly apparent from the 
+explicit teaching of the prior art. However, since the prior art is read through the eyes 
+of the person skilled in the art, the implicit features of a document may also be taken 
+into account for determining novelty. Thus, if the person skilled in the art would read a 
+disclosure as including a particular feature without it being specifically mentioned, it 
+would be considered an implicit feature of that disclosure and lack of novelty may be 
+implicit in the sense that, in carrying out the teaching of the prior document, the skilled 
+person would inevitably arrive at a result falling within the terms of the claim. 
+Therefore, if t he said prior art discloses the claimed s ubject-matter in s uch implicit 
+manner that it leaves no doubt in the mind of examiner as to the content of the prior 
+art and the practical effect of its teaching, an objection regarding lack of novelty should 
+be raised. 
+
+7.5 I nherent anticipation: Sometimes the prior art may inherently disclose the subject 
+matter of an invention. In one case before the IPAB, it was held that “ patent is 
+invalid for anticipation if a single prior art r eference discloses each and every 
+limitation of the claimed invention. The prior art r eference may anticipate without 
+disclosing a feature of the claimed invention if that missing characteristic is 
+necessarily present, or inherent, in the single anticipating prior art. It is not 
+necessary that inherent anticipation requires that a person of ordinary skill in the art at 
+the time would have recognized the inherent disclosure. But it is necessary that t he 
+result is a necessary consequence of what was deliberately intended in the invention”3. 
+
+3[paragraph 58 of the decision of the IPAB in Enercon (India) Limited vs Aloys Wobben ORA/6/2009/PT/CH 
+,ORDER (No. 18 of 2013)]. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+7.6 Illustrative examples for determination of novelty 
+
+Example 1: 
+
+The claimed invention relates to a class of heterocyclic compounds of Formula I 
+which are used as mGluR1 enhancers. Prior art disclosed compounds with following 
+general formula II having similar biological properties. 
+ Following substituents are selected from list of substituents disclosed in prior art to 
+claim compound of formula I; 
+R1 is hydrogen; 
+R2, R2’hydrogen or halogen (as R3 and R3’ of present invention); 
+X is O; 
+A1, A2 is phenyl; 
+
+B is 4,5-substitued oxazole 
+
+where R4 and R5(as R1 and R2 of present invention) is hydrogen or trifluoromethyl, 
+with the proviso that at least one of R4 or R5 has to be hydrogen. 
+
+Present Invention 
+
+1. Compounds of general 
+formula 
+
+Prior Art 
+
+1. A compound of general formula 
+
+Formula I 
+
+one of R1 and R2 signifies 
+
+Wherein 
+
+Formula II 
+trifluoromethyl, and the 
+other one signifies 
+hydrogen; 
+
+R3, R 3’ signify, 
+independently from each 
+other, hydrogen or 
+halogen; 
+
+as well as pharmaceutically 
+acceptable salts thereof. 
+
+R1 signifies hydrogen or lower alkyl; 
+
+R2, R2’ signify, independently from each other, 
+hydrogen, lower alkyl, lower alkoxy, halogen or 
+trifluoromethyl; 
+
+X signifies O, S or two hydrogen atoms not forming a 
+bridge; 
+
+A1, A2 signify, independently from each 
+other,phenyl or a 6-membered heterocycle 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+B is a group of formula 
+
+R4 and R5 signifies hydrogen, lower alkyl, lower 
+alkoxy, cyclohexyl, lower alkyl¬ -cyclohexyl or 
+trifluoromethyl, with the proviso that at least one of 
+R4 or R5 has to be hydrogen; as well as their 
+pharmaceutically acceptable salts. 
+
+R4 and R5 signifies hydrogen, lower alkyl, lower 
+alkoxy, cyclohexyl, lower alkyl¬ -cyclohexyl or 
+trifluoromethyl, with the proviso that at least one of 
+R4 or R5 has to be hydrogen; as well as their 
+pharmaceutically acceptable salts. 
+
+Analysis: It may be noted that the compound of the present invention as well as 
+prior art compound is represented by Markush formulae. It is to be checked from the 
+prior art, whether compounds disclosed specifically in the prior art are of such 
+structure so that they can unambiguously take away the novelty of the compound(s) 
+in question. If the compounds of prior art disclosed specifically do not take away the 
+novelty of the compounds in question, then the generic disclosure in the prior art 
+may still be cited for the purpose of inventive step. 
+
+Example 2: 
+
+The invention relates to the fumarate salt of (2S)-1-{[1,1-Dimethyl-3-(4-(pyridin-3- 
+yl))-imidazol-1-yl)-propylamino]-acetyl}-pyrrolidine-2-carbonitrile useful for the 
+treatment of diabetes mellitus, having the structure 
+
+N
+O
+HN
+N
+
+Prior art specifically discloses methanesulfonic acid salt of (2S)-1-{[1,1-Dimethyl-3- 
+(4-pyridin-3-yl-imidazol-1-yl)-propylamino]-acetyl}-pyrrolidine-2-carbonitrile. 
+Further, it discloses "many pharmaceutically acceptable salts" of the said compound 
+and also mentions many salt forming acids, among which fumaric acid was 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+mentioned as one of the pharmaceutically acceptable salt forming acid. However, it 
+does not specifically disclose the fumaric acid salt. 
+Analysis: The subject-matter of the claimed invention claiming fumaric acid salt of a 
+compound (2S)-1-{[1,1-Dimethyl-3-(4-pyridin-3-yl-imidazol-1-yl)-propylamino]- 
+acetyl}-pyrrolidine-2-carbonitrile, the implicit disclosure of prior art anticipates the 
+novelty of claimed subject-matter. 
+
+7.7 Combination/Composition Claims 
+
+Quite often, the claims of combination of pharmaceutical products escape the 
+question of novelty and are dealt under the inventive step or relevant clauses of 
+Section 3 of t he Act. However, sometimes it may happen that the combination has 
+already fallen in the public domain and hence, should be dealt under novelty also. 
+
+7.8 Illustrative Examples for determination of novelty for combination/c omposition 
+claims: 
+
+Example 1: 
+
+Claimed invention relates to a composition for enhancing corneal healing said 
+composition comprising vitamin A and a sterile buffer administered to the eye. 
+
+Prior art discloses the use of the eye-drops to rewet contact lenses, wherein said eye- 
+drops comprising Vitamin A , the sterile buffer and other exciepients. 
+
+Analysis: The claim lacks novelty, as being anticipated by the said prior art, which 
+discloses all the features of claimed composition useful for enhancing corneal healing. 
+
+Thus, the claimed subject matter lacks novelty. 
+
+Example 2: 
+
+Claim: A pharmaceutical formulation comprising a substantially clear aqueous solution 
+characterized in that it has a viscosity of less than 10 mPa.s and contains 3.5 to 5% w/v 
+of 1,3-bis(2-carboxychromon-5-yloxy)-propan-2-ol, or a pharmaceutically acceptable 
+salt thereof as active ingredient, glycerol, and ions of metals of groups IA, IB, IIB and 
+IVB of the periodic table or transition metals having the concentration of the ions less 
+than 20 ppm. 
+
+The prior art (D1) describes a pharmaceutical f ormulation comprising an aqueous 
+solution containing 2% w/v of 1,3-bis(2-carboxychromon-5-yloxy)-propan-2-ol sodium 
+salt (sodium cromoglycate) as active ingredient and glycerol and method of preparing 
+the same. Further, D1 indicates that the concentration of sodium cromoglycate may 
+be from 0.1% w/v to 10% w/v and that it is preferred that the concentration of sodium 
+cromoglycate be less than 5% w/v. 
+
+D1 does not mention expressis verbis that this pharmaceutical formulation is a 
+substantially clear aqueous solution which has a viscosity of less than 10 mPa.s and 
+that the concentration in the formulation of ions of metals of groups IA, IB, IIB and IVB 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+of the periodic table or of transition metals is less t han 20 ppm. However, these 
+features were not distinguishing features over D1. There was a clear-cut similarity of 
+the method of preparation of the pharmaceutical formulation according to application 
+under question with that of D1, there was no reason to expect a different viscosity or 
+a different metal content in the two formulations. Accordingly, t he question was 
+whether the range of 3.5 w/v to 5% w/v of sodium cromoglycate, could be regarded as 
+novel over the disclosure of D1. D1 indicates that the concentration of sodium 
+cromoglycate may be from 0.1% w/v to 10% w/v and that it is preferred that the 
+concentration of sodium cromoglycate be less than 5% w/v. 
+
+Analysis: The skilled person will inevitably read t he value of 5% w/v for the 
+concentration of sodium cromoglycate. Accordingly, the claimed range of 3.5% w/v to 
+5% w/v is anticipated. 
+
+7.9 Product-by-process claims: 
+
+A claim to a product obtained or produced by a process is anticipated by any prior 
+disclosure of that particular product per se, regardless of its method of production. In 
+a product-by-process claim, by using only process terms, the applicant seeks rights to 
+a product, not a process. T he IPAB held in O RDER No. 200/2012 “…….product-by- 
+process claims must also define a novel and unobvious product, and that its 
+patentability cannot depend on t he novelty and unobviousness of the process 
+limitations alone. Therefore, the patentability of a product by process claim is based 
+on the product itself if it does not depend on the method of production. In other 
+words, if the product-by-process claim is the same as or obvious from a prior product, 
+the claim is un-patentable even if t he prior art product was made by a different 
+process. Accordingly the product by process claim must define a novel and un- 
+obvious product and the patentability in such claim cannot depend on the novelty and 
+un-obviousness of the process limitation alone” 4. 
+Therefore, in product-by-process claims, the applicant has to show that the product 
+defined in process t erms, is not anticipated or rendered obvious by any prior art 
+product. In other words t he product must qualify for novelty and inventive step 
+irrespective of the novelty or inventive step of the process. 
+
+4 The Research Foundation Of State University Of New York Vs Assistant Controller Of Patents 
+[OA/11/2009/PT/DEL (ORDER No. 200/2012)] 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+7.10 Illustrative Examples for determination of novelty for Product-by-process claims: 
+Example 1: 
+The patent application relates to “Ceramic based nanoparticles for entrapping 
+therapeutic agents for photodynamic therapy and method of using the same”. The 
+specification disclosed, in one embodiment, that the invention provided a method for 
+the synthesis of photosensitizer dye/drug doped silica-based nanoparticles (diameter 
+~30 nm), by controlled alkalin e hydrolysis of a ceramic material [such as 
+triethoxyvinylsilane (VTES)] in micellar media and in another embodiment, the 
+photosensitive drug/dye used was 2-devinyl-2-(1-hexyloxyethyl) pyropheophorbide 
+(HPPH), an effective photosensitizer. 
+
+Claims 1 to 6 were for method of preparing ceramic nanoparticles loaded with drugs 
+and claims 7 to 13 being composition claims. 
+
+ Claims 1 and 7 are reproduced below:- 
+
+1. A method of preparing ceramic nanoparticles loaded w ith one or more 
+photosensitive drugs comprising the steps of: 
+
+a) preparing micelles entrapping the photosensitive drugs; 
+
+b) adding alkoxyorganosilane to the micelles to form complexes of silica and 
+the micelles; 
+
+c) subjecting the complexes of silica and micelles to alkaline hydrolysis to 
+precipitate silica nanoparticles in which the photosensitive drug, molecules 
+are entrapped; and 
+
+d) isolating the precipitated nanoparticles by dialysis 
+
+7. A composition comprising ceramic nanoparticles in which one or more 
+photosensitive drugs are entrapped by a method comprising; the steps of: 
+
+a) preparing micelles entrapping the photosensitive drugs; 
+
+b) adding alkoxyorganosilane to the micelles to form complexes of silica and the 
+micelles ; 
+
+c) subjecting the complexes of silica and micelles to alkaline hydrolysis to 
+precipitate silica nanoparticles in which the photosensitive drug, molecules are 
+entrapped; and 
+
+d) isolating the precipitated nanoparticles by dialysis 
+
+Prior art (D1) is directed to use of photoluminescent nanoparticles for photodynamic 
+therapy to address the problem of application of light of a suitable wavelength to a 
+photodynamic drug (PDT). The solution suggested in D 1 was the use of Light-Emitting 
+nanoparticles to be administered in addition to PDT in order to activate the drug. It is 
+taught that the Light Emitting Nanoparticles absorb light from the light source and re- 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+emit lights at a different wavelength, which is suitable to activate the PDT drug in the 
+vicinity of Light Emitting Nanoparticles. Thus, the role of nanoparticles is to absorb the 
+light from a light source and re-emit the light of different wavelength to activate the 
+PDT drug. To achieve this purpose, firstly, a PDT drug is to be administered; 
+thereupon nanoparticles are administered and thereafter light source become active. 
+The time gap between administration of PDT drug and administration of nanoparticles 
+has been highlighted in the specification. The Controller refused the application on the 
+ground of lacking in novelty. 
+
+Analysis of IPAB: IPAB found that D1 did not teach or formally suggested a method of 
+synthesizing ceramic based nanoparticles entrapped with photosensitive drugs where 
+the method involve steps restricted in claim 1. Thus, the method claims could be 
+allowed. However, regarding the product-by- process claims, the IPAB was of the 
+opinion that in the present case the PDT drug is same but only the carriers are 
+different. Difference between prior art composition and claimed composition is in the 
+use of non-bio-gradable carrier. In the prior art, the carrier is polyacrylamide non- 
+
+degradable nanoparticles but in the claimed invention the carrier is ceramic based, 
+which is also non-bio-degradable. The composition claimed has known constituents 
+and beyond understanding to have any enhanced effect. The composition claims were 
+refused by the IPAB. 
+
+Example 2: 
+Claim: Compound C obtained by a process X 
+
+Prior art (D1) teaches the same compound C with same characteristics. However, in D1 
+the compound C was prepared by process Y. 
+
+Analysis: 
+As the compound C is already identified in D1, it lacks novelty despite the fact that it has 
+been prepared by a different method. 
+
+8. ASSESSMENT OF INVENTIVE STEP: 
+
+8.1 A n i nvention s hould possess an i nventive step in o rder to be eligible for patent 
+protection. As per the section 2(1)(j)(a) of Patents Act, an invention will have inventive 
+step if the invention is (a) technically advanced as compared to existing knowledge or 
+(b) having economic significance or (c) both, and that makes the invention not obvious 
+to a person skilled in the art. Further, the Manual of Patent Office P ractice & 
+Procedure has set out the guidelines for assessment of Inventive Step of inventions 
+(Chapter 8, Para 08.03.03). 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+8.2 The invention t hat creates the product must have a feature that involves technical 
+advance as compared to the existing knowledge or having economic significance or 
+both and this feature should be such as to make the invention not obvious to a person 
+skilled in the art5. 
+
+8.3 P rior art for determining inventive step constitutes any “state of knowledge exi sting 
+before the priority date of the claim under consideration. ” In other words, inventive 
+step is determined vis-à-vis any matter published in any document anywhere in the 
+world or any use before the priority date of the claim. Unlike the novelty, mosaicing 
+of prior art documents is permissible in the context of inventive step. 
+
+8.4 In the case o f Biswanath Prasad Radh ey Sh yam vs Hind ustan Metal Industrie s ( AIR 
+1982 SC 1444), Hon’ble Supreme Court observed on inventive step as : 
+“The expression "does not involve any inventive step" used in Section 26(1) (a) of the 
+Act and its equivalent word "obvious", have acquired special significan ce in the 
+terminology of Patent Law. The 'obviousness' has to be strictly and objectively 
+judged. For this determination several forms of the question have been suggested. 
+The one suggested by Salmond L. J. in Rado v. John Tye & Son Ltd. is appo site. It is: 
+"Whether the alleged discovery lies so much out of the Track of what was known 
+before as not naturally to suggest itself to a person thinking on the subject, it must 
+not be the obvious or natural suggestion of what was previously known (AIR 1982 SC 
+1444)”paragraph no.25. 
+“Whether an alleged invention involves novelty and an 'inventive step', is a mixed 
+question of law and fact, depending largely on the circumstances of the case. 
+Although no absolute test uniformly applicable in all circumstance s can be devised, 
+certain broad criteria can be indicated. Whether the "manner of manufacture" 
+patented, was publicly known, used and practised in the country before or at the date 
+of the patent ? If the answer to this question is 'yes', it will negative n ovelty or 'subject 
+matter'. Prior public knowledge of the alleged invention which would disqualify the 
+grant of a patent can be by word of mouth or by publication through books or other 
+media. "If the public once becomes possessed of an invention", says Hi ndmarch on 
+Patents (quoted with approval by Fry L. J. in Humpherson v. Syer, "by any means 
+whatsoever, no subsequent patent for it can be granted either to the true or first 
+inventor himself or any other person; for the public cannot be deprived of the rig ht to 
+use the invention........ the public already possessin g everything that he could give 
+(AIR 1982 SC 1444)”Paragraph 24. 
+
+5SC in Novartis vs Union of India, SUPREME COURT OF INDIA Civil Appeal Nos. 2706-2716 of 2013 (Arising out 
+of SLP (C) Nos. 20539-20549 of 2009)paragraph 89 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+8.5 “ Another test o f wh ether a d ocument is a publicatio n which w ould 
+negative existence of novelty or an "inventive step" is suggested, as unde r: "Had 
+the document been placed in the hand s of a competent craftsman (or engineer as 
+distinguished from a mere artisan), e ndowed with the co mmon general knowledge at 
+the 'pri ority date', who was faced with the pr oblem s olved by the patentee but 
+without kn owledge of the pat ented invention, w ould he have said, "this gives me 
+what I want?" (Encyclopaedia Britannica; ibid paragraph 26). To put it in another form: 
+"Was it for practical purp oses obvious to a s killed w orker, in the field c oncerned, in 
+the state of knowledge existing at the date o f the patent to be f ound in the literature 
+then available to him, that he would or should make the invention the subject of the 
+claim c oncerned ?" [Halsbur y, 3rd Edn, V ol. 2 9, p. 42 r eferred to by Vi madalal J. of 
+Bombay High C ourt in Farbwrke Hoechst & B. C orporation v. Unichem 
+Laboratories](AIR 1969 BOM 255)”( AIR 1982 SC 1444) paragraph 26. 
+
+ 8.6 Skilled person: The meaning of a person skilled in the art is extremely imp ortant in the 
+context of in ventive step anal ysis. This h ypothetical pers on is presumed to know all 
+the pri or art s as on that date, e ven n on-patent pri or art av ailable to public. He has 
+knowledge of the technical advancement as o n that date, and the skill to p erform 
+experiments with the knowledge o f state o f the art 6. He is no t a dullard and has 
+certain modicum of creativity7. The IPAB has made a distinction between the pers on 
+skilled in the art (the o bviousness p erson) and the p erson who has a verage skill 
+(enablement man)8. 
+IPAB, fur ther clarified in En ercon vs allo ys W obbens ( order n o.123/2013, paragraph 
+30) “ We do n ot intend to v isualize a p erson who has sup er skills, but we do not 
+think we should make this person skilled in the art to be incapable o f carrying out 
+anything but basic instructi ons”. Ch oosing a better alternativ e/substitute from the 
+known alternative from the prior art to obtain the known results would not go beyond 
+what may be normally expected from person skilled in the art. 
+
+8.7 Hindsight analysis: The 'ob viousness' has to be strictly and o bjectively judged 9. To 
+judge obviousness objectively, the skilled pers on needs to eli minate the hindsight 
+analysis. The prior art needs to be judged on the date of priority of the application 
+and not at a later date. 
+
+6 Please see decision of IPAB in Fresenius Kabi Oncology Limited vs Glaxo Group Limited, ORA/22/2011/PT/KOL 
+AND M.P. NO.140/2012 IN ORA/22/2011/PT/KOL, ORDER (No.161 of 2013) [Paragraph 52], quoting therein 
+IPAB Order No.128 of 2013 in ORA/08/2009/PT/CH AND Miscellaneous Petition Nos. 7/2010, 31/2010, 
+51/2011, 86/2012, 142/2012 & 143/2012 in ORA/08/2009/PT/CH Enercon (India) Limited vs. Aloys Wobben, 
+on the basis of Judgment of Delhi High Court in F. Hoffmann-La Roche Ltd, vs Cipla Ltd, CS (OS) No.89/2008 and 
+C.C. 52/2008, 
+7 IPAB in In Sankalp Rehabilitation Trust vs Hoffman–Roche [OA/8/2009/PT/CH) Oder No. 250/2012] 
+8in Enercon, vs Aloys Wobben, [ORA/08/2009/PT/CH] (Order No. 123 of 2013) [Paragraph 30] 
+9Biswanath Prasad Radhey Shyam vs Hindustan Metal Industries, op.cit 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+8.8 10Reasonable expectation of success: With respect to what is obvious, it must be 
+borne in mind that “the mere existence in the prior arts, of each of the elements in the 
+invention, will not ipso facto mean obviousness For after all most inventions are built 
+with prior known puzzle -pieces. There must be a coherent thread lea ding from the 
+prior arts to the invention, t he tracing of the thread must be an act wh ich f ollows 
+obviously”. This “coherent thread leading from the prior art to the obviousness” or in 
+other words, “the reasonable expectation of success embedded in the prior art which 
+motivates the skilled person to reach to the invention, is the most crucial determining 
+factor in ascertaining inventive st ep”. Obviousness cannot be a voided simply by 
+showing of some degree of unpredictability in the art so long as t here was a 
+reasonable probability of success 11. Obviousness does not require absolute 
+predictability of success. All that is required is a reasonable expectation of success12. 
+
+In the matter of pharmaceutical inventions structural and functional similarity of the 
+product provides this motivation to combine the teachings of the prior arts. A 
+surprising effect, synergistic outcome of t he combinations, prior art prejudice etc . 
+usually demonstrates the non-obvious nature of the invention. However, it is 
+reiterated that choosing a better alternative/substitute from t he known alt ernative 
+from the prior art to obtain t he known r esults would not go beyond w hat may be 
+normally expected fr om person skilled in the art. Thus, when the solution is fro m a 
+limited number of identified predictable solutions , which is obvious to try, even the 
+demonstration of surprising effects etc. do not provide any answer to the obviousness. 
+
+8.9 Method for objectively analysing the inventive step: 
+
+a) Identify the inventive concept of the claim in question 
+b) Identify the "person skilled in the art", 
+c) Identify the relevant common general knowledge of the person skilled in 
+the art at the priority date; 
+
+d) Identify what, if any, differences exist between the matter cited as 
+forming part of the "st ate of the art" an d the inventive concept of the 
+claim; 
+
+e) Viewed without any knowledge of the alleged invention as claimed, do 
+those differences constitute steps which would have been obvious to 
+the person skilled in the art or do they require any degree of inventive 
+ingenuity? 
+
+10 IPAB in Enercon vs Aloys Wobben [ORA/08/2009/PT/CH,Oder No. 123 of 2013] [Paragraph 43] 
+11 IPAB in M/s. BECTON DICKINSON AND COMPANY vs CONTROLLER OF PATENTS & DESIGNS, 
+[OA/7/2008/PT/DEL) [280-2012], [Paragraph 32] 
+
+12
+IPAB in Ajanta Pharma Limited vs Allergan Inc., ORA/20/2011/PT/KOL, ORDER (No.172 of 2013) [Paragraph 93] 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+8.10 Illustrative examples for assessment of inventive step: 
+
+Example 1: 
+
+Invention: Compound represented by the formula Py-B3, in which Py stands for a 
+specific pyrazolone skeleton and B stands for ethyl. The compounds of the invention 
+possess analgesic properties. 
+
+Prior Art: Closest prior art describes Py-B3, wherein B stands for methyl. The 
+compound of the prior art was not known to possess any therapeutic activity. 
+
+Analysis: 
+
+Step 1: identifying the inventive concept embodied in the patent: the inventive 
+concept is Py-B3, B sta nds for ethyl; where the compounds of invention possess 
+analgesic properties 
+
+Step 2: Imputing to a person of ordinary skill having ordinary creativity what was 
+common general knowledge in the art at the priority date: 
+
+This test requires t wo activities, namely, identifying the skilled person and the 
+common general knowledge. 
+
+Skilled person: In this case the skilled person is a medicinal chemist or may be a 
+composite team of an organic chemist and a pharmacologist. 
+
+Common general knowledge: The skilled person has a thorough knowledge of the 
+state of the art related to the organic chemistry of pyrazolones and also a thorough 
+knowledge of the state of the art of the compounds or classes of compounds having 
+analgesic activity. The knowledge must be of the date of t he priority of the patent 
+application in question, and not later than that. That is, the person must not consider 
+any document published subsequent to the date of priority. 
+
+Step 3: Identifying the differences if any between the matter cited and the alleged 
+invention; the difference between the prior art and the invention is the replacement 
+of three methyl substituents at the annular positions and the pharmaceutical activity 
+of the resultant compound. 
+
+Step 4: Deciding whether those differences, viewed without any knowledge of the 
+alleged invention constituted steps which would have been obvious to the skilled 
+man or whether they required any degree of invention: (or whether there was 
+reasonable expectation of success or coherent thread leading from the prior art) 
+
+The prior art compound, although structurally very close, does not provide any clue to 
+the skilled person that the resultant compounds with a very nominal change would be 
+successful as a pharmaceutical product. Changing from methyl to ethyl would have 
+been obvious to the skilled person but the said change would not suggest achieving 
+any pharmacological property of the modified compound. In other words there was no 
+coherent thread leading from the prior art to arrive to the invention. Alternatively, it 
+may be said that there was no prior art motivation. 
+
+Conclusion: The invention is therefore non-obvious. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Example 2 
+
+Invention: Selective COX-II inhibitor NSAIDs represented by the formula Hy-X. Hy 
+represents a complex heterocyclic structure, whereas X represents substituents. 
+
+Background: Cyclooxygenase I and II play vital roles in pharmacological activities of 
+NSAIDS. Early NSAIDS are known to cause gastric irritations and life threatening ulcers. 
+Selective COX II inhibitors, developed later, are shown to inhibit gastric secretions and 
+thereby proved to be a better choice as NSAID. The object of the invention is to 
+provide a class of COX II inhibitors. 
+
+Q stands for S and O 
+
+Prior Art: D1 teaches compounds with following structures: 
+
+D2 teaches compounds with following structures: 
+
+Both the compounds of D1 and D2 are non-steroidal anti-inflammatory drugs and have 
+disadvantage of gastric acid secretions. D2 is known to display higher level of gastric 
+acid secretion as compared to D1. 
+
+Analysis: 
+
+Step 1: Identifying the inventive concept embodied in the patent: the inventive 
+concept is the replacement of an annular C atom in the left hand aromatic ring with 
+the resultant finding of a class of selective COX II inhibitor with analgesic properties. 
+
+Step 2: Imputing to a person of ordinary skill having ordinary creativity what was 
+common general knowledge in the art at the priority date: 
+
+Skilled person: In this case the skilled person is a m edicinal chemist or may be a 
+composite team of an organic chemist and a pharmacologist. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Common general knowledge: The skilled person has a thorough knowledge of the 
+state of the art related to the organic chemistry of heterocyclic compounds and also a 
+thorough knowledge of the state of the art of the compounds or classes of compounds 
+having analgesic act ivity. T he knowledge must be of the date of t he priority of the 
+patent application in question, and not later than that. That is, the person must not 
+consider any document published subsequent to the date of priority. 
+
+Step 3: Identifying the differences if any between the m atter cited and the alleged 
+invention; the difference between the prior art and the invention is the replacement 
+of C atom at the annular position as said above and the pharmaceutical activity of the 
+resultant compound. 
+
+Step 4: deciding whether those differences, viewed without any knowledge of the 
+alleged invention constituted steps which would have been obvious to the skilled 
+man or whether they required any degree of invention: (or whether there was 
+reasonable expectation of success or coherent thread leading from the prior art) 
+
+In t he instant case, the invention re quired t wo successive changes in t he annular 
+positions if viewed from D1. However, after reaching to D 2 and after finding that the 
+resultant compound does not display any selective COX II inhibiting properties, the 
+skilled person would not feel motivated to make any further change in D2 to reach to 
+the compound of the present invention. In other language the prior art teaches away 
+from the invention. 
+
+Conclusion: The invention is therefore non-obvious. 
+Example 3 
+Invention: Besylate salt of a compound A (A-B) with blood pressure lowering 
+properties. 
+
+Background: Conversion of A-M to A-B significantly improves the processability in the 
+manufacturing of the drug, and improves its stability, while the pharmacological 
+property of A-B remains same as that of A-M. 
+
+Prior Art: 
+
+D1: The closest prior art D1 teaches Maleate (A-M) salt of compound A having same 
+physiological properties. 
+
+D2: D2 shows a list of 53 pharmacologically acceptable anions as salt forming 
+candidates from the list of drug approval authorities. However, the most commonly 
+used anion is hydrochloride, whereas besylate is used for 0.25% of the approved 
+drugs. Other than hydrochloride, which was used in approximately 43% of approved 
+drugs, almost all other salts could be categorized as “seldom used.” 40 out of 53 
+anions were used in less than 1% of drugs and 23 out of 53 were used in 0.25% or less 
+of drugs. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+D3: Prior art D3 shows t hat besylate salts impart excellent stability and other 
+properties. 
+
+Analysis: 
+
+Step 1: Identifying the inventive concept embodied in the patent: besylate salt of a 
+compound A with better processability. 
+
+Step 2: Imputing to a person of ordinary skill having ordinary creativity what was 
+common general knowledge in the art at the priority date: 
+
+Skilled person and common general knowledge: t he skilled person is either a 
+medicinal chemist or a composite team comprising a medicinal chemist and a 
+pharmacologist. The skilled person has a common general knowledge, has a thorough 
+understanding of processability of drugs. He is capable of undertaking experiments 
+within a limited area and is capable of choosing a better alternative/substitute from 
+the known alternative from the prior art to obtain the known results. He is aware of 
+both D1 , D2 and D3. 
+
+Step 3: Identifying the differences if any between the m atter cited and the alleged 
+invention; the difference is the replacement of maleate anion with besylate anion as 
+salt forming agent. 
+
+Step 4: deciding whether those differences, viewed without any knowledge of the 
+alleged invention constituted steps which would have been obvious to the skilled 
+man or whether they required any degree of invention: In the present case, the 
+person skilled in the art had to try from a list of 53 anions. He would not have been 
+dissuaded by the fact that besylate is used for 0.25% of the approved drugs as he had 
+knowledge that other anions were also used rarely. Rather D3 would have motivated 
+him to undertake the trials from within this set of 53 anions particularly keeping in 
+view the better properties of t he besylate salts. Considering that the besylate salts 
+would have been obvious to try and having reasonable expectation of success he 
+would go for such alterations. 
+
+Conclusion: The invention is therefore obvious. 
+
+The inventive step in the subsequent examples has been analysed by following the 
+steps as prescribed above. 
+
+Example 4: 
+
+The claimed invention relates to a process f or t he preparation of Compound C by 
+treating Compound A and Compound B in the presence of platinum catalyst. All the 
+features of the invention are disclosed in the prior art except the platinum as a 
+catalyst explicitly, but it was mentioned as noble metal catalysts. 
+
+Analysis: Prior art generically disclosed platinum as noble element which is also an 
+equivalent element used in t he art for similar purposes and obvious to the skilled 
+person. Therefore, it is application of k nown feature in the prior art into claimed 
+invention in an obvious way. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Example 5: 
+
+The claimed invention relates to monoester of a known diol compound for treating 
+cancer diseases using amino acids selected from lysine, valine, leucine and the like, as 
+an esterifying agent. Due to poor oral bioavailability, the diol was unable to use as 
+oral delivery system. To improve the oral bioavailability one of the hydroxyl group in 
+the diol was converted into a monoester using said amino acids. 
+
+Prior art disclosed monoalcohol with similar structure having poor oral bioavailability 
+was converted into an ester using amino acids selected from lysine, valine, leucine and 
+the like, as an esterifying agent, which exhibit improved oral bioavailability in the 
+treatment of cancer diseases. Amino acid used in the prior art as well as in the 
+claimed invention is lysine. 
+
+Prior Art Claimed Invention 
+R-CH2-OH 
+
+R-CH2-OR’ 
+
+R’ is lysine, valine, leucine and the like 
+HO –CH2-R-CH2-OH 
+
+HO –CH2-R-CH2-OR’ 
+
+R’ is lysine, valine, leucine and the like 
+
+Analysis: Object of the claimed invention was to provide a solution to overcome the 
+poor oral bioavailability of diol, when administered as oral delivery system. One of the 
+alcohol groups in the diol was converted into ester using lysine for improving the oral 
+bioavailability of the diol. 
+
+Prior art addressed poor oral bioavailability for substantially similar structure of 
+monoalcohol. The problem was solved by converting the monoalcohol into ester using 
+lysine as an esterifying agent. T herefore a person s killed in t he art can be motivated 
+with teachings of t he prior art to use the amino acid for improving the oral 
+bioavailability by converting diol into monoester ester of diol to solve similar k ind of 
+problem. T herefore there is no technical advancement involved in the claimed 
+invention. 
+
+Example 6: 
+
+A pharmaceutical composition comprising first active agent in an amount from about 
+2 mg to about 4 mg corresponding to a daily dosage and second active agent in an 
+amount from about 0.01 mg to about 0.05 mg corresponding to a daily dosage 
+together with one or more pharmaceutically acceptable carriers or excipients. The 
+composition consists of a number of separately packaged and individually removable 
+daily dosage units placed in a packaging unit and intended for oral administration for a 
+period of at least 21 consecutive days. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+The first active agent present in the composition is in micronized form or sprayed from 
+a solution onto particles of an inert carrier. 
+
+D1: The first and second active agents together with c ombination of those agents are 
+known in the art. D2: Micronisation for poorly soluble similar drugs is also known in 
+the art for improved drug delivery. 
+
+Analysis: Micronized form of first active agent is novel aspect in the present 
+composition. Dose and dosage regimen of first and second active agents in 
+combination and micronisation for poorly soluble similar type of drugs are known in 
+the art. Therefore, it is obvious to a person skilled in the art to convert poorly soluble 
+active ingredient into micronized form for improved drug delivery. Further, changing 
+the particle size is mere modification in t he physical form of the active agent for 
+improved and anticipated effect and therefore the claimed invention is obvious. 
+
+9. Industrial applicabilitys 
+
+9.1 As per Section 2(1)(ac) of the Act, the expression “capable of industrial application”, in 
+relation to an invention, means that the invention is capable of being made or used in 
+an industry”. Further, Section 64 (1) (g) of the Act provides that a patent is liable to be 
+revoked if the invention is not useful. To be patentable an invention must be useful 
+and capable of industrial application. The specification should disclose the usefulness 
+and industrial applicability of an invention in a distinct and credible manner unless the 
+usefulness and industrial applicability of the invention is already established, either in 
+explicit or in implicit manner. The patent specification must disclose a practical 
+application and industrial use for the claimed invention wherein a concrete benefit 
+must be derivable directly from the description coupled with c ommon general 
+knowledge. Mere speculative use or vague and s peculative indication of possible 
+objective will not suffice. 
+
+9.2 Illustrative examples for industrial applicability: 
+Example 1: 
+Invention: Synthetic analogues of a steroid. The steroids possess certain medicinal 
+properties. However, t he compounds of t he invention, as assert ed, are subjects of 
+serious investigation, being the analogue of compounds known for medicinal 
+properties. 
+
+Analysis: The claimed compounds are not patentable as they lack any credible and 
+specific utility. A mere scientific interest does not make something eligible for 
+patentability. 
+
+Example 2: 
+
+Invention: The application comprises three sets of claims: 
+
+1. A compound of formula A 
+
+2. A compound of formula B 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+3. A process of making A and B, wherein, C and D are reacted at m to n 
+degree centigrade, in an aprotic solvent Y, the said aprotic solvent being 
+selected fr om a, b, c, d, e and s ubsequently distilled a nd purified to 
+isolate A from B 
+
+The specification describes the use of compound of formula A as having certain 
+pharmaceutical applications. However, the specification does not disclose any use of 
+the compound of formula B. 
+
+Analysis: Claim 2 is not allowable in so far that the compound is not shown to 
+possess any utility. Just because it is a by-product of a reaction for the preparation 
+of the compound of formula A, does not make it a patentable subject matter. 
+
+10. Inventions not patentable: 
+
+10.1 Section 3 (b): Inventions c ontrary to morality or which cause serious prejudice to 
+human, animal o r plant life or health o r e nvironment are not patentable. An y 
+invention, the primary or intended use or commercial exploitation of which is against 
+the public order or morality or is capable of causing serious damage to the human, 
+animal or plant life or cause damage to the environment or public health is not 
+allowable under t his section. Since an invention is a reward to the owner of an 
+invention in the form of monopoly, such rewards are not justified from the public 
+policy angle, if they are prejudicial to the public interest. 
+
+10.2 Section 3(c): Scientific principles or abstract theory or discovery of living things or non- 
+living substances are not patentable inventions. Section 3 (c) of the Act, excludes the 
+mere discovery of a scie ntific principle or t he formulation of an ab stract theory or 
+discovery of any living thing or non-living substance occurring in nature from the 
+scope of patentability. Compounds which are isolated from nature are not patentable 
+subject-matter. However, processes of isolation of these compounds can be 
+considered subject to requirements of Section 2 (1) (j) of the Act. 
+
+10.3 Illustrative examples for section 3(c): 
+Example 1: 
+Claim: A compound for cardiac disorder related activity, wherein t he compound is 
+obtained from the cerebrospinal fluid of horseshoe crab, Tachypleusgigas. 
+
+Analysis: The subject-matter is not patentable under Section 3 (c) of the Act, because 
+the application attempts to claim a compound, which is isolated from cerebrospinal 
+fluid of embryos of horseshoe crab, Tachypleusgigas(i.e. a compound which is non- 
+living substance occurring in nature). As per Section 3 (c) of the Act, a non-living 
+substance occurring in nature is statutorily non-patentable subject-matter. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Example 2: 
+
+Invention: An extract of Calotrophis gigantea containing cardiac glycosides having 
+antineoplastic effect, which exhibit in vitro cytotoxic activity on human carcinoma cell 
+line without exhibiting cytotoxicity on a normal human cell line, wherein the extract is 
+effective against human l ung carcinoma cell line A549 and human colon 
+adenocarcinoma cell line COL0205 without showing cytotoxicity on a normal human 
+cell line W138. 
+
+Analysis: The claimed extract of C. gigantea containing cardiac glycosidesis statutorily 
+excluded from patentability under Section 3 (c) of t he Act, as being directed to a 
+discovery of non-living substance occurring in nature. 
+
+10.4 Section 3(d) : The mere discovery of a new form of a known substance which does not 
+result in the enhancement of the known efficacy of that substance or the mere 
+discovery of any new property or new use for a known substance or of the mere use 
+of a known process, machine or apparatus is not a patentable invention unless such 
+known process results in a new product or employs at least one new reactant. 
+
+Explanation:- For the purposes of this clause, salts, esters, ethers, polymorphs, 
+metabolites, pure form, particle size, isomers, mixtures of is omers, complexes, 
+combinations and other derivatives of known substance shall be considered to be the 
+same substance, unless they differ significantly in properties with regard to efficacy. 
+
+10.5 In the context of the pharmaceutical inventions, Section 3(d) deserves special 
+attention. Section 3 (d) stipulates that an incremental invention, based upon an 
+already known substance, having established medicinal activity shall be deemed to be 
+treated as a s ame substance, and s hall fall foul of patentability, if t he invention in 
+question fails to demonstrate significantly improved therapeutic efficacy with respect 
+to that known compound. After analysing the legislative history of Section 3(d), the 
+Hon’ble Supreme C ourt c ommented, “We have, t herefore, no doubt t hat the 
+amendment/addition made in section 3(d) is meant especially to deal with chemical 
+substances, and more particularly pharmaceutical products. The amended portion of 
+section 3(d) clearly sets up a second tier of qualifying standards for chemical 
+substances/pharmaceutical products in order to leave the door open for true and 
+genuine inventions but, at the same time, to check any attempt at repetitive patenting 
+or extension of the patent term on spurious grounds”13. 
+
+13SC in Novartis AG Vs. Union of India (UOI) and Ors, op.cit, MANU/SC/0281/2013,Paragraph 103 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+10.6 While interpreting what is “efficacy”, the Hon’ble Supreme Court in the Novartis case 
+held that in the c ontext of the pharmaceutical patenting t he “efficacy” should be 
+understood as “therapeutic efficacy”.14 In Paragraph 180 of the order it was held: 
+What is “efficacy”? Efficacy means “the ability to produce a desired or intended result”. 
+Hence, the test of efficacy in the context of Section 3(d) would be different, depending 
+upon the result the product under consideration is desired or intended to produce. In 
+other words, the test of efficacy would depend upon the function, utility or the 
+purpose of the product under consideration. Therefore, in the case of a medicine that 
+claims to cure a disease, the test of efficacy can only be “therapeutic efficacy”. ………It 
+may be noted that the text added to Section 3(d) by the 2005 amendment lays down 
+the condition of “enhancement of the known efficacy”. Further, the explanation 
+requires the derivative of “differ significantly in properties with regard to efficacy”. 
+What is evident, therefore, is that not all advantageous or beneficial properties are 
+relevant, but only such properties that directly relate to efficacy, which in case of 
+medicine, as seen above, is its therapeutic efficacy. W hile dealing with the 
+explanation as provided in Section 3(d) it must also be kept in mind that each of 
+the different forms mentioned in the explanation have some properties inherent to 
+that form, e.g., solubility to a s alt and hygroscopicity to a polymorph. T hese forms, 
+unless they differ significantly in property with regard to “therapeutic efficacy”, are 
+expressly excluded from patentability. Hence, the mere change of form with 
+properties inherent to that form would not qualify as "enhancement of efficacy" of a 
+known substance. In other words, the explanation is meant to indicate what is not to 
+be considered as therapeutic efficacy15. 
+
+14“Efficacy means “the abi lity to produce a desired or intended result”. Hence, the test of efficacy in the context of section 
+3(d) would bedifferent, depending upon the result the product under consideration is desired or intended to produce. In 
+other words, the test of efficacy would depend upon the function, utility or the purpose of the product under consideration. 
+Therefore, in the case of a medicine that claims to cure a disease, the test of efficacy can only be “therapeutic 
+efficacy”.[ibid, Paragraph 180] 
+15Ibid, paragraph 181 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+10.7 A lso, the Supreme Court explained what would mean a “new product” in the context 
+of Section 3(d): “…………the new product in c hemicals a nd especially pharmaceuticals 
+may not necessarily mean something altogether new or c ompletely unfamiliar or 
+strange or not existing before. It may mean something “different from a recent 
+previous” or “one regarded as better than what went before” or “in addition to 
+another or others of the same kind”. However, in case of chemicals and especially 
+pharmaceuticals if the product for which patent protection is claimed is a new form of 
+a known substance with known efficacy, then the s ubject product must pass, in 
+addition to clauses (j) and (ja) of section 2(1), the test of enhanced efficacy as 
+provided in section 3(d) read with its explanation”16. 
+10.8 According to the Supreme Court, whether or not an increase in bioavailability leads to 
+an enhancement of therapeutic efficacy in any given case must be specifically claimed 
+and established by research data17. 
+“The position that emerges is that just increased bioavailability alone may not 
+necessarily lead to an enhancement of therapeutic efficacy. Whether or not an increase 
+in bioavailability leads to an enhancement of therapeu tic efficacy in any given case 
+must be specifically claimed and established by research data. In this case, there is 
+absolutely nothing on this score apart from the adroit submissions of the counsel. No 
+material has been offered to indicate that the beta c rystalline form of Imatinib 
+Mesylate will produce an enhanced or superior efficacy (therapeutic) on molecular 
+basis than what could be achieved with Imatinib free base in vivo animal model. Thus, 
+in whichever way section 3(d) may be viewed, whether as setting up the standards of 
+“patentability” or as an extension of the definition of “invention”, it must be held that 
+on the basis of the materials brought before this Court, the subject product, that is, the 
+beta crystalline form of Imatinib Mesylate, fails t he test of section 3(d), too, of the Act”. 
+
+10.9 However, it is important to note that Supreme Court has clarified further that the test 
+of Section 3(d) of the Act does not bar patent protection for all incremental inventions 
+of chemical and pharmaceutical substances18. 
+Para 191 of the Judgment mentions “We have held that the subject product, the beta 
+crystalline form of Imatinib Mesylate, does not qualify the test of Section 3(d) of the 
+Act but that is not to say that Section 3(d) bars patent protecti on for all incremental 
+inventions of chemical and pharmaceutical substances. It will be a grave mistake to 
+read this judgment to mean that section 3(d) was amended with the intent to undo the 
+fundamental change brought in the patent regime by deletion of s ection 5 from the 
+Parent Act. That is not said in this judgment”. 
+
+ 16
+Ibid, paragraph 192 
+17
+ibid[Paragraph 189] 
+18“We have held that the subject product, ……does not qualify the test of Section 3(d) of the Act but that is not to say that 
+Section 3(d)bars patent protection for all incremental inventions of chemical and pharmaceutical substances. It will be a grave 
+mistake to read this judgment to mean that section 3(d) was amended with the intent to undo the fundamental change 
+brought in the patent regime by deletion of section 5 from the Parent Act. That is not said in this judgment”. [ibid, Paragraph 
+191]. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+10.10 The term “combination” as appearing in Section 3(d) has been explained by IPAB as 
+“The combination mentioned in the Explanation can only mean a combination of two 
+or more of the derivatives mentioned in the Explanation or combination of one or 
+more of the derivatives with the known substance wh ich may result in a significant 
+difference with regard to the efficacy”19. 
+10.11 Illustrative examples for section 3(d): 
+Example 1: 
+The invention relates to a β-crystalline form of methanesulfonic acid addition salt of 
+imatinib and processes for the preparation thereof. The application was filed with the 
+title: Crystal Modification of A N-phenyl-2-pyrimidineamine Derivative, Processes for 
+Its Manufacture And Its Use. The substance claimed was a medicine for the treatment 
+of chronic myeloid leukemia (CML). 
+
+The specification asserts that the claimed β-form has (i) more beneficial flow 
+properties: (ii) better thermodynamic stability; a nd (iii) lower hygroscopicity than the 
+alpha crystal form of Imatinib Mesylate. No experimental data related to efficacy is 
+provided in t he specification f or β-crystalline form i matinib mesylate or imatinib 
+mesylate. 
+
+Claims: A form of the methanesulfonic acid addition salt of a compound of formula 
+comprising crystals of the β-modification. 
+
+A number of pre-grant oppositions were filed. The application for patent was refused 
+under Section 25(1) on the ground that the invention was 
+
+• anticipated by US Patent no: 5521184 (Zimmerman Patent, disclosing Imatinib and 
+salts ), "Nature Medicine' of May 1996, and the Patent term extension certificate for 
+the 1993 patent issued by the USPTO which specifically mentions imatinib mesylate 
+as the product; 
+
+• obvious vis-à-vis US 5521184 
+
+• not allowable u/s 3(d): Applicant fails to prove enhanced efficacy (thirty percent 
+bioavailability was held not meeting the requirement of “therapeutic efficacy”). 
+
+19Ajantha Pharma Limited Vs Allergan Inc. and Others,ORA/21/2011/PT/KOL of Order no. 173 of 2013, Paragraph 84 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Decision of Supreme Court: After several rounds of litigations in different forums, the 
+matter reached before the Supreme Court. 
+
+It was argued on behalf of the appellant that 
+
+There is certainly no mention of polymorphism or crystalline structure in the 
+Zimmermann patent. The relevant crystalline form of the salt that was synthesized 
+needed to be invented. There was no way of predicting that the beta crystalline form 
+of Imatinib Mesylate would possess the characteristics that would make it orally 
+administrable to humans without going through the inventive steps. 
+
+It was further argued that the Zimmermann patent only described, at most, how to 
+prepare Imatinib free base, and that this free base would have anti-tumour 
+properties with respect to the BCR ABLkinase. 
+
+Thus, arriving at the beta-crystalline form of Imatinib Mesylate for a viable treatment 
+of Chronic Myeloid Leukemia required further invention – not one but two, starting 
+from Imatinib in free base form, (formation of mesylate and then beeta crystalline 
+thereof). 
+
+The Court mainly focussed its analysis on 
+ (1) whether imatinib mesylate was already known, and then 
+(2) if it is a k nown s ubstance, it must meet the criteria of enhanced efficacy as in 
+Section 3(d). 
+The Court after analysing the documents held that, “Imatinib Mesylate is all there in 
+the Zimmermann patent. It is a known substance from the Zimmermann patent”20. 
+After finding that Imatinib Mesylate is a known substance from the Zimmermann 
+patent itself……its pharmacological properties are also known in t he Zimmermann 
+patent and in the article published in the Cancer Research journal (Cancer Research, 
+January 1996)21. “The s ubject product , that is beta crystalline form of Imatinib 
+Mesylate, is thus clearly a new form of a known substance, i.e., Imatinib Mesylate, of 
+which the efficacy was well known. It, therefore, fully attracts section 3(d) and must 
+be shown to satisfy the substantive provision and the explanation appended to it”22. 
+“It is noted, in the earlier part of judgment, that the patent application submitted by 
+the appellant c ontains a clear an d unambiguous a verment that all t he therapeutic 
+qualities of beta crystalline form of Imatinib Mesylate are also possessed by Imatinib 
+in free base…..”[Paragraph 162] 
+
+“..the appellant was obliged to show the enhanced efficacy of the beta crystalline 
+form of Imatinib Mesylate over Imatinib Mesylate (non-crystalline).There is, however, 
+no material in the subject application or in t he supporting affidavits to make any 
+comparison of efficacy, or even solubility, between the beta crystalline form of 
+Imatinib Mesylate and Imatinib Mesylate” (non-crystalline). [Paragraph 171] 
+
+ 20Ibid, [paragraph 131] 
+21ibid, [paragraph 157]. 
+22ibid[Paragraph 161] 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+On the question of bio-availability the Court held that“…….the position that emerges 
+is that just increased bioavailability alone may not necessarily lead to an 
+enhancement of therapeutic efficacy. Whether or not increase in bioavailability leads 
+to an enhancement of therapeutic efficacy in any given case must be specifically 
+claimed and established by research data In t his case, there is absolutely nothing on 
+this score apart from the a droit submissions of the counsel. No material has been 
+offered to indicate that the beta crystalline form of Imatinib Mesylate will produce an 
+enhanced or superior efficacy (therapeutic) on molecular basis than what could be 
+achieved with Imatinib free base in vivo animal model” 23. 
+
+The Court, therefore rejected the appeal. 
+
+Example 2 : 
+
+In yet another case, No.162 of 2013 in Fresenius Kabi Oncology Limited vs . Glaxo 
+Group Limited, the IPAB determined the issue of Section 3(d). 
+
+Claimed compound: A quinazoline derivative having anticancer activity. 
+
+Prior Arts: two prior arts were cited by opponent. The respondent admitted the 
+prior arts, but argued that the compound as claimed was a new chemical entity. 
+Decision of IPAB24: While rejecting the argument of Section 3(d) IPAB held that “It is 
+true that it is the patentee who must prove the enhanced therapeutic efficacy of his 
+invention. 
+But in a revocation the applicant must plead and prove that it is hit by S.3(d) and 
+that it has the same therapeutic efficacy as the known substance. Then t he 
+respondent will counter it either by proving that it is not a derivative of a known 
+substance or by proving that though it is only a new form of a known substance he 
+has shown that it has enhanced therapeutic efficacy. In the present case, there are 
+no such pleadings. It is not enough to plead that because Ex1 and 2 are admitted 
+prior arts, this is only a new form of those compounds. That is vague. It is only when 
+the pleadings show how the invention is one kind of a derivative of known substance 
+the patentee will have to explain how the grant of patent is justified because of the 
+enhancement of therapeutic efficacy. In this case the pleadings are not adequate. 
+We hold that the S.3(d) ground has not been proved”. 
+
+23Ibid [Paragraph 189]. 
+24
+Fresenius Kabi Oncology Limited vs . Glaxo Group Limited ORA/17/2012/PT/KOL, Order No.162 of 2013, paragraph 56. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+10.12 Section 3 (e): Mere Admixture Resulting only in Aggregation of The Properties Or A 
+Method Of Making Such Mere Admixture 
+
+10.13 It is a well-accepted principle of Patent Law that mere placing side by side of old 
+integers so that each performs its own proper function independently of any of the 
+others is not a patentable combination, but that where the old integers when placed 
+together has some working interrelation producing a new or improved result, then 
+there is patentable subject matter in the idea of the working inter relations brought 
+about by the collocation of the integers. 
+
+10.14 In Ram Pratap v Bhaba Atomic Research Centre (1976) IPLR 28 at 35, it was held that a 
+mere juxtaposition of features already known before the priority date which have 
+been arbitrarily chosen from among a number of different combinations which could 
+be chosen was not a patentable invention. 
+
+10.15 Section 3(e) of the Act reflects the legislative intent on the law of patenting of 
+combination inventions in the field of chemical as well as biotechnological sciences. 
+
+10.16 Claims related to compositions obtained by mere admixture resulting in aggregation 
+of the properties of the individual components are not patentable under section 3(e) 
+of Act. However, in a composition if the functional interaction between the features 
+achieves a combined technical effect which is greater than the sum of the technical 
+effects of the individual features, it indicates that such a composition is more than a 
+mere aggregation of the features. 
+
+10.17 : Illustrative examples for section 3( e): 
+Example 1: 
+Claim: A composition of Paracetamol (Antipyretic) and Ibubrufen (analgesic)] to 
+control pain and inflammation. 
+
+Analysis: The compounds used in t he alleged invention are known for their activity. 
+The application is silent on a combinative effect of these two compounds over the 
+sum of their individual effects. Thus, the claimed subject-matter is non-patentable 
+under Section 3 (e) of the Act. 
+
+Example 2: 
+
+Invention : A pharmaceutical composition exhibiting anti-phlogistic, antipyretic and 
+analgesic activity and high gastro-enteric tolerance in unit doses form which 
+contained imidazole salicylate as the active ingredient in the amount of 100-600 mg 
+and an inert carrier was claimed . 
+ The active compound imidazole salicylate and carriers are known in the art. Thus the 
+claimed composition is merely an aggregation of the ingredients involved, wherein the 
+carrier is not playing any role in enhancing the activity of imidazole salicylate. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+10.18 Section 3 (i): Method Of Treatment 
+
+10.19 According to Section 3 (i) of the Act, any process for the medicinal, surgical, curative, 
+prophylactic, diagnostic, therapeutic or other tre atment of human beings or any 
+process for a similar treatment of animals to render them free of disease or to 
+increase their economic value or that of their products is not an invention. Under this 
+section, the Manual of Patent Office Practice & Procedure states that the followings 
+are excluded from patentability: 
+
+(a) Medicinal methods: As for example, a process of administering medicines orally, 
+or through injectables, or topically or through a dermal patch; 
+
+(b) Surgical methods: As for example, a stitch-free incision for cataract removal; 
+(c) Curative methods: As for example, a method of cleaning plaque from teeth; 
+(d) Prophylactic methods: As for example, a method of vaccination; 
+(e) Diagnostic methods: Diagnosis is the identification of the nature of a medical 
+illness, usually by investigating its history and s ymptoms and by applying tests. 
+Determination of the general physical state of an individual (e.g. a fitness test) is 
+considered to be diagnostic; 
+
+(f) Therapeutic methods: The term “therapy’’ includes prevention as well as 
+treatment or c ure of disease. Therefore, the process relating to therapy may be 
+considered as a method of treatment and as such not patentable; 
+
+(g) Any method of treatment of animal to render them free of disease or to increase 
+their economic value or that of their products. As for example, a method of treating 
+sheep for increasing wool yield or a method of artificially inducing the body mass of 
+poultry; 
+
+(h) Further examples of subject matters excluded under this provision are: a ny 
+operation on the body, which requires the skill and knowledge of a surgeon and 
+includes treatments such as cosmetic treatment, the termination of pregnancy, 
+castration, sterilization, artificial insemination, embryo transplants, tr eatments f or 
+experimental and research purposes and the removal of organs, skin o r bone 
+marrow from a living donor, any therapy or diagnosis practiced on the human or 
+animal body and further includes methods of abortion, induction of labour, control 
+of estrus or menstrual regulation; 
+
+(i) Application of substances to the body for purely cosmetic purposes is not 
+therapy; 
+
+(j) Patent may however be obtained for surgical, therapeutic or diagnostic 
+instrument or apparatus. Also the manufacture of prostheses or artificial limbs and 
+taking measurements thereof on the human body are patentable. 
+
+10.20 In the field of pharmaceuticals, it is noticed that method of treatments are often 
+claimed in the guise of composition claims. Sometimes, such claims are converted to 
+product claims during examination procedure. Such amendments shall be examined as 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+per Section 57 read with section 59 of the Act. 
+
+10.21 ILLUSTRATIVE EXAMPLE: 
+
+Claim 1: A method of treating ca ncer in a subject, the said method c omprising 
+administering simultaneously or sequentially a combination of Gemcitabine and P276- 
+00 or the combination of Gemcitabine and P1446A, wherein the said cancer is 
+selected from a group comprising of pancreatic can cer, lung cancer, colorectal 
+carcinoma and head and neck cancer. 
+
+Analysis: The claimed subject-matter falls within t he scope of statutorily non- 
+patentable inventions under Section 3 (i) of the Act, as being directed to a method of 
+treatment of human beings or animals. 
+
+10.22 Section 3(j) and 3(p): To a void unnecessary repetition, relevant sections of the 
+“GUIDELINES FOR EX AMINATION OF BIOTECHNOLOGY APPLICATIONS” and 
+“GUIDELINES FOR PROCESSING OF PATENT APPLICATIONS RELATING TO TRADITIONAL 
+KNOWLEDGE AND BIOLOGICAL MATERIAL” are hereby incorporated by reference. 
+
+10.23 According to Section 3(j), plants or animals including its parts like seeds etc. are not 
+patentable subject matter. The only exception to this rule is micro-organisms. From 
+the conjoint reading of Section 3(c) and 3(j), the micro-organisms,which occur in 
+nature are not patentable subject m atter. Accordingly, only genetically modified 
+micro-organisms qualify for patentability. In t he GUIDELINES FOR EXAMINATION OF 
+BIOTECHNOLOGY APPLICATIONS FOR PATENT, Section 3(j) has been discussed with 
+specific examples. According to Section 3(p) of the Act, an invention which, in effect, 
+is a traditional knowledge or w hich is an aggregation or duplication o f known 
+properties of traditionally known component or components is not a patentable 
+subject matter. “GUIDELINES FOR PROCESSING OF PATENT APPLICATIONS RELATING 
+TO TRADITIONAL KNOWLEDGE AND BIOLOGICAL MATERIAL” already issued by the 
+Office discusses in details, the manner in which cases related to traditional knowledge 
+may be handled. However, in the following, an example related to Section 3(p) is 
+given: 
+
+10.24 Illustrative Example for Section 3(p): 
+
+Claim: A method of treating an inflammatory bowel disease (IBD) in a subject in need 
+thereof, comprising administering to the subject an effective amount of an extract of 
+Andrographis paniculata, w herein said extract contains andrographolide, 14-deoxy- 
+andrographolide, 14-deoxy-11, 12-dehydrogen-andrographolide a nd 
+neoandrographolide. 
+
+Analysis: The claimed subject-matter falls within t he scope of stat utorily non- 
+patentable inventions under Section 3 (p) of the Act, as being directed a traditional 
+knowledge in effect. This is clearly evident from an article published in t he Journal of 
+Natural Medicine (Kakrani et al., “Traditional treatment of gastro-intestinal tra ct 
+disorders in Kutch District, Gujarat State, India”, Journal of Natural Medicine, Vol. 
+2/1(2002), pages 71-75). The cited article describes traditionally known treatments of 
+gastro-intestinal tract disorders in Kutch district of Gujarat. In this article, 41 species of 
+37 genera belonging to 22 families are reported along with plant parts used for the 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+medicinal treatments, including Andrographis paniculata and its medical indication. 
+Thus, the claimed subject-matter, in effect, is traditional knowledge and non- 
+patentable under Section 3 (p). 
+
+10.25 Illustrative Example for Section 3(j): 
+
+Claim 1: A pharmaceutical composition comprising an antigen-presenting cell t hat 
+expresses a polypeptide comprising at least an immunogenic portion of a breast 
+tumor protein, or a variant thereof in combination with a pharmaceutically acceptable 
+carrier or excipient, w herein the antigen presenting cell is a dendritic cell or a 
+macrophage. 
+
+Analysis: Although claim 1 is directed to a pharmaceutical composition, it should be 
+objected under Section 3 (j) of the Act, since the composition essentially contain an 
+antigen-presenting cell as an active ingredient and carriers or excipients are obvious 
+features with the cell while in the composition. 
+
+11. Sufficiency of description, clarity and support of the claims: 
+
+11.1 According to Section 10 (4) (a) and (b) of the Act, the complete specification shall fully 
+and particularly describe the invention a nd its o peration or use and t he method by 
+which it is to be performed and it should also disclose the best method of performing 
+the invention which is known to the applicant and for which he is entitled to claim 
+protection. As per Section 10(c), every complete specification should end with a claim 
+or a s et of claims defining the scope of invention. Section 10(5) prescribes t hat the 
+claims should be clear, succinct and fairly based on the description. Also, the claims 
+must relate to a group of inventions linked so as to form a single inventive concept. 
+For convenience, unity of invention has been discussed below, under separate head. 
+
+11.2 Sufficiency of dis closure with respect to biological material and d eposits: If the 
+invention r elates to a biological material which is not possible to be described in a 
+sufficient manner and which is not a vailable to the public, the application shall be 
+completed by depositing the material to an I nternational Depository Authority (IDA) 
+under the Budapest Treaty. The deposit of the material shall be made not later than 
+the date of filing of the application in India and a reference of the deposit shall be 
+given in the specification within three months from the date of filin g of the patent 
+application in India. All the available characteristics of the material required for it to be 
+correctly identified or indicated are to be included in the specification i ncluding the 
+name, address of the depository institute and the date and number of the deposit. 
+
+11.3 In Para 17 of “GUIDELINES FOR PROCESSING OF PATENT APPLICATIONS RE LATING TO 
+TRADITIONAL KNOWLEDGE AND BIOLOGICAL MATERIAL”, it is directed that “if the source 
+and geographical origin of the biological material used in the invention is not disclosed in 
+the specification, an objection shall be raised thereof in conformity with section 10 (4) (a) 
+& (b) of the Patents Act.” Therefore, the same is incorporated herein by reference and 
+also, applicable in the present guidelines. Thus, while accessing the sufficiency of 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+disclosure, non-disclosure of the source and geographical origin of the biological materials 
+used in the invention would be treated as insufficiency of disclosure as per the 
+requirement of Section 10 (4) (ii) (D) of the A ct. Nevertheless, in Para 20 of above said 
+guidelines, it also directed that “On the other hand, if the declaration in Form-1 regarding 
+the use of biological material f rom India is cancelled out by the applicant a nd the 
+specification also states that the source and geographical origin of the biological material 
+is not f rom India, the specification should be amended by way of incorporation of a 
+separate heading/paragraph at the beginning of the description that the biological 
+material used in the invention is not from India and should clearly specify the country of 
+source and geographical origin of the same.” Therefore, while processing the patent 
+application in which the above declaration is cancelled out by the Applicant, as directed, 
+necessary amendment shall be sought for. If the invention relates to a 
+biological material which is not possible to be described in a sufficient manner and 
+which is not available to the public, the application shall be completed by depositing 
+the material to an International Depository Authority (IDA) under the Budapest Treaty. 
+The deposit of the material shall be made not later than the date of filing of the 
+application in India and a reference of the deposit shall be given in the specification 
+within three months from the date of filing of the patent application in India. All the 
+available c haracteristics of the material required for it to be correctly identified or 
+indicated are to be included in the specification i ncluding the name, address of t he 
+depository institute and the date and number of the deposit. 
+
+11.4 When claims seek to protect things that are not identified by the applicant at the time 
+of filing t he application, but that may be identified in the future by carrying out the 
+applicant’s process, such claims are not patentable on the ground of insufficiency of 
+description “e.g., claiming many compounds without proper support in the examples 
+The complete specification must describe “an embodiment” of the invention claimed 
+in each of the claims and t he description must be sufficient to enable those in the 
+industry concerned to carry it into effect without their making further inventions and 
+the description must be fair, i.e. it must not be unnecessarily difficult to follow”.25 
+
+11.5 Sufficient disclosure of the invention in the patent specification is the consideration 
+for which a patent is granted. While assessing the sufficiency of disclosure, it must be 
+ensured that the best method for performing the invention known to the 
+applicant is described so that the wh ole subject-matter that is claimed in t he 
+claims, and not only a part of it, must be ca pable of being carried out by a skilled 
+person in the relevant art without the burden of an undue amount of experimentation 
+or application of inventive ingenuity. 
+
+25 Raj Praksh v Mangatram Chowdhury (AIR 1978 Del 1 at 9) following Farbewerke Hoechst Aktiengesellschaft Vormals Meister 
+Lucius & Bruning a Corporation etc. Vs. Unichem Laboratories and Ors”.(AIR1969Bom255) 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+11.6 It may be noted that the IPAB has distinguished the person skilled in the art involved 
+in assessing “Inventive step” and “Enablement”. In one case (please see the discussion 
+under Inventive Step) the IPAB observed: The Act makes a distinction between the 
+person skilled in the art (the obviousness person) and the person who has average skill 
+(enablement man)”26 .In the opinion of the IPAB, in the context of enablement, the 
+person to whom the complete specifications are addressed is a p erson “who has 
+average skill an d average knowledge.” The description in the specification should 
+contain at least one example or more than one example, covering the full breadth of 
+the invention as claimed, which enable(s) the person skilled in the art to carry out the 
+invention. If the invention is related to product per se, description shall be supported 
+with examples for all t he compounds claimed or at least all the genus of the 
+compounds claimed. Method f or preparation a nd experimental data relating to 
+properties of representatives of each embodiments claimed shall be incorporated in 
+the description, which enable a person having ordinary skilled in the art can make use 
+of the invention without undue burden. 
+
+11.7 Non-technical terms, like tra demarks etc. should be discouraged and the applicant 
+should be asked to replace them with equivalent technical terms. 
+
+11.8 The relevant date for complying with t he requirement for sufficiency is the date of 
+complete specification. In o ther w ords, a complete specification should provide 
+enough information to allow a person skilled in the art to carry out substantially all 
+that which falls within the ambit of what is claimed. Specific and substantial use of the 
+invention along with any test conducted and results obtained for such an effect shall 
+be disclosed at that time of filing. In case, application claimed substance, composition 
+or combination, detailed re port pertaining to the test, such as in vitro or in vivo, 
+conducted and experimental results with i nference of such a test shall be provided in 
+the description. Test parameters, choice of testing method, mode of drug delivery, 
+results obtained with e xplanation a nd i nference shall be provided. If more than one 
+genus or pharmacological use claimed in an application, relevant test for the best 
+representatives of such genus and their pharmacological use shall be incorporated in 
+the description. 
+
+11.9 It is not necessary to describe in the claims to a specification, processes by which a 
+new chemical compound is discovered, when they are part of the common knowledge 
+available to those skilled in the science who can, after reading them, refer to th e 
+technical literature on the subject for the purpose of carrying them into effect27. 
+
+26 Enercon, vs Aloys Wobben ORDER No. 123 of 2013. “….In fact it is clear that in the context of enablement, the person to 
+whom the complete specifications are addressed is a person “who has average skill and average knowledge.” Neither of 
+these attributes has been assigned by the Act to the person to whom the invention should be non-obvious. We are not 
+called upon in this case to decide the person who is enabled. We are only pointing out to the difference in the words used 
+in the Act. We do not intend to visualize a person who has super skills, but we do not think we should make this person 
+skilled in the art to be incapable of carrying out anything but basic instructions. The Act makes a distinction between the 
+person skilled in the art (the obviousness person) and the person who has average skill (enablement man)”. [Paragraph 30]. 
+27Farbewerke Hoechst Aktiengesellschaft Vormals Meister Lucius & Bruning a Corporation etc. vs Unichem Laboratories and Ors, 
+AIR1969Bom255, (1974)76BOMLR130 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+11.10 While examining the claims with respect to clarity and support as required under 
+section 10 (5) of the Act, due consideration should be given to the provisions of 
+section 10 (4) (a) and (b) as these requirements are complementary to each other. 
+11.11 Clarity and support of claims: As mentioned in connection with the type of claims, it 
+was mentioned that in the pharmaceutical applications, claims are often filed as “Use 
+of…”. Such w ordings in t he claims are not permissible in that a claim should relate 
+either to a product or to a process. 
+
+11.12 A claim may be lac king in support, if it is not fairly based on the description. 
+Claims may be drafted in non-definitive terms and the sc ope of claim is often 
+unreasonably broader than the description and enablement of the specification. Claims 
+may embrace non-definitive terms like “comprising”, “including”, etc. to indicate 
+certain c omponents of the invention. Similarly terms like “near to”, “approximately” 
+may lead to confusion about the scope of the invention. Such terms or any other 
+terms , should be closely examined vis -à-vis the support in the description and the 
+scope of protection sought for ensuring the definitiveness of the claims. 
+
+11.13 Functional claims, i.e. claims where the substances are defined in terms of their 
+physiological properties/results to be achieved, should be discouraged, as such claims 
+not only lead to confusion regarding the scope of the invention, all most all the times, 
+they are much wider in scope and are inconsistent with descriptions. 
+
+11.14 In pharmaceutical patenting, the claims are often drafted in terms of Markush 
+formula. Special care should be given to search and examine such claims. Claims with 
+Markush formulas may cover innumerable compounds and may be overbroad, thus 
+leading to conclusion of inconsistency between description and claims. Also, such 
+formulas can lead to the question of plurality of distinct inventions. Compounds 
+represented by different alternatives should have a technical interrelation ship. 
+
+11.15 Where a single claim defines alternatives of a Markush group, the requirement of a 
+technical interrelationship is considered met when t he alternatives are of a similar 
+nature. When the Markush grouping is for alternatives of chemical compounds, the 
+alternatives are regarded as being of a similar nature where the following criteria are 
+fulfilled: 
+
+(A) all alternatives have a common property or activity; AND 
+
+(B)(1) a common structure is present, that is, a significant structural element is shared 
+by all of the alternatives; OR 
+
+(B)(2) in cases w here the common structure cannot be the unifying criteria, all 
+alternatives belong to a recognized class of chemical compounds in the art to which 
+the invention pertains. 
+The claims of a specification may be said to be linked with a single inventive concept, if 
+they are co-related to reach other by a common thread. For example, the specification 
+may contain a claim for ( 1) a drug (2) intermediates (3) process of making t he 
+compound of claim (1) and (2). However, the intermediates shall be allowed provided 
+they are new and non-obvious and the specification does not disclose any other use of 
+the said intermediates. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+11.16 Illustrative examples for sufficiency of disclosure and support: 
+Example 1: 
+The alleged invention claims a compound of the following formula 
+
+Wherein, R1 is selected from phenyl, pyridyl, thiazolyl, thioalkyl, alkoxyl and methyl; R2- 
+R4 are methyl, tolyl or phenyl, pyridyl… the compounds are used as a pharmaceutical for 
+increasing the oxygen intaking capability of blood. 
+
+Description: the specification embraces innumerable c ompounds covering formula as 
+above. The examples however are restricted to the limitation that R1 is always phenyl, 
+e.g. : 
+
+R1 R2 R3 R4 
+phenyl tolyl Phenyl Methyl 
+phenyl tolyl Pyridyl Tolyl 
+phenyl pyridyl Methyl Tolyl 
+In all examples, the definition of R1 is restricted to Phenyl. The claim is much broader 
+than what has been described and enabled and is therefore lacking in support. It may be 
+noted that sufficiency and support are two different criteria and serve tw o distinct 
+purposes, despite that they are supplemental to each other. In the example given, the 
+examiner can raise a question of sufficiency also. 
+
+Example 2: 
+
+An H2 receptor antagonist of formula I 
+Formula I is depicted as A-Z. 
+A comprises substituted imidazoles and Z comprises substituted benzimidazoles. 
+
+At the first place, the term ‘Comprises’ or ‘substituted’ are open ended terms and there 
+remains every likelihood that the majority of the compounds claimed would not serve 
+the purpose of the alleged invention. As in above, the examples are limited to only few 
+substituents and do not enable (which is not possible also) other classes of substituents. 
+An objection of insufficiency and support may be raised against such claims and 
+descriptions. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Example 3: 
+
+Invention: Discloses a compound of formula 1 having insecticidal property. 
+
+N
+O
+G2
+N
+G1
+G7
+G3
+G6
+G4
+
+G5 
+
+G1 represents oxygen or sulphur, 
+
+G2 represents oxygen, amino, aminoformyl or aminoacetyl, 
+
+G3 represents hydrogen, amino, hydroxyl or represents C1-C6-alkyl, CrC6-alkenyl, C2- C6-
+alkynyl or C3-C6-cycloalkyl, 
+
+G4 independently of one another represent C1-C6-alkyl, C2-C6-alkenyl, C2-C6-alkynyl, C3-
+C6-cycloalkyl, 
+
+n represents 0 to 4, 
+
+G5 represents hydrogen, halogen, cyano, nitro, C1-C4-alkyl, C1-C4-haloalkyl, C2-C6- 
+alkenyl, CrC6-haloalkenyl, C2-C6-alkynyl, C1-C4-alkoxy, C1-C4-haloalkoxy, 
+
+G6 represents C1-C6-alkyl, C3-C6-cycloalkyl, C1-C6-haloalkyl, C1-C6-halocycloalkyl, C2- 
+C6-alkenyl, C2-C6-haloalkenyl, C2-C6-alkynyl, C2-C6-haloalkynyl, C1-C4-alkoxy, 
+
+G7 represents a 5- or 6-membered heteroaromatic ring optionally mono- or 
+polysubstituted 
+The specification and working examples provides support only for compound of 
+formula I-1 and process for preparing the same. 
+N
+O
+G2
+N
+G3
+G6
+G4
+
+G5 
+X
+N
+CH3
+CF3
+O
+
+Figure I-1 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Where 
+G1 of Formula I is oxygen 
+G2 is oxygen, amino, G3 for hydrogen, 
+n of Formula I is 0, 
+G4 is absent 
+G5 is hydrogen, Cl, Br and I 
+G6 CH3 or Cl 
+Nitro or C3-c6- Trialkylsilylethynylated is available. 
+G7 for a pyrazole - or Pyrrole 
+
+R6 is chloropyridine 
+R7 is Cl, Br or CF3 
+R8 is H 
+
+Although the applicant claims that the compound has insecticidal property the claimed 
+activity has not been demonstrated. 
+
+Claim: 
+
+An insecticidal compound of formula 1 
+
+Wherein 
+G1 represents oxygen or sulphur, 
+G2 represents oxygen, amino, aminoformyl or aminoacetyl, 
+G3 represents hydrogen, amino, hydroxyl or represents C1-C6-alkyl, CrC6-alkenyl, 
+C2-C6-alkynyl or C3-C6-cycloalkyl, 
+G4 independently of one another represent C1-C6-alkyl, C2-C6-alkenyl, C2-C6- 
+alkynyl, C3-C6-cycloalkyl, 
+n represents 0 to 4, 
+G5 represents hydrogen, halogen, cyano, nitro, C1-C4-alkyl, C1-C4-haloalkyl, C2-C6- 
+alkenyl, CrC6-haloalkenyl, C2-C6-alkynyl, C1-C4-alkoxy, C1-C4-haloalkoxy, 
+G6 represents C1-C6-alkyl, C3-C6-cycloalkyl, C1-C6-haloalkyl, C1-C6-halocycloalkyl, 
+C2-C6-alkenyl, C2-C6-haloalkenyl, C2-C6-alkynyl, C2-C6-haloalkynyl, C1-C4-alkoxy, 
+
+G7 represents a 5- or 6-membered heteroaromatic ring optionally mono- or 
+polysubstituted. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Analysis: 
+
+In the present case the disclosure in the description is not considered sufficient for 
+the entire scope of t he subject matter clai med s pecifically where G1 represents 
+sulphur. 
+Even though the description sufficiently discloses the compounds where G1 
+represents oxygen there is a lack of evidence demonstrating the use (insecticidal) of 
+the claimed compound. 
+
+Hence can be objected under section 10(4)(a). 
+
+As compounds where G1 represents sulphur and the process for preparing the same 
+are not disclosed the specification is n ot considered enabled for the entire scope of 
+the claims and can be objected under section 10(4)(b). 
+
+Example 4: 
+
+Description: The invention relates to a the compound represented by general 
+formula I. and a pharmaceutical composition comprising the compound represented 
+by the formula (I) a salt t hereof, a solvate t hereof, or a prodrug thereof; in 
+combination with other drugs. Compound represented by general formula I is useful 
+in the treatment of cancer. 
+
+R and R’ are selected from Mono, di, tri, poly substituted aromatic, heteroaromatic, 
+cyclic, acyclic, polycyclic groups. 
+
+The working examples provides support only for the following compounds and 
+process for preparing them along with the assay to show anti cancer activity. 
+
+3,6-Bis-(ethyl)-[1,2,4,5]tetroxane 
+
+3,6-Bis-(methyl propyl)-[1,2,4,5]tetroxane 
+
+3,6-Bis-(tert-butyl-methyl)-[1,2,4,5]tetroxane 
+
+3-(Methoxy-methyl)-6-methyl-[1,2,4,5]tetroxane 
+
+Claim: 
+
+Compound of formula I 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+R and R’ are substituted acyclic/aromatic/heteroaromatic/cyclic/ polycyclic groups 
+
+Analysis: The complete specification must describe each embodiment of the 
+invention claimed and the description must be sufficient to enable a person skilled in 
+the art to carry out substantially all that which falls within the ambit of what is 
+claimed without undue experimentation. 
+
+There is no support for compounds where R and R’ are Mono, di, tri, poly 
+substituted aromatic, heteroaromatic, cy clic or polycyclic groups. To prepare 
+compounds where R and R’ are Mono, di, tri, poly substituted aromatic,. 
+Heteroaromatic, cyclic or polycyclic groups and to find the claimed biological activity 
+involves undue experimentation. 
+
+Hence the subject matter of claim 1 where R and R’ are Mono, di, tri, poly 
+substituted aromatic, heteroaromatic, cyclic or polycyclic lacks groups lacks 
+support. 
+
+12. UNITY OF INVENTION 
+
+12.1 The requirement of unity of invention is provides by the following provision in the 
+Patent Act and Manual of Patent Office Practice and Procedure. As referred above, the 
+provisions of section 10(5) of Patent Act the claim or claims of a complete 
+specification shall relate to a single invention, or to a group of inventions linked so as 
+to form a single inventive concept. 
+
+12.2 The MANUAL OF PATENT OFFICE PRACTICE AND PROCEDURE, at 05.03.16 requires 
+that there may be more than one independent claim in a single application if the 
+claims fall under a single inventive concept. In the Manual, it has been advised “W hile 
+there is no restriction as t o the number of claims, including independent claims, it is 
+advisable to limit the number of claims, as well as the number of independent claims in 
+a single application so that the claims are all of cognate character and are linked so as 
+to form a single inventive concept. If claims relate to a plurality of distinct inventions, 
+it may be objected on ground of lack of unity of invention”. 
+
+12.3 In other words when there is a group of inventions in a specification they should be 
+linked by a single concept or t here should be a t echnical re lationship a mong t he 
+claimed inventions, which makes the inventive contribution over the prior art. To fulfil 
+the requirement of unity of invention each claim of a complete specification should 
+share a single common technical relationship which is inventive. T he single common 
+technical relationship which is inventive is called the “special technical feature”. This 
+determination should be done on the content of the claims supported by the 
+description in the light of the prior art. 
+
+12.4 In the field pharmaceuticals patent applications may sometimes claim, huge 
+number of c hemical compounds by Markush structures, chemical compounds as 
+intermediate a nd fi nal p roducts, compositions comprising d ifferent chemical 
+components, processes for their manufacture, their uses or applications, even devices 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+or apparatus used for carrying out specific processes are usually claime d in a single 
+application. Sometimes it becomes complicated to handle search and examination of 
+such combinations of different categories of claims and variable dependency of claims. 
+Interpreting such claims whether claims claimed in the application relate to a single 
+invention or a group of inventions linked so as to form a single inventive concept or 
+lack unity. 
+
+12.5 Illustrative example of a priori determination of unity of invention: 
+Example 1: 
+Claims 
+
+1) An antibiotic of formula I for treatment of staphylococcal infection. 
+
+2) A steroid of formula A for treatment of staphylococcal infection. 
+3) A bioactive compound of fo rmula X for treatment of sta phylococcal in fection. 
+Analysis: The subject-matter of claims 1-3 does not relate to a single invention, or to 
+a group of inventions linked so as to form a single inventive concept as they relate to 
+structurally different products. As antibiotic of formula I, steroid of formula A and 
+bioactive compound of formula X do not share any common structural feature, 
+which could serve as a unifying feature. Each of these claims has to be considered as 
+a separate invention and said to lack unity a priori. 
+
+12.6 Illustrative Example of A Posteriori Determination Of Unity Of Invention: 
+Claims 
+1. A combination, comprising sulphonamide compound X and a taxane and its use in 
+treatment of cancer. 
+
+2. A c ombination, comprising s ulphonamide compound X and a vinca alkaloid 
+derivative or analogue thereof and its use in treatment of cancer 
+
+Prior art: Use of Sulphonamide compound X in treatment of cancer. 
+
+Analysis: Claims 1-2 contain the following inventions or group of inventions, which 
+are not so linked as to form a single general inventive concept as required u/s 10 (5) 
+of the Patents Act. 
+
+Group 1: claim 1: A combination, comprising sulphonamide compound X and a 
+taxane 
+
+Group 2: claim 2: A combination, comprising sulphonamide compound X and a Vinca 
+alkaloid derivative or analogue thereof .They are not so linked as to form a single 
+general inventive concept in view of the following: 
+
+The special technical feature should be an essential structural part common to all of 
+the embodiments of the claimed invention (and responsible for the inventive effect), 
+and which is absent in the prior art that provide the same solution. Upon prior art 
+search, it is found that use of Sulphonamide compound X in treatment of cancer is 
+already known in the prior art. Taxane, and vinca alkaloid derivative are structurally 
+different from each other. The only common component is the sulphonamide 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+compound X which is already known as an a nticancer agent. Hence here it is 
+considers that a common t echnical link in the above mentioned groups is not 
+inventive. The above mentioned groups lack common feature which could be 
+regarded as the special technical feature providing unity to the application. 
+Consequently, the application may be objected for lacking unity a posteriori. 
+
+12.7 Combinations of Different Categories of Claims 
+
+Illustrative examples showing combinations of different categories of claims 
+
+Example 1: 
+
+Claim 1: A compound of formula I 
+
+Claim 2: A method of preparing the compound of formula I. 
+Claim 3: Compound of formula I for use as a fungicide. 
+Unity exists between claims 1, 2 and 3as the special technical feature is compound of 
+formula I. 
+
+Example 2 
+
+Claim 1: A process of manufacture of compound of formula I comprising steps A and 
+B. 
+
+Claim 2: Apparatus specifically designed for step A. 
+Claim 3: Apparatus specifically designed for step B. 
+Unity exists between claims 1 and 2 or between claims 1 and 3. Claims 2 and 3 lack 
+unity since there exists no common special technical feature between the two claims. 
+
+Example 3 
+
+Claim 1: A compound of formula I 
+
+Claim 2: A process of manufacture of compound of formula I comprising step A. 
+Claim 2: Apparatus specifically designed for step A. 
+Unity exists between claims 1, 2 and 3 as the special technical feature is compound of 
+formula I. The process should essentially result in c ompound of formula I and 
+contribution over the prior art of the apparatus specifically designed for step A 
+should correspond to the inventive feature of the process of claim 2. However, if the 
+compound of formula I is known in the art, unity w ould be lacki ng because there 
+would not be a special technical feature common to all the claims. 
+
+12.8 Unity of invention in Markush claims 
+
+12.9 In Markush claims t he unity of invention shall be considered to be met when the 
+alternatives claimed are of a similar nature. The Markush group of alternative 
+chemical compounds, can be regarded as being of a similar nature is subjected to the 
+fulfillment of the following conditions: 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+a)They have a common property or activity, 
+
+b) All of the alternatives have a common structure, which is a significant structural 
+element shared by all of the alternatives (it includes compounds that share a 
+common chemical structure which occupies a large portion of their structures, or 
+compounds that have in c ommon only a small portion of their structures, which 
+constitutes a structurally distinctive portion in view of the prior art, and is essential 
+to the common property or activity), 
+
+12.10 Illustrative example showing unity of invention in Markush claims 
+
+Example 1: 
+
+A compound A of formula: 
+R1-R2-R3 
+wherein R1 is indolyl moiety and R2-R3 are methyl, benzyl, or phenyl. The 
+compounds are useful as pharmaceutical for treatment of asthma. 
+
+In this case the compound A has a significant structural element that is shared by all 
+of the alternatives and all the claimed compounds possess the same activity. Thus all 
+the claimed compounds possess unity. 
+
+Example 2 
+
+The claim relates compound 
+
+R1-R2-R3 
+
+Wherein R1 is a heterocyclic moiety comprising diverse molecular species and R2-R3 
+are methyl, benzyl, or phenyl. The molecular variations of R1 encompass huge number 
+of moieties which cannot be structurally linked and cannot be said to fall within single 
+inventive concept. 
+
+12.11 Unity of invention in Intermediate and Final Product 
+
+12.12 The term "intermediate" includes intermediate and starting products which have the 
+ability to be used in a p rocess to produce the final product through a ph ysical or 
+chemical change in which the identity of the intermediate is lost. The fulfilment of the 
+requirement of unity of invention between intermediate and final product, is subjected 
+to the fulfilment of the following conditions: 
+
+a) the intermediate and fi nal product should have the same essential structural 
+element, i.e. the basic chemical structure of the intermediate and the final product are 
+the same, or t he chemical structure of t he intermediate and final product are 
+technically closely interrelated, with the intermediate incorporating an essential 
+structural element into the final product, 
+
+and 
+
+b) technically interrelated, also meaning that the fin al product is manufactured 
+directly from the intermediate or is separated fr om it by a small number of 
+intermediates all sharing the same essential structural element. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+12.13 Illustrative example for Unity of invention in Intermediate and Final Product 
+
+Example 1: 
+
+Claim 1: (intermediate) 
+
+Claim 2: (final product) 
+
+The chemical structures of the intermediate and final product are technically closely 
+interrelated. The essential structural element incorporated into the final product is: 
+
+Therefore, unity exists between claims 1 and 2. 
+
+Illustrative example 2 
+
+Claim 1: I (final product) 
+
+Claim 2: II (intermediate) 
+
+Compound (II) is described as an intermediate to make (I). The closure mechanism is 
+one well known in the art. Though the basic structures of compound (I) (final 
+product) and compound (II) (intermediate) differ considerably, compound (II) is an 
+open ri ng precursor to compound (I). B oth compounds share a common essential 
+structural element therefore considered to be technically closely interrelated. 
+
+This example therefore satisfies the requirement for unity of invention. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+12.14 To satisfy unity of invention between intermediate and final products when any one or 
+both the structures are not known, there should be sufficient evidence to conclude 
+that the intermediate and final products are technically closely interrelated such as 
+the intermediate contains the same essential el ement as the final product or 
+incorporates an essential element into the final product. 
+
+12.15 Different intermediate products used in different processes for the preparation of the 
+final product, satisfy unity of invention provided t hat they have the same essential 
+structural element. 
+
+12.16 To satisfy unity of invention the intermediate and final products should not be 
+separated, in the process by an intermediate which is not new. 
+
+12.17 Different intermediates for different structural parts of the final product, do not 
+satisfy unity of invention. 
+
+12.18 To satisfy unity of invention where the intermediate and final products are families of 
+compounds, each intermediate compound should correspond to a compound claimed 
+in the family of the final products. 
+
+12.19 Where unity of invention is recognized the fact that, the intermediates also exhibit 
+other properties or activities should not affect the unity of invention. 
+
+[End of document]

@@ -1,0 +1,18 @@
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+(a) sequences to be followed; 
+(b) ranges of process parameters to be used; 
+(c) sampling instructions and in -process controls with their 
+acceptance criteria, where appropriate; 
+(d) time limits for completion of individual p rocessing steps 
+and the total process, where appropriate; and 
+(e) expected yield ranges at appropriate phases of processing 
+or time; 
+(vi) where appropriate, special notations and precautions to be 
+followed, or cross-references; and 
+(vii) the instructions for storage of the intermediate or API to 
+assure its suitability for use, including the labelling and 
+packaging materials and special storage conditions with time 
+limits, where appropriate. 
+6.5. Batch production records (batch production and control records)- 
+6.5.1. Batch production records shall be prepared for each intermediate 
+and API and shall include complete information relating to the

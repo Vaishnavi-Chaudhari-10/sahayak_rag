@@ -1,0 +1,20 @@
+or at a 
+time. 
+
+2.7. For communication between aseptic areas and non-aseptic areas, intercom 
+telephones or speak-phones shall be used. These shall be minimum in number. 
+
+2.8 Material transfer between aseptic areas and outside shall be through suitable airlocks or 
+pass-boxes. Doors of such airlocks and pass-boxes shall have suitable interlocking arrangements. 
+
+2.9. Personal welfare areas like rest rooms, tea room, canteen and toilets shall be outside 
+and separated from the sterile product manufacturing area. 
+
+2.10 Animal houses shall be away from the sterile product manufacturing area and shall not 
+share a common entrance or air handling system with the manufacturing area. 
+
+3. Air Handling System (Central Air-Conditioning): 
+
+3.1 Air Handling Units for sterile product manufacturing areas shall be different from 
+those for other areas. Critical areas, such as the aseptic filling area, sterilized components 
+unloading area and change room conforming to Grades B, C and D respectiv

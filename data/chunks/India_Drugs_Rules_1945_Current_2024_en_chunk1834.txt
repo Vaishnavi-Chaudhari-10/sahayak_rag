@@ -1,0 +1,20 @@
+s, 
+gaskets or other materials used during the pr oduction of 
+intermediates or APIs that could critically impact on quality. 
+Acceptance criteria shall be established and documented for in -
+process controls. 
+6.1.9. If electronic signatures are used on documents they shall be 
+authenticated and secure. 
+6.2. Equipment cleaning and use record- 
+6.2.1. Records of major equipment use, cleaning, sanitisation and 
+sterilisation and maintenance shall show the date, time (if 
+appropriate), product and batch number of each batch processed 
+in the equipment and the person who performed the cl eaning 
+and maintenance. 
+6.2.2. If equipment is dedicated to manufacturing one intermediate or 
+API, then individual equipment records are not necessary if 
+batches of the intermediate or API follow in traceable sequence. 
+In cases where dedicated equipment is employed, the records of 
+cleaning, maintenance and use can be part of the batch record 
+or maintained separately. 
+6.3. Records of raw materials

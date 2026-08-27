@@ -1,0 +1,19 @@
+red for the current operation. 
+18.4.2. Any necessary in-process controls and environmental controls 
+shall be carried out and recorded. 
+18.4.3. Means shall be instituted of indicating failures of equipment or 
+of services (e.g., water and gas) to equipment. Defective 
+equipment shall be withdrawn from use until the defect has 
+been rectified. After use, production equipment shall be 
+cleaned without delay according to detailed written procedures 
+and stored under clean and dry conditions in a separate area or 
+in a manner that will prevent contamination. 
+18.4.4. Time limits for storage of process materials and equipment, 
+after cleaning and before use, shall be stated and based on 
+relevant data. 
+18.4.5. Containers for filling shall be cleaned before filling. Attention 
+shall be given for avoiding and removing any contaminants 
+such as glass fragments and metal particles. 
+18.4.6. Any significant deviation from the expected yield shall be 
+recorded and investigated. 
+18.4.7. Checks

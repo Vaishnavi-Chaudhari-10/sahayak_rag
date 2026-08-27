@@ -1,0 +1,22 @@
+ause both product and process claims may
+ recite a “mental process”, the phrase “mental processes” should be understood
+ as referring to the type of abstract idea, and not to the statutory category of
+ the claim. The courts have identified numerous product claims as reciting
+ mental process-type abstract ideas, for instance the product claims to computer
+ systems and computer-readable media in 
+Versata Dev. Group. v. SAP Am.,
+ Inc.,
+ 793 F.3d 1306, 115 USPQ2d 1681 (Fed. Cir. 2015). This
+ concept is explained further below with respect to point D.
+
+The following discussion is meant to guide
+ examiners and provide more information on how to determine whether a claim
+ recites a mental process. Examiners should keep in mind the following points A,
+ B, C, and D when performing this evaluation.
+
+A.
+ A Claim With Limitation(s) That Cannot Practically be Performed
+ in the Human Mind Does Not Recite a Mental
+ Process
+Claims do not recite a mental process when
+ they do not contain limitations th

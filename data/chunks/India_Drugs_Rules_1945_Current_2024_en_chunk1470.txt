@@ -1,0 +1,16 @@
+shall be appropriate for the size of the room and the equipment and 
+personnel present in it. 
+4.5. High-efficiency particulate air (hereinafter to be referred as HEPA) 
+filters shall be subjected to an installed filter leakage test in accordance 
+with ISO standards at a recommended interval of every six months, but 
+not exceeding twelve months. The purpose of performing regular leak 
+tests is to ensure the filter media, filter frame and filter seal are free 
+from leaks. The aerosol selected for HEPA leak testing shall not support 
+microbial growth and shall be composed of a sufficient numbe r or mass 
+of particles. HEPA filter patching is allowed at the filter manufacturer 
+and in situ operation provided that the patch sizes and procedures follow 
+the recommendations of ISO standards. 
+4.6. Clean rooms and clean-air devices shall be classified in accordance with 
+ISO standards. 
+4.6.1. Classification shall be clearly differentiated from operational 
+process environmental monitoring.

@@ -1,0 +1,17 @@
+eparation of containers and closures. - The requirements mentioned in 
+the Schedule do not include requirements of machinery, equipments and premises required for 
+preparation of containers and closures for different dosage forms and categories of drugs. The 
+suitability and adequacy of the machinery, equipment and premises shall be examined taking 
+into consideration the requirements of each licensee in this respect. 
+
+18. Master Formula Records: 
+
+There shall be Master Formula records relating to all manufacturing procedures for 
+each product and batch size to be manufactured. These shall be prepared and endorsed by the 
+competent technical staff i.e. head of production and quality control. The Master Formula 
+shall include: - 
+
+(a) the name of the product together with product reference code relating to its 
+specifications; 
+(b) the patent or proprietary name of the product along with the generic name, a 
+description of the dosage form, strength, composition of the product and batch

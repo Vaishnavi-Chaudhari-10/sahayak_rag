@@ -1,0 +1,25 @@
+rk. 
+BASCOM Global Internet v. AT&T Mobility
+ LLC,
+ 827 F.3d 1341, 119 USPQ2d 1236 (Fed. Cir. 2016). The Federal
+ Circuit agreed with the district court that the claims were directed to the
+ abstract idea of filtering Internet content, and then walked through the district
+ court’s analysis in part two of the 
+Alice/Mayo
+ test, noting
+ that: 
+
+ • The district court properly identified
+ the additional elements in the claims, such as a “local client computer,”
+ “remote ISP server,” “Internet computer network,” and “controlled access
+ network accounts” (827 F.3d at 1349, 119 USPQ2d at 1242); 
+
+ • The district court properly considered the
+ additional elements individually, for example by consulting the
+ specification, which described each of the additional elements as
+ “well-known generic computer components” (827 F.3d at 1349, 119 USPQ2d at
+ 1242); and 
+
+ • The district court should have considered
+ the additional elements in combination, because the “inventive concept
+ inquiry requires m

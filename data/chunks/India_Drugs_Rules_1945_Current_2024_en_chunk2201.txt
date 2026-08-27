@@ -1,0 +1,15 @@
+50% reduction in cell 
+number or culture confluency. For lymphocyte cultures, an inhibition of mitotic 
+index by greater than 50% is considered sufficient. It should be performed in 
+CHO cells or on human lymphocyte in culture. In -vitro exposure (with and 
+without metabolic activation, S9 mix) should be done using a minimum of 3 log 
+doses. "Solvent" and "posit ive" control should be included. A positive control 
+like Cyclophosphamide with metabolic activation and Mitomycin C for without 
+metabolic activation should be used to give a reproducible and detectable 
+increase clastogenic effect over the background which demonstrates the 
+sensitivity of the test system. Each set should consist of at least three replicates. 
+Increased number of aberrations in meta Phase chromosomes should be used as 
+the criteria for evaluation. 
+(iii) In-vivo Micronucleus Assay: One rodent species (preferably mouse) is 
+needed. Route of administration of test substance should be the same as 
+intended for h

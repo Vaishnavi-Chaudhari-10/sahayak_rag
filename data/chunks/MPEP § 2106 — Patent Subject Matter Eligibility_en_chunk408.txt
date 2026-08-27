@@ -1,0 +1,24 @@
+ea, it also would be reasonable for an examiner to have found these claims eligible
+ at Pathway A or B if the examiner had considered the technology-based solution to be
+ an improvement to computer functionality. 
+
+2106.07 Formulating and Supporting Rejections For Lack
+ Of Subject Matter Eligibility [R-10.2019]
+
+Eligibility rejections must be based on failure to
+ comply with the substantive law under 
+35 U.S.C. 101
+ as interpreted by
+ judicial precedent. The substantive law on eligibility is discussed in
+
+MPEP §§
+ 2106.03
+ through 
+2106.06
+.
+ Examination guidance, training, and explanatory examples discuss the substantive law and
+ establish the policies and procedures to be followed by examiners in evaluating patent
+ applications for compliance with the substantive law, but do not serve as a basis for a
+ rejection. Accordingly, while it would be acceptable for applicants to cite training
+ materials or examples in support of an argument for finding eligibility in an
+ appropriate factual

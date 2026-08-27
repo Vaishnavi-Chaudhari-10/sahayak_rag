@@ -1,0 +1,29 @@
+is manufactured 
+directly from the intermediate or is separated fr om it by a small number of 
+intermediates all sharing the same essential structural element. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+12.13 Illustrative example for Unity of invention in Intermediate and Final Product 
+
+Example 1: 
+
+Claim 1: (intermediate) 
+
+Claim 2: (final product) 
+
+The chemical structures of the intermediate and final product are technically closely 
+interrelated. The essential structural element incorporated into the final product is: 
+
+Therefore, unity exists between claims 1 and 2. 
+
+Illustrative example 2 
+
+Claim 1: I (final product) 
+
+Claim 2: II (intermediate) 
+
+Compound (II) is described as an intermediate to make (I). The closure mechanism is 
+one well known in the art. Though the basic structures of compound (I) (final 
+product) and compound (II) (intermediate) differ considera

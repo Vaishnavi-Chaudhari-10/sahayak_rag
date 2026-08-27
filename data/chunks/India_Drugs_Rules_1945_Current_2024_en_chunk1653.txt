@@ -1,0 +1,15 @@
+r the preparation of kits. 
+4.5. A list of critical equipment shall be drawn up, including any 
+equipment such as a balance, pyrogen oven, dose calibrator, sterilising 
+filter, etc., where an error in the reading or function could potentially 
+cause harm to th e patient being given the final product. These devices 
+shall be calibrated or tested at regular intervals and shall be checked 
+daily or before production is started. The results of these tests shall be 
+included in the daily production records. 
+4.6. Specific equ ipment for radioactive measurements may be required as 
+well as radioactive reference standards. For the measurement of very 
+short half -lives, national central laboratories shall be contacted to 
+calibrate the apparatus. Where this is not possible, alternati ve 
+approaches, such as documented procedures, may be used. 
+4.7. In the case of labelling kits, freeze drying shall be carried out as an 
+aseptic procedure. If an inert gas such as nitrogen is used to fill vials

@@ -1,0 +1,25 @@
+xponentiation. There is no particular word or set of words that indicates a
+ claim recites a mathematical calculation. That is, a claim does not have to
+ recite the word “calculating” in order to be considered a mathematical
+ calculation. For example, a step of “determining” a variable or number using
+ mathematical methods or “performing” a mathematical operation may also be
+ considered mathematical calculations when the broadest reasonable
+ interpretation of the claim in light of the specification encompasses a
+ mathematical calculation.
+
+Examples of mathematical calculations
+ recited in a claim include:
+
+i. performing a resampled statistical
+ analysis to generate a resampled distribution, 
+SAP America,
+ Inc. v. InvestPic, LLC,
+ 898 F.3d 1161, 1163-65, 127
+ USPQ2d 1597, 1598-1600 (Fed. Cir. 2018), modifying 
+SAP
+ America, Inc. v. InvestPic, LLC,
+ 890 F.3d 1016, 126
+ USPQ2d 1638 (Fed. Cir. 2018);
+
+ii. calculating a number representing an
+ alarm limit value using the mathematical formul

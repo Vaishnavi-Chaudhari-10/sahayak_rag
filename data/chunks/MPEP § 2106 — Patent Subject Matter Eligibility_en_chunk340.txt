@@ -1,0 +1,21 @@
+241 (Fed. Cir. 2016).
+ Courts have held computer‐implemented processes not to be significantly more than
+ an abstract idea (and thus ineligible) where the claim as a whole amounts to
+ nothing more than generic computer functions merely used to implement an abstract
+ idea, such as an idea that could be done by a human analog (i.e., by hand or by
+ merely thinking). On the other hand, courts have held computer-implemented
+ processes to be significantly more than an abstract idea (and thus eligible),
+ where generic computer components are able in combination to perform functions
+ that are not merely generic. 
+DDR Holdings, LLC v. Hotels.com,
+ L.P.,
+ 773 F.3d 1245, 1257-59, 113 USPQ2d 1097, 1105-07 (Fed. Cir.
+ 2014). 
+
+The courts have recognized the following
+ laboratory techniques as well-understood, routine, conventional activity in the
+ life science arts when they are claimed in a merely generic manner
+ (
+e.g.,
+ at a high level of generality) or as insignificant
+ extra-solution activity:

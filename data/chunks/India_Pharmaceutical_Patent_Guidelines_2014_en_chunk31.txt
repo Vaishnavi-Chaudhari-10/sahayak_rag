@@ -1,0 +1,16 @@
+ns for bacterial growth and 
+assessment of effect of silver nanoparticles on gram negative bacteria. Prior art does not 
+
+9 
+
+explicitly teach removal of plasmid from bacteria; however, it teaches that the silver 
+nanoparticles were resp onsible for significantly increasing the permeability of bacterial cell 
+membrane that leads to leaking of intracellular substances (which may include plasmids) 
+from E. coli. Thus, the teaching of cited art would motivate a person having ordinary skill in 
+the art with reasonable expectation of success to provide an alternative method for removal 
+of plasmids from plasmid containing bacteria in order to solve the problem faced with 
+plasmid containing bacteria using varied concentration of silver nanoparticles, as these 
+particles effectively increase bacterial cell membrane permeability leading to removal of 
+intracellular substances, which may include plasmids. Thus, the claimed subject-matter lacks 
+inventive step in view of prior art. 
+If the clai

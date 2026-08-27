@@ -1,0 +1,17 @@
+shall be performed to ensure that there is no build -up of 
+the dust in the ducting. 
+1.42. The required transfer veloci ty shall be determined on the density of the 
+dust (the denser the dust, the higher the transfer velocity shall be, e.g., 
+15–20 m/s). 
+1.43. Airflow direction shall be carefully chosen to ensure that the operator 
+does not contaminate the product and also so that t he operator is not put 
+at risk by the product. 
+1.44. Point extraction alone is usually not sufficient to capture all of the 
+contaminants, and general directional airflow shall be used to assist in 
+removing dust and vapours from the room. 
+1.45. Typically, in a room ope rating with turbulent airflow, the air shall be 
+introduced from ceiling diffusers, located at the door entry side of the 
+room and extracted from the rear of the room at low level to help give a 
+flushing effect in the room. Correct flushing of the rooms may be 
+verified by airflow visualisation smoke tests. 
+1.46. When dealing with pa

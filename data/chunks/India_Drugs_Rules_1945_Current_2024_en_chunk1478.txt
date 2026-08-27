@@ -1,0 +1,17 @@
+purposes using 
+automated systems will usually be a function of t he sampling rate 
+of the system used. It is not necessary for the sample volume to be 
+the same as that used for formal classification of clean rooms and 
+clean-air devices. 
+4.7.5. The airborne particle conditions given in Table 1 for the “at rest” 
+state shall be ac hieved in the absence of the operating personnel 
+after a short “clean -up” or “recovery” period of about 15 –20 
+minutes (guidance value), after completion of the operations. The 
+particulate conditions given in Table 1 for Grade A “in operation” 
+shall be main tained in the zone immediately surrounding the 
+product whenever the product or open container is exposed to the 
+environment. The “clean -up” or “recovery” test shall demonstrate 
+a change in particle concentration by a factor of 100 within the 
+prescribed time as per the ISO standards. 
+4.7.6. In order to demonstrate control of the cleanliness of the various 
+clean areas during operation, they sha

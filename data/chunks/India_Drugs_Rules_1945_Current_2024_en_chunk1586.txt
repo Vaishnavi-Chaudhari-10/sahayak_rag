@@ -1,0 +1,17 @@
+in the 
+formulation of finished product, each container shall be sampled for 
+identity testing in accordance with the main principles of GMP for 
+pharmaceutical products unless reduced testing has been validated. 
+4.5. The sampling process shall not adversely affect the quality of the 
+product. Incoming starting materials shall be sampled under 
+appropriate conditions in order to prevent contamination and cross -
+contamination. 
+4.6. Where justified (such as the special case of sterile starting materials) it 
+may be acceptable to reduce the risk of contamination by not 
+performing sampling at the time of receipt but to perform the testing 
+later, on the samples taken at the time of use. In such cases, release of 
+the finished product is conditional upon satisfactory results of these 
+tests. 
+4.7. Where, the necessary tests for approving starting materials take a 
+significantly long time, it may be permissible by exception to process 
+starting materials before the test resu lts are avai

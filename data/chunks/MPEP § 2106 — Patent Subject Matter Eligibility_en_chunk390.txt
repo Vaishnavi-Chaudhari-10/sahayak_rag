@@ -1,0 +1,20 @@
+a cure time by
+ inputting the measured temperature into the Arrhenius equation, and opening the press
+ automatically when the calculated cure time and the elapsed time are equivalent. 450
+ U.S. at 179, 209 USPQ at 5, n. 5. These specific limitations act in concert to
+ transform raw, uncured rubber into cured molded rubber. 450 U.S. at 177-78, 209 USPQ
+ at 4. 
+
+A more recent example of a limitation that does no
+ more than generally link a judicial exception to a particular technological
+ environment is 
+Affinity Labs of Texas v. DirecTV, LLC,
+ 838 F.3d
+ 1253, 120 USPQ2d 1201 (Fed. Cir. 2016). In 
+Affinity Labs,
+ the
+ claim recited a broadcast system in which a cellular telephone located outside the
+ range of a regional broadcaster (1) requests and receives network-based content from
+ the broadcaster via a streaming signal, (2) is configured to wirelessly download an
+ application for performing those functions, and (3) contains a display that allows
+ the user to select particular conten

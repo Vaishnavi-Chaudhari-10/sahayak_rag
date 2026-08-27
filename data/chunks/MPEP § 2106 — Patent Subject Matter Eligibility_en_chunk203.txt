@@ -1,0 +1,33 @@
+ial exception in conjunction with, a particular machine or
+ manufacture that is integral to the claim, as discussed in
+
+MPEP § 2106.05(b)
+;
+
+ • Effecting a transformation or reduction of
+ a particular article to a different state or thing, as discussed in
+
+MPEP § 2106.05(c)
+; and
+
+ • Applying or using the judicial exception
+ in some other meaningful way beyond generally linking the use of the
+ judicial exception to a particular technological environment, such that the
+ claim as a whole is more than a drafting effort designed to monopolize the
+ exception, as discussed in 
+MPEP §
+ 2106.05(e)
+.
+
+The courts have also identified limitations that
+ did not integrate a judicial exception into a practical application:
+
+ • Merely reciting the words “apply it” (or
+ an equivalent) with the judicial exception, or merely including instructions
+ to implement an abstract idea on a computer, or merely using a computer as a
+ tool to perform an abstract idea, as discussed in 
+MPEP §
+ 2106.05(f)
+;
+
+ • Add

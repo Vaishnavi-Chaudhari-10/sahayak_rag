@@ -1,0 +1,20 @@
+hich the clone was created). 
+
+Although the selected counterpart should be in
+ its natural state, examiners should take care not to confuse the counterpart
+ with other material that may occur naturally with, or adjacent to, the
+ counterpart. For example, assume that applicant claims a nucleic acid having a
+ nucleotide sequence derived from naturally occurring gene B. Although gene B
+ occurs in nature as part of a chromosome, the closest natural counterpart for
+ the claimed nucleic acid is gene B, and not the whole chromosome. See,
+ e.g.,
+ Ass’n for Molecular Pathology v. Myriad Genetics,
+ Inc.,
+ 569 U.S. 576, 591-94, 106 USPQ2d 1972, 1979-81 (2013)
+ (comparing isolated BRCA1 genes and BRCA1 cDNA molecules to naturally occurring
+ BRCA1 gene);
+ Roche Molecular System, Inc. v. CEPHEID,
+ 905
+ F.3d 1363, 1371, 128 USPQ2d 1221, 1227 (Fed. Cir. 2018) (comparing claimed
+ primers to “their corresponding nucleotide sequences on the naturally occurring
+ DNA”). Similarly, assume that applicant cla

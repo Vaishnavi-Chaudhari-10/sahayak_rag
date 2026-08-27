@@ -1,0 +1,35 @@
+the abstract idea into a practical
+ application.
+
+Examiners may find it helpful to evaluate
+ other considerations such as the insignificant extra-solution activity
+ consideration (see 
+MPEP § 2106.05(g)
+), and the
+ field of use and technological environment consideration (see
+
+MPEP § 2106.05(h)
+), when
+ making a determination of whether a treatment or prophylaxis limitation is
+ merely extra-solution activity or a field of use. 
+
+2106.05 Eligibility Step 2B: Whether a Claim Amounts to
+ Significantly More [R-07.2022]
+
+I.
+ THE SEARCH FOR AN INVENTIVE
+ CONCEPT
+The second part of the 
+Alice/Mayo
+
+ test is often referred to as a search for an inventive concept. 
+Alice Corp.
+ Pty. Ltd. v. CLS Bank Int'l,
+ 573 U.S. 208, 217, 110 USPQ2d 1976, 1981
+ (2014) (citing 
+Mayo Collaborative Servs. v. Prometheus Labs.,
+ Inc.,
+ 566 U.S. 66, 71-72, 101 USPQ2d 1961, 1966 (2012)). 
+
+ An inventive concept “cannot be furnished by the
+ unpatentable law of nature (or natural phenomenon or abstract idea) itself.

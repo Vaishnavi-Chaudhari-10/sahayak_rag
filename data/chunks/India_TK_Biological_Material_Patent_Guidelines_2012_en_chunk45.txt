@@ -1,0 +1,23 @@
+ation/c omposition 
+claims: 
+
+Example 1: 
+
+Claimed invention relates to a composition for enhancing corneal healing said 
+composition comprising vitamin A and a sterile buffer administered to the eye. 
+
+Prior art discloses the use of the eye-drops to rewet contact lenses, wherein said eye- 
+drops comprising Vitamin A , the sterile buffer and other exciepients. 
+
+Analysis: The claim lacks novelty, as being anticipated by the said prior art, which 
+discloses all the features of claimed composition useful for enhancing corneal healing. 
+
+Thus, the claimed subject matter lacks novelty. 
+
+Example 2: 
+
+Claim: A pharmaceutical formulation comprising a substantially clear aqueous solution 
+characterized in that it has a viscosity of less than 10 mPa.s and contains 3.5 to 5% w/v 
+of 1,3-bis(2-carboxychromon-5-yloxy)-propan-2-ol, or a pharmaceutically acceptable 
+salt thereof as active ingredient, glycerol, and ions of metals of groups IA, IB, IIB and 
+IVB of the periodic table or transition met

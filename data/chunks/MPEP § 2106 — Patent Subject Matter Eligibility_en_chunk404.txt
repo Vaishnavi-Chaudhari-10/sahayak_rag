@@ -1,0 +1,27 @@
+air with wood trim, would not require analysis of the
+ nature-based component to determine whether the claims are directed to a “product of
+ nature” exception because such claims do not attempt to improperly tie up the
+ nature-based product. 
+
+2106.06(b) Clear Improvement to a Technology or to
+ Computer Functionality [R-08.2017]
+
+As explained by the Federal Circuit, some
+ improvements to technology or to computer functionality are not abstract when
+ appropriately claimed, and thus claims to such improvements do not always need to
+ undergo the full eligibility analysis. 
+Enfish, LLC v. Microsoft
+ Corp.,
+ 822 F.3d 1327, 1335-36, 118 USPQ2d 1684, 1689 (Fed. Cir. 2016).
+
+MPEP §
+ 2106.05(a)
+ provides details regarding improvements to a
+ technology or computer functionality. 
+
+For instance, claims directed to clear improvements
+ to computer-related technology do not need the full eligibility analysis.
+
+Enfish,
+ 822 F.3d at 1339, 118 USPQ2d at 1691-92 (claims to a
+ self-referential table for

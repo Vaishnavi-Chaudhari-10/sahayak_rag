@@ -1,0 +1,42 @@
+other represent C1-C6-alkyl, C2-C6-alkenyl, C2-C6-alkynyl, C3-
+C6-cycloalkyl, 
+
+n represents 0 to 4, 
+
+G5 represents hydrogen, halogen, cyano, nitro, C1-C4-alkyl, C1-C4-haloalkyl, C2-C6- 
+alkenyl, CrC6-haloalkenyl, C2-C6-alkynyl, C1-C4-alkoxy, C1-C4-haloalkoxy, 
+
+G6 represents C1-C6-alkyl, C3-C6-cycloalkyl, C1-C6-haloalkyl, C1-C6-halocycloalkyl, C2- 
+C6-alkenyl, C2-C6-haloalkenyl, C2-C6-alkynyl, C2-C6-haloalkynyl, C1-C4-alkoxy, 
+
+G7 represents a 5- or 6-membered heteroaromatic ring optionally mono- or 
+polysubstituted 
+The specification and working examples provides support only for compound of 
+formula I-1 and process for preparing the same. 
+N
+O
+G2
+N
+G3
+G6
+G4
+
+G5 
+X
+N
+CH3
+CF3
+O
+
+Figure I-1 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Where 
+G1 of Formula I is oxygen 
+G2 is oxygen, amino, G3 for hydrogen, 
+n of Formula I is 0, 
+G4 is absent 
+G5 is hydrogen, Cl, Br and I 
+G6 C

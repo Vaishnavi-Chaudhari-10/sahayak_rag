@@ -1,0 +1,13 @@
+r words, a 
+complete specification should provide enough information to allow a person skilled in the 
+art to carry out substantially all that which falls within the ambit of what is claimed. 
+ Analogues or variants of polynucleotides or polypeptide sequences, in the form of 
+additions, substitutions or deletions, could extend to an almost infinite number of variants. 
+In such cases, the claim should be restricted to variants sharing a common specific activity 
+with each other that are disclosed in the specification. The said activity disclosed should not 
+be predictable in nature. 
+When DNA sequences are claimed on the basis that they hybri dise with a specifically 
+identified probe and that they possess a certain activity, the claim will not be supported if 
+the hybridisation conditions are not specifically disclosed and if the skilled person needs to 
+perform an undue experimentation to achieve the desired result. 
+Claims to antibodies that may have therapeutic or diagnostic potenti

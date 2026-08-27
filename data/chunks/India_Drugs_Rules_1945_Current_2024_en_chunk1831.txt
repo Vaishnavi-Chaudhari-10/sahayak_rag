@@ -1,0 +1,21 @@
+y a second means in addition to the 
+computer system. 
+
+6. Documentation and records:- 
+6.1. Documentation system and speciﬁcations- 
+6.1.1. All documents related to the manufacture of intermediates or 
+APIs shall be prepared, reviewed, approved and distributed 
+according to written procedures. Such documents can be in 
+paper or electronic form. 
+6.1.2. The issuance, revisi on, superseding and withdrawal of all 
+documents shall be controlled with maintenance of revision 
+histories. 
+6.1.3. A procedure shall be established for retaining all appropriate 
+documents (e.g., development history reports, scale -up reports, 
+technical transfer re ports, process validation reports, training 
+records, production records, control records a nd distribution 
+records). The retention periods for these documents shall be 
+speciﬁed. 
+6.1.4. All production, control and distribution records shall be 
+retained for at least one year after the expiry date of the batch. 
+For APIs with retest dates, records s

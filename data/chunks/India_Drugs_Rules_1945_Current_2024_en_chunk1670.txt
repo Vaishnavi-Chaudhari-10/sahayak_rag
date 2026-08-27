@@ -1,0 +1,21 @@
+safety between 
+batches. 
+5.2. The written procedure shall specify critical process steps and factors 
+(such as extraction time, temperature and solvent purity) and acceptance 
+criteria, as well as the type of validation to be conducted (e.g., 
+retrospective, prospective or concurrent) and the number of process 
+runs. 
+5.3. A formal change control system shall be established to evaluate the 
+potential effects of any change s on the quality of the 
+Phytopharmaceuticals, particularly content of the active ingredients. 
+Scientific judgement shall be used to determine which additional testing 
+and validation studies are appropriate to justify a change in a validated 
+process. 
+
+6. Complaints:- 
+6.1. The person responsible for handling complaints and deciding on the 
+measures to be taken to deal with them shall have appropriate training 
+or experience in the specific features of the quality control of 
+Phytopharmaceuticals. 
+
+Central Drugs Standard Control Organization, Ministry of Health a

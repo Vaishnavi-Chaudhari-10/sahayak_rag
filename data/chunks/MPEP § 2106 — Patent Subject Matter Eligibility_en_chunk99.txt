@@ -1,0 +1,26 @@
+(citation omitted);
+
+Intellectual Ventures I LLC v. Symantec Corp.,
+ 838
+ F.3d 1307, 1313, 120 USPQ2d 1353, 1356 (Fed. Cir. 2016) (“The category of
+ abstract ideas embraces ‘fundamental economic practice[s] long prevalent in
+ our system of commerce,’ … including ‘longstanding commercial
+ practice[s]’”).
+
+An example of a case identifying a claim as
+ reciting a fundamental economic practice is 
+Bilski v.
+ Kappos,
+ 561 U.S. 593, 609, 95 USPQ2d 1001, 1009 (2010). The
+ fundamental economic practice at issue was hedging or protecting against
+ risk. The applicant in 
+Bilski
+ claimed “a series of steps
+ instructing how to hedge risk,” 
+i.e.,
+ how to protect
+ against risk. 561 U.S. at 599, 95 USPQ2d at 1005. The method allowed energy
+ suppliers and consumers to minimize the risks resulting from fluctuations in
+ market demand for energy. The Supreme Court determined that hedging is
+ “fundamental economic practice” and therefore is an “unpatentable abstract
+ idea.” 561 U.S. at 611-12, 95 USPQ2d a

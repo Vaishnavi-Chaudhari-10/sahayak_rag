@@ -1,0 +1,27 @@
+reasonable interpretation. See 
+MPEP § 2106
+,
+ subsection II for more information about the importance of understanding what has
+ been invented, and 
+MPEP § 2111
+ for more information about the broadest
+ reasonable interpretation. 
+
+Step 2B asks: Does the claim recite additional
+ elements that amount to significantly more than the judicial exception? Examiners
+ should answer this question by first identifying whether there are any additional
+ elements (features/limitations/steps) recited in the claim beyond the judicial
+ exception(s), and then evaluating those additional elements individually
+
+and in combination
+ to determine whether
+ they contribute an inventive concept (
+i.e.,
+ amount to
+ significantly more than the judicial exception(s)). 
+
+This evaluation is made with respect to the
+ considerations that the Supreme Court has identified as relevant to the eligibility
+ analysis, which are introduced generally in Part I.A of this section, and discussed
+ in detail in 
+MPEP § 2106.05(a)

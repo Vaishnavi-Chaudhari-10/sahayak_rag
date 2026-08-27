@@ -1,0 +1,28 @@
+.e., a claim limitation(s) that does not fall within the groupings of
+ abstract ideas discussed in 
+MPEP § 2106.04(a)(2)
+) as an abstract
+ idea. This form paragraph should be used to demonstrate that this approval has been
+ obtained.
+
+3. In bracket 1, provide the justification for why the claim
+ limitation(s) is/are being treated as an abstract idea. For example, provide an
+ explanation of why the claim limitation is among the "basic tools of scientific and
+ technological work."
+
+4. In bracket 2, insert the TC Director's signature. Approval of
+ the TC Director is required to treat a claim limitation that does not fall within the
+ groupings of abstract ideas discussed in 
+MPEP §
+ 2106.04(a)(2)
+ as reciting an abstract idea. See
+
+MPEP §
+ 2106.04(a)(3)
+.
+
+2106.07(b) Evaluating Applicant’s Response [R-10.2019]
+
+After examiners identify and explain in the record
+ the reasons why a claim is directed to an abstract idea, natural phenomenon, or law
+ of nature without significantly more, then t

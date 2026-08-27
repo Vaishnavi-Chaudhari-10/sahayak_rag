@@ -1,0 +1,21 @@
+e, email, mobile and alternate mobile 
+numbers and/or landline number) 
+ PAN/Aadhar 
+2. Details of the biological resources and knowledge associated thereto intended to be accessed (State-wise) 
+(i) Details of biological resource (Drop down menu) 
+i. Nature of the biological resource 
+(plants/animals/microbes/genetic 
+material/variety/hybrid/DSI) 
+ii. Common name 
+iii. Scientific name (Genus and species/ variety/strain) 
+iv. Plant parts (Seed, stem, bark, leaf, flower, fruit, root, 
+rhizome, genetic material, extract, exudate, etc.) 
+v. Quantity of each biological resource (in Kg/gm/ml) 
+vi. Duration of access (expected start and end date) 
+vii. Source of access (wild/cultivated/ 
+institution/repository/trader/ market) 
+viii. Geographical location (village, taluk, district, state). If 
+procured from a trader institute, their name, address 
+and contact details to be provided; if procured from 
+repository / institution/ database, then origin of 
+collection (passport data) to be provided.

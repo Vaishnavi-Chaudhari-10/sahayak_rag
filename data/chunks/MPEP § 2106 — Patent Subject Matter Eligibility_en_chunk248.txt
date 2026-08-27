@@ -1,0 +1,31 @@
+ll-understood, routine, conventional activity in the field, or adding
+ unconventional steps that confine the claim to a particular useful
+ application, 
+e.g.,
+ a non-conventional and non-generic
+ arrangement of various computer components for filtering Internet content,
+ as discussed in 
+BASCOM Global Internet v. AT&T Mobility
+ LLC,
+ 827 F.3d 1341, 1350-51, 119 USPQ2d 1236, 1243 (Fed. Cir.
+ 2016) (see 
+MPEP § 2106.05(d)
+); or
+
+vi. Other meaningful limitations beyond
+ generally linking the use of the judicial exception to a particular
+ technological environment, 
+e.g.,
+ an immunization step
+ that integrates an abstract idea of data comparison into a specific process
+ of immunizing that lowers the risk that immunized patients will later
+ develop chronic immune-mediated diseases, as discussed in 
+Classen
+ Immunotherapies Inc. v. Biogen IDEC,
+ 659 F.3d 1057, 1066-68,
+ 100 USPQ2d 1492, 1499-1502 (Fed. Cir. 2011) (see 
+MPEP §
+ 2106.05(e)
+).
+
+ Limitations that the courts have found not to be

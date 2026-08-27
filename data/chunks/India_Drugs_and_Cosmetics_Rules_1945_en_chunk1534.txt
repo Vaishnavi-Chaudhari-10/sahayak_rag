@@ -1,0 +1,22 @@
+22.3.2 Batch numbering Standard Operating Procedures applied to a processing stage 
+and to the respective packaging stage shall be same or traceable to demonstrate 
+that they belong to one homogenous mix. 
+
+22.3.3 Batch number allocation shall be immediately recorded in a logbook or by 
+electronic data processing s ystem. The record shall include date of allocation, 
+product identity and size of batch. 
+
+22.4. Testing: 
+
+22.4.1 There shall be written procedures for testing materials and products at different 
+stages of manufacture, describing the methods and equipment to be used. The 
+tests performed shall be recorded. 
+
+22.5 Records of analysis: 
+
+22.5.1 The records shall include the following data: 
+
+(a) name of the material or product and the dosage form, 
+(b) batch number and, where appropriate the manufacturer and/ or supplier, 
+(c) references to the relevant specifications and testing procedures, 
+(d) test results, including observations and calculations, and reference to any

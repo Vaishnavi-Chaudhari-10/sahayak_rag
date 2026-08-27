@@ -1,0 +1,26 @@
+rmining an estimated outcome and setting
+ a price, 
+OIP Techs.,
+ 788 F.3d at 1362-63, 115 USPQ2d at
+ 1092-93; and 
+
+vi. Arranging a hierarchy of groups, sorting
+ information, eliminating less restrictive pricing information and
+ determining the price, 
+Versata Dev. Group, Inc. v. SAP Am.,
+ Inc.,
+ 793 F.3d 1306, 1331, 115 USPQ2d 1681, 1699 (Fed. Cir.
+ 2015). 
+
+2106.05(e) Other Meaningful Limitations [R-10.2019]
+
+The analysis of whether the claim includes other
+ meaningful limitations may be relevant for both eligibility analysis Step 2A Prong
+ Two, and Step 2B.
+
+ The claim should add meaningful limitations beyond
+ generally linking the use of the judicial exception to a particular technological
+ environment to transform the judicial exception into patent-eligible subject matter.
+ The phrase “meaningful limitations” has been used by the courts even before Alice and
+ Mayo in various contexts to describe additional elements that provide an inventive
+ concept to the claim as a whole. The co

@@ -1,0 +1,27 @@
+ely limits the claims to the
+ computer field, 
+i.e.,
+ to execution on a generic computer,
+
+FairWarning v. Iatric Sys.,
+ 839 F.3d 1089, 1094-95, 120
+ USPQ2d 1293, 1295 (Fed. Cir. 2016); 
+
+v. Language specifying that the process steps of
+ virus screening were used within a telephone network or the Internet, because
+ limiting the use of the process to these technological environments did not
+ provide meaningful limits on the claim, 
+Intellectual Ventures I v.
+ Symantec Corp.,
+ 838 F.3d 1307, 1319-20, 120 USPQ2d 1353, 1361
+ (2016); 
+
+vi. Limiting the abstract idea of collecting
+ information, analyzing it, and displaying certain results of the collection and
+ analysis to data related to the electric power grid, because limiting
+ application of the abstract idea to power-grid monitoring is simply an attempt
+ to limit the use of the abstract idea to a particular technological
+ environment, 
+Electric Power Group, LLC v. Alstom S.A.,
+ 830
+ F.3d 1350, 1354, 119 USPQ2d 1739, 1742 (Fed. Cir. 2016)

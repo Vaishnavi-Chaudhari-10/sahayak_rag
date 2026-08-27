@@ -1,0 +1,19 @@
+cts," and noting that the Supreme Court has
+ recognized that "the inquiry 'might sometimes overlap' with other
+ fact-intensive inquiries like novelty under 
+35 U.S.C. §
+ 102
+"). If the element is not widely prevalent or in
+ common use, or is otherwise beyond those elements recognized in the art or
+ by the courts as being well-understood, routine or conventional, then the
+ element will in most cases favor eligibility. For example, even if a
+ particular technique (
+e.g.,
+ measuring blood glucose via
+ an earring worn by a person with diabetes) would have been obvious to one of
+ ordinary skill in the art because it was discussed in several widely-read
+ scientific journals or used by a few scientists, mere knowledge of the
+ particular technique or use of the particular technique by a few scientists
+ is not necessarily sufficient to make the use of the particular technique
+ routine or conventional in the relevant field. The examiner in this
+ situation would already know, based on the examine

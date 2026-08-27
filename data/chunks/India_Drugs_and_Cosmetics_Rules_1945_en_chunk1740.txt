@@ -1,0 +1,17 @@
+s. Infrastructure includes, as applicable:- 
+(a) buildings, workspace and associated utilities. 
+(b) process equipment (both hardware and software), and 
+(c) supporting services (such as transport or communication). 
+
+The manufacturer shall establish documented requirements for maintenance activities, including 
+their frequency, when such activities or lac k thereof can affect product quality. Records of such 
+maintenance shall be maintained. 
+
+6.4 Work environment: 
+The organisation shall determine and manage the work environment needed to achieve conformity to 
+product requirements. The following requirements shall apply, namely:- 
+(a) the manufacturer shall establish documented requirements for health, cleanliness and clothing 
+of personnel if contact between such personnel and the product or work environment could 
+adversely affect the quality of the product; 
+(b) if work environment conditions can have an adverse effect on product quality, the 
+manufacturer shall establish documen

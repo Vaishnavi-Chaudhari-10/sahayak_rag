@@ -1,0 +1,27 @@
+uld
+ consider whether the claim “purport(s) to improve the functioning of the computer
+ itself” or “any other technology or technical field.” 
+Alice Corp. Pty. Ltd.
+ v. CLS Bank Int’l,
+ 573 U.S. 208, 225, 110 USPQ2d 1976, 1984 (2014). This
+ consideration has also been referred to as the search for a technological solution to
+ a technological problem. See e.g.,
+ DDR Holdings, LLC. v. Hotels.com,
+ L.P.,
+ 773 F.3d 1245, 1257, 113 USPQ2d 1097, 1105 (Fed. Cir. 2014);
+
+Amdocs (Israel), Ltd. v. Openet Telecom, Inc.,
+ 841 F.3d 1288,
+ 1300-01, 120 USPQ2d 1527, 1537 (Fed. Cir. 2016). 
+
+While improvements were evaluated in 
+Alice
+ Corp.
+ as relevant to the search for an inventive concept (Step 2B),
+ several decisions of the Federal Circuit have also evaluated this consideration when
+ determining whether a claim was directed to an abstract idea (Step 2A). See,
+ e.g.,
+ Enfish, LLC v. Microsoft Corp.,
+ 822 F.3d 1327, 1335-36,
+ 118 USPQ2d 1684, 1689 (Fed. Cir. 2016); 
+McRO, Inc. v. Bandai Namco Games

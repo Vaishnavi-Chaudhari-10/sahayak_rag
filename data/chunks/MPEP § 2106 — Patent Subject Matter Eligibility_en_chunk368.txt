@@ -1,0 +1,17 @@
+forming these functions using a telephone unit and a server and noted that these
+ elements were being used in their ordinary capacity (
+i.e.,
+ the
+ telephone unit is used to make calls and operate as a digital camera including
+ compressing images and transmitting those images, and the server simply receives
+ data, extracts classification information from the received data, and stores the
+ digital images based on the extracted information). 823 F.3d at 612-13, 118 USPQ2d at
+ 1747-48. In other words, the claims invoked the telephone unit and server merely as
+ tools to execute the abstract idea. Thus, the court found that the additional
+ elements did not add significantly more to the abstract idea because they were simply
+ applying the abstract idea on a telephone network without any recitation of details
+ of how to carry out the abstract idea. 
+
+Other examples where the courts have found the
+ additional elements to be mere instructions to apply an exception, because they do no
+ more than

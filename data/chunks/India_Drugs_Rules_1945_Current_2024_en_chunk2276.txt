@@ -1,0 +1,18 @@
+4. Details of Suspected Adverse Drug Reaction(s)— 
+Full description of reaction(s) including body site and severity, as well as the 
+criterion (or criteria) for regarding the report as serious. In addition to a 
+description of the reported signs and symptoms, whenever possible, describe a 
+specific diagnosis for the reaction.* 
+Start date (and time) of onset of reaction 
+Stop date (and time) or duration of reaction 
+Dechallenge and rechallenge information 
+Setting (e.g., hospital, out-patient clinic, home, nursing home) 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+5. Outcome— 
+Information on recovery and any sequelae; results of specific tests and/or 
+treatment that may have been conducted. 
+For a fatal outcome, cause of death and a comment on its possible relationship 
+to the suspected reaction; Any post-mortem findings, 
+Other information: Anything relevant to facilitate assessment of the case, such 
+as medical history

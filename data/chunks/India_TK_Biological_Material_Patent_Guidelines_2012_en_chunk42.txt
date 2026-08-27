@@ -1,0 +1,21 @@
+salts. 
+
+R4 and R5 signifies hydrogen, lower alkyl, lower 
+alkoxy, cyclohexyl, lower alkyl¬ -cyclohexyl or 
+trifluoromethyl, with the proviso that at least one of 
+R4 or R5 has to be hydrogen; as well as their 
+pharmaceutically acceptable salts. 
+
+Analysis: It may be noted that the compound of the present invention as well as 
+prior art compound is represented by Markush formulae. It is to be checked from the 
+prior art, whether compounds disclosed specifically in the prior art are of such 
+structure so that they can unambiguously take away the novelty of the compound(s) 
+in question. If the compounds of prior art disclosed specifically do not take away the 
+novelty of the compounds in question, then the generic disclosure in the prior art 
+may still be cited for the purpose of inventive step. 
+
+Example 2: 
+
+The invention relates to the fumarate salt of (2S)-1-{[1,1-Dimethyl-3-(4-(pyridin-3- 
+yl))-imidazol-1-yl)-propylamino]-acetyl}-pyrrolidine-2-carbonitrile useful for the 
+treatment

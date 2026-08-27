@@ -1,0 +1,13 @@
+e manner unless the usefulness and industrial applicability of the 
+invention is already established, either in explicit or in implicit manner. 
+In the context of the gene sequences, it may be said that whatever ingenuity is 
+involved in discoveri ng a gene sequence, one cannot have a patent for it or a protein 
+encoded by it unless it is disclosed how it can be used. It is therefore necessary to consider 
+whether the invention claimed has a useful purpose, and whether the specification 
+identifies any practical way of using it. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: A polypeptide in substantially isolated form comprising a contiguous sequence of at 
+least 10 amino acids encoded by the genome of hepatitis C virus (HCV) and comprising an 
+antigenic determinant, w herein HCV is characterized by: (i) a positive stranded RNA 
+genome; (ii) said genome comprising an open reading frame (ORF) encoding a polyprotein; 
+and (iii) said polyprotein comprising an amino acid sequence having at least 40% ho

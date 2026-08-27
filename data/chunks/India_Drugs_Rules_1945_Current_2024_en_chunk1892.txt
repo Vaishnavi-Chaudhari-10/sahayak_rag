@@ -1,0 +1,19 @@
+nerally, for retrospective 
+validation, data from ten to thirty consecutive batches shall be 
+examined to assess process consistency, but fewer batches can 
+be examined, if justiﬁed. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+12.5.2. Critical process parameters shall be controlled and monitored 
+during process validation studies. Process parameters unrelated 
+to quality, such as variables controlled to minimise energy 
+consumption or equipment use, need not be included in the 
+process validation. 
+12.5.3. Process validation shall conﬁrm that the impurity proﬁle for 
+each API is within the limits speciﬁed. The impurity proﬁle 
+shall be comparable to or better than historical data and, where 
+applicable, the proﬁle determined during process development 
+or for batches used for pivotal clinical and toxicological 
+studies. 
+12.6. Periodic review of validated systems - Systems and processes shall 
+be periodically evaluated t

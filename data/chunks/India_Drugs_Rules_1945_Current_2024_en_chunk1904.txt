@@ -1,0 +1,19 @@
+r non -conformance shall be 
+performed. 
+14.3.2. Batches that have been reworked shall be subjected to 
+appropriate evalu ation, testing, stability testing if warranted 
+and documentation to show that the reworked product is of 
+equivalent quality to that produced by the original process. 
+Concurrent validation is often the appropriate validation 
+approach for rework procedures. This allows a protocol to 
+deﬁne the rework procedure, how it will be carried out and the 
+expected results. If there is only one batch to be reworked, then 
+a report can be written and the batch released once it is found 
+to be acceptable. 
+14.3.3. Procedures shall pr ovide for comparing the impurity proﬁle of 
+each reworked batch with batches manufactured by the 
+established process. Where routine analytical methods are 
+inadequate to characterise the reworked batch, additional 
+methods shall be used. 
+14.4. Recovery of materials and solvents- 
+14.4.1. Recovery (e.g., from mother liquor or ﬁltrates) of reacta

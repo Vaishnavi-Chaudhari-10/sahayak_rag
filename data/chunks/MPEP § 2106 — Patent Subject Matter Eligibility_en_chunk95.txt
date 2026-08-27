@@ -1,0 +1,21 @@
+grouping as a reminder of several
+ important points. First, not all methods of organizing human activity are
+ abstract ideas (
+e.g.,
+ “a defined set of steps for combining
+ particular ingredients to create a drug formulation” is not a certain "method
+ of organizing human activity”), 
+In re Marco Guldenaar Holding
+ B.V.,
+ 911 F.3d 1157, 1160-61, 129 USPQ2d 1008, 1011 (Fed. Cir.
+ 2018). Second, this grouping is limited to activity that falls within the
+ enumerated sub-groupings of fundamental economic principles or practices,
+ commercial or legal interactions, and managing personal behavior and
+ relationships or interactions between people, and is not to be expanded beyond
+ these enumerated sub-groupings except in rare circumstances as explained in
+
+MPEP § 2106.04(a)(3)
+. Finally, the sub-groupings
+ encompass both activity of a single person (for example, a person following a
+ set of instructions or a person signing a contract online) and activity that
+ involves multiple people (such as

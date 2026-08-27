@@ -1,0 +1,23 @@
+per hour in a room with good air flow pattern and appropriate HEPA filters. For Grade A 
+laminar air flow work stations, the air flow rate shall be 0.3 meter per second ± 20% (for vertical flows) 
+and 0.45 meter per second ± 20% (for horizontal flows). 
+
+3.8. Differential pressure between areas of different environmental standards shall be at 
+least 15 Pascal (0.06 inches or 1.5 mm water gauge). Suitable manometers or gauges shall be 
+installed to measure and verify pressure differential. 
+
+1. Subs. by G.S.R. 431(E), dt. 30.6.2005 
+
+Drugs and Cosmetics Rules 1945 
+450 
+
+3.9 The final change room shall have the same class of air as specified for the 
+aseptic area. The pressure differentials in the change rooms shall be in the descending order 
+from ‗white‘ to ‗black‘. 
+
+3.10 Unless there are product specific requirements, temperature and humidity in 
+the aseptic areas 1[shall be 27 ± 2 degree centigrade and relative humidity 55% ± 5, 
+respectively]. 
+1[TABLE I 
+
+AIR BORNE PARTICULATE CL

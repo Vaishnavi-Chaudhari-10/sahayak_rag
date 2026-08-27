@@ -1,0 +1,18 @@
+ooperation between the contracting 
+parties is essential. 
+10.2. Manufacturing operations- 
+10.2.1. Validated procedures may not always be available during 
+the development phase, which makes it difficult to know in 
+advance what critical parameters and in -process controls would 
+help to control these parameters. Provisional production 
+parameters and in-process controls may then usually be deduced 
+from experience with analogous products. Careful consideration 
+by key personnel is called for in order to formulate the 
+necessary instructions and to adapt them continuously to the 
+experience gained in production. 
+10.2.2. For sterile investigational products, assurance of sterility 
+shall be not less than for licensed products. Cleaning procedures 
+shall be appropriately validated and designed in the light of the 
+incomplete knowledge of the toxicity of the in vestigational 
+product. Where processes such as mixing have not been 
+validated, additional quality control testing may be nece

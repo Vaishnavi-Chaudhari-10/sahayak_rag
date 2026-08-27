@@ -1,0 +1,27 @@
+ms recited steps of:
+ (1) performing a genotyping assay to determine if a patient has a genotype
+ associated with poor drug metabolism; and (2) administering iloperidone to the
+ patient in a dose range that depends on the patient’s genotype.
+
+Id.
+ Although 
+Vanda’s
+ claims recited a law
+ of nature (the naturally occurring relationship between the patient’s genotype and
+ the risk of QTc prolongation) like the claims in 
+Mayo Collaborative
+ Servs. v. Prometheus Labs., Inc.,
+ 566 U.S. 66, 101 USPQ2d 1961
+ (2012), the Federal Circuit distinguished them from the 
+Mayo
+
+ claims based on the differences in the administration steps. In particular, the
+ court explained that 
+Mayo’s
+ step of administering a drug to a
+ patient was performed in order to gather data about the recited laws of nature,
+ and this step was thus ancillary to the overall diagnostic focus of the claims.
+ 887 F.3d at 1134-35, 126 USPQ2d at 1280. In contrast, 
+Vanda’s
+
+ claims used the recited law of nature to more safely tr

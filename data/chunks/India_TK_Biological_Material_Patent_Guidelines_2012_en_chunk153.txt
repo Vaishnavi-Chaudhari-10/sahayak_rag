@@ -1,0 +1,18 @@
+mbinations of different categories of claims and variable dependency of claims. 
+Interpreting such claims whether claims claimed in the application relate to a single 
+invention or a group of inventions linked so as to form a single inventive concept or 
+lack unity. 
+
+12.5 Illustrative example of a priori determination of unity of invention: 
+Example 1: 
+Claims 
+
+1) An antibiotic of formula I for treatment of staphylococcal infection. 
+
+2) A steroid of formula A for treatment of staphylococcal infection. 
+3) A bioactive compound of fo rmula X for treatment of sta phylococcal in fection. 
+Analysis: The subject-matter of claims 1-3 does not relate to a single invention, or to 
+a group of inventions linked so as to form a single inventive concept as they relate to 
+structurally different products. As antibiotic of formula I, steroid of formula A and 
+bioactive compound of formula X do not share any common structural feature, 
+which could serve as a unifying feature. Each of these claims h

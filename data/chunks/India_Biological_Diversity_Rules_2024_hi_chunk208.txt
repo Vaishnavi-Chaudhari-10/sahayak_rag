@@ -1,0 +1,32 @@
+menu) 
+a. NRI 
+b. Non-Indian 
+c. Entity covered under section 3(2) of the 
+Act 
+(iv) Address of the applicant 
+
+(Postal address including PIN code, email, mobile and 
+alternate mobile numbers and/or landline number) 
+
+(v) Profile of the individual/entity 
+(vi) Nature of the business (applicable if the applicant is an 
+entity) 
+
+(vii) Details of the authorised representative for the applicant 
+(applicable if the applicant is an entity) 
+(Name with postal address including PIN code, email, 
+mobile and alternate mobile numbers and/or landline 
+number) 
+
+(viii) Details of the patent attorney/contact person (if applicable) 
+(Name with postal address including PIN code, email, 
+mobile and alternate mobile numbers and/or landline 
+number) 
+
+[भाग II—खण् ड 3(i)] भारत का रािपत्र : असाधारण 73 
+
+(2) Details of the approval obtained from the National Biodiversity Authority for research under section 
+3 of the Act 
+(i) NBA application number 
+(ii) Date of approval 
+(iii) Upload copy of the approval

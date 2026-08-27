@@ -1,0 +1,21 @@
+urt thus held the claims ineligible, because the additional limitations
+ provided only a result-oriented solution and lacked details as to how the computer
+ performed the modifications, which was equivalent to the words “apply it”. 850 F.3d
+ at 1341-42; 121 USPQ2d at 1947-48 (citing 
+Electric Power Group.,
+
+ 830 F.3d at 1356, 1356, USPQ2d at 1743-44 (cautioning against claims “so result
+ focused, so functional, as to effectively cover any solution to an identified
+ problem”)). 
+
+Other examples where the courts have found the
+ additional elements to be mere instructions to apply an exception, because they
+ recite no more than an idea of a solution or outcome include: 
+
+i. Remotely accessing user-specific information
+ through a mobile interface and pointers to retrieve the information without any
+ description of how the mobile interface and pointers accomplish the result of
+ retrieving previously inaccessible information, 
+Intellectual Ventures
+ v. Erie Indem. Co.,
+ 850 F.3d 1315, 1331,

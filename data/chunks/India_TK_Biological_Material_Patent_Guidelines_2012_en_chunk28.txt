@@ -1,0 +1,23 @@
+.1 W hile conducting a prior art search , the Examiner should design/frame a 
+comprehensive search strategy by combining various search parameters including key 
+words, IPC, compound searches, etc. and t horough s earch s hould be carried out in 
+patent as well as non-patent databases. 
+
+5.2 The compounds can be searched and identified from the various databases by using 
+several methods1: 
+
+a) Molecular formula and structural formula searching; 
+
+b) Name searching using IUPAC nomenclature; 
+
+c) Compound searching using CAS Registry Numbers; 
+
+d) Generic name searching (INN); and 
+
+e) Search using International Patent Classification (IPC). 
+
+5.3 It is to be noted that quite often the claims of the pharmaceutical compounds involve 
+derivatives of known compounds having established pharmaceutical activities. Also, it 
+has been observed t hat such pharmaceutical substances have already been assigned 
+generic names (International Non-Proprietary Names, INN). W hen t he patent 
+specificatio

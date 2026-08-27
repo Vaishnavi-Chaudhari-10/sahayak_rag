@@ -1,0 +1,19 @@
+fied, Inc. v. Election Systems & Software,
+ LLC,
+ 887 F.3d 1376, 1385, 126 USPQ2d 1498, 1504 (Fed.
+ Cir. 2018). In this case, the Federal Circuit relied upon the
+ specification in explaining that the claimed steps of voting,
+ verifying the vote, and submitting the vote for tabulation are “human
+ cognitive actions” that humans have performed for hundreds of years.
+ The claims therefore recited an abstract idea, despite the fact that
+ the claimed voting steps were performed on a computer. 887 F.3d at
+ 1385, 126 USPQ2d at 1504. Another example is
+
+Versata,
+ in which the patentee claimed a system
+ and method for determining a price of a product offered to a
+ purchasing organization that was implemented using general purpose
+ computer hardware. 793 F.3d at 1312-13, 1331, 115 USPQ2d at 1685,
+ 1699. The Federal Circuit acknowledged that the claims were performed
+ on a generic computer, but still described the claims as “directed to
+ the abstract idea of determining a price, using organization

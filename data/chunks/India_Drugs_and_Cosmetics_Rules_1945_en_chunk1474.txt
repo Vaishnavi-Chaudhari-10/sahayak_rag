@@ -1,0 +1,14 @@
+etc. 
+15. Raw data: - 
+(a) Raw data refers to the laboratory work sheet, note books or analysis sheet, records, 
+and other activities and such raw data shall includ e hand written notes, photographs, 
+software, drawings, computer printouts, spectral charts, dictated observations or 
+recorded data from automated equipments. The raw data also includes record on 
+receipt of animals, result of environmental monitoring, calibration, records of 
+equipments, integrator output from analytical equipment, including work -sheet used to 
+read a note, information from Light Emitting Diode (LED) display of any equipment. 
+(b) A single line shall strike through the data being changed; the correct information shall 
+be recorded along with the old data and the reason of change. The analyst making the 
+change shall be identified by his signature with date. In case of automated data 
+collection system, the person responsible shall be identified a t the time of data output. 
+The original entry must be sa

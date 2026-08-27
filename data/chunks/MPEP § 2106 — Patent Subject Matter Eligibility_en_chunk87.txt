@@ -1,0 +1,33 @@
+nson,
+ 409 U.S. at 64,
+ 175 USPQ at 674; 
+
+iii. a mathematical relationship between
+ enhanced directional radio activity and antenna conductor arrangement
+ (
+i.e.,
+ the length of the conductors with respect
+ to the operating wave length and the angle between the conductors),
+
+Mackay Radio & Tel. Co. v. Radio Corp. of
+ America,
+ 306 U.S. 86, 91, 40 USPQ 199, 201 (1939) (while
+ the litigated claims 15 and 16 of U.S. Patent No. 1,974,387 expressed
+ this mathematical relationship using a formula that described the
+ angle between the conductors, other claims in the patent
+ (
+e.g.,
+ claim 1) expressed the mathematical
+ relationship in words); and 
+
+iv. organizing information and
+ manipulating information through mathematical correlations,
+
+Digitech Image Techs., LLC v. Electronics for Imaging,
+ Inc.,
+ 758 F.3d 1344, 1350, 111 USPQ2d 1717, 1721 (Fed.
+ Cir. 2014). The patentee in 
+Digitech
+ claimed
+ methods of generating first and second data by taking existing
+ information, manipulating the d

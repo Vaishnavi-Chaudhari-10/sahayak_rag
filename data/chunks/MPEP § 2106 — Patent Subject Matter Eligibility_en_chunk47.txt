@@ -1,0 +1,32 @@
+nopsys, Inc. v. Mentor Graphics Corp.,
+ 839
+ F.3d 1138, 1150, 120 USPQ2d 1473, 1483 (Fed. Cir. 2016); 
+Ariosa Diagnostics,
+ Inc. v. Sequenom, Inc.,
+ 788 F.3d 1371, 1379, 115 USPQ2d 1152, 1158 (Fed.
+ Cir. 2015). It is necessary to evaluate eligibility using the
+
+Alice/Mayo
+ test, because while a preemptive claim may be
+ ineligible, the absence of complete preemption does not demonstrate that a claim is
+ eligible. 
+Diamond v. Diehr,
+ 450 U.S. 175, 191-92 n.14, 209 USPQ 1,
+ 10-11 n.14 (1981) (“We rejected in 
+Flook
+ the argument that because
+ all possible uses of the mathematical formula were not pre-empted, the claim should
+ be eligible for patent protection”). See also 
+Synopsys v. Mentor
+ Graphics,
+ 839 F.3d at 1150, 120 USPQ2d at 1483; 
+FairWarning IP,
+ LLC v. Iatric Sys., Inc.,
+ 839 F.3d 1089, 1098, 120 USPQ2d 1293, 1299
+ (Fed. Cir. 2016); 
+Intellectual Ventures I LLC v. Symantec Corp.,
+
+ 838 F.3d 1307, 1320-21, 120 USPQ2d 1353, 1362 (Fed. Cir. 2016);
+
+Sequenom,
+ 788 F.3d at 1379, 11

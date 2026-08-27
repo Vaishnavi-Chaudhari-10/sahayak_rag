@@ -1,0 +1,26 @@
+nd
+ explain using a reasoned rationale why the product does not have markedly
+ different characteristics from its naturally occurring counterpart in its natural
+ state. See 
+MPEP § 2106.04(b)
+ for more
+ information about products of nature, and 
+MPEP §
+ 2106.04(c)
+ for more information about the markedly
+ different characteristics analysis. 
+
+Sample explanation:
+ The
+ claim recites X, which as explained in the specification was isolated from
+ naturally occurring Y. X is a nature-based product, so it is compared to its
+ closest naturally occurring counterpart (X in its natural state) to determine
+ if it has markedly different characteristics. Because there is no indication in
+ the record that isolation of X has resulted in a marked difference in
+ structure, function, or other properties as compared to its counterpart, X is a
+ product of nature exception. 
+
+II.
+ WHEN MAKING A REJECTION, EXPLAIN
+ WHY THE ADDITIONAL CLAIM ELEMENTS DO NOT RESULT IN THE CLAIM AS A WHOLE
+ INTEGRATING THE JUDI

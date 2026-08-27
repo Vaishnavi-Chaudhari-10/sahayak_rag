@@ -1,0 +1,37 @@
+der 35 U.S.C. 103
+
+2141.01-Scope and Content of the Prior Art
+
+2141.01(a)-Analogous and Nonanalogous Art
+
+2141.02-Differences Between Prior Art and Claimed Invention
+
+2141.03-Level of Ordinary Skill in the Art
+
+2142-Legal Concept of Prima Facie Obviousness
+
+2143-Examples of Basic Requirements of a Prima Facie Case of Obviousness
+
+2143.01-Suggestion or Motivation To Modify the References
+
+2143.02-Reasonable Expectation of Success Is Required
+
+2143.03-All Claim Limitations Must Be Considered
+
+2144-Supporting a Rejection Under 35 U.S.C. 103
+
+2144.01-Implicit Disclosure
+
+2144.02-Reliance on Scientific Theory
+
+2144.03-Reliance on Common Knowledge in the Art or “Well Known” Prior Art
+
+2144.04-Legal Precedent as Source of Supporting Rationale
+
+2144.05-Obviousness of Similar and Overlapping Ranges, Amounts, and Proportions
+
+2144.06-Art Recognized Equivalence for the Same Purpose
+
+2144.07-Art Recognized Suitability for an Intended Purpose
+
+2144.08-Obviousness of Species When Prior Art Teaches G

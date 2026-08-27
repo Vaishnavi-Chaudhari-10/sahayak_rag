@@ -1,0 +1,18 @@
+ples, taking 
+into account the biohazard classification and containment 
+requirements of the relevant organism, and process and equipment 
+risks. In the case of Biosafety Risk Group 3 organisms, air shall not be 
+recirculated to any other area in the facility and shall be exhausted 
+through HEPA filters that are regularly checked for performance. A 
+dedicated non-recirculating ventilation system and HEPA filt ering of 
+exhaust air are required when handling Biosafety Risk Group 4 
+organisms. 
+7.7. Primary containment equipment shall be designed and initially 
+qualified for integrity in order to ensure that the escape of biological 
+agents or material into the immediate w orking area and outside 
+environment is prevented. Thereafter, in line with relevant guidelines 
+and quality risk management principles, periodical tests shall be 
+performed to ensure that the equipment is in proper working 
+condition. 
+7.8. Activities associated with the handling of live biological agents (such 
+as ce

@@ -1,0 +1,28 @@
+ltiple judicial exceptions, see 
+MPEP §
+ 2106.04
+, subsection II.B.
+
+ If the claim as a whole does recite significantly
+ more than the exception itself, the claim is eligible (Step 2B: YES) at Pathway C,
+ and the eligibility analysis is complete. If there are no meaningful limitations in
+ the claim that transform the exception into a patent-eligible application, such that
+ the claim does not amount to significantly more than the exception itself, the claim
+ is not patent-eligible (Step 2B: NO) and should be rejected under 
+35 U.S.C. 101
+.
+ See 
+MPEP
+ § 2106.07
+ for information on how to formulate an
+ ineligibility rejection. 
+
+2106.05(a) Improvements to the Functioning of a Computer
+ or To Any Other Technology or Technical Field [R-07.2022]
+
+In determining patent eligibility, examiners should
+ consider whether the claim “purport(s) to improve the functioning of the computer
+ itself” or “any other technology or technical field.” 
+Alice Corp. Pty. Ltd.
+ v. CLS Bank Int’l,
+ 573 U.S. 208,

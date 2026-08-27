@@ -1,0 +1,48 @@
+eine 
+21. Cycloserine 
+22. Diazepam 
+23. Diphenoxylate 
+24. Doripenem 
+25. Ertapenem 
+26. Ethambutol Hydrochloride 
+27. Ethionamide 
+28. Feropenem 
+29. Gemifloxacin 
+30. Imipenem 
+31. lsoniazid 
+32. Levofloxacin 
+33. Meropenem 
+34. Midazolam 
+35. Moxifloxacin 
+36. Nitrazepam 
+37. Pentazocine 
+38. Prulifloxacin 
+39. Pyrazinamide 
+40. Rifabutin 
+41. Rifampicin 
+42. SodiumPara-aminosalicylate 
+43. Sparfloxacin 
+44. Tniacetazone 
+45. Tramadol 
+46. Zolpidem 
+1126[47. Oxytocin] 
+1127[48. Tapentadol] 
+1341[“49. Oseltamivir 
+50. Zanamivir”] 
+
+1339[SCHEDULE H2 
+[See sub-rules (6) and (7) of rule 96] 
+
+S No. Brand name of the formulation 
+1. ACILOC 150 MG TABLET 30 
+2. ACILOC 300 MG TABLET 20 
+3. ACTEMRA 400 MG INJECTION 1 
+4. ACTRAPID HUMAN 40 IU INJECTION 10 ML 
+5. AEROCORT WITH DOSE COUNTER 50/50 MCG INHALER 200 MDI 
+6. AJADUO 25/5 MG TABLET 10 
+7. ALLEGRA 120 MG TABLET 10 
+8. ALLEGRA 180 MG TABLET 10 
+9. AMBISOME 50 MG INJECTION 20 ML 
+10. AMICIN 500 MG INJECTION 2 ML 
+
+Central Drugs Standar

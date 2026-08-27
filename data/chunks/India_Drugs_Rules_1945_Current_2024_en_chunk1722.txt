@@ -1,0 +1,17 @@
+turer, shall be described in 
+writing, taking into account the GMP principles to the extent that they 
+are applicable to the opera tions in question. This system shall also 
+cover the interface between the manufacture and the trial site (e.g., 
+shipment, storage, occasional additional labelling). 
+
+3. Validation:- 
+3.1. Some of the production processes for investigational products that have 
+not received marketing authorisation may not be validated to the extent 
+necessary for a routine production operation. The product specifications 
+and manufacturing instructions may vary during development. The 
+increased complexity in the manufacturing operation s requires a highly 
+effective quality assurance system. 
+3.2. For sterile products, there shall be no reduction in the degree of 
+validation of sterilising equipment required. Validation of aseptic 
+processes presents special problems when the batch size is small, since 
+the number of units filled may not be adequate for a validation exer

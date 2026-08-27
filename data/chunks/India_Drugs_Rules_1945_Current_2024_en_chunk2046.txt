@@ -1,0 +1,24 @@
+instrument should be employed such as pyrometer and, pyrograph for manual 
+reading or recording by heat sensors, connected to computer as the case may be. 
+In order to handle large quantities, appropriate technology like use of hand 
+operated extruders for making chakrikas or pellets may be adopted. However, 
+such equipments made of aluminium or its alloys should not be used. 
+Access to manufacturing areas shall be restricted to minimum number of 
+authorized personal only. 
+3. Quality Control.— 
+A. In Process Quality Control: 
+The registers as indicated below should exclusively be maintained fo r ready 
+reference: 
+(a) Shodhan Register with following details:— 
+1. SI. No. 
+2. Batch No. and Size 
+3. Date, time and duration 
+4. Name of the Raw-material with Quality reference and quantity 
+5. Quantity of Shodhana Dravya 
+6. Book Reference followed 
+7. Methodology 
+(b) Bhavana and Putta Register with following details:— 
+1. SI. No. 
+2. Batch No. 
+3. Date, time 
+4. Name of the material an

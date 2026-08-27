@@ -1,0 +1,18 @@
+has to show that the product 
+defined in process t erms, is not anticipated or rendered obvious by any prior art 
+product. In other words t he product must qualify for novelty and inventive step 
+irrespective of the novelty or inventive step of the process. 
+
+4 The Research Foundation Of State University Of New York Vs Assistant Controller Of Patents 
+[OA/11/2009/PT/DEL (ORDER No. 200/2012)] 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+7.10 Illustrative Examples for determination of novelty for Product-by-process claims: 
+Example 1: 
+The patent application relates to “Ceramic based nanoparticles for entrapping 
+therapeutic agents for photodynamic therapy and method of using the same”. The 
+specification disclosed, in one embodiment, that the invention provided a method for 
+the synthesis of photosensitizer dye/drug doped silica-based nanoparticles (diameter 
+~30 nm), by contr

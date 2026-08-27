@@ -1,0 +1,18 @@
+ated loading patterns shall be established for all sterilisation 
+processes. 
+6.10. Sterilisation records shall be available for each sterilisation run. They 
+shall be approved as part of the batch-release procedure. 
+6.11.1. Terminal sterilisation- 
+6.11.1.1. Each heat -sterilisation cycle shall be recorded by means of 
+appropriate equipment of suitable accuracy and precision, e.g., 
+on a time or temperature chart with a suitably large scale. The 
+temperature shall be recorded by a probe situated at the 
+coolest part of the load or loaded chamber, this point having 
+been determined during the validation; the temperature shall 
+preferably be checked against a second independent 
+temperature probe located at the same position. Sterilisation 
+records shall be available for each sterilisation run and shall be 
+approved as part of the batch release procedure. Chemical or 
+biological indicators may also be used but shall not take the 
+place of physical controls. 
+6.11.1.2. Sufficient time s

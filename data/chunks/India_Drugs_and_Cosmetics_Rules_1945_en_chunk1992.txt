@@ -1,0 +1,36 @@
+g Authority reserves the right to reject any data or any 
+document(s) if such data or contents of such documents are found to be of doubtful integrity. 
+
+APPENDIX I 
+DATA TO BE SUBMITTED ALONG WITH THE APPLICATION TO CONDUCT 
+CLINICAL TRIALS/IMPORT/MANUFACTURE OF NEW DRUGS FOR MARKETING IN 
+THE COUNTRY 
+1. Introduction 
+A brief description of the drug and the therapeutic class to which it belongs. 
+2. Chemical and pharmaceutical information 
+
+Drugs and Cosmetics Rules 1945 
+594 
+
+2.1. Information on active ingredients 
+Drug information (Generic Name, Chemical Name or INN) 
+2.2. Physicochemical Data 
+(a) Chemical name and Structure 
+Empirical formula 
+Molecular weight 
+(b) Physical properties 
+Description 
+Solubility 
+Rotation 
+Partition coefficient 
+Dissociation constant 
+2.3. Analytical Data 
+ Elemental analysis 
+ Mass spectrum 
+ NMR spectra 
+ IR spectra 
+ UV spectra 
+ Polymorphic identification 
+2.4. Complete monograph specification including 
+ Identification 
+ Identity/quantificatio

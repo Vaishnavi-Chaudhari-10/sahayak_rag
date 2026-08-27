@@ -1,0 +1,14 @@
+, with appropriate macroscopic and microscopic 
+findings where necessary. LD10 and LD50 should be reported preferably with 95 percent 
+confidence limits. If LD50s cannot be determined, reasons for the same should be stated. 
+
+The dose causing severe toxic manifestations or death should be defined in the case of 
+cytotoxic anticancer agents, and the post -dosing observation period should be up to 14 days. 
+Mice should first be used for determination of MTD. Findings should then be confirmed in rat 
+for establishing linear relationship between toxicity and body surface area. In case of 
+nonlinearity, data of the more sensitive species should be used to determine the Phase I 
+starting dose. Where rodents are known to be poor predictors of human toxicity (e.g., 
+antifolates), or where the cytotoxic drug acts by a novel mechanism of acti on, MTD should be 
+established in non-rodent species. 
+
+1.1.2 Repeated-dose Systemic Toxicity Studies: These studies (see Appendix I, item 4.2) should be

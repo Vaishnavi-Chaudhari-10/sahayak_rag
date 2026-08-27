@@ -1,0 +1,24 @@
+838 F.3d
+ 1253, 1262, 120 USPQ2d 1201, 1207 (Fed. Cir. 2016) (cellular telephone); 
+TLI
+ Communications LLC v. AV Auto, LLC,
+ 823 F.3d 607, 613, 118 USPQ2d 1744,
+ 1748 (Fed. Cir. 2016) (computer server and telephone unit). Similarly, “claiming the
+ improved speed or efficiency inherent with applying the abstract idea on a computer”
+ does not integrate a judicial exception into a practical application or provide an
+ inventive concept. 
+Intellectual Ventures I LLC v. Capital One Bank
+ (USA),
+ 792 F.3d 1363, 1367, 115 USPQ2d 1636, 1639 (Fed. Cir. 2015). In
+ contrast, a claim that purports to improve computer capabilities or to improve an
+ existing technology may integrate a judicial exception into a practical application
+ or provide significantly more. 
+McRO, Inc. v. Bandai Namco Games Am.
+ Inc.,
+ 837 F.3d 1299, 1314-15, 120 USPQ2d 1091, 1101-02 (Fed. Cir. 2016);
+
+Enfish, LLC v. Microsoft Corp.,
+ 822 F.3d 1327, 1335-36, 118
+ USPQ2d 1684, 1688-89 (Fed. Cir. 2016). See 
+MPEP §§
+ 2106.04(d)

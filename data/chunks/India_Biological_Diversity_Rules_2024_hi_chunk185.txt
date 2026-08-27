@@ -1,0 +1,28 @@
+are that the information provided in the application form is true and correct to the best of my/our 
+knowledge and belief and that it conceals nothing and that no part of it is false. I/We shall be responsible for any 
+incorrect or wrong information provided. 
+
+Place Signature 
+Date Name 
+
+64 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+FORM-2 
+{See section 3 of the Act and rule 13(1)} 
+Application for seeking prior approval of the National Biodiversity Authority for access to biological resources 
+or knowledge associated thereto for commercial utilization by persons covered under section 3(2) of the Act 
+(1) Particulars of the applicant 
+(i) Category of the applicant (Drop-down menu) 
+a. Individual 
+b. Individual and Entity 
+c. Entity 
+(ii) Name of the applicant 
+(iii) Status of the applicant (Drop down menu) 
+a. NRI 
+b. Non-Indian 
+c. Entity covered under section 3(2) of the 
+Act 
+(iv) Address of the applicant 
+
+(Postal address including PIN code, email, mobile and 
+alt

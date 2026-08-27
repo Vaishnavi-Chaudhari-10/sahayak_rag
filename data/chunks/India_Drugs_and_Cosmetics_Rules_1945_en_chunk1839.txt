@@ -1,0 +1,22 @@
+in a register. The cumulative total of test 
+samples ‗N‘ and the cumulative total of rejects ‗R‘ from the test shall be recorded and the 
+condoms shall be deemed to comply with the requirements if the cumulative total of rejects 
+‗R‘ is not more than 2[0.0025N+3 x √0.0025N] for Water Leakage Test, and 2[0.015N+3 x 
+√0.015N] for Burst Volume and Pressure Test. 
+
+(3) Each unit of 100 test samples shall be distributed for the various tests as follows: - 
+25 for Burst Volume Pressure Test, and; 
+75 for Water Leakage Test. 
+
+1 Subs. by G.S.R. 495(E) , dt. 9.6.1995. 
+2. Subs. by G.S.R. 353(E), dt. 26.4.2000. 
+
+Drugs and Cosmetics Rules 1945 
+545 
+
+ (4) Where the number of test samples is a multiple of 100 the distribution scale 
+mentioned above shall be prorated. 
+
+(5) If the cumulative total sample rejected exceeds the number of allowables at any 
+point in the sequence of quanta, the quantum at which this occurs shall be liable to rejection. 
+The assessment of quality of further production

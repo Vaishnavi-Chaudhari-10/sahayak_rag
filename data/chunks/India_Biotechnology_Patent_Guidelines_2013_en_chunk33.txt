@@ -1,0 +1,19 @@
+03 
+ Proper validations with Patent Office database 
+ Facility to upgrade/update digital signatures 
+(https://ipindiaonline.gov.in/epatentfiling/goForLogin/doLogin) 
+03.04.01 Documents required for filing patent application 
+A patent application should contain the following: 
+1. Application for grant of patent in Form-1. 
+2. A proof of right is required from the inventor(s) by way of 
+endorsement in the appropriate paragraph of Form -1 or as an 
+assignment from inventor(s) in favour of applicant(s), duly 
+authenticated, irrespective of whether the appli cation is a 
+Convention or National Phase application. Accordingly, it shall be 
+filed within 6 months from the date of filing of the application in 
+India. 
+3. Provisional/complete specification in Form-2. 
+4. Statement and undertaking under Section 8 (1) in Form-3 : 
+ An applicant must file information and undertaking regarding 
+foreign applications in Form 3 , either along with the 
+application or within 6 m onths from the date of

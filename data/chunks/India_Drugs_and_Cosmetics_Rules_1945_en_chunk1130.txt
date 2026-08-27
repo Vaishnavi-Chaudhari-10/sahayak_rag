@@ -1,0 +1,43 @@
+given in Table II. 
+2. The Processing area shall have HVAC system and fitted with HEPA Filters having Grade 
+C (Class 10,000) environment as given in Table I. 
+3. The entire processing shall be done conforming to Grade A (Class 100) Standard of air 
+quality. 
+
+TABLE I 
+AIR BORNE PARTICULATE CLASSIFICATIONS FOR MANUFACTURE OF STERILE 
+PRODUCTS 
+
+Grade Maximum number of permitted particles per cubic meter equal to or above 
+ At rest (b) In Operation (a) 
+
+A 
+B(a) 
+C(a) 
+D(a) 
+0.5µm 
+3,500 
+3,50,000 
+35,00,000 
+5 µm 
+0 
+2000 
+20,000 
+0.5 µm 
+3,500 
+3,50,000 
+35,00,000 
+Not defined 
+5µm 
+0 
+
+ 2000 
+20,000 
+Not defined 
+
+Notes:- 
+(a) In order to reach the B, C and D air grades, the number of air changes shall be related to 
+the size of the room and the equipment and personnel present in the room. The air system 
+shall be provided with the appropriate filters such as HEPA for grades A, B and C. The 
+maximum permitted number of particles in the ―at rest‖ condition shall approximately 
+be as u

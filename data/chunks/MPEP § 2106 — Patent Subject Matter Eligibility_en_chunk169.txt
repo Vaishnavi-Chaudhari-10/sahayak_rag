@@ -1,0 +1,22 @@
+t-by-process claim
+ (
+e.g.,
+ a claim to a cloned farm animal produced by a
+ nuclear transfer cloning method), the analysis turns on whether the
+ nature-based product in the claim has markedly different characteristics from
+ its naturally occurring counterpart. See 
+MPEP § 2113
+
+ for more information on product-by-process claims. 
+
+C.
+ Process Claims
+For a process claim, the general rule is that
+ the claim is not subject to the markedly different analysis for nature-based
+ products used in the process. This is because the analysis of a process claim
+ should focus on the active steps of the process rather than the products used
+ in those steps. For example, when evaluating a claimed process of
+ cryopreserving hepatocyte cells comprising performing density gradient
+ fractionation to separate viable and non-viable hepatocytes, recovering the
+ viable hepatocytes, and cryopreserving the recovered viable hepatocytes, the
+ court did not subject the claim to the markedly different characteristi

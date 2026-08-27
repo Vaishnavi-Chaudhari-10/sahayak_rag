@@ -1,0 +1,14 @@
+es. Thus, the role of nanoparticles is to absorb the 
+light from a light source and re-emit the light of different wavelength to activate the 
+PDT drug. To achieve this purpose, firstly, a PDT drug is to be administered; 
+thereupon nanoparticles are administered and thereafter light source become active. 
+The time gap between administration of PDT drug and administration of nanoparticles 
+has been highlighted in the specification. The Controller refused the application on the 
+ground of lacking in novelty. 
+
+Analysis of IPAB: IPAB found that D1 did not teach or formally suggested a method of 
+synthesizing ceramic based nanoparticles entrapped with photosensitive drugs where 
+the method involve steps restricted in claim 1. Thus, the method claims could be 
+allowed. However, regarding the product-by- process claims, the IPAB was of the 
+opinion that in the present case the PDT drug is same but only the carriers are 
+different. Difference between prior art composition and claimed composit

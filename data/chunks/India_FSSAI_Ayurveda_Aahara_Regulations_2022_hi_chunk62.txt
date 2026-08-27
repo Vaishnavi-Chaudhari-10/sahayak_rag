@@ -1,0 +1,18 @@
+d Safety and Standards Authority of India Manual of Method of Analysis of 
+Foods (Microbiological Testing) may also be referred along with the IS/ISO methods specified for 
+Process Hygiene Criteria and Food Safety Criteria. Latest version of test methods shall apply. In case 
+where an ISO method adopted by the BIS is specified (e.g IS XXXX / ISO YYYY), latest version of 
+the ISO method (or its BIS equivalent, if available) shall apply. 
+S.No Parameter Reference Test methods 
+1. Aerobic 
+Plate Count 
+Microbiology of the food chain -- Horizontal method for the enumeration of 
+microorganisms -- Part 1: Colony count at 30 °C by the pour plate technique- IS 5402/ 
+ISO:4833 
+2. Yeast and Mold 
+Count 
+Method for Yeast and Mold Count of Food Stuffs and Animal feed- IS 5403 
+Microbiology of food and animal feeding Stuff-Horizontal method for the enumeration of 
+yeasts and moulds-Part1: Colony count technique in products with water activity greater than 
+0.95-ISO 21527-1 
+Microbiology of food an

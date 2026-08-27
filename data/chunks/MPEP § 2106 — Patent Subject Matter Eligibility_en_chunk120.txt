@@ -1,0 +1,20 @@
+nal
+ description of a logic circuit into a hardware component description of the
+ logic circuit” are directed to an abstract idea, because the claims “read on an
+ individual performing the claimed steps mentally or with pencil and paper”).
+ Mental processes performed by humans with the assistance of physical aids such
+ as pens or paper are explained further below with respect to point B.
+
+Nor do the courts distinguish between claims
+ that recite mental processes performed by humans and claims that recite mental
+ processes performed on a computer. As the Federal Circuit has explained,
+ “[c]ourts have examined claims that required the use of a computer and still
+ found that the underlying, patent-ineligible invention could be performed via
+ pen and paper or in a person’s mind.” 
+Versata Dev. Group v. SAP Am.,
+ Inc.,
+ 793 F.3d 1306, 1335, 115 USPQ2d 1681, 1702 (Fed. Cir. 2015).
+ See also 
+Intellectual Ventures I LLC v. Symantec Corp.,
+ 838
+ F.3d 1307, 1318, 120 USPQ2d 1353, 1360 (Fed. Cir

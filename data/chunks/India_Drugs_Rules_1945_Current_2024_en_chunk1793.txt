@@ -1,0 +1,21 @@
+ion:- In a ddition to the routine good manufacturing practices 
+documentation, manufacturing records shall show the followi ng additional 
+information:– 
+(1) temperature and humidity in the manufacturing area; 
+(2) periodic filled weights of the formulation; 
+(3) records of rejections during on line check weighing; and 
+(4) records of rejection during spray testing. 
+
+PART XII 
+SPECIFIC REQUIREMENTS FOR MANUFACTURE OF ACTIVE 
+PHARMACEUTICAL INGREDIENTS 
+Note.— Good Manufacturing Practices for pharmaceutical products: Main 
+principles as given in Part I shall be complied for the manufacture of API. 
+In addition to these requirements, the following specific requirements shall 
+also be followed, namely:— 
+
+1. Introduction:- 
+1.1. General- This document is intended to provide guidance regarding 
+GMP for the manufacturing of APIs under an appropriate system for 
+managing quality. It is also intended to help and ensure that APIs meet 
+the requirements for quality and purity that they purport

@@ -1,0 +1,22 @@
+gical environment consideration (see
+
+MPEP § 2106.05(h)
+), when
+ making a determination of whether a treatment or prophylaxis limitation is
+ particular or general.
+
+b. 
+Whether The Limitation(s) Have More
+ Than A Nominal Or Insignificant Relationship To The
+ Exception(s)
+
+ The treatment or prophylaxis limitation must
+ have more than a nominal or insignificant relationship to the exception(s).
+ For example, consider a claim that recites a natural correlation (law of
+ nature) between blood glucose levels over 250 mg/dl and the risk of
+ developing ketoacidosis (a life-threatening medical condition). The claim
+ also recites "treating a patient having a blood glucose level over 250 mg/dl
+ with insulin”. Insulin acts to lower blood glucose levels, and administering
+ insulin to a patient will reduce the patient’s blood glucose level, thereby
+ lowering the risk that the patient will develop ketoacidosis. Thus, in the
+ context of this claim, the administration step is significantly related to

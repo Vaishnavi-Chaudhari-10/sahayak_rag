@@ -1,0 +1,22 @@
+-based. Instead, the markedly different characteristics analysis should be
+ applied only to the nature-based product limitations in the claim to determine
+ whether the nature-based products are “product of nature” exceptions. 
+
+Examiners should keep in mind that if the
+ nature-based product limitation is naturally occurring, there is no need to
+ perform the markedly different characteristics analysis because the limitation is
+ by definition directed to a naturally occurring product and thus falls under the
+ product of nature exception. However, if the nature-based product limitation is
+ not naturally occurring, for example due to some human intervention, then the
+ markedly different characteristics analysis must be performed to determine whether
+ the claimed product limitation is a product of nature exception. 
+
+A.
+ Product Claims
+Where the claim is to a nature-based product by
+ itself (
+e.g.,
+ a claim to “a 
+Lactobacillus
+
+ bacterium”), the markedly different characteristics analysis

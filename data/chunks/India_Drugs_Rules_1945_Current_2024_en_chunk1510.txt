@@ -1,0 +1,19 @@
+h sterilisation cycle shall be monitored with suitable 
+biological indicators, using the appropriate number of test 
+pieces distributed throughout the load. The information thus 
+obtained shall form part of the batch record. 
+6.11.1.19. Biological indicators shall be stored and used according to the 
+manufacturer’s instructions and their performance checked by 
+positive controls. 
+6.11.1.20. For each sterilization cycle, records shall be made of the time 
+taken to complete the cycle, of the pressure , temperature and 
+humidity within the chamber during the process and of the gas 
+concentration. The pressure and temperature shall be recorded 
+on a chart throughout the cycle. The records shall form part of 
+the batch record. 
+6.11.1.21. After sterilisation, the load sh all be stored in a controlled 
+manner in ventilated conditions to allow concentration of 
+residual gas and reaction products to fall to their prescribed 
+levels. This process shall be validated. 
+
+6.11.2. Aseptic processin

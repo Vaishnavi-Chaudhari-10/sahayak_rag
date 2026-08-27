@@ -1,0 +1,19 @@
+maceutical product incorporating the API. Process and test 
+procedures shall be ﬂexible to allow for changes to be made as 
+knowledge of the process increases and clinical testing of a 
+pharmaceutical product progresses from the preclinical stages 
+through the clinical stages. Once pharmaceutical development 
+reaches the stage where the API is produced for use in 
+pharmaceutical products intended for clinical trials, 
+manufacturers shall ensure that APIs are manufactured in 
+suitable facilities using app ropriate production and control 
+procedures to ensure the quality of the API. 
+18.2. Quality- 
+18.2.1. Appropriate GMP concepts shall be applied in the production 
+of APIs for use in clinical trials with a suitable mechanism for 
+the approval of each batch. 
+18.2.2. A quality unit independent from production shall be established 
+for the approval or rejection of each batch of API for use in 
+clinical trials. 
+18.2.3. Some of the testing functions commonly performed by the 
+quality unit

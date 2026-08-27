@@ -1,0 +1,16 @@
+so that the ﬁlter housing is maintained at a negative pressure. 
+This poses a difﬁculty when carrying out ﬁlter integrity tests and for this 
+reason a bypass damper system shall be provided, as illustrated in figure 
+at paragraph 9.1, so that air can be circulated through the HEPA ﬁlters, 
+while the scanning ports are open. Alternatively, an independent booster 
+fan system can be used, with appropriate shut-off dampers. 
+9.10. The bypass arrangement as shown in figure at paragraph 9.1also permits 
+decontamination o f the ﬁlters by means of circulation of a sanitising 
+agent. 
+9.11. All exhaust systems from the facility, including dust extraction systems, 
+vacuum system exhaust, ﬂuid bed drier exhaust and coating pan exhaust, 
+shall be passed through safe change ﬁlter housings before being 
+exhausted to the atmosphere. 
+9.12. All exhaust points outside the building shall be located as far as possible 
+from air entry points and exit points shall be at a high level to minimise 
+the possi

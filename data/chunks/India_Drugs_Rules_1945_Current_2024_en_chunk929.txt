@@ -1,0 +1,21 @@
+d processing and Cryogenic Storage. 
+D. AIR HANDLING SYSTEMS 
+1. Air handling for sterile areas shall be different from those for other areas. 
+The filter configuration in the air handling system shall be suitably designed to 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+achieve the grade of air as given in the Table I. The environmental 
+microbiological monitoring of clean areas shall be in accordance to the 
+recommended limits given in Table II. 
+2. The Processing area shall have HVAC system and fitted with HEPA Filters 
+having Grade C (Class 10,000) environment as given in Table I. 
+3. The entire processing shall be done conforming to Grade A (Class 100) 
+Standard of air quality. 
+TABLE I 
+AIR BORNE PARTICULATE CLASSIFICATIONS FOR MANUFACTURE OF STERILE 
+PRODUCTS 
+Grade Maximum number of permitted particles per cubic meter equal to or above 
+ At rest (b) In Operation (a) 
+ 0.5 µm 5 µm 0.5 µm 5µm 
+A 3,500 0 3,500 0 
+B(a)

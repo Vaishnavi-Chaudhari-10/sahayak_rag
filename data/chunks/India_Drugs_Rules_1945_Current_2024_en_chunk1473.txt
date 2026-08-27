@@ -1,0 +1,18 @@
+rade C (at rest 
+and in operation) the airborne particle classification is ISO 7 and 
+ISO 8, respectively. For Grade D (at rest) the airborne particl e 
+classification is ISO 8. For classification purposes ISO 
+standards methodology defines both the minimum number of 
+sample locations and the sample size based on the class limit of 
+the largest particle size considered and the method of evaluation 
+of the da ta collected. The sample volume shall be determined 
+according to ISO standards. However, for lower grades (Grade 
+C in operation and Grade D at rest) the sample volume per 
+location shall be at least two litres and the sample time per 
+location shall be not less than one minute. 
+4.6.3. Portable particle counters with a short length of sample tubing 
+shall be used for classification purposes to avoid the loss of 
+particles ≥ 5.0 μm. Isokinetic sample heads shall be used in 
+unidirectional airflow systems. 
+4.6.4. “In operation” classification may be demonstrated during 
+normal ope

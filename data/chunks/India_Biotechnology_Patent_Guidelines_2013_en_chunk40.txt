@@ -1,0 +1,18 @@
+alert are required 
+11. Select the drafted form and proceed for signing of drafted form 
+12. After the forms are digitally signed, it is ready for making the 
+payment though the available Payment Gateways 
+13. Select the digitally signed form and proceed for payment 
+14. Select the payment gateway (NTRP-Bharatkosh payment gateway) 
+15. Select the bank and payment mode to make the payment of fee 
+16. After making payment, the acknowledgement receipt would be 
+generated. 
+Submitted Forms would then proceed to the respective section of the 
+Patent Office for processing and official actions. 
+(For more and updated information on the steps for e -filing, you may 
+also refer to the Comprehensive E- Filing Portal). 
+03.04.03 Leaving and Serving Documents at Patent Office 
+1. Any Application, notice or other document authorised or 
+required to be filed, left, made or given at the patent office, or to 
+the Controller or to any other person under the Act or the rules, 
+may be tendered by hand or

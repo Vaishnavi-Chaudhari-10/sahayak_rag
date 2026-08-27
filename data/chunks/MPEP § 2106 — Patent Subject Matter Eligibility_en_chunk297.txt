@@ -1,0 +1,35 @@
+should consider whether the judicial exception is applied with, or by use of, a
+ particular machine. "The machine-or-transformation test is a useful and important
+ clue, and investigative tool” for determining whether a claim is patent eligible
+ under 
+§
+ 101
+. 
+Bilski v. Kappos,
+ 561 U.S. 593, 604, 95
+ USPQ2d 1001, 1007 (2010). 
+
+It is noted that while the application of a judicial
+ exception by or with a particular machine is an important clue, it is
+
+not
+ a stand-alone test for eligibility.
+
+Id.
+
+All claims must be evaluated for eligibility using the
+ two-part test from 
+Alice/Mayo
+. If a claim passes the
+
+Alice/Mayo
+ test (
+i.e.,
+ is not directed to an
+ exception at Step 2A, or amounts to significantly more than any recited exception in
+ Step 2B), then the claim is eligible even if it fails the machine-or-transformation
+ test ("M-or-T test"). 
+Bilski v. Kappos,
+ 561 U.S. 593, 604, 95
+ USPQ2d 1001, 1007 (2010) (explaining that a claim may be eligible even if it does not
+ satisfy the

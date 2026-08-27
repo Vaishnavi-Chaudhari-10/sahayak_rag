@@ -1,0 +1,33 @@
+. v. Hotels.com, L.P.,
+ 773
+ F.3d 1245, 1259, 113 USPQ2d 1097, 1107 (Fed. Cir. 2014);
+
+Intellectual Ventures I v. Symantec Corp.,
+ 838 F.3d
+ 1307, 1315, 120 USPQ2d 1353, 1358 (Fed. Cir. 2016); 
+
+v. Particular method of incorporating virus
+ screening into the Internet, 
+Symantec Corp.,
+ 838 F.3d at
+ 1321-22, 120 USPQ2d at 1362-63;
+
+vi. Components or methods, such as measurement
+ devices or techniques, that generate new data, 
+Electric Power
+ Group, LLC v. Alstom, S.A.,
+ 830 F.3d 1350, 1355, 119 USPQ2d
+ 1739, 1742 (Fed. Cir. 2016); 
+
+vii. Particular configuration of inertial sensors
+ and a particular method of using the raw data from the sensors,
+
+Thales Visionix, Inc. v. United States,
+ 850 F.3d 1343,
+ 1348-49, 121 USPQ2d 1898, 1902 (Fed. Cir. 2017);
+
+viii. A specific, structured graphical user
+ interface that improves the accuracy of trader transactions by displaying
+ bid and asked prices in a particular manner that prevents order entry at a
+ changed price, 
+Trading Techs. Int’l, Inc.

@@ -1,0 +1,18 @@
+dertaken and the 
+monitoring and measuring devices needed to provide evidence of conformity of product to 
+determined requirements. 
+
+The manufacturer shall establish documented procedures to ensure that monitoring and measurement 
+can be carried out and are carried out in a manner that is consistent with the monitoring and 
+measurement requirements. 
+
+Where necessary to ensure valid results, measuring equipment shall be:- 
+(a) calibrated or verified at specified intervals, or prior to use, against measurement standards 
+traceable to Bureau of Indian Standards wherever available ; where no such standards exist, 
+the basis used for calibration or verification shall be recorded; 
+(b) adjusted or re-adjusted as necessary; 
+(c) identified to enable the calibration status to be determined; 
+(d) safeguarded from adjustments that would invalidate the measurement result; 
+(e) protected from damage and deterioration during handling, maintenance and storage. 
+
+In addition, the manufacturer shall

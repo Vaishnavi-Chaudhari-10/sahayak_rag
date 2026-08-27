@@ -1,0 +1,20 @@
+ucts as specified in 
+Schedule H2 shall print or affix Bar Code or Quick Response Code on its 
+primary packaging label or, in case of ina dequate space in primary package 
+label, on the secondary package label that store data or information legible with 
+software application to facilitate authentication. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+(7) The stored data or information referred to in sub-rule (6) shall include the 
+following particulars, namely:— 
+(i) unique product identification code; 
+(ii) proper and generic name of the drug; 
+(iii) brand name; 
+(iv) name and address of the manufacturer; 
+(v) batch number; 
+(vi) date of manufacturing; 
+(vii) date of expiry; and 
+(viii) manufacturing licence number.] 
+Explanation.—For the purpose of this rule, the date of expiry shall be in 
+terms of month and year and it shall mean that the drug is recommended till the 
+last day of the month. The date of expiry shall be p

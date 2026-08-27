@@ -1,0 +1,21 @@
+t the specification is silent with respect to
+ describing such element.
+
+(B) A citation to one or more of the court
+ decisions discussed in 
+MPEP § 2106.05(d)
+,
+ subsection II, as noting the well-understood, routine, conventional nature
+ of the additional element(s). Examiners should be careful to ensure the
+ claim limitations before the examiner are the same as those found to be
+ well-understood, routine, conventional by the courts. The additional
+ elements under examination should be recited in the same manner, meaning
+ they should be recited at the same high level of generality as in those
+ court decisions. It is not enough that the additional elements are similar
+ to the elements at issue in those cases. In addition, the court decisions
+ discussed in 
+MPEP § 2106.05(d)
+,
+ subsection II, are not meant to imply that all computer functions are
+ well-understood, routine, conventional functions, or that a claim reciting a
+ generic computer component performing a generic computer functio

@@ -1,0 +1,19 @@
+the quality units 
+before an API batch is released or distributed. Production and 
+laboratory control records of non -critical process steps can be 
+reviewed by qualiﬁed production personnel or other units 
+following procedures approved by the quality units. 
+6.7.3. All deviation, investigation and OOS reports shall be reviewed as 
+part of the batch record review before the batch is released. 
+6.7.4. The quality units can delegate to the production unit the 
+responsibility and authority for release of intermediates, except 
+for those shipped outside the control of the manufacturing 
+company. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+7. Materials management:- 
+7.1. General controls- 
+7.1.1. There shall be written procedures describing the receipt, 
+identiﬁcation, quarantine, storage, handling, sampling, testing 
+and approval or rejection of materials. 
+7.1.2. Manufacturers of intermediates or APIs or both shall have a

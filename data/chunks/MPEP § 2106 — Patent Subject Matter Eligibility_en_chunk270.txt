@@ -1,0 +1,19 @@
+sory manner (i.e.,
+ a bare assertion of an improvement without the detail necessary to be apparent to a
+ person of ordinary skill in the art), the examiner should not determine the claim
+ improves technology. An indication that the claimed invention provides an improvement
+ can include a discussion in the specification that identifies a technical problem and
+ explains the details of an unconventional technical solution expressed in the claim,
+ or identifies technical improvements realized by the claim over the prior art. For
+ example, in 
+McRO,
+ the court relied on the specification’s
+ explanation of how the particular rules recited in the claim enabled the automation
+ of specific animation tasks that previously could only be performed subjectively by
+ humans, when determining that the claims were directed to improvements in computer
+ animation instead of an abstract idea. 
+McRO,
+ 837 F.3d at 1313-14,
+ 120 USPQ2d at 1100-01. In contrast, the court in 
+Affinity Labs of Tex. v.
+ DirecTV,

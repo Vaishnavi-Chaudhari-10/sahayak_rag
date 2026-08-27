@@ -1,0 +1,28 @@
+5. Quantity of Shodhana Dravya 
+6. Book Reference followed 
+7. Methodology 
+(b) Bhavana and Putta Register with following details:— 
+1. SI. No. 
+2. Batch No. 
+3. Date, time 
+4. Name of the material and quantity of starting materials 
+5. Quantity of Nirvapya Dravya 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+6. Quantity of Bhavana Dravya 
+7. Date and Time of Starting and completion of Bhavana or Mardana 
+and duration 
+8. Type and Number of Puttas 
+9. Time and Date of completion Puttas 
+10. Colour and texture of the product or standards 
+11. In process tests followed (Bhasma Pariksha and any other tests) 
+12. In case heating at a particular temperature is required, record of 
+attainment of that temperature. 
+(c) Grinding Record Register. —(Finished Product/Intermediate 
+procedure)— 
+1. SI. No 
+2. Batch No 
+3. Date and time 
+4. Name of the material and quantity 
+5. Name of the equipment (SS/granite) 
+6. Duration of grinding

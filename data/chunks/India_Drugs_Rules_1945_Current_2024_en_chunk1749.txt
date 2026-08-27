@@ -1,0 +1,17 @@
+ge (OSD) 
+manufacturing site, measures shall be taken to ensure that dust cannot 
+move from one cubicle to another. 
+1.8. Correct directional air movement and a pressure cascade system can 
+assist in preventing cross -contamination. The pressure cascade shall be 
+such that th e direction of airflow is from the clean corridor into the 
+cubicles, resulting in dust containment. 
+1.9. The corridor shall be maintained at a higher pressure than the cubicles, 
+and the cubicles at a higher pressure than atmospheric pressure. 
+1.10. Highly potent prod ucts shall be manufactured under a pressure cascade 
+regime that is negative relative to atmospheric pressure. 
+1.11. The pressure cascade for each facility shall be individually assessed 
+according to the product handled and level of protection required. 
+1.12. Building structure shall be given special attention to accommodate the 
+pressure cascade design. 
+1.13. Ceilings and walls, close fitting doors and sealed light fittings shall be in 
+place

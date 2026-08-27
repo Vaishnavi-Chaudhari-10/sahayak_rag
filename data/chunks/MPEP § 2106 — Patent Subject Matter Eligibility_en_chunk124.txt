@@ -1,0 +1,32 @@
+d 1274 (Fed. Cir. 2010), and
+
+SiRF Tech., Inc. v. Int’l Trade Comm’n,
+ 601 F.3d 1319,
+ 94 USPQ2d 1607 (Fed. Cir. 2010), as directed to inventions that ‘‘could not,
+ as a practical matter, be performed entirely in a human’s mind’’). 
+
+Examples of claims that do not recite mental
+ processes because they cannot be practically performed in the human mind
+ include:
+
+ • a claim to a method for calculating
+ an absolute position of a GPS receiver and an absolute time of
+ reception of satellite signals, where the claimed GPS receiver
+ calculated pseudoranges that estimated the distance from the GPS
+ receiver to a plurality of satellites, 
+SiRF Tech.,
+
+ 601 F.3d at 1331-33, 94 USPQ2d at 1616-17; 
+
+ • a claim to detecting suspicious
+ activity by using network monitors and analyzing network packets,
+
+SRI Int’l,
+ 930 F.3d at 1304;
+
+ • a claim to a specific data
+ encryption method for computer communication involving a several-step
+ manipulation of data, 
+Synopsys.,
+ 839 F.3d at 1148,
+ 120 USPQ2d at

@@ -1,0 +1,19 @@
+o
+ implement a judicial exception on a computer, and 
+MPEP §
+ 2106.05(d)
+ for more information about well understood,
+ routine, conventional activities and elements (a relevant consideration only in
+ Step 2B).
+
+For claim limitations that add insignificant
+ extra-solution activity to the judicial exception (e.g., mere data gathering in
+ conjunction with a law of nature or abstract idea), or that generally link the use
+ of the judicial exception to a particular technological environment or field of
+ use, examiners should explain why they do not meaningfully limit the claim. For
+ example, adding a final step of storing data to a process that only recites
+ computing the area of a two dimensional space (a mathematical relationship) does
+ not add a meaningful limitation to the process of computing the area. As another
+ example, employing well-known computer functions to execute an abstract idea, even
+ when limiting the use of the idea to one particular environment, does not
+ integrate the ex

@@ -1,0 +1,21 @@
+ling" 
+• "J" denotes Jurisdiction for Patent Applicati on against which 
+Request of Examination has been filed 
+• "NNNNNN" denotes 6 digits fixed length common 
+continuous running serial number applicable for all Patent 
+Offices in India. 
+iii. Numbering Format for Request for Expedited Examination 
+• Format: EYYYYJNNNNNN 
+ Where, "E denotes Request for Expedited Examination under rule 
+24 (C ). 
+
+03.05.04 Scrutiny of Application 
+1. The O ffice checks wh ether the Applic ation h as b een filed in 
+Appropriate Ju risdiction (see 03.02). The address for service 
+shall mandator ily include e -mail address and PIN code. If the 
+address for service is not complete, the application shall be 
+returned and the applicant will be informed accordingly. 
+2. The Office checks for Proof of Right to file the application (See 
+03.04). If proof of right is not filed along with the application, the 
+same shall be filed within a period of six months from the date of 
+filing of the application. Oth erwis

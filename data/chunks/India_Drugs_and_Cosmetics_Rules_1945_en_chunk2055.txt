@@ -1,0 +1,13 @@
+f at least three 
+replicates. A 2.5 fold (or more) increase in number of revertants in c omparison to 
+spontaneous revertants would be considered positive. 
+(ii) In-vitro cytogenetic assay : The desired level of toxicity for in vitro cytogenetic tests 
+using cell lines should be greater than 50% reduction in cell number or culture confluency. 
+For l ymphocyte cultures, an inhibition of mitotic index by greater than 50% is considered 
+sufficient. It should be performed in CHO cells or on human lymphocyte in culture. In-vitro 
+exposure (with and without metabolic activation, S9 mix) should be done using a minimum 
+of 3 log doses. ―Solvent‖ and ―positive‖ control should be included. A positive control like 
+Cyclophosphamide with metabolic activation and Mitomycin C for without metabolic 
+activation should be used to give a reproducible and detectable increase clastogenic effect 
+over the background which demonstrates the sensitivity of the test system. Each set should 
+consist of at least

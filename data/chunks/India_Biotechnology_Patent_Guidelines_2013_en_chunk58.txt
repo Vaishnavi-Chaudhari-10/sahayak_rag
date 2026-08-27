@@ -1,0 +1,24 @@
+n 
+numerals: 
+ (1 for Ordinary; 2 for Ordinary -Divisional;3 for Ord inary-Patent 
+of Addition; 4 for Convention; 5 for Convention -Divisional; 6 
+for Convention -Patent of Addition; 7 for PCT NP; 8 for PCT 
+NP-Divisional and 9 for PCT NP-Patent of Addition) 
+• "NNNNNN" is 6 digits fixed length common continuous 
+running serial number of applications applicable for all Patent 
+Offices in India 
+• Thus, 1st application (Ordinary) filed in Delhi in 2019 will be 
+numbered as 201911000001. 
+ If 2nd application in 2019 is "Convention‖ application from 
+Mumbai it would be numbered as 201924000002. 
+
+26 
+
+03.05.03 ii. Numbering Format for Request for Examination 
+• Format: RYYYYJNNNNNN, Where, 
+• "R" denotes Request for examination u/r 24B(1)(i) "YYYY" 
+denotes four digit fixed length "Year of filing" 
+• "J" denotes Jurisdiction for Patent Applicati on against which 
+Request of Examination has been filed 
+• "NNNNNN" denotes 6 digits fixed length common 
+continuous running serial number applic

@@ -1,0 +1,25 @@
+ion for seeking prior approval of the National Biodiversity Authority for sending or carrying the 
+biological resources outside India by Indian researchers or institutions for conducting non-commercial research 
+or research for emergency purposes 
+
+(1) Particulars of applicant 
+(i) Category of the applicant (Drop down menu) 
+a. Individual researcher 
+b. Institution 
+(ii) Name of the applicant and designation 
+(iii) Address of the applicant 
+
+(Postal address including PIN code, email, mobile and alternate mobile numbers 
+and/or landline number) 
+
+(iv) Name of the institution 
+(2) Details of the institution in India 
+(i) Name of the institution 
+(ii) Address of the institution 
+
+(Postal address including PIN code, email, mobile and alternate mobile numbers and 
+landline number) 
+
+(3) Name of the supervisor or head of institution at the place of work, in India 
+(i) Name of the supervisor or head of institution with complete address 
+(ii) Designation of the supervisor or head of institutio

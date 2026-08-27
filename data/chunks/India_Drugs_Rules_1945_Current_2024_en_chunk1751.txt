@@ -1,0 +1,17 @@
+be acceptable when a irlocks (pressure 
+sinks or pressure bubbles) are used to segregate areas. 
+1.16. The effect of room pressure tolerances shall be calculated and taken into 
+consideration. 
+1.17. The pressure control and monitoring devices used shall be calibrated and 
+qualified. Compliance with specifications shall be regularly verified and 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+the results recorded. Pressure control devices shall be linked to an alarm 
+system set according to the levels determined by a risk analysis. 
+1.18. Manual control systems, where used, shall be set up during 
+commissioning, with set point marked, and shall not change unless other 
+system conditions change. 
+1.19. Airlocks can be important components in setting up and maintaining 
+pressure cascade systems and also to limit cross-contamination. 
+1.20. Airlocks with different press ure cascade regimes include the cascade 
+airlock, sink air

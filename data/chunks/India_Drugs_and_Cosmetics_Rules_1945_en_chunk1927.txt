@@ -1,0 +1,36 @@
+pinion and signature of the approved Analyst. 
+
+B. PARENTERAL PREPARATIONS. 
+
+1. Analytical report number. 
+2. Name of the sample. 
+3. Batch number. 
+4. Date of receipt of samples. 
+5. Number of containers filled. 
+6. Number of containers received. 
+ 7. Protocols of tests applied. 
+ (a) Clarity. 
+(b) pH wherever applicable. 
+(c) Identification. 
+(d) Volume in container. 
+(e) Sterility – 
+(i) Bulk sample wherever applicable 
+(ii) container sample. 
+(f) Pyrogen test, wherever applicable. 
+(g) Toxicity test, wherever applicable. 
+(h) Any other tests. 
+(i) Results of Assay. 
+
+Note: Records regarding various tests applied (including readings and calculations) should be 
+maintained and necessary reference to these records should be entered in Col. 7 above, wherever 
+necessary. 
+ 8. Signature of the Analyst. 
+ 9. Opinion and signature of the approved Analyst. 
+
+PYROGEN TEST: 
+
+1. Test Report Number. 
+2. Name of the sample. 
+3. Batch Number. 
+4. Number of rabbits used. 
+5. Weight of each rabbi

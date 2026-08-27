@@ -1,0 +1,23 @@
+structurally 
+different from each other. The only common component is the sulphonamide 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+compound X which is already known as an a nticancer agent. Hence here it is 
+considers that a common t echnical link in the above mentioned groups is not 
+inventive. The above mentioned groups lack common feature which could be 
+regarded as the special technical feature providing unity to the application. 
+Consequently, the application may be objected for lacking unity a posteriori. 
+
+12.7 Combinations of Different Categories of Claims 
+
+Illustrative examples showing combinations of different categories of claims 
+
+Example 1: 
+
+Claim 1: A compound of formula I 
+
+Claim 2: A method of preparing the compound of formula I. 
+Claim 3: Compound of formula I for use as a fungicide. 
+Unity exists between claims 1, 2 and 3as the special technical feature is

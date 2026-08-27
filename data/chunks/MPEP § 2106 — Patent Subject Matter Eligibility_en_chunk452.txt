@@ -1,0 +1,20 @@
+ly, if the claim recites a "naturally occurring DNA
+ segment" with an additional element of a test tube, explain that merely placing the
+ product of nature into a generic container such as a test tube does not add a meaningful
+ limitation as it is merely a nominal or token extra-solution component of the claim, and
+ is nothing more than an attempt to generally link the product of nature to a particular
+ technological environment.
+
+6. In bracket 4, identify the additional elements and explain why,
+ when considered separately and in combination, they do not add significantly more (also
+ known as an "inventive concept") to the exception. For example, if the additional
+ limitations only store and retrieve information in memory, explain that these are
+ well-understood, routine, conventional computer functions as recognized by the court
+ decisions listed in 
+MPEP § 2106.05(d)
+.
+
+¶ 7.05.017 Rejection, 35 U.S.C. 101, TC Director Approval for
+ "Tentative Abstract Idea"
+
+The identified claim lim

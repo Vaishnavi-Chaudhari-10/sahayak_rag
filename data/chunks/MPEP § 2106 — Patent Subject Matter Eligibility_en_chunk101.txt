@@ -1,0 +1,29 @@
+securities, calculating surrender value protected investment
+ credits for the life insurance policy; determining an investment value and a
+ value of the underlying securities for the current day; and calculating a
+ policy value and a policy unit value for the current day. 687 F.3d at
+ 1270-71, 103 USPQ2d at 1427. The court described the claims as an “attempt
+ to patent the use of the abstract idea of [managing a stable value protected
+ life insurance policy] and then instruct the use of well-known
+ [calculations] to help establish some of the inputs into the equation.” 687
+ F.3d at 1278, 103 USPQ2d at 1433 (alterations in original) (citing
+
+Bilski
+).
+
+ Other examples of "fundamental economic
+ principles or practices" include: 
+
+i. mitigating settlement risk,
+
+Alice Corp. v. CLS Bank,
+573 U.S. 208, 218, 110
+ USPQ2d 1976, 1982 (2014);
+
+ii. rules for conducting a wagering game,
+
+In re Smith,
+ 815 F.3d 816, 818-19, 118 USPQ2d
+ 1245, 1247 (Fed. Cir. 2016); 
+
+iii. financial instruments that

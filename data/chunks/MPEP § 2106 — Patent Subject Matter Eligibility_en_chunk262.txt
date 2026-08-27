@@ -1,0 +1,16 @@
+onsiderations that the Supreme Court has identified as relevant to the eligibility
+ analysis, which are introduced generally in Part I.A of this section, and discussed
+ in detail in 
+MPEP § 2106.05(a) through (h)
+. Many
+ of these considerations overlap, and often more than one consideration is relevant to
+ analysis of an additional element. Not all considerations will be relevant to every
+ element, or every claim. Because the evaluation in Step 2B is not a weighing test, it
+ is not important how the elements are characterized or how many considerations apply
+ from this list. It is important to evaluate the significance of the additional
+ elements relative to the invention, and to keep in mind the ultimate question of
+ whether the additional elements encompass an inventive concept. 
+
+Although the conclusion of whether a claim is
+ eligible at Step 2B requires that all relevant considerations be evaluated, most of
+ these considerations were already evaluated in Step 2A Prong Two. Thus, in

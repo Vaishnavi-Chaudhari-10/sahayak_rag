@@ -1,0 +1,16 @@
+d of virus scanning that scans an application program,
+ generates a security profile identifying any potentially suspicious code in the
+ program, and links the security profile to the application program. 879 F.3d at
+ 1303-04, 125 USPQ2d at 1285-86. The Federal Circuit noted that the recited virus
+ screening was an abstract idea, and that merely performing virus screening on a
+ computer does not render the claim eligible. 879 F.3d at 1304, 125 USPQ2d at 1286.
+ The court then continued with its analysis under part one of the
+
+Alice/Mayo
+ test by reviewing the patent’s specification,
+ which described the claimed security profile as identifying both hostile and
+ potentially hostile operations. The court noted that the security profile thus
+ enables the invention to protect the user against both previously unknown viruses
+ and “obfuscated code,” as compared to traditional virus scanning, which only
+ recognized the presence of previously-identified viruses. The security profile
+ also enable

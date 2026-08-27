@@ -1,0 +1,15 @@
+ll ed in the 
+art. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: An isolated DNA sequence encoding a mature human IL -3 protein having a proline 
+residue at position 8 of the mature polypeptide, said protein possessing bone marrow 
+proliferation-inducing activity in a human bone marrow proliferation assay. 
+Difference with prior art is that the claimed compound at position 8, there was a proline 
+moiety whereas in the prior art compound in the same position there was a serine 
+molecule. 
+Analysis: Primate IL -3 are part of family proteins which are similar in their amino acid 
+sequences, but are minor variants or point mutations of each other. A single variation in the 
+amino acid sequence does not normally change the activity and function of the protein 
+unless the single variation is in a critical region of the protein. The applicant could not 
+provide any evidence that the protein coded by the claimed DNA was any different from 
+that of the prior art in its chemical properties. Thus, the inventive

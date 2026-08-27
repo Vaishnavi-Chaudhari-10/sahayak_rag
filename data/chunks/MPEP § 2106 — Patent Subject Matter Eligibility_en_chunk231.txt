@@ -1,0 +1,26 @@
+ndicating how the claimed invention might be
+ used. 
+
+When determining whether a claim applies or uses a
+ recited judicial exception to effect a particular treatment or prophylaxis for a
+ disease or medical condition, the following factors are relevant.
+
+a. 
+The Particularity Or Generality Of The
+ Treatment Or Prophylaxis
+
+ The treatment or prophylaxis limitation must
+ be “particular,” 
+i.e.,
+ specifically identified so that it
+ does not encompass all applications of the judicial exception(s). For
+ example, consider a claim that recites mentally analyzing information to
+ identify if a patient has a genotype associated with poor metabolism of beta
+ blocker medications. This falls within the mental process grouping of
+ abstract ideas enumerated in 
+MPEP §
+ 2106.04(a)
+. The claim also recites “administering
+ a lower than normal dosage of a beta blocker medication to a patient
+ identified as having the poor metabolizer genotype.” This administration
+ step is particular, and it integrates t

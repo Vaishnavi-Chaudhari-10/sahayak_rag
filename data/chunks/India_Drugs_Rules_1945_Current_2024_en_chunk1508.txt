@@ -1,0 +1,18 @@
+nd non -irradiated materials. Each package shall 
+carry a radiation -sensitive indicator to show whether or not it 
+has been subjected to radiation treatment. 
+6.11.1.13. The total radiation dose shall be administered within a 
+predetermined period. 
+6.11.1.14. Sterilisation by gases and fumigants shall only be used for 
+finished products where there is no suitable alternative. 
+6.11.1.15. Various gases and fumigants may be used for sterilisation 
+(e.g., ethylene oxide and hydrogen peroxide vapour). Ethylene 
+oxide shall be used only when no other method is practicable. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+During process validation, it shall be shown that the gas has 
+no damaging effect on the product and that the conditions and 
+time allowed for degassing are to reduce any residual gas and 
+reaction products to defined acceptable limits for the type of 
+product or material concerned. These limits shall be 
+incorp

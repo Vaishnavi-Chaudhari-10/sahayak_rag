@@ -1,0 +1,31 @@
+t emphasized that satisfying
+ the machine-or-transformation test, by itself, is not sufficient to render a claim
+ patent-eligible, as not all transformations or machine implementations infuse an
+ otherwise ineligible claim with an 'inventive concept.'”). 
+
+Examiners may find it helpful to evaluate other
+ considerations such as the mere instructions to apply an exception consideration (see
+
+MPEP §
+ 2106.05(f)
+), the insignificant extra-solution activity
+ consideration (see 
+MPEP § 2106.05(g)
+), and the field of
+ use and technological environment consideration (see 
+MPEP §
+ 2106.05(h)
+), when making a determination of whether an
+ element (or combination of elements) is a particular machine. For information on the
+ definition of the term “machine,” see 
+MPEP §
+ 2106.03
+. 
+
+When determining whether a machine recited in a claim
+ provides significantly more, the following factors are relevant.
+
+I.
+ THE PARTICULARITY OR GENERALITY OF
+ THE ELEMENTS OF THE MACHINE OR APPARATUS
+The particularity

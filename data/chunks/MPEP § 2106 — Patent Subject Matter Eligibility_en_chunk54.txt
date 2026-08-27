@@ -1,0 +1,27 @@
+Prong Two if the recited judicial exception is integrated into a
+ practical application of that exception. Together, these prongs represent the first
+ part of the 
+Alice/Mayo
+ test, which determines whether a claim is
+ directed to a judicial exception.
+
+The flowchart below depicts the two-prong analysis
+ that is performed in order to answer the Step 2A inquiry. 
+
+1.
+ Prong One
+Prong One asks does the claim recite an abstract
+ idea, law of nature, or natural phenomenon? In Prong One examiners evaluate
+ whether the claim recites a judicial exception, i.e. whether a law of nature,
+ natural phenomenon, or abstract idea is 
+set forth
+ or
+
+described
+ in the claim. While the terms "set forth" and
+ "described" are thus both equated with "recite", their different language is
+ intended to indicate that there are two ways in which an exception can be recited
+ in a claim. For instance, the claims in 
+Diehr,
+ 450 U.S. at 178
+ n. 2, 179 n.5, 191-92, 209 USPQ at 4-5 (1981), clearly stated a mathemat

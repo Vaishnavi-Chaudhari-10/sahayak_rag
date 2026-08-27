@@ -1,0 +1,22 @@
+and address of the consignee; 
+(ii) intermediate or API, batch number and quantity returned; 
+(iii) reasons for return; and 
+(iv) use or disposal of the returned intermediate or API. 
+
+15. Complaints and recalls- 
+15.1. All quality-related complaints, whether received orally or in wri ting, 
+shall be recorded and investigated according to the written procedure. 
+15.2. Complaint records shall include- 
+(i) name and address of complainant; 
+(ii) name (where appropriate title) and telephone number of person 
+submitting the complaint; 
+(iii) nature of the complaint ( including name and batch number of 
+the API); 
+(iv) date on which the complaint was received; 
+(v) action initially taken (including dates and identity of person 
+taking the action); 
+(vi) any follow-up action taken; 
+(vii) response provided to the originator of the complaint (including 
+date on which the response was sent); and 
+(viii) ﬁnal decision on intermediate or API batch or lot. 
+15.3. Records of complaints shall be re

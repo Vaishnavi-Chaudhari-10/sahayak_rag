@@ -1,0 +1,23 @@
+ated to storage conditions. 
+19.9.3. A written programme for on -going stability determination 
+shall be developed and implemented to include elements 
+such as — 
+(a) a complete description of the drug involved in the study; 
+(b) the complete set of testing parameters and methods, 
+describing all tests for potency, purity, and physical 
+characteristics and documented evidence that these tests 
+indicate stability; 
+(c) provision for the inclusion of a su fficient number of 
+batches; 
+(d) the testing schedule for each drug; 
+(e) provision for special storage conditions; 
+(f) provision for adequate sample retention; and 
+(g) a summary of all the data generated, including the 
+evaluation and the conclusion of the study. 
+19.9.4. Stability shall be determined prior to marketing and 
+following any significant changes, for example, in 
+processes, equipment or packaging materials. 
+
+20. Computerised systems: 
+20.1. GMP-related computerised systems shall be validated. The depth and 
+scope of va

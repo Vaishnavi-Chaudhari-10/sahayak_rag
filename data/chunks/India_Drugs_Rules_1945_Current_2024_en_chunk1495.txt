@@ -1,0 +1,15 @@
+fore sterilisation. There shall be 
+working limits on contamination immediately before sterilisation, which 
+are related to the efficiency of the method to be used. Bio burden assay 
+shall be performed on each batch for both aseptically filled products and 
+terminally sterilised products. Where overkill sterilisation parameters 
+are set for terminally sterilised products, bio burden might be monitored 
+only at suitable scheduled intervals. For parametric release systems, bio 
+burden assay shall be performed on each batch and considered as an in -
+process test. Where appropriate, the level of endotoxins shall be 
+monitored. All solutions, in particular large -volume infusion fluids, 
+shall be passed through a mic roorganism-retaining filter, if possible 
+sited immediately before filling. 
+5.17. Components, bulk-product containers, equipment and any other articles 
+required in a clean area where aseptic work is in progress, shall be 
+sterilised and wherever possible passed in to the area

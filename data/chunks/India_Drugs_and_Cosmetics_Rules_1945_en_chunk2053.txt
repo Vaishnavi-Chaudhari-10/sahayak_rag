@@ -1,0 +1,17 @@
+, DNA strand 
+breaks, DNA repair or recombination serve as options in addition to the standard battery 
+for further investigation of genotoxicity test results obtained in the standard battery. Only 
+under extreme conditions in which one or more tests comprising the standard battery cannot 
+
+Drugs and Cosmetics Rules 1945 
+610 
+
+be employed for technical reasons, alternative validated tests can serve as substitutes 
+provided sufficient scientific justification should be provided to support the argument that a 
+given standard battery test is not appropriate. 
+Both in-vitro and in-vivo studies should be done. In-vitro studies should include Ames‘ 
+Salmonella assay and chromosomal aberrations (CA) in cultured cells. In -vivo studies 
+should include micronucleus assay (MNA) or CA in rodent bone marrow. Data analysis of 
+CA should include analysis of ‗gaps.‘ 
+Cytotoxic anticancer agents: Genotoxicity data are not required before Phase I and 
+II trials. But these studies should be completed b

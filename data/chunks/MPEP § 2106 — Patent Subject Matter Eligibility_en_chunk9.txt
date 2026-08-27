@@ -1,0 +1,41 @@
+(1981); 
+Gottschalk v.
+ Benson,
+ 409 U.S. 63, 175 USPQ 673 (1972); 
+Parker v.
+ Flook,
+ 437 U.S. 584, 198 USPQ 193 (1978).
+
+ The Supreme Court in 
+Mayo
+ laid out a
+ framework for determining whether an applicant is seeking to patent a judicial exception
+ itself, or a patent-eligible application of the judicial exception. See 
+Alice
+ Corp.,
+ 573 U.S. at 217-18, 110 USPQ2d at 1981 (citing
+
+Mayo
+, 566 U.S. 66, 101 USPQ2d 1961). This framework, which is
+ referred to as the 
+Mayo
+ test or the 
+Alice/Mayo
+
+ test, is discussed in further detail in subsection III, below. The first part of the
+
+Mayo
+ test is to determine whether the claims are directed to an
+ abstract idea, a law of nature or a natural phenomenon (i.e., a judicial exception).
+
+Id.
+ If the claims are directed to a judicial exception, the second
+ part of the 
+Mayo
+ test is to determine whether the claim recites
+ additional elements that amount to significantly more than the judicial exception.
+
+Id.
+ citing 
+Mayo,
+ 566 U.S. at 72-7

@@ -1,0 +1,19 @@
+ny significant changes, for example, in 
+processes, equipment or packaging materials. 
+
+20. Computerised systems: 
+20.1. GMP-related computerised systems shall be validated. The depth and 
+scope of validation depend s on the diversity, complexity and 
+criticality of the computerised application. 
+20.2. Appropriate installation qualiﬁcation and operational qualiﬁcation 
+shall demonstrate the suitability of computer hardware and software 
+to perform assigned tasks. 
+20.3. Commercially a vailable software that has been qualiﬁed does not 
+require the same level of testing. If an existing system was not 
+validated at the time of installation, a retrospective validation could be 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+conducted, if appropriate documentation is available. 
+20.4. Computerised systems shall have sufﬁcient controls to prevent 
+unauthorised access or changes to data. There shall be controls to 
+prevent omission

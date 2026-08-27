@@ -1,0 +1,26 @@
+x 981 (Fed. Cir. 2016) (holding some of the
+ same claims to be anticipated by prior art). The eligible claims in
+
+Enfish
+ recited a self-referential database having two
+ key features: all entity types can be stored in a single table; and the
+ table rows can contain information defining the table columns.
+
+Enfish,
+ 822 F.3d at 1332, 118 USPQ2d at 1687. Although
+ these features were taught by a single prior art reference (thus
+ anticipating the claims), 
+Microsoft Corp.,
+ 662 Fed. App'x
+ at 986, the features were not conventional and thus were considered to
+ reflect an improvement to existing technology. In particular, they enabled
+ the claimed table to achieve benefits over conventional databases, such as
+ increased flexibility, faster search times, and smaller memory requirements.
+
+Enfish,
+ 822 F.3d at 1337, 118 USPQ2d at 1690.
+
+2. 
+A factual determination is required to
+ support a conclusion that an additional element (or combination of
+ additional elements) is well-understood, routin

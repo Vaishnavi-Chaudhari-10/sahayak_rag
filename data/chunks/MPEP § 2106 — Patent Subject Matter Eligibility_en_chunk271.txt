@@ -1,0 +1,21 @@
+ims were directed to improvements in computer
+ animation instead of an abstract idea. 
+McRO,
+ 837 F.3d at 1313-14,
+ 120 USPQ2d at 1100-01. In contrast, the court in 
+Affinity Labs of Tex. v.
+ DirecTV, LLC
+ relied on the specification’s failure to provide details
+ regarding the manner in which the invention accomplished the alleged improvement when
+ holding the claimed methods of delivering broadcast content to cellphones ineligible.
+ 838 F.3d 1253, 1263-64, 120 USPQ2d 1201, 1207-08 (Fed. Cir. 2016). 
+
+After the examiner has consulted the specification
+ and determined that the disclosed invention improves technology, the claim must be
+ evaluated to ensure the claim itself reflects the disclosed improvement in
+ technology. 
+Intellectual Ventures I LLC v. Symantec Corp.,
+ 838
+ F.3d 1307, 1316, 120 USPQ2d 1353, 1359 (Fed. Cir. 2016) (patent owner argued that the
+ claimed email filtering system improved technology by shrinking the protection gap
+ and mooting the volume problem, but the cour

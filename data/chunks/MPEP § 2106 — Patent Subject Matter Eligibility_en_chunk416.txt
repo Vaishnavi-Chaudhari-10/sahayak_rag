@@ -1,0 +1,35 @@
+subject matter eligibility rejection under Step 2
+ should provide an explanation for each part of the Step 2 analysis: 
+
+ • For Step 2A Prong One, the rejection should
+ identify the judicial exception by referring to 
+what is recited
+
+ (
+i.e.,
+ set forth or described) in the claim and
+
+explain why
+ it is considered an exception. For example, if the
+ claim is directed to an 
+abstract idea
+, the rejection should
+ identify the abstract idea as it is recited (
+i.e.,
+ set forth
+ or described) in the claim and explain why it is an abstract idea. Similarly,
+ if the claim is directed to a 
+law of nature
+ or a 
+natural
+ phenomenon
+, the rejection should identify the law of nature or
+ natural phenomenon as it is recited (
+i.e.,
+ set forth or
+ described) in the claim and explain using a reasoned rationale why it is
+ considered a law of nature or natural phenomenon.
+
+ • For Step 2A Prong Two, the rejection should
+ identify any additional elements (specifically point to claim
+ features/limitations

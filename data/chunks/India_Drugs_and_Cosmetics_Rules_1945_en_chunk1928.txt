@@ -1,0 +1,40 @@
+the Analyst. 
+ 9. Opinion and signature of the approved Analyst. 
+
+PYROGEN TEST: 
+
+1. Test Report Number. 
+2. Name of the sample. 
+3. Batch Number. 
+4. Number of rabbits used. 
+5. Weight of each rabbit. 
+6. Normal temperature of each rabbit. 
+7. Mean initial temperature of each rabbit. 
+8. Dose and volume of solution injected into each rabbit and time of injection. 
+9. Temperature of each rabbit noted at suitable intervals. 
+10. Maximum temperature. 
+11. Response. 
+12. Summed response. 
+13. Signature of the Analyst. 
+14.Opinion and signature of the approved Analyst. 
+
+TOXICITY TEST 
+
+1. Test Report Number. 
+2. Name of the sample. 
+
+Drugs and Cosmetics Rules 1945 
+577 
+
+3. Batch Number. 
+4. Number of mice used and weight of each mouse. 
+5. Strength and volume of the drugs injected. 
+6. Date of injection. 
+7. Results and remarks. 
+8. Signature of Analyst. 
+9. Opinion and signature of the approved Analyst. 
+
+C. FOR OTHER DRUGS 
+1. Analytical report number. 
+2. Name of the sample. 
+3. Batc

@@ -1,0 +1,14 @@
+of those attributes of the drug substance that are susceptible 
+to change during storage and are likely to influence quality, safety, and/or efficacy. In case of 
+formulations the testing should cover, as appropriate, the ph ysical, chemical, biological, and 
+microbiological attributes, preservative content (e.g., antioxidant, antimicrobial preservative), and 
+functionality tests (e.g., for a dose delivery system). 
+
+Validated stability-indicating analytical procedures should be applied. For long term studies, 
+frequency of testing should be sufficient to establish the stability profile of the drug substance. 
+
+In general, a drug substance should be evaluated under storage conditions that test its ther mal 
+stability and, if applicable, its sensitivity to moisture. The storage conditions and the length of studies 
+chosen should be sufficient to cover storage, shipment and subsequent use. 
+
+Stress testing of the drug substance should be conducted to identify the likely degradation produ

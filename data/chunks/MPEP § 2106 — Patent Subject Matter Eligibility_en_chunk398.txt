@@ -1,0 +1,21 @@
+vity and a field of use limitation. See,
+
+e.g., Ultramercial,
+ 772 F.3d at 716, 112 USPQ2d at 1755
+ (limiting use of abstract idea to the Internet); 
+Electric Power,
+
+ 830 F.3d at 1354, 119 USPQ2d at 1742 (limiting application of abstract idea to power
+ grid data); 
+Intellectual Ventures I LLC v. Erie Indem. Co.,
+ 850
+ F.3d 1315, 1328-29, 121 USPQ2d 1928, 1939 (Fed. Cir. 2017) (limiting use of abstract
+ idea to use with XML tags). Thus, examiners should carefully consider each claim on
+ its own merits, as well as evaluate all other relevant considerations, before making
+ a determination on this consideration. 
+
+For claim limitations that generally link the use of
+ the judicial exception to a particular technological environment or field of use,
+ examiners should explain in an eligibility rejection why they do not meaningfully
+ limit the claim. For example, an examiner could explain that employing generic
+ computer functions to execute an abstract idea, even when limiting the use of the

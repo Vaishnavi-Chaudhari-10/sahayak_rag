@@ -1,0 +1,24 @@
+rol Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+APPENDIX XI 
+DATA ELEMENTS FOR REPORTING SERIOUS ADVERSE EVENTS 
+OCCURRING IN A CLINICAL TRIAL 
+1. Patient Details— 
+Initials and other relevant identifier (hospital/OPD record number etc.)* 
+Gender 
+Age and/or date of birth 
+Weight 
+Height 
+2. Suspected Drug(s)— 
+Generic name of the drug* 
+Indication(s) for which suspect drug was prescribed or tested Dosage form 
+and strength 
+Daily dose and regimen (specify units - e.g., mg, ml, mg/kg) 
+Route of administration 
+Starting date and time of day 
+Stopping date and time or duration of treatment 
+3. Other Treatment(s)— 
+Provide the same information for concomitant drugs (including non -
+prescription/OTC drugs) and non-drug therapies, as for the suspected drug(s). 
+4. Details of Suspected Adverse Drug Reaction(s)— 
+Full description of reaction(s) including body site and severity, as well as the 
+criterion (or criteria) for regarding the report as serious. In add

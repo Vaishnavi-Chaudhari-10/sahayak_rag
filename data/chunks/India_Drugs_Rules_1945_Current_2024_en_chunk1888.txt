@@ -1,0 +1,18 @@
+ranges; 
+(iv) Performance Qualiﬁcation (PQ): documented veriﬁcation 
+that the equipment and ancillary systems, as connected 
+together, can perform effectively and reproducibly based on 
+the approved process method and speciﬁcations. 
+12.4. Approaches to process validation- 
+12.4.1. Process Validation (PV) is the documented evidence that the 
+process, operated within established parameters, can p erform 
+effectively and reproducibly to produce an intermediate or API 
+meeting its predetermined speciﬁcations and quality attributes. 
+12.4.2. There are three approaches to validation. Prospective validation 
+is the preferred approach, but there are exceptions where the 
+other approaches can be used. These three approaches and their 
+applicability are outlined in the following paragraph. 
+12.4.3. Prospective validation shall normally be performed for all API 
+processes referred to in paragraph 12.1.3. Prospective 
+validation perf ormed on an API process shall be completed 
+before the commer

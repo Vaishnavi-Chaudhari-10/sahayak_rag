@@ -1,0 +1,39 @@
+aim
+ element, by itself, was known in the art. . . . [A]n inventive concept can be found
+ in the non-conventional and non-generic arrangement of known, conventional pieces.”).
+ Specifically, lack of novelty under 
+35 U.S.C. 102
+ or obviousness
+ under 
+35
+ U.S.C. 103
+ of a claimed invention does not necessarily indicate
+ that additional elements are well-understood, routine, conventional elements. Because
+ they are separate and distinct requirements from eligibility, patentability of the
+ claimed invention under 
+35 U.S.C. 102
+ and
+
+103
+ with respect to the prior art is neither required for, nor
+ a guarantee of, patent eligibility under 
+35 U.S.C. 101
+. The distinction
+ between eligibility (under 
+35 U.S.C. 101
+) and patentability
+ over the art (under 
+35 U.S.C. 102
+ and/or
+
+103
+) is further discussed in 
+MPEP §
+ 2106.05(d)
+. 
+
+A.
+ Relevant Considerations For Evaluating Whether Additional Elements
+ Amount To An Inventive Concept
+The Supreme Court has identified a number of
+ consideratio

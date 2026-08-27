@@ -1,0 +1,18 @@
+ment.- 
+7.3.1 Design and development planning: 
+The manufacturer shall establish documented procedures for design and development. The 
+manufacturer shall plan and control the design and development of product. During the design and 
+development planning, the manufacturer shall determine :- 
+(a) the design and development stages; 
+(b) the review, verification, validation and design transfer activities that are appropriate at each 
+design and development stage; and 
+(c) the responsibilities and authorities for design and development. 
+
+The manufacturer shall manage the interfaces between different groups involved in design and 
+development to ensure effective communication and clear assignment of responsibility. 
+
+Planning output shall be documented, and updated as appropriate, as the design and development 
+progresses. 
+
+NOTE: Design transfer activities during the design and development process ensure that design and 
+development outputs are verified as suitable for manufacturing befor

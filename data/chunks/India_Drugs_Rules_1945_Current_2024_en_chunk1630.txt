@@ -1,0 +1,17 @@
+g and 
+matrix designs may be applied if scientifically justified in the stability 
+protocol. 
+13.7. All analytical methods used in the quality control and in -process 
+control of biological products shall be well characterised, validated 
+and documented to a satisfactory standard in order to yield reliable 
+results. The fundamental parameters of this val idation include 
+linearity, accuracy, precision, selectivity, specificity, sensitivity and 
+reproducibility. 
+13.8. For test methods described in relevant pharmacopoeial monographs, 
+qualification of the laboratory test equipment and personnel shall be 
+performed. In addition, repeat precision and comparability precision 
+shall be shown in the case of animal tests. Repeatability and 
+reproducibility shall also be demonstrated by reviewing retrospective 
+test data. In addition to the common parameters typically used for 
+validating assays (accuracy and precision) additional measurements 
+(for example, of the performance of references, c

@@ -1,0 +1,21 @@
+(A) A citation to an express statement in the
+ specification or to a statement made by an applicant during prosecution that
+ demonstrates the well-understood, routine, conventional nature of the
+ additional element(s). A specification demonstrates the well-understood,
+ routine, conventional nature of additional elements when it describes the
+ additional elements as well-understood or routine or conventional (or an
+ equivalent term), as a commercially available product, or in a manner that
+ indicates that the additional elements are sufficiently well-known that the
+ specification does not need to describe the particulars of such additional
+ elements to satisfy 
+35 U.S.C. 112(a)
+. A
+ finding that an element is well-understood, routine, or conventional cannot
+ be based only on the fact that the specification is silent with respect to
+ describing such element.
+
+(B) A citation to one or more of the court
+ decisions discussed in 
+MPEP § 2106.05(d)
+,
+ subsection II, as noting the well-unde

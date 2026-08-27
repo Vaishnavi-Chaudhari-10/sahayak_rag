@@ -1,0 +1,22 @@
+tions that qualify,
+ and to not qualify, as integrating an exception or providing significantly more
+ than an exception, and 
+MPEP § 2106.07(c)
+ for more
+ information on clarifying the record when a claim is found eligible.
+
+In the Step 2B inquiry, if the examiner has
+ concluded that particular claim limitations are well understood, routine,
+ conventional activities (or elements) to those in the relevant field, the
+ rejection should support this conclusion in writing with a factual determination
+ in accordance with Subsection III below. See 
+MPEP §
+ 2106.05(d)
+ for more information about well understood,
+ routine, conventional activities and elements, and Subsection III below for more
+ information about how to support a conclusion that a claim limitation is well
+ understood, routine, conventional activity.
+
+For claim limitations that recite a generic
+ computer component performing generic computer functions at a high level of
+ generality, such as using the Internet to gather data, exam

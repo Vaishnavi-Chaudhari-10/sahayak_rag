@@ -1,0 +1,18 @@
+logy without reference to what is
+ well-understood, routine, conventional activity. That is, the claimed invention
+ may integrate the judicial exception into a practical application by demonstrating
+ that it improves the relevant existing technology although it may not be an
+ improvement over well-understood, routine, conventional activity. It should be
+ noted that while this consideration is often referred to in an abbreviated manner
+ as the “improvements consideration,” the word “improvements” in the context of
+ this consideration is limited to improvements to the functioning of a computer or
+ any other technology/technical field, whether in Step 2A Prong Two or in Step
+ 2B.
+
+Examples of claims that improve technology and are
+ not directed to a judicial exception include: 
+Enfish, LLC v. Microsoft
+ Corp.,
+ 822 F.3d 1327, 1339, 118 USPQ2d 1684, 1691-92 (Fed. Cir. 2016)
+ (claims to a self-referential table for a computer database were directed to an
+ improvement in computer capabilitie

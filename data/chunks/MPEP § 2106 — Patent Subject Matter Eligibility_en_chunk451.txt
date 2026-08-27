@@ -1,0 +1,14 @@
+Provide additional explanation regarding the
+ exception and how it has been identified when appropriate.
+
+5. In bracket 3, explain why the combination of additional
+ elements fails to integrate the judicial exception into a practical application. For
+ example, if the claim is directed to an abstract idea with additional generic computer
+ elements, explain that the generically recited computer elements do not add a meaningful
+ limitation to the abstract idea because they amount to simply implementing the abstract
+ idea on a computer; or, if the claim is directed to a method of using a naturally
+ occurring correlation, explain that data gathering steps required to use the correlation
+ do not add a meaningful limitation to the method as they are insignificant
+ extra-solution activity. Similarly, if the claim recites a "naturally occurring DNA
+ segment" with an additional element of a test tube, explain that merely placing the
+ product of nature into a generic container such as a test tube

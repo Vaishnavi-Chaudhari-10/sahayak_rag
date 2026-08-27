@@ -1,0 +1,21 @@
+Group v. SAP Am.,
+ Inc.,
+ 793 F.3d 1306, 1335, 115 USPQ2d 1681, 1702 (Fed. Cir. 2015).
+ See also 
+Intellectual Ventures I LLC v. Symantec Corp.,
+ 838
+ F.3d 1307, 1318, 120 USPQ2d 1353, 1360 (Fed. Cir. 2016) (‘‘[W]ith the exception
+ of generic computer-implemented steps, there is nothing in the claims
+ themselves that foreclose them from being performed by a human, mentally or
+ with pen and paper.’’); 
+Mortgage Grader, Inc. v. First Choice Loan
+ Servs. Inc.,
+ 811 F.3d 1314, 1324, 117 USPQ2d 1693, 1699 (Fed. Cir.
+ 2016) (holding that computer-implemented method for "anonymous loan shopping"
+ was an abstract idea because it could be "performed by humans without a
+ computer"). Mental processes recited in claims that require computers are
+ explained further below with respect to point C. 
+
+Because both product and process claims may
+ recite a “mental process”, the phrase “mental processes” should be understood
+ as referring to the type of abstract idea, and not to the statutory category of

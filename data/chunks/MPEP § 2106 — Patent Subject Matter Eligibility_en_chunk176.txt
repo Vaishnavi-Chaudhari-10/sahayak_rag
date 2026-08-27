@@ -1,0 +1,17 @@
+F.3d 1363, 1371, 128 USPQ2d 1221, 1227 (Fed. Cir. 2018) (comparing claimed
+ primers to “their corresponding nucleotide sequences on the naturally occurring
+ DNA”). Similarly, assume that applicant claims a single-stranded piece of DNA
+ (a primer) having a nucleotide sequence derived from the sense strand of
+ naturally occurring nucleic acid C. Although nucleic acid C occurs in nature as
+ a double-stranded molecule having a sense and an antisense strand, the closest
+ natural counterpart for the claimed nucleic acid is the sense strand of C only.
+ See, e.g.,
+ University of Utah Research Foundation v. Ambry
+ Genetics,
+ 774 F.3d 755, 760, 113 USPQ2d 1241, 1241 (Fed. Cir.
+ 2014) (comparing single-stranded nucleic acid to the same strand found in
+ nature, even though “single-stranded DNA cannot be found in the human body”). 
+
+When there are multiple counterparts to the
+ nature-based product, the comparison should be made to the closest naturally
+ occurring counterpart. For example, assume th

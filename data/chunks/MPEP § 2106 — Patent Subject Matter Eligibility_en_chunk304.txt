@@ -1,0 +1,19 @@
+may integrate the recited judicial exception into a practical
+ application or provide significantly more, in contrast to where the machine is
+ merely an object on which the method operates, which does not integrate the
+ exception into a practical application or provide significantly more. See
+
+CyberSource v. Retail Decisions,
+ 654 F.3d 1366, 1370, 99
+ USPQ2d 1690, 1694 (Fed. Cir. 2011) ("We are not persuaded by the appellant's
+ argument that the claimed method is tied to a particular machine because it ‘would
+ not be necessary or possible without the Internet.’ . . . Regardless of whether
+ "the Internet" can be viewed as a machine, it is clear that the Internet cannot
+ perform the fraud detection steps of the claimed method"). For example, as
+ described in 
+MPEP § 2106.05(f)
+, additional
+ elements that invoke computers or other machinery merely as a tool to perform an
+ existing process will generally not amount to significantly more than a judicial
+ exception. See, e.g.,
+ Versata Devel

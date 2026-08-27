@@ -1,0 +1,15 @@
+according to the required characteristics of the environment. Each 
+manufacturing operation requires an appropriate level of environmental 
+cleanliness in the operational state to minimise the risk of particulate or 
+microbial contamination of the product or materials being handled. 
+4.2. Detailed information on methods for determining the microbiological 
+and particulate cleanliness of air, surfaces, etc., is not given in this Part. 
+International Organization for Standardisation (ISO) standards shall be 
+used for classificati on of cleanliness according to concentration of 
+airborne particles (determination of number of sample locations, 
+calculation of sample size and evaluation of classification from the data 
+obtained). Table 1 shall also be used to define the levels to be used as 
+the basis for monitoring clean areas for airborne particles. 
+4.3. For the manufacture of sterile pharmaceutical preparations, four grades 
+of clean areas are distinguished as follows:- 
+Grade A : The l

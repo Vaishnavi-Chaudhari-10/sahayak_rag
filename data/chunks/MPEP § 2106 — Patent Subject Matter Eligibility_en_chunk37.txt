@@ -1,0 +1,27 @@
+omposition of matter? Like the other steps in the
+ eligibility analysis, evaluation of this step should be made after determining what
+ the inventor has invented by reviewing the entire application disclosure and
+ construing the claims in accordance with their broadest reasonable interpretation
+ (BRI). See 
+MPEP §
+ 2106
+, subsection II, for more information about the
+ importance of understanding what has been invented, and 
+MPEP § 2111
+ for
+ more information about the BRI. 
+
+In the context of the flowchart in
+
+MPEP §
+ 2106
+, subsection III, Step 1 determines whether: 
+
+ • The claim as a whole does not fall within any
+ statutory category (Step 1: NO) and thus is non-statutory, warranting a
+ rejection for failure to claim statutory subject matter; or
+
+ • The claim as a whole falls within one or
+ more statutory categories (Step 1: YES), and thus must be further analyzed to
+ determine whether it qualifies as eligible at Pathway A or requires further
+ analysis at Step 2A to determine if the

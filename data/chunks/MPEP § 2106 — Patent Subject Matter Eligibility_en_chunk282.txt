@@ -1,0 +1,24 @@
+navigating complex three-dimensional spreadsheets using techniques unique to
+ computers; 
+Data Engine Techs., LLC v. Google LLC,
+ 906
+ F.3d 999, 1009, 128 USPQ2d 1381, 1387 (Fed. Cir. 2018); and
+
+xii. A specific method of restricting software
+ operation within a license, 
+Ancora Tech., Inc. v. HTC America,
+ Inc.,
+ 908 F.3d 1343, 1345-46, 128 USPQ2d 1565, 1567 (Fed. Cir.
+ 2018). 
+
+It is important to note that in order for a method
+ claim to improve computer functionality, the broadest reasonable interpretation of
+ the claim must be limited to computer implementation. That is, a claim whose
+ entire scope can be performed mentally, cannot be said to improve computer
+ technology. 
+Synopsys, Inc. v. Mentor Graphics Corp.,
+ 839 F.3d
+ 1138, 120 USPQ2d 1473 (Fed. Cir. 2016) (a method of translating a logic circuit
+ into a hardware component description of a logic circuit was found to be
+ ineligible because the method did not employ a computer and a skilled artisan
+ could perform all the step

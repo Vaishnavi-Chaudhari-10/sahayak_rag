@@ -1,0 +1,19 @@
+Two or recites significantly more than a judicial exception in Step 2B is whether the
+ additional elements amount to more than a recitation of the words “apply it” (or an
+ equivalent) or are more than mere instructions to implement an abstract idea or other
+ exception on a computer. As explained by the Supreme Court, in order to make a claim
+ directed to a judicial exception patent-eligible, the additional element or
+ combination of elements must do “‘more than simply stat[e] the [judicial exception]
+ while adding the words ‘apply it’”. 
+Alice Corp. v. CLS Bank,
+ 573
+ U.S. 208, 221, 110 USPQ2d 1976, 1982-83 (2014) (quoting 
+Mayo Collaborative
+ Servs. V. Prometheus Labs., Inc.,
+ 566 U.S. 66, 72, 101 USPQ2d 1961,
+ 1965). Thus, for example, claims that amount to nothing more than an instruction to
+ apply the abstract idea using a generic computer do not render an abstract idea
+ eligible. 
+Alice Corp.,
+ 573 U.S. at 223, 110 USPQ2d at 1983. See
+ also 573 U.S. at 224, 110 USPQ2d at 1984 (wa

@@ -1,0 +1,19 @@
+te any processes for production and service provision where the 
+resulting output cannot be verified by subsequent monitoring or measurement. This includes any 
+processes where deficiencies become apparent only after the product is in use. Validation shall 
+demonstrate the ability of these processes to achieve planned results. 
+
+Drugs and Cosmetics Rules 1945 
+512 
+
+The manufacturer shall establish arrangements for these processes including, as applicable:- 
+(a) defined criteria for review and approval of the processes; 
+(b) approval of equipment and qualification of personnel 
+(c) use of specific methods and procedures,; 
+(d) requirements for records; and 
+(e) revalidation. 
+
+The manufacturer shall establish documented procedures for the validation of the application of 
+computer software (and its changes to such software or its application) for production and service 
+provision that affect the ability of the product conform to specified requirements. Such soft ware 
+applications shal

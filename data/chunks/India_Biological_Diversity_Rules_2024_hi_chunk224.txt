@@ -1,0 +1,30 @@
+Entity covered under section 3(2) of the Act 
+e. Entity covered under section 7 of the Act 
+(4) Complete address 
+Postal address including PIN code, email, mobile and 
+alternate mobile numbers and/or landline number) 
+
+(5) Details of biological resource used 
+(i) Scientific and common name of the biological resource 
+(ii) Country from where biological resource was/were 
+accessed 
+
+(iii) Whether the country from which the biological 
+resource were accessed is a Party to Nagoya Protocol 
+Yes/No 
+(Please tick whichever is applicable) 
+(6) Whether approval of the Competent National 
+Authority of the country of origin of biological 
+resource has been obtained 
+Yes/No [drop down- list of country] 
+
+(i) Details of the ABS -CH Unique Identifier of 
+internationally recognized certificate of compliance (if 
+available). 
+
+(ii) If the internationally recognized certificate of 
+compliance is not available, the following information 
+may be provided 
+
+ (a) Source of the biological resource 
+ (b) Pur

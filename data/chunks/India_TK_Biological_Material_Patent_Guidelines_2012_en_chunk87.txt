@@ -1,0 +1,25 @@
+ive examples for industrial applicability: 
+Example 1: 
+Invention: Synthetic analogues of a steroid. The steroids possess certain medicinal 
+properties. However, t he compounds of t he invention, as assert ed, are subjects of 
+serious investigation, being the analogue of compounds known for medicinal 
+properties. 
+
+Analysis: The claimed compounds are not patentable as they lack any credible and 
+specific utility. A mere scientific interest does not make something eligible for 
+patentability. 
+
+Example 2: 
+
+Invention: The application comprises three sets of claims: 
+
+1. A compound of formula A 
+
+2. A compound of formula B 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+3. A process of making A and B, wherein, C and D are reacted at m to n 
+degree centigrade, in an aprotic solvent Y, the said aprotic solvent being 
+selected fr om a, b, c, d, e and s ubsequently distilled a nd purif

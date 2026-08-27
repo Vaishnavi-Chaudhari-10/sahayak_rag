@@ -1,0 +1,19 @@
+ates the judicial exception into a practical application
+ or amounts to significantly more than the judicial exception when the additional
+ elements are considered both individually and in combination. When an additional
+ element is considered individually by the examiner, the additional element may be
+ enough to integrate the judicial exception into a practical application or to qualify
+ as "significantly more" if it meaningfully limits the judicial exception,
+
+e.g.,
+ it improves another technology or technical field,
+ improves the functioning of a computer itself. 
+
+In addition, even if an element does not integrate a
+ judicial exception into a practical application or amount to significantly more on
+ its own (
+e.g.,
+ because it is merely a generic computer component
+ performing generic computer functions), it can still integrate or amount to
+ significantly more when considered in combination with the other elements of the
+ claim. For example, generic computer components that individ

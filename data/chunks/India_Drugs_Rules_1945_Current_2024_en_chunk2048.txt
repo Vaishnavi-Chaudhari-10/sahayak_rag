@@ -1,0 +1,22 @@
+d Register. —(Finished Product/Intermediate 
+procedure)— 
+1. SI. No 
+2. Batch No 
+3. Date and time 
+4. Name of the material and quantity 
+5. Name of the equipment (SS/granite) 
+6. Duration of grinding 
+7. Repeat the grinding if required (Number of repetition) 
+(d) Packing details— 
+1. Name of Rasaushadhi 
+2. Type of Dosage Form (e.g., Powder, pill, tablet etc.) 
+3. Weight of Rasaushadhi in each unit. 
+B. Product Quality Control: 
+The specifications for finished Rasaushadhi are primarily intended to define 
+the quality rather than to establish full characterization, and should focus on 
+those characteristics found to be useful in ensuring the quality. Consistent 
+quality for Rasaushdhi can only be assured if the starting material -metals and 
+minerals are used of pharmacopoeial standards. In some cases more detailed 
+information may be needed on aspects of their process. The manufacture will 
+ensure in-house standards for the uniform quality of product. 
+Quality testing will be carried

@@ -1,0 +1,18 @@
+arrangements and documented procedures. 
+
+Evidence of conformity with the acceptance criteria shall be maintained. Records shall indicate the 
+person(s) authorizing release of product. Product release shall not proceed until the planned 
+arrangements have been satisfactorily completed. 
+
+8.2.4.2 Particular requirement for active implantable medical devices and implantable medical 
+Devices wherever applicable: 
+The manufacturer shall record the identity of personnel performing any inspection or testing. 
+
+8.3 Control of nonconforming product 
+The manufacturer shall ensure that product which does not conform to prod uct requirements is 
+identified and controlled to prevent its unintended use or delivery. The controls and related 
+responsibilities and authorities for dealing with nonconforming product shall be defined in a 
+documented procedure. 
+
+The manufacturer shall deal with nonconforming product by one or more of the following ways: 
+(a) by taking action to eliminate the detected no

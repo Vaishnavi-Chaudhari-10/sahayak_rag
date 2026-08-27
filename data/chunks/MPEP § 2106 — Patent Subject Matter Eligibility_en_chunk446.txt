@@ -1,0 +1,62 @@
+rst use of
+
+35 U.S.C.
+ 101
+ in all first actions on the merits and final rejections.  
+
+¶ 7.05 Rejection, 35 U.S.C. 101, -Heading Only- (Utility, Nonstatutory,
+ Inoperative)
+
+Claim 
+[1]
+ rejected under 
+35 U.S.C. 101
+ because
+
+Examiner Note:
+
+1. This form paragraph must be preceded by form paragraph
+
+7.04.01
+ in
+ first actions and final rejections.
+
+2. This form paragraph must be followed by a detailed explanation of
+ the grounds of rejection using one or more of form paragraphs
+
+7.05.01
+,
+
+7.05.016
+,
+
+7.05.017
+,
+
+7.05.02
+,
+
+7.05.03
+,
+ or another appropriate reason.
+
+3. See 
+MPEP §§ 2105
+ - 
+2107.03
+ for additional guidance.
+
+¶ 7.05.01 Rejection, 35 U.S.C. 101, Nonstatutory (Not One of the Four
+ Statutory Categories)
+
+the claimed invention is directed to nonstatutory subject matter. The
+ claim(s) does/do not fall within at least one of the four categories of patent eligible
+ subject matter because 
+[1]
+
+Examiner Note:
+
+1. This form paragraph should be preceded by form paragraph
+
+7.05
+.

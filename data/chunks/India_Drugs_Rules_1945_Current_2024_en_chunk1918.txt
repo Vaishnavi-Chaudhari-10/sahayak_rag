@@ -1,0 +1,18 @@
+itored to ensure consistency with the established process. 
+Cell growth, viability (for most cell culture processes), and, 
+where appropriate, productivity shall also be monitored. Critical 
+parameters wi ll vary from one process to another, and for 
+classical fermentation, certain parameters (cell viability) may 
+not need to be monitored. 
+17.3.5. Cell culture equipment shall be cleaned and sterilised after use. 
+As appropriate, fermentation equipment shall be cleaned , and 
+sanitized or sterilised. 
+17.3.6. Culture media shall be sterilised before use when appropriate to 
+protect the quality of the API. 
+17.3.7. There shall be appropriate procedures in place to detect 
+contamination and determine the course of action to be taken. 
+This shal l include procedures to determine the impact of the 
+contamination on the product and those to decontaminate the 
+equipment and return it to a condition to be used in subsequent 
+batches. Foreign organisms observed during fermentation 
+processes s

@@ -1,0 +1,18 @@
+f the product that are essential for its safe and proper use. 
+
+Records of the design and development outputs shall be maintained. 
+Records of design and development outputs can include specifications, manufacturing procedures, 
+engineering drawings, and engineering or research logbooks. 
+
+7.3.4 Design and development review: 
+At suitable stages, systematic reviews of design and development shall be performed in accordance 
+with planned arrangements:- 
+(a) to evaluate the ability of the results of design and development to meet requirements; and 
+(b) to identify any problems and propose necessary actions. 
+
+Participants in such reviews shall include representatives of functions concerned with the design and 
+development stage being reviewed, as well as other specialist personnel. 
+Records of the results of the reviews and any necessary actions shall be maintained 
+
+7.3.5 Design and development verification: 
+Verification shall be performed in accordance with planned arrangements to ens

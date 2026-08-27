@@ -1,0 +1,33 @@
+m computer
+ environment as directed to abstract idea of detecting fraud);
+
+Content Extraction & Transmission LLC v. Wells Fargo Bank,
+ N.A.,
+ 776 F.3d 1343, 1345, 113 USPQ2d 1354, 1356 (Fed. Cir.
+ 2014) (system and method claims of inputting information from a hard copy
+ document into a computer program). Accordingly, the phrase “mental
+ processes” should be understood as referring to the type of abstract idea,
+ and not to the statutory category of the claim. 
+
+Examples of product claims reciting mental
+ processes include:
+
+ • An application program interface for
+ extracting and processing information from a diversity of types of
+ hard copy documents – 
+Content Extraction,
+ 776 F.3d
+ at 1345, 113 USPQ2d at 1356;
+
+ • A computer-implemented system for
+ enabling anonymous loan shopping – 
+Mortgage Grader,
+
+ 811 F.3d at 1318, 117 USPQ2d at 1695;
+
+ • A computer readable medium
+ containing program instructions for detecting fraud –
+
+CyberSource,
+ 654 F.3d at 1368 n. 1, 99 USPQ2d at
+ 1692 n.1

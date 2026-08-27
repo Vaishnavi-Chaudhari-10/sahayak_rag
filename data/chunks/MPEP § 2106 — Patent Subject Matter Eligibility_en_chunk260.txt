@@ -1,0 +1,29 @@
+R THE
+ ADDITIONAL ELEMENTS CONTRIBUTE AN “INVENTIVE CONCEPT”
+As described in 
+MPEP § 2106
+,
+ subsection III, Step 2B of the Office’s eligibility analysis is the second part of
+ the 
+Alice/Mayo
+ test, 
+i.e.,
+ the Supreme Court’s
+ “framework for distinguishing patents that claim laws of nature, natural phenomena,
+ and abstract ideas from those that claim patent-eligible applications of those
+ concepts.” 
+Alice Corp. Pty. Ltd. v. CLS Bank Int'l,
+ 573 U.S. 208,
+ 217, 110 USPQ2d 1976, 1981 (2014) (citing 
+Mayo,
+ 566 U.S. 66, 101
+ USPQ2d 1961 (2012)). Like the other steps in the eligibility analysis, evaluation of
+ this step should be made after determining what the inventor has invented by
+ reviewing the entire application disclosure and construing the claims in accordance
+ with their broadest reasonable interpretation. See 
+MPEP § 2106
+,
+ subsection II for more information about the importance of understanding what has
+ been invented, and 
+MPEP § 2111
+ for more information about the broade

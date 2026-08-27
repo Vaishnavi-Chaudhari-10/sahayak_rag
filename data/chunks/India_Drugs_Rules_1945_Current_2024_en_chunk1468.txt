@@ -1,0 +1,16 @@
+e basis for monitoring clean areas for airborne particles. 
+4.3. For the manufacture of sterile pharmaceutical preparations, four grades 
+of clean areas are distinguished as follows:- 
+Grade A : The local zone for high -risk operations, e.g., filling and 
+making aseptic connections. Normally such conditions are achieved by 
+using a unidirectional airflow workstation. Unidirectional airflow 
+systems shall provide a homogeneous air speed of 0.36 –0.54 m/s 
+(guidance value) at a defined test position 15–30 cm below the terminal 
+filter or air distributor system. The velocity at working level shall not 
+be less than 0.36 m/s. The uniformity and effectiveness of the 
+unidirectional airflow shall be demonstrated by undertaking airflow 
+visualisation tests. 
+Grade B : In asepti c preparation and filling, this is the background 
+environment for the Grade A zone. 
+Grades C and D : Clean areas for carrying out less critical stages in the 
+manufacture of sterile products or carrying out activitie

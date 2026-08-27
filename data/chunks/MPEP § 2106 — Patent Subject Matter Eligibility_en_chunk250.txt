@@ -1,0 +1,35 @@
+ecified at a
+ high level of generality, to the judicial exception,
+
+e.g.,
+ a claim to an abstract idea requiring no more
+ than a generic computer to perform generic computer functions that are
+ well-understood, routine and conventional activities previously known to the
+ industry, as discussed in 
+Alice Corp.,
+ 573 U.S. at 225,
+ 110 USPQ2d at 1984 (see 
+MPEP §
+ 2106.05(d)
+); 
+
+iii. Adding insignificant extra-solution activity
+ to the judicial exception, 
+e.g.,
+ mere data gathering in
+ conjunction with a law of nature or abstract idea such as a step of
+ obtaining information about credit card transactions so that the information
+ can be analyzed by an abstract mental process, as discussed in
+
+CyberSource v. Retail Decisions, Inc.,
+ 654 F.3d 1366,
+ 1375, 99 USPQ2d 1690, 1694 (Fed. Cir. 2011) (see 
+MPEP §
+ 2106.05(g)
+); or
+
+iv. Generally linking the use of the judicial
+ exception to a particular technological environment or field of use,
+
+e.g.,
+ a claim describing how the abstract idea of

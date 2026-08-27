@@ -1,0 +1,19 @@
+toring and testing of the API batches. 
+12.4.5. An exception can be made for retrospective validation for well- 
+established processes that have been used without signiﬁcant 
+changes to API quality due to changes in raw materials, 
+equipment, syste ms, facilities or the production process. This 
+validation approach may be used where- 
+(a) critical quality attributes and critical process parameters 
+have been identiﬁed; 
+(b) appropriate in-process acceptance criteria and controls have 
+been established; 
+(c) there have not been signiﬁcant process or product failures 
+attributable to causes other than operator error or equipment 
+failures unrelated to equipment suitability; and 
+(d) impurity proﬁles have been established for the existing API. 
+12.4.6. Batches selected for retrospective validation shall be 
+representative of all batches made during the review period, 
+including any batches that failed to meet speciﬁcations, and 
+shall be sufﬁcient in number to demonstrate process 
+consist

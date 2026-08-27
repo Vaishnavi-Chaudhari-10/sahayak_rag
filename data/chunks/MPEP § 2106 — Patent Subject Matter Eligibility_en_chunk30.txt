@@ -1,0 +1,28 @@
+from the machine itself.” 
+Samsung Electronics,
+
+ 137 S. Ct. at 435, 120 USPQ2d at 1753 (quoting 1 W. Robinson, The Law of
+ Patents for Useful Inventions §183, p. 270 (1890)).
+
+ • A composition of matter is a “combination of
+ two or more substances and includes all composite articles.”
+
+Digitech,
+ 758 F.3d at 1348-49, 111 USPQ2d at 1719
+ (citation omitted). This category includes all compositions of two or more
+ substances and all composite articles, “'whether they be the results of
+ chemical union or of mechanical mixture, or whether they be gases, fluids,
+ powders or solids.'” 
+Chakrabarty,
+ 447 U.S. at 308, 206 USPQ
+ at 197 (quoting 
+Shell Dev. Co. v. Watson,
+ 149 F. Supp. 279,
+ 280 (D.D.C. 1957); 
+id.
+ at 310 holding genetically modified
+ microorganism to be a manufacture or composition of matter).
+
+It is not necessary to identify a single category into
+ which a claim falls, so long as it is clear that the claim falls into at least one
+ category. For example, because a microproces

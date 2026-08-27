@@ -1,0 +1,21 @@
+acceptability in small -scale 
+reactions (i.e., use testing) rather than on analytical testing 
+alone. 
+18.5. Production- 
+18.5.1. The production of APIs for use in clinical trials shall be 
+documented in laboratory notebooks, batch records or by other 
+appropriate means. These documents shall include information 
+on the use of production materials, equipment, processing and 
+scientiﬁc observations. 
+18.5.2. Expected yields can be more variable and less deﬁned than the 
+expected yields used in commercial processes. Investigations 
+into yield variations are not expected. 
+18.6. Validation- 
+18.6.1. Process validation for the production of APIs for use in clinical 
+trials is normally inappropriate whe re a single API batch is 
+produced or where process changes during development of an 
+API make batch replication difﬁcult or inexact. The 
+combination of controls, calibration and where appropriate, 
+equipment qualiﬁcation assures quality of the API during thi s 
+development phase. 
+18.6.2.

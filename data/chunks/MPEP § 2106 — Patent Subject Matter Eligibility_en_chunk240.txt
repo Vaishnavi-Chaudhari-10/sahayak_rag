@@ -1,0 +1,24 @@
+“inventive concept” is furnished by an element or combination of elements
+ that is recited in the claim in addition to (beyond) the judicial exception, and is
+ sufficient to ensure that the claim as a whole amounts to significantly more than the
+ judicial exception itself. 
+Alice Corp.,
+ 573 U.S. at 27-18, 110
+ USPQ2d at 1981 (citing 
+Mayo,
+ 566 U.S. at 72-73, 101 USPQ2d at
+ 1966). 
+
+Evaluating additional elements to determine whether
+ they amount to an inventive concept requires considering them both individually and
+ in combination to ensure that they amount to significantly more than the judicial
+ exception itself. Because this approach considers all claim elements, the Supreme
+ Court has noted that “it is consistent with the general rule that patent claims ‘must
+ be considered as a whole.’” 
+Alice Corp.,
+ 573 U.S. at 218 n.3, 110
+ USPQ2d at 1981 (quoting 
+Diamond v. Diehr,
+ 450 U.S. 175, 188, 209
+ USPQ 1, 8-9 (1981)). Consideration of the elements in combination is particularly
+ i

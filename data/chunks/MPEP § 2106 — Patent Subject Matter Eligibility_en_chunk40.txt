@@ -1,0 +1,33 @@
+compassed both statutory random-access memory and non-statutory carrier
+ waves). 
+
+If a claim is clearly not within one of the four
+ categories (Step 1: NO), then a rejection under 
+35 U.S.C. 101
+ must be made
+ indicating that the claim is directed to non-statutory subject matter. Form
+ paragraphs 
+7.05
+ and 
+7.05.01
+ should be used; see
+
+MPEP
+ § 2106.07(a)(1)
+. However, as shown in the flowchart in
+
+MPEP §
+ 2106
+ subsection III, when a claim fails under Step 1 (Step
+ 1: NO), but it appears from applicant’s disclosure that the claim could be amended to
+ fall within a statutory category (Step 1: YES), the analysis should proceed to
+ determine whether such an amended claim would qualify as eligible at Pathway A, B or
+ C. In such a case, it is a best practice for the examiner to recommend an amendment,
+ if possible, that would resolve eligibility of the claim. 
+
+2106.04 Eligibility Step 2A: Whether a Claim is Directed
+ to a Judicial Exception [R-07.2022]
+
+I.
+ JUDICIAL EXCEPTIONS
+Determini

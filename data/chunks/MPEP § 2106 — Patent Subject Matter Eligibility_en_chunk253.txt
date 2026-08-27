@@ -1,0 +1,28 @@
+[l]aws of nature, natural phenomena, and abstract
+ ideas are not patentable,’” 
+Myriad,
+ 133 S. Ct. 1289, 186 L.
+ Ed. 2d 124, 133). 
+
+Alice Corp.,
+ 573 U.S. at 224,
+ 110 USPQ2d at 1983-84 (alterations in original). See also 
+Genetic
+ Technologies Ltd. v. Merial LLC,
+ 818 F.3d 1369, 1377, 118 USPQ2d
+ 1541, 1547 (Fed. Cir. 2016) (steps of DNA amplification and analysis “do not,
+ individually or in combination, provide sufficient inventive concept to render
+ claim 1 patent eligible” merely because they are physical steps). Conversely, the
+ presence of a non-physical or intangible additional element does not doom the
+ claims, because tangibility is not necessary for eligibility under the
+
+Alice/Mayo
+ test. 
+Enfish, LLC v. Microsoft
+ Corp.,
+ 822 F.3d 1327, 118 USPQ2d 1684 (Fed. Cir. 2016) (“that the
+ improvement is not defined by reference to ‘physical’ components does not doom the
+ claims”). See also 
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+
+ 837 F.3d 1299, 1315, 120 USPQ2d 1091, 1102 (

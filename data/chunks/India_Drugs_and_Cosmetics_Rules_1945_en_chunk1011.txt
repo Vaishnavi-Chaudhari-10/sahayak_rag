@@ -1,0 +1,21 @@
+their country.] 
+1.5 List of countries where marketing authorization or import permission for the said drug is 
+granted with date (respective authorisation shall be enclosed). 
+1.6 List of countries where marketing authorisation or import permission for the said drug is 
+cancelled/withdrawn with date. 
+1.7 List of countries where marketing authorisation or import permission for the said drug is 
+pending since (date). 
+1.8 Domestic price of the drug in the currency followed in the country of origin. 
+1.9 List of countries where the said drug is patented. 
+
+2. CHEMICAL AND PHARMACEUTICAL INFORMATION OF DRUGS. 
+2.1 Chemical name. 
+Code name or number, if any. 
+Non-proprietary or generic name, if any. 
+Structure. 
+Physico-chemical properties. 
+2.2 Dosage form and its composition. 
+Qualitative and Quantitative composition in terms of the active substances(s) and 
+excipient(s). List of active substance(s) separately from the constituent(s) of excipients. 
+
+2.3 Specifications of active and in

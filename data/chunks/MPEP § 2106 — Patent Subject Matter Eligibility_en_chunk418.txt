@@ -1,0 +1,31 @@
+lements represent
+ well-understood, routine, conventional activity.
+
+ • For Step 2B, the rejection should
+
+explain why
+ the additional elements, taken individually and in
+ combination, do not result in the claim, as a whole, amounting to significantly
+ more than the identified judicial exception. For instance, when the examiner
+ has concluded that certain claim elements recite well understood, routine,
+ conventional activities in the relevant field, the examiner must expressly
+ support the rejection in writing with one of the four options specified in
+ Subsection III.
+
+ Under the principles of compact prosecution,
+ regardless of whether a rejection under 
+35 U.S.C. 101
+ is made based on
+ lack of subject matter eligibility, a complete examination should be made for every
+ claim under each of the other patentability requirements: 
+35 U.S.C.
+ 102
+, 
+103
+, 
+112
+, and
+
+101
+ (utility, inventorship and double patenting) and
+ non-statutory double patenting. Thus, examiners should state all non

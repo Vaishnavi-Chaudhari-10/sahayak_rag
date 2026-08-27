@@ -1,0 +1,26 @@
+aim. Use of a machine that
+ contributes only nominally or insignificantly to the execution of the claimed
+ method (e.g., in a data gathering step or in a field-of-use limitation) would not
+ integrate a judicial exception or provide significantly more. See
+
+Bilski,
+ 561 U.S. at 610, 95 USPQ2d at 1009 (citing
+
+Parker v. Flook,
+ 437 U.S. 584, 590, 198 USPQ 193, 197
+ (1978)), and 
+CyberSource v. Retail Decisions,
+ 654 F.3d 1366,
+ 1370, 99 USPQ2d 1690 (Fed. Cir. 2011) (citations omitted) (“[N]othing in claim 3
+ requires an infringer to use the Internet to obtain that data. The Internet is
+ merely described as the source of the data. We have held that mere
+ ‘[data-gathering] step[s] cannot make an otherwise nonstatutory claim statutory.’”
+ 654 F.3d at 1375, 99 USPQ2d at 1694 (citation omitted)). See 
+MPEP § 2106.05(g) &
+ (h)
+ for more information on insignificant extra-solution
+ activity and field of use, respectively. 
+
+2106.05(c) Particular Transformation [R-07.2022]
+
+Another consideration

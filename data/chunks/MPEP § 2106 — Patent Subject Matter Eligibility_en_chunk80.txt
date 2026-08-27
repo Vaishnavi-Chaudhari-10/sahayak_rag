@@ -1,0 +1,31 @@
+a)(2) Abstract Idea Groupings [R-07.2022]
+I.
+ MATHEMATICAL
+ CONCEPTS
+The mathematical concepts grouping is defined
+ as mathematical relationships, mathematical formulas or equations, and
+ mathematical calculations. The Supreme Court has identified a number of
+ concepts falling within this grouping as abstract ideas including: a procedure
+ for converting binary-coded decimal numerals into pure binary form,
+
+Gottschalk v. Benson,
+ 409 U.S. 63, 65, 175 USPQ2d 673,
+ 674 (1972); a mathematical formula for calculating an alarm limit,
+
+Parker v. Flook,
+ 437 U.S. 584, 588-89, 198 USPQ2d 193,
+ 195 (1978); the Arrhenius equation, 
+Diamond v. Diehr,
+ 450
+ U.S. 175, 191, 209 USPQ 1, 15 (1981); and a mathematical formula for hedging,
+
+Bilski v. Kappos,
+ 561 U.S. 593, 611, 95 USPQ 2d 1001,
+ 1004 (2010). 
+
+The Court’s rationale for identifying these
+ “mathematical concepts” as judicial exceptions is that a ‘‘mathematical formula
+ as such is not accorded the protection of our patent laws,’’
+
+Diehr,
+ 4

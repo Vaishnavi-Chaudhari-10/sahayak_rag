@@ -1,0 +1,32 @@
+d. Cir. 2015) (sending messages
+ over a network); 
+buySAFE, Inc. v. Google, Inc.,
+ 765 F.3d
+ 1350, 1355, 112 USPQ2d 1093, 1096 (Fed. Cir. 2014) (computer receives and
+ sends information over a network); but see 
+DDR Holdings, LLC v.
+ Hotels.com, L.P.,
+ 773 F.3d 1245, 1258, 113 USPQ2d 1097, 1106
+ (Fed. Cir. 2014) (“Unlike the claims in 
+Ultramercial,
+ the
+ claims at issue here specify 
+how
+
+ interactions with the Internet are manipulated to yield a desired result‐‐a
+ result that overrides the routine and conventional sequence of events
+ ordinarily triggered by the click of a hyperlink.” (emphasis added));
+
+ii. Performing repetitive calculations,
+
+Flook,
+ 437 U.S. at 594, 198 USPQ2d at 199 (recomputing
+ or readjusting alarm limit values); 
+Bancorp Services v. Sun
+ Life,
+ 687 F.3d 1266, 1278, 103 USPQ2d 1425, 1433 (Fed. Cir.
+ 2012) (“The computer required by some of 
+Bancorp
+’s claims
+ is employed only for its most basic function, the performance of repetitive
+ calculations, and as such d

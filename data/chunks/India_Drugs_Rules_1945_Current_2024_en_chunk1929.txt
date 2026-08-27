@@ -1,0 +1,19 @@
+implementation of the analytical 
+methods used to supp ort the release of a batch of API for use 
+in clinical trials shall be appropriately documented. 
+18.9.3. A system for retaining production and control records and 
+documents shall be used. This system shall ensure that records 
+and documents are retained for an appro priate length of time 
+after the approval, termination or discontinuation of an 
+application. 
+PART XIII 
+REQUIREMENTS OF PLANT AND EQUIPMENT 
+1. External preparations:- The following equipment is recommended for the 
+manufacture of ‘External preparations’, i.e., O intments, Emulsions, Lotions, 
+Solutions, Pastes, Creams, Dusting Powders and such identical products 
+used for external applications whichever is applicable, namely:- 
+(1) Mixing and storage tanks preferably of stainless steel or any other 
+appropriate material; 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+(2) Jacketed Kettle stainless steel

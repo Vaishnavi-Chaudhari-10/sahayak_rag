@@ -1,0 +1,18 @@
+where necessary. 
+1.28. Maximum and minimum room temperatures and relative humidity shall 
+be appropriate. Alert and action limits on temperatures and humidity 
+shall be set, as appropriate. 
+1.29. The operating band or tolerance between the ac ceptable minimum and 
+maximum temperatures shall not be made too close. Tight control 
+tolerances may be difficult to achieve and can also add unnecessary 
+installation and running costs. 
+1.30. Cubicles or suites, in which products requiring low relative humidity a re 
+processed, shall have well sealed walls and ceilings and shall also be 
+separated from adjacent areas with higher relative humidity by means of 
+suitable airlocks. 
+1.31. Precautions shall be taken to prevent moisture migration that increases 
+the load on the HVAC system. 
+1.32. Humidity control shall be achieved by removing moisture from the air, or 
+adding moisture to the air, as relevant. 
+1.33. Dehumidification (moisture removal) may be achieved by means of 
+either refrigera

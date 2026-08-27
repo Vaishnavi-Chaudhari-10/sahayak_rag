@@ -1,0 +1,21 @@
+ai Namco Games America, Inc.
+ 837 F.3d 1299,
+ 1314, 120 USPQ2d 1091, 1102 (Fed. Cir. 2016) (the claim’s construction incorporated
+ rules of a particular type that improved an existing technological process). Claim
+ interpretation can also affect the second part of the 
+Alice/Mayo
+ test
+ (whether the claim recites additional elements that amount to significantly more than
+ the judicial exception). For example, in 
+Amdocs (Israel) Ltd. v. Openet
+ Telecom, Inc.,
+ where the court relied on the construction of the term
+ “enhance” (to require application of a number of field enhancements in a distributed
+ fashion) to determine that the claim entails an unconventional technical solution to a
+ technological problem. 841 F.3d 1288, 1300-01, 120 USPQ2d 1527, 1537 (Fed. Cir. 2016).
+
+III.
+ SUMMARY OF ANALYSIS AND FLOWCHART
+Examiners should determine whether a claim satisfies the
+ criteria for subject matter eligibility by evaluating the claim in accordance with the
+ following flowchart. The flowch

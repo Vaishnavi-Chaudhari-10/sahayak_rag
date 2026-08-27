@@ -1,0 +1,20 @@
+f the product batch. The 
+target shall be zero growth and the following shall apply: 
+(a) when filling fewer than 5000 units, no contaminated units shall be 
+detected; 
+(b) when filling 5000–10000 units - 
+(i) one contaminated unit shall result in an investigation, including 
+consideration of a repeat media fill; 
+(ii) two contaminated units are considered cause for revalidation 
+following investigation; 
+(c) when filling more than 10000 units - 
+(i) one contaminated unit shall result in an investigation; 
+(ii) two contaminated units are considered cause for revalidation 
+following investigation. 
+5.7. For any run size, intermittent incidents of microbial contamination may 
+be indicative of low -level contamination that shall be investigated. 
+Investigation of gross failures shall include the potential impact on the 
+sterility assurance of batches manufactured since the last successful 
+media fill. 
+5.8. Care shall be taken to ensure that any validation does not compromise 
+the process

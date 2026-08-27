@@ -1,0 +1,17 @@
+complete with equipment installed and operating in a manner 
+agreed upon by the customer and supplier, but with no 
+personnel present. 
+The “in operation” state is the condition where the installation 
+is functioning in the defined operating mode and the specified 
+number of personnel is present. The areas and their associated 
+environmental control systems shall be designed to achieve 
+both the “at rest” and “in operation” states. 
+4.6.2. For classification purposes in Grade A zones, a minimum 
+sample volume of 1 m³ shall be taken per sample location. 
+Referring to Table 1, for Grade A the airborne particle 
+classification is ISO 4.8 dictated by the limit for particles ≥ 5.0 
+μm. For Grade B (at rest) the airborne particle classification is 
+ISO 5 for both particle sizes considered. For Grade C (at rest 
+and in operation) the airborne particle classification is ISO 7 and 
+ISO 8, respectively. For Grade D (at rest) the airborne particl e 
+classification is ISO 8. For classification pur

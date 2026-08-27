@@ -1,0 +1,27 @@
+the extra-solution limitation is well
+ known.
+ See 
+Bilski v. Kappos,
+ 561 U.S. 593, 611-12, 95
+ USPQ2d 1001, 1010 (2010) (well-known random analysis techniques to establish the
+ inputs of an equation were token extra-solution activity); 
+Flook,
+
+ 437 U.S. at 593-95, 198 USPQ at 197 (a formula would not be patentable by only
+ indicating that is could be usefully applied to existing surveying techniques);
+
+Intellectual Ventures I LLC v. Erie Indem. Co.,
+ 850 F.3d 1315,
+ 1328-29, 121 USPQ2d 1928, 1937 (Fed. Cir. 2017) (the use of a well-known XML tag to
+ form an index was deemed token extra-solution activity). Because this overlaps with
+ the well-understood, routine, conventional consideration, it should not be considered
+ in the Step 2A Prong Two extra-solution activity analysis.
+
+(2) Whether the limitation is significant
+ (
+i.e.
+ it imposes meaningful limits on the claim such that it
+ is not nominally or tangentially related to the invention).
+ See 
+
+ Ultramercial, Inc. v. Hulu, LLC,

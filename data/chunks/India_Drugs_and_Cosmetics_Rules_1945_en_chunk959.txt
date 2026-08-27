@@ -1,0 +1,32 @@
+iven 
+below : 
+
+1. Particulars of new drug : 
+(1) Name of the drug. 
+(2) Dosage form. 
+(3) Composition of the formulation : 
+(4) Test specification. 
+(i) active ingredients. 
+(ii) inactive ingredients. 
+(5) Pharmacological classification of the drug. 
+(6) Indications for which proposed to be used. 
+(7) Manufacturer of the raw material (bulk drug substances). 
+(8) Patent status of the drug. 
+2. Data submitted along with the application (as per Schedule Y with indexing 
+and page numbers:) 
+A. Permission to market a new drug : 
+
+Drugs and Cosmetics Rules 1945 
+273 
+
+(1) Chemical and Pharmaceutical information. 
+(2) Animal Pharmacology. 
+(3) Animal Toxicology. 
+(4) Human / Clinical Pharmacology (Phase I). 
+(5) Exploratory Clinical Trials (Phase II). 
+(6) Confirmatory Clinical Trials (Phase III) (including published review 
+articles) 
+(7) Bio-availability, dissolution and stability study data. 
+(8) Regulatory status in other countries. 
+(9) Marketing information : 
+(a) Proposed product mono

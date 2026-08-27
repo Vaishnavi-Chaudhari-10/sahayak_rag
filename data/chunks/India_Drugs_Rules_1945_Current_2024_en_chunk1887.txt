@@ -1,0 +1,20 @@
+- 
+12.3.1. Before starting process validation activities, appropriate 
+qualiﬁcation of critical equipment and ancillary sy stems shall 
+be completed. Qualiﬁcation is usually carried out by conducting 
+the following activities, individually or combined:- 
+(i) Design Qualiﬁcation (DQ): documented veriﬁcation that the 
+proposed design of the facilities, equipment or systems is 
+suitable for the intended purpose; 
+(ii) Installation Qualiﬁcation (IQ): documented veriﬁcation that 
+the equipment or systems, as installed or modiﬁed, comply 
+with the approved design, the manufacturer’s 
+recommendations and user requirements; 
+(iii) Operational Qualiﬁcation (OQ) : documented veriﬁcation 
+that the equipment or systems, as installed or modiﬁed, 
+perform as intended throughout the anticipated operating 
+ranges; 
+(iv) Performance Qualiﬁcation (PQ): documented veriﬁcation 
+that the equipment and ancillary systems, as connected 
+together, can perform effectively and reproducibly based on 
+the approved

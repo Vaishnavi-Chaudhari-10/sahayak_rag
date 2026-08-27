@@ -1,0 +1,31 @@
+SRI Int’l,
+ 930 F.3d at 1304;
+
+ • a claim to a specific data
+ encryption method for computer communication involving a several-step
+ manipulation of data, 
+Synopsys.,
+ 839 F.3d at 1148,
+ 120 USPQ2d at 1481 (distinguishing the claims in 
+TQP
+ Development, LLC v. Intuit Inc.,
+ 2014 WL 651935 (E.D.
+ Tex. 2014)); and
+
+ • a claim to a method for rendering a
+ halftone image of a digital image by comparing, pixel by pixel, the
+ digital image against a blue noise mask, where the method required the
+ manipulation of computer data structures (
+e.g.,
+ the
+ pixels of a digital image and a two-dimensional array known as a mask)
+ and the output of a modified computer data structure (a halftoned
+ digital image), 
+Research Corp. Techs.,
+ 627 F.3d at
+ 868, 97 USPQ2d at 1280.
+
+In contrast, claims do recite a mental
+ process when they contain limitations that can practically be performed in
+ the human mind, including for example, observations, evaluations, judgments,
+ and opinions. Examples of claims tha

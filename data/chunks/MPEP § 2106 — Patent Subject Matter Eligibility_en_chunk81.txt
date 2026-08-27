@@ -1,0 +1,28 @@
+The Court’s rationale for identifying these
+ “mathematical concepts” as judicial exceptions is that a ‘‘mathematical formula
+ as such is not accorded the protection of our patent laws,’’
+
+Diehr,
+ 450 U.S. at 191, 209 USPQ at 15 (citing
+
+Benson,
+ 409 U.S. 63, 175 USPQ 673), and thus ‘‘the
+ discovery of [a mathematical formula] cannot support a patent unless there is
+ some other inventive concept in its application.’’ 
+Flook,
+
+ 437 U.S. at 594, 198 USPQ at 199. In the past, the Supreme Court sometimes
+ described mathematical concepts as laws of nature, and at other times described
+ these concepts as judicial exceptions without specifying a particular type of
+ exception. See, 
+e.g., Benson,
+ 409 U.S. at 65, 175 USPQ2d at
+ 674; 
+Flook,
+ 437 U.S. at 589, 198 USPQ2d at 197;
+
+Mackay Radio & Telegraph Co. v. Radio Corp. of Am.,
+
+ 306 U.S. 86, 94, 40 USPQ 199, 202 (1939) (‘‘[A] scientific truth, or the
+ mathematical expression of it, is not patentable invention[.]’’). More recent
+ opinions o

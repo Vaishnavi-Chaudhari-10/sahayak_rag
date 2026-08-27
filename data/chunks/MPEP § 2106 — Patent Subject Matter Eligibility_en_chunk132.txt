@@ -1,0 +1,23 @@
+). 
+
+In evaluating whether a claim that requires a
+ computer recites a mental process, examiners should carefully consider the
+ broadest reasonable interpretation of the claim in light of the
+ specification. For instance, examiners should review the specification to
+ determine if the claimed invention is described as a concept that is
+ performed in the human mind and applicant is merely claiming that concept
+ performed 1) on a generic computer, or 2) in a computer environment, or 3)
+ is merely using a computer as a tool to perform the concept. In these
+ situations, the claim is considered to recite a mental process. 
+
+1. 
+Performing a mental process on a
+ generic computer.
+ An example of a case identifying a mental
+ process performed on a generic computer as an abstract idea is
+
+Voter Verified, Inc. v. Election Systems & Software,
+ LLC,
+ 887 F.3d 1376, 1385, 126 USPQ2d 1498, 1504 (Fed.
+ Cir. 2018). In this case, the Federal Circuit relied upon the
+ specification in explaining that the

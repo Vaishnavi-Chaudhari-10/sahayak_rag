@@ -1,0 +1,22 @@
+92; 
+Content Extraction & Transmission LLC v.
+ Wells Fargo Bank, N.A.,
+ 776 F.3d 1343, 1349, 113 USPQ2d 1354, 1359
+ (Fed. Cir. 2014). In some cases, however, the courts have characterized the issue
+ of whether additional elements are well-understood, routine, conventional activity
+ as an underlying factual issue upon which the legal conclusion of eligibility may
+ be based. See, 
+e.g., Interval Licensing LLC v. AOL, Inc.,
+ 896
+ F.3d. 1335, 1342, 127 USPQ2d 1553, 1557 (Fed. Cir. 2018) (patent eligibility is a
+ question of law that may contain underlying issues of fact), 
+Berkheimer
+ v. HP, Inc.,
+ 881 F.3d 1360, 1368, 125 USPQ2d 1649, 1654 (Fed. Cir.
+ 2018) (issue of whether additional elements are well-understood, routine,
+ conventional activity is factual).
+
+When performing the analysis at Step 2A Prong One,
+ it is sufficient for the examiner to provide a reasoned rationale that identifies
+ the judicial exception recited in the claim and explains why it is considered a
+ judicial excepti

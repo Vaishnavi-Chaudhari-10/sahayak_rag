@@ -1,0 +1,30 @@
+judicial exception into a practical
+ application or provide significantly more than the judicial exception. Merely
+ adding a generic computer, generic computer components, or a programmed
+ computer to perform generic computer functions does not automatically overcome
+ an eligibility rejection. 
+Alice Corp. Pty. Ltd. v. CLS Bank
+ Int'l,
+ 573 U.S. 208, 224, 110 USPQ2d 1976, 1984 (2014). See also
+
+OIP Techs. v. Amazon.com,
+ 788 F.3d 1359, 1364, 115 USPQ2d
+ 1090, 1093-94 (Fed. Cir. 2015) (“Just as 
+Diehr
+ could not
+ save the claims in 
+Alice
+, which were directed to
+ ‘implement[ing] the abstract idea of intermediated settlement on a generic
+ computer’, it cannot save 
+OIP
+'s claims directed to
+ implementing the abstract idea of price optimization on a generic computer.”)
+ (citations omitted). 
+
+(4) If applicant argues that the claim is specific
+ and does not preempt all applications of the exception, the examiner should
+ reconsider Step 2A of the eligibility analysis, 
+e.g.,
+ to
+ determin

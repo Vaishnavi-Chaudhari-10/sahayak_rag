@@ -1,0 +1,19 @@
+these could 
+have had an impact on the quality of the intermediates or APIs 
+manufactured using this equipment since the last successful 
+calibration. 
+5.4. Computerised systems- 
+5.4.1. GMP-related computerised syst ems shall be validated. The 
+depth and scope of validation depends on the diversity, 
+complexity and criticality of the computerised application. 
+5.4.2. Appropriate installation qualiﬁcation and operational 
+qualiﬁcation shall demonstrate the suitability of computer 
+hardware and software to perform assigned tasks. 
+5.4.3. Commercially available software that has been qualiﬁed does 
+not require the same level of test ing. If an existing system was 
+not validated at the time of installation, a retrospective 
+validation could be conducted, if appropriate documentation is 
+available. 
+5.4.4. Computerised systems shall have sufﬁcient controls to prevent 
+unauthorised access or changes to data. There shall be controls 
+to prevent omissions in data (e.g., the system being turn

@@ -1,0 +1,23 @@
+), it is a best practice for
+ the examiner to point out the broadest reasonable interpretation and recommend an
+ amendment, if possible, that would narrow the claim to those embodiments that are
+ not directed to products of nature, or that are otherwise eligible. 
+
+For claims that recite a nature-based product
+ limitation (which may or may not be a product of nature exception) but which are
+ directed to inventions that clearly do not seek to tie up any judicial exception,
+ examiners should consider whether the streamlined eligibility analysis discussed
+ in 
+MPEP § 2106.06
+ is appropriate. In such cases, it would
+ not be necessary to conduct a markedly different characteristics analysis. 
+
+2106.04(c) The Markedly Different Characteristics
+ Analysis [R-07.2022]
+
+The markedly different characteristics analysis is
+ part of Step 2A Prong One, because the courts use this analysis to identify product
+ of nature exceptions. For example, 
+Chakrabarty
+ relied on a
+ comparison of the claimed bact

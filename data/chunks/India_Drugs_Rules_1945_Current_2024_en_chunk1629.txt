@@ -1,0 +1,17 @@
+e National or 
+World Health Organisation (WHO) Recommendations for the 
+preparation, characterisation and establishment of biological reference 
+standards shall be followed. 
+13.5. All stability studies including real time or real condition stability, 
+accelerated stability and stress testing shall be carried out. Trend 
+analysis of the test results from the stability monitoring programme 
+shall assure the early detection of any process or assay drift and this 
+information shall be part of the PQR of biological products. 
+13.6. For products where on -going stability monitoring would normally 
+require testing using anima ls and no appropriate alternative or 
+validated techniques are available, the frequency of testing may take 
+into account a risk -based approach. The principle of bracketing and 
+matrix designs may be applied if scientifically justified in the stability 
+protocol. 
+13.7. All analytical methods used in the quality control and in -process 
+control of biological products s

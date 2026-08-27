@@ -1,0 +1,20 @@
+n place by which the distribution of each 
+batch of intermediate or API or both can be readily determined 
+to permit its recall. 
+
+11. Laboratory controls:- 
+11.1. General controls- 
+11.1.1. The independent quality units shall have at its disposal 
+adequate laboratory facilities. 
+11.1.2. There shall be documented procedures describing sampling, 
+testing, approval or rejection of materials and recording and 
+storage of laboratory data. Laboratory records shall be 
+maintained in accordance with paragraph 6.6. 
+11.1.3. All speciﬁcations, sampling plans and test procedures shall be 
+scientiﬁcally sound and appropriate to ensure that raw 
+materials, intermediates, APIs, labels and packaging materials 
+conform to establishe d standards of quality and purity. 
+Speciﬁcations and test procedures shall be consistent with those 
+included in the registration or ﬁling. There can be speciﬁcations 
+in addition to those in the registration or ﬁling. Speciﬁcations, 
+sampling plans and test procedures,

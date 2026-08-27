@@ -1,0 +1,30 @@
+research to section 3(2) persons for commercial purposes or otherwise 
+(1) Particulars of the applicant 
+(i) Category of the applicant (Drop-down menu) 
+a. Individual 
+b. Individual and Entity 
+c. Entity 
+(ii) Name of the applicant 
+(iii) Status of the applicant (Drop down menu) 
+a. Indian 
+b. NRI 
+c. Non-Indian 
+d. Entity covered under section 3(2) of the Act 
+e. Entity covered under section 7 of the Act 
+(iv) Address of the applicant 
+(Postal address including PIN code, email, mobile and 
+alternate mobile numbers and/or landline number) 
+
+(v) Profile of the individual/entity 
+(vi) Nature of the business (applicable if the applicant is an 
+entity) 
+
+(vii) Details of the authorised representative for the applicant 
+(applicable if the applicant is an entity) 
+(Name with postal address including PIN code, email, 
+mobile and alternate mobile numbers and/or landline 
+number) 
+
+(viii) Contact person of the applicant in India (If any) 
+(Name with postal address including PIN code, email, 
+m

@@ -1,0 +1,24 @@
+ing a logic circuit
+ into a hardware component description of a logic circuit was found to be
+ ineligible because the method did not employ a computer and a skilled artisan
+ could perform all the steps mentally). Similarly, a claimed process covering
+ embodiments that can be performed on a computer, as well as embodiments that can
+ be practiced verbally or with a telephone, cannot improve computer technology. See
+
+RecogniCorp, LLC v. Nintendo Co.,
+ 855 F.3d 1322, 1328, 122
+ USPQ2d 1377, 1381 (Fed. Cir. 2017) (process for encoding/decoding facial data
+ using image codes assigned to particular facial features held ineligible because
+ the process did not require a computer). 
+
+Examples that the courts have indicated may not be
+ sufficient to show an improvement in computer-functionality:
+
+i. Generating restaurant menus with
+ functionally claimed features, 
+Ameranth,
+ 842 F.3d at
+ 1245, 120 USPQ2d at 1857;
+
+ii. Accelerating a process of analyzing audit
+ log data when the increased speed co

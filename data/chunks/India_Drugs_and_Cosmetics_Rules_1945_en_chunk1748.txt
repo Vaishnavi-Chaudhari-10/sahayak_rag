@@ -1,0 +1,19 @@
+gns; 
+(d) other requirements essential for design and development; and 
+(e) output(s) of risk management. 
+
+These inputs shall be reviewed for adequacy and approved by designated individual. 
+Requirements shall be complete, unambiguous and not in conflict with each other. 
+
+7.3.3 Design and development outputs: 
+The outputs of design and development shall be provided in a form that enables verification against 
+the design and development input and shall be documented, reviewed, and approved prior to release. 
+
+Design and development outputs shall:- 
+(a) meet the input requirements for design and development; 
+(b) provide appropriate information for purchasing, production and for service provision; 
+(c) contain or reference product acceptance criteria; and 
+(d) specify the characteristics of the product that are essential for its safe and proper use. 
+
+Records of the design and development outputs shall be maintained. 
+Records of design and development outputs can include specifications

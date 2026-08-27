@@ -1,0 +1,22 @@
+tionality, or otherwise have self-evident eligibility,
+ should the streamlined analysis be used. For example, because the claims in
+
+BASCOM
+ described the concept of filtering content, which is a
+ method of organizing human behavior previously found to be abstract, the Federal
+ Circuit considered them to present a “close call” in the first step of the
+
+Alice/Mayo
+ test (Step 2A), and thus proceeded to the second
+ step of the 
+Alice/Mayo
+ test (Step 2B) to determine their
+ eligibility. 
+Id.
+ Although the Federal Circuit held these claims
+ eligible at Step 2B (Pathway C) because they presented a “technology-based solution”
+ of filtering content on the Internet that overcame the disadvantages of prior art
+ filtering systems and that amounted to significantly more than the recited abstract
+ idea, it also would be reasonable for an examiner to have found these claims eligible
+ at Pathway A or B if the examiner had considered the technology-based solution to be
+ an improvement to computer fu

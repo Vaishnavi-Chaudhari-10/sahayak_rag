@@ -1,0 +1,16 @@
+eing rendered sterile. The sterilisation and aseptic processing of 
+sterile APIs are not covered by this Part, but shall be performed in 
+accordance with GMP guidelines for sterile products. 
+1.2.2. This Part covers APIs that are manufactured by chemical 
+synthesis, extraction, cell culture or fermentation by recovery 
+from natural sources or by any combination of these processes. 
+1.2.3. Speciﬁc guidance for APIs manufactured by cell culture or 
+fermentation is described in paragraph 17 of this Part. 
+1.2.4. This Part excludes all vaccines, whole cells, whole blood and 
+plasma, blood and plasma derivatives (plasma fractionation), and 
+gene therapy APIs. However, it includes APIs that are produced 
+using blood or plasma as raw materials. Note that cell substrates 
+(mammalian, plant, insect or microbial cells, tissue or animal 
+sources including transgenic animals) and early process steps may 
+be subject to GMP but are not covered by this Part. In addition, 
+this Part does not apply to

@@ -1,0 +1,21 @@
+. EVE-USA,
+ Inc.,
+ 851 F.3d 1275, 112 USPQ2d 1120 (Fed. Cir. 2017), claim interpretation
+ was crucial to the court’s determination that claims to a “machine-readable medium” were
+ not to a statutory category. In 
+Mentor Graphics,
+ the court
+ interpreted the claims in light of the specification, which expressly defined the medium
+ as encompassing “any data storage device” including random-access memory and carrier
+ waves. Although random-access memory and magnetic tape are statutory media, carrier
+ waves are not because they are signals similar to the transitory, propagating signals
+ held to be non-statutory in 
+Nuijten
+. 851 F.3d at 1294, 112 USPQ2d at
+ 1133 (citing 
+In re Nuijten,
+ 500 F.3d 1346, 84 USPQ2d 1495 (Fed. Cir.
+ 2007)). Accordingly, because the BRI of the claims covered both subject matter that
+ falls within a statutory category (the random-access memory), as well as subject matter
+ that does not (the carrier waves), the claims as a whole were not to a statutory
+ category a

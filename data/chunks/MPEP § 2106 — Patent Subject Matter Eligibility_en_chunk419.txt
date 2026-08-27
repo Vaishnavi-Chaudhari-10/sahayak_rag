@@ -1,0 +1,34 @@
+f the other patentability requirements: 
+35 U.S.C.
+ 102
+, 
+103
+, 
+112
+, and
+
+101
+ (utility, inventorship and double patenting) and
+ non-statutory double patenting. Thus, examiners should state all non-cumulative
+ reasons and bases for rejecting claims in the first Office action. 
+
+I.
+ WHEN MAKING A REJECTION, IDENTIFY
+ AND EXPLAIN THE JUDICIAL EXCEPTION RECITED IN THE CLAIM (STEP 2A PRONG
+ ONE)
+A subject matter eligibility rejection should
+ point to the specific claim limitation(s) that recites (
+i.e.,
+
+ sets forth or describes) the judicial exception. The rejection must explain why
+ those claim limitations set forth or describe a judicial exception
+ (
+e.g.,
+ a law of nature). Where the claim describes, but does
+ not expressly set forth, the judicial exception, the rejection must also explain
+ what subject matter those limitations describe, and why the described subject
+ matter is a judicial exception. See 
+MPEP §
+ 2106.04
+ for more information about Step 2A of the
+ eligibility analysi

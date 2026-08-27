@@ -1,0 +1,18 @@
+s, or batches or their equivalence. Design validation shall include software validation and risk 
+analysis, where appropriate validation shall be completed prior to the delivery or implementation of 
+the product. 
+
+Records of the results of validation and any necessary actions shall be maintained. 
+
+As part of design and development validation, the manufacturer shall perform clinical evaluations 
+and/or evaluation of performance of the medical device or In-vitro Diagnostics. 
+
+NOTE 1.- If a medical device or In-vitro Diagnostic can only be validated following assembly and 
+installation at point of use, delivery is not considered to be complete until the product has been 
+formally transferred to the customer. 
+
+NOTE 2.- Provision of the medical device for purposes of clinic al evaluations and/or evaluation of 
+performance is not considered to be delivery. 
+
+7.3.7 Control of design and development changes: 
+Design and development changes shall be identified and records maintained. The ch

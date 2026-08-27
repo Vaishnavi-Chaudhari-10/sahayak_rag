@@ -1,0 +1,28 @@
+ejection why they do not meaningfully
+ limit the claim. For example, an examiner could explain that employing generic
+ computer functions to execute an abstract idea, even when limiting the use of the
+ idea to one particular environment, does not add significantly more, similar to how
+ limiting the abstract idea in 
+Flook
+ to petrochemical and
+ oil-refining industries was insufficient. For more information on formulating a
+ subject matter eligibility rejection, see 
+MPEP §
+ 2106.07(a)
+. 
+
+2106.06 Streamlined Analysis [R-10.2019]
+
+For purposes of efficiency in examination, examiners may
+ use a streamlined eligibility analysis (Pathway A) when the eligibility of the claim is
+ self-evident, 
+e.g.,
+ because the claim clearly improves a technology
+ or computer functionality. However, if there is doubt as to whether the applicant is
+ effectively seeking coverage for a judicial exception itself, the full eligibility
+ analysis (the 
+Alice/Mayo
+ test described in 
+MPEP § 2106
+,
+ subsection III)

@@ -1,0 +1,18 @@
+ins 
+of a single bacteria species or very similar viruses are involved, the 
+decontamination process may be validated with on e representative 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+strain, unless the strains vary significantly in their resistance to the 
+decontaminating agents used. 
+7.9. Areas where Biosafety Risk Group 3 or 4 organisms are handled shall 
+always have a negative air pressure relative to the environment. This 
+will ensure the containment of the organism in unlikely events such as 
+failure of the door interlock. Air -lock doors shall be interlocked to 
+prevent them from being opened simultaneously. Differential pressure 
+alarms shall be present wherever required and shall be validated and 
+monitored. 
+7.10. Air vent filters shall be hydrophobic and subject to integrity testing at 
+intervals determined by a QRM approach. 
+7.11. Where the filtration of exhaust air is necessary, the safe changing of 
+fi

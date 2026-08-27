@@ -1,0 +1,18 @@
+for a batch recall 
+shall be considered. 
+
+10. Campaign production:- 
+10.1. The decision to use a facility or filling line for campaign manufacture 
+shall be justified in a documented manner and shall be based on a 
+systematic risk approach for each product ( or strain) taking into 
+account the containment requirements and the risk of cross -
+contamination to the next product. Campaign changeover procedures, 
+including sensitive techniques used for the determination of residues, 
+shall be validated and proper cle aning acceptance criteria shall be 
+defined on a toxicology basis of product residues from the last 
+campaign, as applicable. Equipment assigned to continued production 
+or to campaign production of successive batches of the same 
+intermediate product shall be cleaned at appropriate validated 
+intervals to prevent build -up and carryover of contaminants (product 
+degradants or objectionable levels of microorganisms). 
+10.2. For downstream operations of certain products (for ex

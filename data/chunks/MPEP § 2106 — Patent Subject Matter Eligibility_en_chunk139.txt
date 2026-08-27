@@ -1,0 +1,21 @@
+der,
+ the patentee claimed a
+ computer-implemented system and a method for enabling borrowers to
+ anonymously shop for loan packages offered by a plurality of lenders,
+ comprising a database that stores loan package data from the lenders, and a
+ computer system providing an interface and a grading module. The Federal
+ Circuit determined that both the computer-implemented system and method
+ claims were directed to “anonymous loan shopping”, which was an abstract
+ idea because it could be “performed by humans without a computer.” 811 F.3d.
+ at 1318, 1324-25, 117 USPQ2d at 1695, 1699-1700. See also
+
+FairWarning IP,
+ 839 F.3d at 1092, 120 USPQ2d at 1294
+ (identifying both system and process claims for detecting improper access of
+ a patient's protected health information in a health-care system computer
+ environment as directed to abstract idea of detecting fraud);
+
+Content Extraction & Transmission LLC v. Wells Fargo Bank,
+ N.A.,
+ 776 F.3d 1343, 1345, 113 USPQ2d 1354, 1356 (Fed. Cir.
+ 201

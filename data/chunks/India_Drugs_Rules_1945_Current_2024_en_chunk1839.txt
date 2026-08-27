@@ -1,0 +1,17 @@
+atch production records (batch production and control records)- 
+6.5.1. Batch production records shall be prepared for each intermediate 
+and API and shall include complete information relating to the 
+production and control of each batch. The batch production 
+record shall be checked before issuance to assure that it is the 
+correct version and is a legible accurate reproduction of the 
+appropriate master production instruction. If the batch production 
+record is produced from a separate part of the master document, 
+that document shall include a reference to the current master 
+production instruction being used. 
+6.5.2. These records shall be numbered with a unique batch or 
+identiﬁcation number, dated and signed when issued. In 
+continuous production, the product code, together with the date 
+and time can serve as the unique identiﬁer until the ﬁnal number 
+is allocated. 
+6.5.3. Documentation of completion of each signiﬁcant step in the 
+batch production records (batch production an

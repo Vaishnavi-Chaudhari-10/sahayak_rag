@@ -1,0 +1,26 @@
+lyzed according to one of several rules
+ (
+i.e.,
+ related to accesses in excess of a
+ specific volume, accesses during a pre-determined time interval, or
+ accesses by a specific user) to determine if the activity indicates
+ improper access. 839 F.3d. at 1092, 120 USPQ2d at 1294. The court
+ determined that these claims were directed to a mental process of
+ detecting misuse, and that the claimed rules here were “the same
+ questions (though perhaps phrased with different words) that humans in
+ analogous situations detecting fraud have asked for decades, if not
+ centuries.” 839 F.3d. at 1094-95, 120 USPQ2d at 1296.
+
+3. 
+Using a computer as a tool to
+ perform a mental process.
+ An example of a case in which a
+ computer was used as a tool to perform a mental process is
+
+Mortgage Grader,
+ 811 F.3d. at 1324, 117 USPQ2d
+ at 1699. The patentee in 
+Mortgage Grader
+ claimed a
+ computer-implemented system for enabling borrowers to anonymously shop
+ for loan packages offered by a plurality of lender

@@ -1,0 +1,24 @@
+“meaningful limitations” has been used by the courts even before Alice and
+ Mayo in various contexts to describe additional elements that provide an inventive
+ concept to the claim as a whole. The considerations described in
+
+MPEP §
+ 2106.05(a)-(d)
+ are meaningful limitations when they amount
+ to significantly more than the judicial exception, or when they integrate a judicial
+ exception into a practical application. This broad label signals that there can be
+ other considerations besides those described in 
+MPEP §
+ 2106.05(a)-(d)
+ that when added to a judicial exception
+ amount to meaningful limitations that can transform a claim into patent-eligible
+ subject matter. 
+
+Diamond v. Diehr
+ provides an
+ example of a claim that recited meaningful limitations beyond generally linking the
+ use of the judicial exception to a particular technological environment. 450 U.S.
+ 175, 209 USPQ 1 (1981). In 
+Diehr,
+ the claim was directed to the
+ use of the Arrhenius equation (an abstract idea or law

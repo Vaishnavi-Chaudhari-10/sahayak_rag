@@ -1,0 +1,50 @@
+ds as
+ follows
+
+Notwithstanding any other provision of law, no patent may
+ issue on a claim directed to or encompassing a human organism.
+
+Claim 
+[1]
+ rejected under 
+35 U.S.C. 101
+ and
+ section 33(a) of the America Invents Act as being directed to or encompassing a human
+ organism. See also Animals - Patentability, 1077 Off. Gaz. Pat. Office 24 (April 21, 1987)
+ (indicating that human organisms are excluded from the scope of patentable subject matter
+ under 
+35 U.S.C.
+ 101
+). 
+[2]
+
+Examiner Note:
+
+1. This paragraph must be preceded by form paragraph
+
+7.04.01
+
+ which quotes 
+35
+ U.S.C. 101
+.
+
+2. In bracket 1, pluralize “Claim” if necessary, insert
+ claim number(s), and insert “is” or “are” as appropriate.
+
+3. In bracket 2, explain why the claim is interpreted
+ to read on a human organism.
+
+[top]
+
+2101-2102-[Reserved]
+
+2103-Patent Examination Process
+
+2104-Requirements of 35 U.S.C. 101
+
+2104.01-Barred by Atomic Energy Act
+
+2105-Patent Eligible Subject Matter — Living Subject Matter
+
+210

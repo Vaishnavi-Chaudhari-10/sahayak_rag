@@ -1,0 +1,24 @@
+he request by the applicant/agent in Form 30 
+and if the Controller is satisfied that during the online filing 
+process, the fee was paid more than once for th e same 
+proceeding, the excess fee shall be refunded. 
+12. Prescribed fee for various proceedings under the Act is given in 
+the First Schedule. 
+03.05 Processing of Application 
+03.05.01 Initial processing: 
+1. On receipt of an application, the Office accords a date and serial 
+number to it. Requests for examination are accorded separate serial 
+numbers. 
+2. Applications and other documents filed in physical form are digitized, 
+verified, screened, classified and uploaded to the internal server of the 
+Office. 
+3. Patent applications and other documents are arranged in e-wrapper. 
+
+25 
+
+4. The Application is screened for: 
+a. International Patent Classification 
+b. Technical field of invention for allocation to an examiner in 
+the respective field 
+c. Relevance to defence or atomic energy. 
+d. Correctness and completeness of ab

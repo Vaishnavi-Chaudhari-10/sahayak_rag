@@ -1,0 +1,17 @@
+fixed to withstand duct 
+pressure. 
+1.64. Air containing dust from highly toxic processes or solvents or flam mable 
+vapours shall never be re-circulated to the HVAC system. 
+1.65. Adequate airlocks, such as personnel airlocks (PAL), material airlocks 
+(MAL), change rooms and passages shall be provided to protect passage 
+between different cleanliness conditions. These shal l have supply and 
+extract air systems as appropriate. 
+1.66. Areas such as airlocks, change rooms and passages, shall be designed so 
+that the required pressure cascades can be achieved. 
+1.67. Detailed diagrams depicting pressure cascades, air flow directions and 
+flow r outes for personnel and materials shall be prepared and 
+maintained. 
+1.68. Where possible, personnel and materials shall not move from a higher 
+cleanliness zone to a lower cleanliness zone and back to a higher 
+cleanliness zone; (if moving from a lower cleanliness zone to a higher 
+cleanliness zone, changing or decontamination procedures shall

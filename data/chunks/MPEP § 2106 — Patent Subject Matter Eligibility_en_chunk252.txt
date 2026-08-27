@@ -1,0 +1,29 @@
+is not in itself an inventive concept and
+ does not guarantee eligibility: 
+
+The fact that a computer “necessarily exist[s]
+ in the physical, rather than purely conceptual, realm,” is beside the point.
+ There is no dispute that a computer is a tangible system (in 
+§ 101
+
+ terms, a “machine”), or that many computer-implemented claims are formally
+ addressed to patent-eligible subject matter. But if that were the end of the
+
+§
+ 101
+ inquiry, an applicant could claim any principle of
+ the physical or social sciences by reciting a computer system configured to
+ implement the relevant concept. Such a result would make the determination of
+ patent eligibility “depend simply on the draftsman’s art,” 
+Flook,
+ supra,
+ at 593, 98 S. Ct. 2522, 57 L. Ed. 2d 451, thereby
+ eviscerating the rule that “‘[l]aws of nature, natural phenomena, and abstract
+ ideas are not patentable,’” 
+Myriad,
+ 133 S. Ct. 1289, 186 L.
+ Ed. 2d 124, 133). 
+
+Alice Corp.,
+ 573 U.S. at 224,
+ 110 USPQ2d at 1983-84 (alterations

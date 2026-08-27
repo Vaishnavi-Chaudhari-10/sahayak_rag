@@ -1,0 +1,18 @@
+rocess or product that are merely a nominal or tangential addition to the claim.
+ Extra-solution activity includes both pre-solution and post-solution activity. An
+ example of pre-solution activity is a step of gathering data for use in a claimed
+ process, 
+e.g.,
+ a step of obtaining information about credit card
+ transactions, which is recited as part of a claimed process of analyzing and
+ manipulating the gathered information by a series of steps in order to detect whether
+ the transactions were fraudulent. An example of post-solution activity is an element
+ that is not integrated into the claim as a whole, 
+e.g.,
+ a printer
+ that is used to output a report of fraudulent transactions, which is recited in a
+ claim to a computer programmed to analyze and manipulate information about credit
+ card transactions in order to detect whether the transactions were fraudulent. 
+
+As explained by the Supreme Court, the addition of
+ insignificant extra-solution activity does not amount to an inven

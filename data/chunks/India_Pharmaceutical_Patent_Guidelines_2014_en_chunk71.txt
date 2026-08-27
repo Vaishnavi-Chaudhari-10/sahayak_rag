@@ -1,0 +1,14 @@
+rious phases of the application such as publication stage, 
+examination especially the searching stage. In particular, it is not always clear whether 
+claimed sequences relate to a single invention, or to a group of inventions linked so as to 
+form a single inventive concept. 
+Lack of unity may be evident in an application in the following ways: 
+`A priori’ , i.e., before consideration of prior art, if the claims falling in different 
+groups do not share a same or corresponding technical feature. 
+`A posteriori’, i.e., after a search of the prior art , if the shared technical feature fails 
+to make a contribution over the prior art. 
+Examples of a priori determination of prior art is given as herein below: 
+ILLUSTRATIVE EXAMPLE OF A PRIORI DETERMINATION OF UNITY OF INVENTION: 
+1) A DNA construct for improved expression of a heterologous or h omologous 
+polypeptide comprising: (a) isolated DNA sequence (SEQ ID NO: A) or a portion 
+thereof which retains promoter activity adapted for reco

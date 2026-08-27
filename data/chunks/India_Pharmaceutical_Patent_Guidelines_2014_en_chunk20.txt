@@ -1,0 +1,14 @@
+ifications in 
+the processes result in other products which are distinct with regard to their properties 
+over the products known in the prior art. Such technical evidences may vary from case to 
+case. 
+7.2. SEQUENCE CLAIMS 
+A claim to a polynucleotide sequence that was available, e.g. as part of a library 
+before the priority date, lacks novelty, even if activity or function of the said sequence of 
+the polynucleotide has not bee n previously determined. A claim to a specific fragment of 
+polynucleotide may be considered to be novel, but subject to fulfilment of the inventive 
+step and non-patentability under relevant clauses of Section 3 of the Act. 
+A prior disclosure of the same se quence as the claimed sequence, even without any 
+indication of its activity , would prima facie constitute anticipation to the novelty of the 
+claimed sequence. The reasoning is that the earlier sequence inherently possesses the 
+activity of the claimed seque nce. If any sequence of a polynucleotide/pol

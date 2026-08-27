@@ -1,0 +1,16 @@
+Manufacture:- 
+8.1. Metering valves for aerosols are a more complex engineering article than 
+most pharmaceutical components. Specifications, sampling and testing 
+shall be appropriate for this situation. Auditing the Quality Assurance 
+system of the valve manufacturer is of particular importance. 
+8.2. All propellants (e.g., liquid or gaseous propellants) shall be filtered to 
+remove particles greater than 0.2µ. An additional filtration where 
+possible immediately before filling is desirable. 
+8.3. There shall be an approved Master Formula Reco rds for the manufacture 
+of metered dose inhalers. 
+8.4. The primary packing material shall be appropriately cleaned by 
+compressed air suitably filtered through 0.2µ filter. The humidity of the 
+compressed air shall be controlled as applicable. 
+8.5. The valves shall be carefully handled and after de -cartooning, these shall 
+be kept in clean, closed containers in the filling room. 
+8.6. Containers and valves shall be cleaned using a validated

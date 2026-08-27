@@ -1,0 +1,17 @@
+y going beyond generally linking the use of the
+ judicial exception to a particular technological environment, and thus transforms
+ a claim into patent-eligible subject matter. Such claims are eligible at Step 2A
+ because they are not “directed to” the recited judicial exception. 
+
+The courts have not provided an explicit test for
+ this consideration, but have instead illustrated how it is evaluated in numerous
+ decisions. These decisions, and a detailed explanation of how examiners should
+ evaluate this consideration are provided in 
+MPEP §
+ 2106.05(a)
+. In short, first the specification should be
+ evaluated to determine if the disclosure provides sufficient details such that one
+ of ordinary skill in the art would recognize the claimed invention as providing an
+ improvement. The specification need not explicitly set forth the improvement, but
+ it must describe the invention such that the improvement would be apparent to one
+ of ordinary skill in the art. Conversely, if the specificat

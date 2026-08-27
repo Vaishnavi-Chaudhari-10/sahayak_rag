@@ -1,0 +1,26 @@
+ed to “‘nothing significantly more’ than an instruction to apply
+ the abstract idea of intermediated settlement using some unspecified, generic
+ computer”, and therefore held the claims ineligible because they were directed to
+ a judicial exception and failed the second part of the
+
+Alice/Mayo
+ test. 
+Alice Corp.,
+ 573 U.S. at
+ 225-27, 110 USPQ2d at 1984. 
+
+BASCOM
+ provides another example
+ of how courts conduct the significantly more analysis, and of the critical
+ importance of considering the additional elements in combination. In this case,
+ the Federal Circuit vacated a judgment of ineligibility because the district court
+ failed to properly perform the second step of the 
+Alice/Mayo
+
+ test when analyzing a claimed system for filtering content retrieved from an
+ Internet computer network. 
+BASCOM Global Internet v. AT&T Mobility
+ LLC,
+ 827 F.3d 1341, 119 USPQ2d 1236 (Fed. Cir. 2016). The Federal
+ Circuit agreed with the district court that the claims were directed to the
+ abstract

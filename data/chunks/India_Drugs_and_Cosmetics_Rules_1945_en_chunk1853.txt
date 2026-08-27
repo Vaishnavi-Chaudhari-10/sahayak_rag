@@ -1,0 +1,41 @@
+amples of condoms for a 
+batch size less than 5 lakhs and fifty samples of condoms for batch size more than 5 lakhs shall 
+be tested for integrity test of individual package seals and c ompliance limit or acceptance 
+number shall be not more than two or three condoms respectively. 
+
+II- Other Mechanical Contraceptive 
+
+15. Standards for other mechanical contraceptive - Standards for ‗Copper T‘ and ‗Tubal 
+Ring‘shall be as laid down in Annexure VI. 
+
+1
+[ANNEXURE I 
+
+[See Paragraph 4-A] 
+
+SAMPLING PLAN FOR QUALITY CONTROL OF CONDOMS AT MANUFACTURER’S 
+LEVEL. 
+
+BATCH SIZE: 35,001 TO 1.5 LAKH 
+ Single Sampling Plan 
+ Sample Size 200: AQL - 0.25 
+ AC - 1 
+ R - 2 
+
+1. Subs. by. G.S.R. 353(E) , for ― Annexures I to III‖ dt. 26-4-2000. 
+
+Drugs and Cosmetics Rules 1945 
+549 
+
+Single Sampling Plan 
+BATCH SIZE: 150001 TO 5 LAKHS 
+Sample Size 315 : AQL - 0.25 
+ AC - 2 
+ R - 3 
+
+BATCH SIZE: OVER 5 LAKHS 
+Single Sampling Plan. 
+Sample Size 500: AQL - 0.25 
+ AC - 3 
+ R - 4 
+Note : AQL denotes Accepta

@@ -1,0 +1,31 @@
+k of Subject
+ Matter Eligibility [R-07.2022]
+
+After determining what has been invented and
+ establishing the broadest reasonable interpretation of the claimed invention (see
+
+MPEP §
+ 2111
+), the eligibility of each claim should be evaluated as
+ a whole using the analysis detailed in 
+MPEP § 2106
+. If it is determined
+ that the claim does not recite eligible subject matter, a rejection under
+
+35 U.S.C.
+ 101
+ is appropriate. When making the rejection, the Office
+ action must provide an explanation as to why each claim is unpatentable, which must
+ be sufficiently clear and specific to provide applicant sufficient notice of the
+ reasons for ineligibility and enable the applicant to effectively respond. 
+
+Subject matter eligibility rejections under Step 1
+ are discussed in 
+MPEP § 2106.03
+.
+
+ A subject matter eligibility rejection under Step 2
+ should provide an explanation for each part of the Step 2 analysis: 
+
+ • For Step 2A Prong One, the rejection should
+ identify the judicial exceptio

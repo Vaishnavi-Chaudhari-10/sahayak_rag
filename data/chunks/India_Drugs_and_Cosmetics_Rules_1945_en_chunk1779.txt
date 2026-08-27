@@ -1,0 +1,34 @@
+3.0 Labelling 
+
+4.0 Design And Manufacturing Information: 
+4.1 Device Design 
+4.2 Manufacturing Processes 
+
+5.0 Essential Principles (EP) Checklist 
+
+6.0 Risk Analysis And Control Summary 
+
+7.0 Product Verification And Validation: 
+7.1 Biocompatibility 
+7.2 Medicinal Substances 
+7.3 Biological Safety 
+7.4 Sterilisation 
+7.5 Software Verification and Validation 
+7.6 Animal Studies 
+7.7 Shelf Life/Stability Data 
+7.8 Clinical Evidence 
+7.9 Post Marketing Surveillance Data (Vigilance Reporting) 
+
+8. Additional information in case of the diagnostic kits: 
+Product dossier showing the: 
+
+Drugs and Cosmetics Rules 1945 
+520 
+
+8.1 The details of source antigen or antibody as the case may be and characterization of the 
+same. 
+Process control of coating of antigen or antibody on the base material like Nitrocellulose 
+paper, strips or cards or enzyme-linked immunosorbent assay (ELISA) wells etc. 
+
+Detailed composition of the kit and manufacturing flow chart process of the kit showing the 
+specif

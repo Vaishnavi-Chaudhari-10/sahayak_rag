@@ -1,0 +1,21 @@
+date 
+and time can serve as the unique identiﬁer until the ﬁnal number 
+is allocated. 
+6.5.3. Documentation of completion of each signiﬁcant step in the 
+batch production records (batch production and control records) 
+shall include- 
+(i) dates and, when appropriate, times; 
+(ii) identity of major equipment (e.g., reactors, driers and mills) 
+used; 
+(iii) speciﬁc identiﬁc ation of each batch, including weights, 
+measures and batch numbers of raw materials, intermediates 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+or any reprocessed materials used during manufacturing; 
+(iv) actual results recorded for critical process parameters; 
+(v) any sampling performed; 
+(vi) signatures of the pe rsons performing and directly supervising 
+or checking each critical step in the operation; 
+(vii) in-process and laboratory test results; 
+(viii) actual yield at appropriate phases or times; 
+(ix) description of packaging and label for in

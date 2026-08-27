@@ -1,0 +1,21 @@
+ting- 
+11.5.1. When an intermediate is intended to be transferred outside the 
+control of the manufacturer’s material management system and 
+an expiry or retest date is assigned, supporting stability 
+information shall be available (e.g., published data and test 
+results). 
+11.5.2. An API expiry or retest date shall be based on an evaluation of 
+data derived from stability studies. Common practice is to use 
+a retest date, not an expiration date. 
+11.5.3. Preliminary API expiry or retest dates can be based on pilot -
+scale batches if- 
+(i) the pilot batches employ a method of manufacture and a 
+procedure that simulates the ﬁnal process to be used on a 
+commercial manufacturing scale; and 
+(ii) the quality of the API represents the material to be made on 
+a commercial scale. 
+11.5.4. A representative sample sh all be taken for the purpose of 
+performing a retest. 
+11.6. Reserve or retention samples- 
+11.6.1. The packaging and holding of reserve samples is for the 
+purpose of potential f

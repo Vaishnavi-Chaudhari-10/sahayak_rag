@@ -1,0 +1,33 @@
+ng or data output).
+ See
+
+Mayo,
+ 566 U.S. at 79, 101 USPQ2d at 1968; 
+OIP Techs.,
+ Inc. v. Amazon.com, Inc.,
+ 788 F.3d 1359, 1363, 115 USPQ2d 1090, 1092-93
+ (Fed. Cir. 2015) (presenting offers and gathering statistics amounted to mere data
+ gathering). This is considered in Step 2A Prong Two and Step 2B.
+
+Below are examples of activities that the courts have
+ found to be insignificant extra-solution activity: 
+
+• Mere Data Gathering: 
+
+i. Performing clinical tests on individuals to
+ obtain input for an equation, 
+In re Grams,
+ 888 F.2d
+ 835, 839-40; 12 USPQ2d 1824, 1827-28 (Fed. Cir. 1989); 
+
+ii. Testing a system for a response, the
+ response being used to determine system malfunction, 
+In re
+ Meyers,
+ 688 F.2d 789, 794; 215 USPQ 193, 196-97 (CCPA 1982);
+
+iii. Presenting offers to potential customers
+ and gathering statistics generated based on the testing about how
+ potential customers responded to the offers; the statistics are then used
+ to calculate an optimized price, 
+OIP Technol

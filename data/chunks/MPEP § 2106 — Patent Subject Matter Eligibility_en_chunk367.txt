@@ -1,0 +1,25 @@
+Inc.,
+ 837 F.3d 1299, 1314-15, 120 USPQ2d 1091, 1101-02 (Fed. Cir. 2016);
+
+Enfish, LLC v. Microsoft Corp.,
+ 822 F.3d 1327, 1335-36, 118
+ USPQ2d 1684, 1688-89 (Fed. Cir. 2016). See 
+MPEP §§
+ 2106.04(d)(1)
+ and 
+2106.05(a)
+ for a discussion of improvements to the
+ functioning of a computer or to another technology or technical field.
+
+ TLI Communications
+ provides an
+ example of a claim invoking computers and other machinery merely as a tool to perform
+ an existing process. The court stated that the claims describe steps of recording,
+ administration and archiving of digital images, and found them to be directed to the
+ abstract idea of classifying and storing digital images in an organized manner. 823
+ F.3d at 612, 118 USPQ2d at 1747. The court then turned to the additional elements of
+ performing these functions using a telephone unit and a server and noted that these
+ elements were being used in their ordinary capacity (
+i.e.,
+ the
+ telephone unit is used to make calls and operate as

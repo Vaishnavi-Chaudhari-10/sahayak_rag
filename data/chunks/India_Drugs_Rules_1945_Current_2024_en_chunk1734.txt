@@ -1,0 +1,19 @@
+of label 
+shall be kept in the batch packaging record. 
+9.9. Processing and packaging batch records - Processing and packaging 
+batch records shall be kept in sufficient detail for the sequ ence of 
+operations to be accurately traced. They shall contain any relevant 
+remarks which increase existing knowledge of the product, allow 
+improvements in the manufacturing operations and justify the 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+procedures used. 
+9.10. Coding (or randomisation) systems- 
+9.10.1. Procedures shall be established for the generation, distribution, 
+handling and retention of any randomisation code used in 
+packaging' investigational products. 
+9.10.2. A coding system shall be introduced to permit the proper 
+identification of "blinded" products. The code, together with the 
+randomisation list, must permit proper identification of the 
+product, including any necessary traceability to the codes and 
+batch

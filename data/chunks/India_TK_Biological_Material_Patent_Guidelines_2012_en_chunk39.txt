@@ -1,0 +1,19 @@
+sent, or inherent, in the single anticipating prior art. It is not 
+necessary that inherent anticipation requires that a person of ordinary skill in the art at 
+the time would have recognized the inherent disclosure. But it is necessary that t he 
+result is a necessary consequence of what was deliberately intended in the invention”3. 
+
+3[paragraph 58 of the decision of the IPAB in Enercon (India) Limited vs Aloys Wobben ORA/6/2009/PT/CH 
+,ORDER (No. 18 of 2013)]. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+7.6 Illustrative examples for determination of novelty 
+
+Example 1: 
+
+The claimed invention relates to a class of heterocyclic compounds of Formula I 
+which are used as mGluR1 enhancers. Prior art disclosed compounds with following 
+general formula II having similar biological properties. 
+ Following substituents are selected from list of substituents disclosed in prior art

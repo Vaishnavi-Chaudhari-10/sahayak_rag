@@ -1,0 +1,23 @@
+ing the eligibility analysis; or
+
+ • The claim as a whole does amount to
+ significantly more than the exception (there is an inventive concept in the
+ claim) (Step 2B: YES), and thus is eligible at Pathway C, thereby concluding
+ the eligibility analysis. 
+
+Examiners should examine each claim for eligibility
+ separately, based on the particular elements recited therein. Claims should not be
+ judged to automatically stand or fall with similar claims in an application. For
+ instance, one claim may be ineligible because it is directed to a judicial exception
+ without amounting to significantly more, but another claim dependent on the first may
+ be eligible because it recites additional elements that do amount to significantly
+ more. 
+
+For more information on how to evaluate claims
+ reciting multiple judicial exceptions, see 
+MPEP §
+ 2106.04
+, subsection II.B.
+
+ If the claim as a whole does recite significantly
+ more than the exception itself, the claim is eligible (Step 2B: YES) at Pathway

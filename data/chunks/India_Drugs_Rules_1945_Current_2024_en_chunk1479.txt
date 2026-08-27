@@ -1,0 +1,17 @@
+concentration by a factor of 100 within the 
+prescribed time as per the ISO standards. 
+4.7.6. In order to demonstrate control of the cleanliness of the various 
+clean areas during operation, they shall be monitored for airborne 
+particles and microbial contamination. In addition to “at rest” and 
+“in operation” classification, airborne particles shall be monitored 
+periodically “in operation” at critical locations. The sampling plan 
+need not be the same as that used for classification. Locations and 
+sample sizes shall be determined based on an assessment of the 
+process and contamination risk. 
+4.7.7. The monitoring of Grade C and D areas in operation shall be 
+performed in accordance with the principles of QRM. The 
+requirements and alert or action limits will depend on the nature of 
+the operations carried out, but the recommended “clean-up period” 
+shall be attained. 
+4.7.8. Other characteristics such as temperature and relative humidity 
+depend on the product and nature of the o

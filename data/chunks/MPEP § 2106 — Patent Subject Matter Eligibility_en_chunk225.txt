@@ -1,0 +1,18 @@
+l
+ application. One way to demonstrate such integration is when the additional
+ elements apply or use the recited judicial exception to effect a particular
+ treatment or prophylaxis for a disease or medical condition. The application or
+ use of the judicial exception in this manner meaningfully limits the claim by
+ going beyond generally linking the use of the judicial exception to a particular
+ technological environment, and thus transforms a claim into patent-eligible
+ subject matter. Such claims are eligible at Step 2A, because they are not
+ “directed to” the recited judicial exception.
+
+The particular treatment or prophylaxis
+ consideration originated as part of the other meaningful limitations consideration
+ discussed in 
+MPEP § 2106.05(e)
+ and shares the
+ same legal basis in Supreme Court jurisprudence as that consideration. However,
+ recent jurisprudence has provided additional guidance that is especially relevant
+ to only a subset of claims, thus warranting the elevation of the

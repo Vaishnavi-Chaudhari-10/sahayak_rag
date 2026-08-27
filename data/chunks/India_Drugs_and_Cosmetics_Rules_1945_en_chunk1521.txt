@@ -1,0 +1,24 @@
+iodic revisions of the specifications shall be carried out whenever changes are necessary. 
+
+16.14 Phar macopoeia, reference standards, working standards, references, spectra, 
+other reference materials and technical books, as required, shall be available in the Quality 
+Control Laboratory of the licensee. 
+
+17. Specification 
+
+17.1 For raw materials and packaging materials. - They shall include- 
+
+(a) the designated name and internal code reference; 
+(b) reference, if any, to a pharmacopoeial monograph; 
+(c) qualitative and quantitative requirements with acceptance limits; 
+(d) name and address of manufacturer or supplier and original manufacturer of the 
+material; 
+(e) specimen of printed material; 
+(f) directions for sampling and testing or reference to procedures; 
+(g) storage conditions; and 
+(h) maximum period of storage before re-testing. 
+
+17.2 For product containers and closures:– 
+
+17.2.1 All containers and closures intended for use shall comply with the 
+pharmacopoeial requi

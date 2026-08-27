@@ -1,0 +1,16 @@
+and the mechanism to be used for unblinding should be given. 
+
+10. Adverse Events (See Appendix XI): Description of expected adverse events should be given. 
+Procedures used to evaluate an adverse event should be described. 
+11. Ethical Considerations: Give the summary of: 
+(a) Risk/benefit assessment: 
+(b) Ethics Committee review and communications. 
+(c) Informed consent process. 
+(d) Statement of Subject confidentiality including ownership of data and coding procedures. 
+12. Study Monitoring and Supervision: A description of study monitoring policies and procedures 
+should be provided along with the proposed frequency of site monitoring visits, and who is expected to 
+perform monitoring. 
+Case Record Form (CRF) completion requirements, including who gets which copies of the forms 
+and any specifics required in filling out the forms CRF correction requirements, including who is 
+authorized to make corrections on the CRF and how queries about study data are handled and how 
+errors, if

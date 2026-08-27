@@ -1,0 +1,34 @@
+the second
+ part of the 
+Mayo
+ test is to determine whether the claim recites
+ additional elements that amount to significantly more than the judicial exception.
+
+Id.
+ citing 
+Mayo,
+ 566 U.S. at 72-73, 101 USPQ2d
+ at 1966). The Supreme Court has described the second part of the test as the "search for
+ an 'inventive concept'". 
+Alice Corp.,
+ 573 U.S. at 217-18, 110 USPQ2d
+ at 1981 (citing 
+Mayo
+, 566 U.S. at 72-73, 101 USPQ2d at 1966). 
+
+The 
+Alice/Mayo
+ two-part test is the
+ only test that should be used to evaluate the eligibility of claims under examination.
+ While the machine-or-transformation test is an important clue to eligibility, it should
+ not be used as a separate test for eligibility. Instead it should be considered as part
+ of the "integration" determination or "significantly more" determination articulated in
+ the 
+Alice/Mayo
+ test. 
+Bilski v. Kappos,
+ 561 U.S.
+ 593, 605, 95 USPQ2d 1001, 1007 (2010). See 
+MPEP §
+ 2106.04(d)
+ for more information about evaluating whether

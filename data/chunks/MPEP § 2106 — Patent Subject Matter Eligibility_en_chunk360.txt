@@ -1,0 +1,13 @@
+he creation of a dynamic document based
+ upon ‘management record types’ and ‘primary record types.’” 850 F.3d at 1339-40; 121
+ USPQ2d at 1945-46. The claims were found to be directed to the abstract idea of
+ “collecting, displaying, and manipulating data.” 850 F.3d at 1340; 121 USPQ2d at
+ 1946. In addition to the abstract idea, the claims also recited the additional
+ element of modifying the underlying XML document in response to modifications made in
+ the dynamic document. 850 F.3d at 1342; 121 USPQ2d at 1947-48. Although the claims
+ purported to modify the underlying XML document in response to modifications made in
+ the dynamic document, nothing in the claims indicated what specific steps were
+ undertaken other than merely using the abstract idea in the context of XML documents.
+ The court thus held the claims ineligible, because the additional limitations
+ provided only a result-oriented solution and lacked details as to how the computer
+ performed the modifications, which was equi

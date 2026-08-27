@@ -1,0 +1,36 @@
+ki
+ and 
+Alice Corp.
+
+ decisions. 
+Eon Corp. IP Holdings LLC v. AT&T Mobility LLC,
+ 785
+ F.3d 616, 623, 114 USPQ2d 1711, 1715 (Fed. Cir. 2015) (“[W]e note that
+
+Alappat
+ has been superseded by 
+Bilski,
+ 561 U.S.
+ at 605–06, and 
+Alice Corp. v. CLS Bank Int’l,
+ 573 U.S. 208, 110
+ USPQ2d 1976 (2014)”); 
+Intellectual Ventures I LLC v. Capital One Bank (USA),
+ N.A.,
+ 792 F.3d 1363, 1366, 115 USPQ2d 1636, 1639 (Fed. Cir. 2015) (“An
+ abstract idea does not become nonabstract by limiting the invention to a particular
+ field of use or technological environment, such as the Internet [or] a computer”).
+ Lastly, eligibility should not be evaluated based on whether the claimed invention has
+ utility, because “[u]tility is not the test for patent-eligible subject matter.”
+
+Genetic Techs. Ltd. v. Merial LLC,
+ 818 F.3d 1369, 1380, 118 USPQ2d
+ 1541, 1548 (Fed. Cir. 2016).
+
+Examiners are reminded that 
+35 U.S.C. 101
+ is
+ not the sole tool for determining patentability; 
+35 U.S.C. 112
+ , 
+35 U.S.C. 102

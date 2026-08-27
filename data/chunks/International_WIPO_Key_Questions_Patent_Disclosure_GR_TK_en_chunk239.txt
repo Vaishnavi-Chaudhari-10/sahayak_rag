@@ -1,0 +1,33 @@
+proposed to address some concerns such as confidentiality and public domain issues. 10
+Source: Emmanuel Sackey (ARIPO), presentation delivered at the WIPO Seminar on IP and GRs on May 27, 2016, Roundtable 4: Databases and Other 
+Defensive Measures relating to GRs and Associated TK, www.wipo.int/edocs/mdocs/tk/en/wipo_iptk_ge_16/wipo_iptk_ge_16_presentation_15sackey.pdf
+ARIPO’s differentiated (tiered) approach 
+to database construction
+
+Publicly available 
+TKaGR
+TKaGR-based patent 
+applications and grants
+Undisclosed TKaGR – 
+con/f_idential database 
+(database trust)
+Third-party access
+(users)
+TKaGR database 
+(tiered approach)
+National IP 
+information 
+sources
+IPLC knowledge
+Member 
+States 
+module
+ARIPO
+Member States
+Open access
+PIC, MAT
+
+55
+19. PDRs – a checklist for policymakers
+Deciding whether to create new PDRs related to GRs and TK, and, if so, how to implement them, is not straightforward. 
+It depends on a broad range of factors, including policy goals and objectives, competing

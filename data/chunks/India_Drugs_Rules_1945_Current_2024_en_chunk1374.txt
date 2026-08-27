@@ -1,0 +1,18 @@
+hall be thoroughly cleaned according to a 
+fixed schedule. 
+13.7. Laboratory equipment and instruments shall be suited to the testing 
+procedures undertaken. 
+13.8. Washing, cleaning and drying equipment shall be chosen and used so 
+as not to be a source of contamination. 
+13.9. Production equipment shall not present any hazard to the products. 
+The parts of the production equipment that come into contact with the 
+product must not be reactive, additive or absorptive to an extent that 
+would affect the quality of the product. 
+13.10. Defective equipment shall be removed from production and QC 
+areas. If this is not possible, it shall be clearly labelled as defective to 
+prevent use. 
+13.11. Closed equipment shall be used whenever appropriate. Where open 
+equipment is used or equipment is opened, precautions shall be taken 
+to minimize the contamination. 
+13.12. Non-dedicated equipment shall be cleaned according to validated 
+cleaning procedures betwee n being used for production of dif

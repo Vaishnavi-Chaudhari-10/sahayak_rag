@@ -1,0 +1,17 @@
+jected or discarded tablets shall be isolated in identified containers and 
+their quantity recorded in the Batch Manufacturing Record. 
+3.8. In-process control shall be employed to ensure that the products remain 
+within specification. During compression, samples of tablets shall be 
+taken at regular intervals of not greater than thirty minutes to ensure that 
+they are being produced in compliance with specified in -process 
+specification. The tablets shall also be periodically checked for 
+additional parameters such as “appearance”, “weight variation”, 
+“disintegration”, “hardness”, “friabil ity” and “thickness” and 
+contamination by lubricating oil. 
+
+4. Coating (Tablets):- 
+4.1. Air supplied to coating pans for drying purposes shall be filtered air and 
+of suitable quality. The area shall be provided with suitable exhaust 
+system and environmental control (temperature and humidity) measures. 
+4.2. Coating solutions and suspensions shall be made afresh and used in a 
+manner which sha

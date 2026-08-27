@@ -1,0 +1,22 @@
+interpreted the claims as encompassing nothing other
+ than pure mental steps (and thus falling within an abstract idea grouping) because the
+ claims did not include any limitations requiring computer implementation. In contrast,
+ the patentee in 
+Enfish
+ argued that its claimed self-referential table
+ for a computer database was an improvement in an existing technology and thus not
+ directed to an abstract idea. 
+Enfish, LLC v. Microsoft Corp.,
+ 822
+ F.3d 1327, 1336-37, 118 USPQ2d 1684, 1689-90 (Fed. Cir. 2016). The court agreed with the
+ patentee, based on its interpretation of the claimed “means for configuring” under
+
+35 U.S.C.
+ 112(f)
+ as requiring a four-step algorithm that achieved the
+ improvements, as opposed to merely any form of storing tabular data. See also
+
+McRO, Inc. v. Bandai Namco Games America, Inc.
+ 837 F.3d 1299,
+ 1314, 120 USPQ2d 1091, 1102 (Fed. Cir. 2016) (the claim’s construction incorporated
+ rules of a particular type that improved an existing technological pr

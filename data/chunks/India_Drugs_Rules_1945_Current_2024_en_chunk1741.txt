@@ -1,0 +1,16 @@
+. Bulk product assessment - This shall cover all relevant factors, 
+including production conditions, the results of in -process 
+testing, a review of manufacturing documentation and 
+compliance with the product specification file and the order. 
+11.2.2. Finished product assessment - This shall cover, in addition to 
+the bulk product assessment, all relevant factors, including 
+packaging conditions, the results of in-process testing, a review 
+of packaging documentation and compliance with the product 
+specification file and the order. 
+11.3. When necessary, quality control shall also be used to verify the 
+similarity in appearance and other physical characteristics, odour and 
+taste of "blinded" investigational products. 
+11.4. Samples of each batch of product shall be retained in the 
+primary container used for the study or in a suitable bulk container 
+for at least two years after the termination or completion of the 
+relevant clinical trial. If the sample is not stored in the pack u

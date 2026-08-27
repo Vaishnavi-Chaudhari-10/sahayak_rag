@@ -1,0 +1,35 @@
+in a claim with a judicial exception include: 
+
+i. Improvements to the functioning of a
+ computer, 
+e.g.,
+ a modification of conventional Internet
+ hyperlink protocol to dynamically produce a dual-source hybrid webpage, as
+ discussed in 
+DDR Holdings, LLC v. Hotels.com, L.P.,
+ 773
+ F.3d 1245, 1258-59, 113 USPQ2d 1097, 1106-07 (Fed. Cir. 2014) (see
+
+MPEP § 2106.05(a)
+);
+
+ii. Improvements to any other technology or
+ technical field, 
+e.g.,
+ a modification of conventional
+ rubber-molding processes to utilize a thermocouple inside the mold to
+ constantly monitor the temperature and thus reduce under- and over-curing
+ problems common in the art, as discussed in 
+Diamond v.
+ Diehr,
+ 450 U.S. 175, 191-92, 209 USPQ 1, 10 (1981) (see
+
+MPEP § 2106.05(a)
+); 
+
+iii. Applying the judicial exception with, or by
+ use of, a particular machine, 
+e.g.,
+ a Fourdrinier machine
+ (which is understood in the art to have a specific structure comprising a
+ headbox, a paper-making wire, and a series of rolls) t

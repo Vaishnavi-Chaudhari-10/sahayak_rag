@@ -1,0 +1,26 @@
+, is not a tangible article or commodity
+ under the definition of a manufacture (even though it is man-made and physical in
+ that it exists in the real world and has tangible causes and effects), and is not
+ composed of matter such that it would qualify as a composition of matter.
+
+Nuijten,
+ 500 F.3d at 1356-1357, 84 USPQ2d at 1501-03. As such,
+ a transitory, propagating signal does not fall within any statutory category.
+
+Mentor Graphics Corp. v. EVE-USA, Inc.,
+ 851 F.3d 1275, 1294,
+ 112 USPQ2d 1120, 1133 (Fed. Cir. 2017); 
+Nuijten,
+ 500 F.3d at
+ 1356-1357, 84 USPQ2d at 1501-03. 
+
+II.
+ ELIGIBILITY STEP 1: WHETHER A CLAIM
+ IS TO A STATUTORY CATEGORY
+As described in 
+MPEP § 2106
+,
+ subsection III, Step 1 of the eligibility analysis asks: Is the claim to a process,
+ machine, manufacture or composition of matter? Like the other steps in the
+ eligibility analysis, evaluation of this step should be made after determining what
+ the inventor has invented by reviewing the entire application di

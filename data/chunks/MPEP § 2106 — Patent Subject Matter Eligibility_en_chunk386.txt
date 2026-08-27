@@ -1,0 +1,19 @@
+consideration when determining whether a
+ claim integrates the judicial exception into a practical application in Step 2A Prong
+ Two or recites significantly more than a judicial exception in Step 2B is whether the
+ additional elements amount to more than generally linking the use of a judicial
+ exception to a particular technological environment or field of use. As explained by
+ the Supreme Court, a claim directed to a judicial exception cannot be made eligible
+ “simply by having the applicant acquiesce to limiting the reach of the patent for the
+ formula to a particular technological use.” 
+Diamond v. Diehr,
+ 450
+ U.S. 175, 192 n.14, 209 USPQ 1, 10 n. 14 (1981). Thus, limitations that amount to
+ merely indicating a field of use or technological environment in which to apply a
+ judicial exception do not amount to significantly more than the exception itself, and
+ cannot integrate a judicial exception into a practical application. 
+
+The courts often cite to 
+Parker v.
+ Flook
+ as provid

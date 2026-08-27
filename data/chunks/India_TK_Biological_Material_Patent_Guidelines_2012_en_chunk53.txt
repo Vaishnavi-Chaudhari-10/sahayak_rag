@@ -1,0 +1,18 @@
+are 
+entrapped; and 
+
+d) isolating the precipitated nanoparticles by dialysis 
+
+Prior art (D1) is directed to use of photoluminescent nanoparticles for photodynamic 
+therapy to address the problem of application of light of a suitable wavelength to a 
+photodynamic drug (PDT). The solution suggested in D 1 was the use of Light-Emitting 
+nanoparticles to be administered in addition to PDT in order to activate the drug. It is 
+taught that the Light Emitting Nanoparticles absorb light from the light source and re- 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+emit lights at a different wavelength, which is suitable to activate the PDT drug in the 
+vicinity of Light Emitting Nanoparticles. Thus, the role of nanoparticles is to absorb the 
+light from a light source and re-emit the light of different wavelength to activate the 
+PDT drug. To achieve this purpose, firstly, a PDT drug is

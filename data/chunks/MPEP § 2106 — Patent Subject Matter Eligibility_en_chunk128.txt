@@ -1,0 +1,27 @@
+ractically be performed in the human mind, with or without the use of a
+ physical aid such as pen and paper, the limitation falls within the mental
+ processes grouping, and the claim recites an abstract idea. See,
+
+e.g., Benson,
+ 409 U.S. at 67, 65, 175 USPQ at 674-75,
+ 674 (noting that the claimed “conversion of [binary-coded decimal] numerals
+ to pure binary numerals can be done mentally,” 
+i.e.,
+ “as
+ a person would do it by head and hand.”); 
+Synopsys,
+ 839
+ F.3d at 1139, 120 USPQ2d at 1474 (holding that claims to the mental process
+ of “translating a functional description of a logic circuit into a hardware
+ component description of the logic circuit” are directed to an abstract
+ idea, because the claims “read on an individual performing the claimed steps
+ mentally or with pencil and paper”). 
+
+The use of a physical aid
+ (
+e.g.,
+ pencil and paper or a slide rule) to help
+ perform a mental step (
+e.g.,
+ a mathematical calculation)
+ does not negate the mental nature of the limitatio

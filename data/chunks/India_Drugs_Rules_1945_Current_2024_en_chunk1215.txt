@@ -1,0 +1,37 @@
+522. Vecuronium bromide 
+523. Venlafaxine hydrochloride 
+524. Verapamil hydrochloride 
+525. Verteporfin 
+526. Vincristine sulphate 
+527. Vinblastine sulphate 
+528. Vindesine sulphate 
+529. Vinorelbine tatrate 
+530. Xipamide 
+531. Zidovudine hydrochloride 
+532. Ziprasidone hydrochloride 
+533. Zoledronic acid 
+534. 1119[***] 
+535. Zopiclone 
+536. Zuclopenthixol 
+1120[537.Etizolam] 
+1121[538.Alclometasone 
+539.Beclomethasone 
+540.Betamethasone 
+541.Desonide 
+542.Desoximetasone 
+543.Dexamethasone 
+544.Diflorasone diacetate 
+545.Fluocinonide 
+546.Huocinolone acetonide 
+547.Halobetasol propionate 
+548.Halometasone 
+549.Methylprednisone 
+550.Prednicarbate 
+551.Triamcinolone acetonide] 
+1336[552. Acitretin]
+
+Note: —1. Preparations exempted under proviso to para 2 of Note to Schedule 
+X shall also be covered by this Schedule. 
+2. The salts, esters, derivatives and preparations containing the above 
+substances excluding those intended for topical or external use (except 
+ophthalmic and ear/nose

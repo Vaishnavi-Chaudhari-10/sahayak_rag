@@ -1,0 +1,17 @@
+ful. Room pressure indication may be either analogue or 
+digital, and may be represented as either pressure differentials or 
+absolute pressures. Whichever system is used any out -of-specification 
+condition shall be easily identifiable. 
+1.26. Material Pass -Through-Hatches (PTH) or Pass Boxes (PB) can also be 
+used for separating two different zones. PTHs fall into two categories, 
+namely a dynamic PTH or a passive PTH. Dynamic PTHs have an air 
+supply to or extraction from them, and can then be us ed as bubble, sink 
+or cascade PTHs. 
+1.27. Where appropriate, temperature and relative humidity shall be controlled, 
+monitored and recorded, where relevant, to ensure compliance with 
+requirements pertinent to the materials and products and provide a 
+comfortable environment for the operator where necessary. 
+1.28. Maximum and minimum room temperatures and relative humidity shall 
+be appropriate. Alert and action limits on temperatures and humidity 
+shall be set, as appropriate. 
+1.29. T

@@ -1,0 +1,30 @@
+m. The air system 
+shall be provided with the appropriate filters such as HEPA for grades A, B and C. The 
+maximum permitted number of particles in the ―at rest‖ condition shall approximately 
+be as under:- 
+[Grade A and B corresponds with class 100 or M 3.5 or class 5]; Grade C with Class 
+10,000 or M 5.5 or ISO Class 7; Grade D with Class 1,00,000 or M 6.5 or ISO Class 8. 
+(b) The requirement and limit for the area shall depend on the nature of the operation carried 
+out. 
+
+TABLE II 
+
+RECOMMENDED LIMITS FOR MICROBIOLOGICAL MONITORING OF 
+CLEAN AREAS ―IN OPERATION‖ 
+
+Notes:- 
+(a) These are average values. 
+(b) Individual settle plates may be exposed for not less than two hours in Grade B, C and 
+D areas and for not less than thirty minutes in Grade A area. 
+
+E. QUALITY CONTROL 
+1. Facilities shall be provided for Quality Control such as Haematological, Microbiological and 
+Instrumental testing. 
+Grade Air samples 
+Cfu/m3 
+Settle Plates 
+(dia 90mm) 
+cfu/2hrs 
+Contact 
+plates (dia 55 
+m

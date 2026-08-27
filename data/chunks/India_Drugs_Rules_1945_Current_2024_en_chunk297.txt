@@ -1,0 +1,22 @@
+ules. 
+ 1333[(5) Every active pharmaceutical ingredient (bulk drug) manufactured or 
+imported in India shall bear Quick Response code on its label at each level 
+packaging that sto re data or information readable with software application to 
+facilitate tracking and tracing. The stored data or information shall include the 
+following minimum particulars, namely:— 
+(i) Unique product identification code, 
+(ii) Name of the API, 
+(iii) Brand name (if any), 
+(iv) Name and address of the manufacturer, 
+(v) Batch no., 
+(vi) Batch size, 
+(vii) Date of manufacturing, 
+(viii) Date of expiry or retesting, 
+(ix) Serial shipping container code, 
+(x) Manufacturing licence no. or import licence no. 
+(xi) Special storage conditions required (if any).] 
+
+1339[(6) The manufacturers of drug formulation products as specified in 
+Schedule H2 shall print or affix Bar Code or Quick Response Code on its 
+primary packaging label or, in case of ina dequate space in primary package 
+label, on the secondary pack

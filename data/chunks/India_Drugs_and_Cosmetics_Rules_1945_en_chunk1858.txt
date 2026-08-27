@@ -1,0 +1,16 @@
+atmospheric pressure after which burst 
+volume and pressure limits are measured. 
+2. Apparatus - The air oven shall be of such a size that the total volume of the test 
+samples does not exceed 10 per cent of the free air space of the oven. Provision shall be 
+made for slow circulation of air in the oven of not less than three changes and not more than 
+ten changes per hour. The temperature of the oven shall be thermostatically controlled so that 
+the test samples are kept within ± 2o C of the specified ageing temperature. A thermometer 
+shall be placed near the centre of the ageing test samples to record the actual ageing 
+temperature. 
+Note: - Copper or copper alloys shall not be used for the material of construction of the oven 
+prescribed. 
+3. Test sample - The foil laminations of individual packages should remain intact 
+throughout all laboratory handling including over conditioning. 
+4. Temperature of the oven – Maintain the oven at 70 ± 2o C. 
+5. Duration of test - 96 hours. 
+6.

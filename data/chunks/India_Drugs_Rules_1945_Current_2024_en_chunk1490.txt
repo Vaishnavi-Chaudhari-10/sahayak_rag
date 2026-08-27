@@ -1,0 +1,17 @@
+y 
+running three consecutive satisfactory simulation tests. These tests shall 
+be repeated at defined intervals and after any significant modification to 
+the HVAC system, equipment or process. Process simulation tests shall 
+incorporate activities and interventions known to occur during normal 
+production as well as in the worst -case situations. The process 
+simulation tests shall be representative of each shift and shift 
+changeover to address any time-related and operational features. 
+5.6. The number of containers used for media fills shall be sufficient to 
+enable a valid evaluation. For small batches the number of containers 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+for media fills shall at least equal to the size of the product batch. The 
+target shall be zero growth and the following shall apply: 
+(a) when filling fewer than 5000 units, no contaminated units shall be 
+detected; 
+(b) when filling 5000–10000 uni

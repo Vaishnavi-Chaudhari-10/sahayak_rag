@@ -1,0 +1,16 @@
+areas shall be different from 
+those for other areas. Critical areas, such as the aseptic filling area, sterilized components 
+unloading area and change room conforming to Grades B, C and D respectively shall have separate air 
+handling units. The filter configuration in the air handling system shall be suitably designed to achieve 
+the Grade of air as given in Table1. Typical operational activities for clean areas are highlighted in 
+Table II and Table III. 
+
+3.2 For products which are filled aseptically, the filling room shall meet Grade B conditions 
+at rest unmanned. This condition shall also be obtained within a period of about 30 minutes of the 
+personnel leaving the room after completion of operations. 
+
+3.3. The filling operations shall take place under Grade A conditions which shall be 
+demonstrated under working of simulated conditions which shall be achieved by providing laminar air 
+flow work stations with suitable HEPA filters or isolator technology. 
+
+3.4. For products,

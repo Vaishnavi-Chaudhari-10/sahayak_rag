@@ -1,0 +1,19 @@
+lating the antimicrobial 
+response, especially when administered topically to the skin and to the mucosa. 
+Analysis: The claims of alleged invention relate to a composition of two active ingredients, 
+namely tamarind seed polysaccharide and extract of Helichrysum italicum. The complete 
+specification contained the following experimental data regarding the expression of be ta 
+defensin by normal human epidermal keratinocyte. Beta defensin are host defense peptides 
+having the ability to kill a broad range of microorganisms including bacteria, yeast and viruses. 
+Products Concentration DEFB2 expression (pg/ml) 
+Negative ref. (control) - 0 
+Positive ref. (LPS) 5 mcg/ml 12 
+Tamarind Seed Polysaccharide (TSP) 0.2% 40* 
+Helichrysum italicum extract (HIE) 0.2% 21 
+HIE + TSP 0.2% + 0.2% 140* 
+ *p < 0.001 vs. control 
+It is apparent from the table that the combined effect of Helichrysum italicum extract and 
+
+ of 14 
+
+Tamarind Seed Polysaccharide (140 pg/ml) is higher than the sum of their indi

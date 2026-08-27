@@ -1,0 +1,21 @@
+(c)
+ for more information on Step 2A analysis.
+
+MPEP § 2106.04(a)(1)
+ provides
+ examples of claims that do not recite abstract ideas (or other judicial exceptions)
+ and thus are eligible at Step 2A Prong One. 
+
+MPEP § 2106.04(a)(2)
+ provides
+ further explanation on the abstract idea groupings. It should be noted that these
+ groupings are not mutually exclusive, i.e., some claims recite limitations that fall
+ within more than one grouping or sub-grouping. For example, a claim reciting
+ performing mathematical calculations using a formula that could be practically
+ performed in the human mind may be considered to fall within the mathematical
+ concepts grouping and the mental process grouping. Accordingly, examiners should
+ identify at least one abstract idea grouping, but preferably identify all groupings
+ to the extent possible, if a claim limitation(s) is determined to fall within
+ multiple groupings and proceed with the analysis in Step 2A Prong Two. 
+
+2106.04(a)(1) Examples of Claims

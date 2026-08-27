@@ -1,0 +1,32 @@
+oval of the National Biodiversity Authority for access to biological resources 
+or knowledge associated thereto for research or for bio -survey and bio -utilization by persons covered under 
+section 3(2) of the Act. 
+(1) Particulars of the applicant 
+(i) Category of the applicant 
+
+(Drop down menu) 
+a. Individual 
+b. Individual and Entity 
+c. Entity 
+(ii) Name of the applicant 
+(iii) Status of the applicant (Drop down menu) 
+a. NRI 
+b. Non-Indian 
+c. Entity covered under section 3(2) of the 
+Act. 
+(iv) Address of the applicant 
+
+62 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+(Postal address including PIN code, email, mobile 
+and alternate mobile numbers and/or landline 
+number) 
+(v) Profile of the individual/entity 
+(vi) Nature of the business (applicable if the applicant is 
+an entity) 
+
+(vii) Details of the authorized representative for the 
+applicant (applicable if the applicant is an entity) 
+
+(Name with postal address including PIN code, 
+email, mobile and alternate

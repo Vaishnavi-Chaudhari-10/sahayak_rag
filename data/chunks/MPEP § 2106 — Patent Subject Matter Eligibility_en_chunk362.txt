@@ -1,0 +1,27 @@
+t any
+ description of how the mobile interface and pointers accomplish the result of
+ retrieving previously inaccessible information, 
+Intellectual Ventures
+ v. Erie Indem. Co.,
+ 850 F.3d 1315, 1331, 121 USPQ2d 1928, 1939
+ (Fed. Cir. 2017); 
+
+ii. A general method of screening emails on a
+ generic computer without any limitations that addressed the issues of shrinking
+ the protection gap and mooting the volume problem, 
+Intellectual
+ Ventures I v. Symantec Corp.,
+ 838 F.3d 1307, 1319, 120 USPQ2d
+ 1353, 1361 (Fed. Cir. 2016); and 
+
+iii. Wireless delivery of out-of-region broadcasting
+ content to a cellular telephone via a network without any details of how the
+ delivery is accomplished, 
+Affinity Labs of Texas v. DirecTV,
+ LLC,
+ 838 F.3d 1253, 1262-63, 120 USPQ2d 1201, 1207 (Fed. Cir.
+ 2016). 
+
+In contrast, other cases have found that additional
+ elements are more than “apply it” or are not “mere instructions” when the claim
+ recites a technological solution to a technological problem. I

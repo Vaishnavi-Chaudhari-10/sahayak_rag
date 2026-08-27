@@ -1,0 +1,26 @@
+uter components” (827 F.3d at 1349, 119 USPQ2d at
+ 1242); and 
+
+ • The district court should have considered
+ the additional elements in combination, because the “inventive concept
+ inquiry requires more than recognizing that each claim element, by itself,
+ was known in the art” (827 F.3d at 1350, 119 USPQ2d at 1242). 
+
+Based on this analysis, the Federal Circuit
+ concluded that the district court erred by failing to recognize that when
+ combined, an inventive concept may be found in the non-conventional and
+ non-generic arrangement of the additional elements, i.e., the installation of a
+ filtering tool at a specific location, remote from the end-users, with
+ customizable filtering features specific to each end user. 827 F.3d at 1350, 119
+ USPQ2d at 1242. 
+
+II.
+ ELIGIBILITY STEP 2B: WHETHER THE
+ ADDITIONAL ELEMENTS CONTRIBUTE AN “INVENTIVE CONCEPT”
+As described in 
+MPEP § 2106
+,
+ subsection III, Step 2B of the Office’s eligibility analysis is the second part of
+ the 
+Alice/Mayo
+ test,

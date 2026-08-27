@@ -1,0 +1,15 @@
+procedures. In the case of vaccines, a batch processing record and a 
+summary protocol shall be prepared for each batch for the purpose of 
+lot release by the Licensing Authority. The information included in 
+the summary protocol for independent lot release of vaccines by 
+regulatory authorities. The summary protocol and all associated 
+records shall be of a type approved by the Licensing Authority. 
+14.2. Manufacturing batch records shall be re tained for at least one year 
+after the expiry date of the batch of the biological product and shall be 
+readily retrievable for inspection by the Licensing Authority. It has 
+been found that documents retained for longer periods may provide 
+useful information related to AEFI and other investigations. 
+14.3. Starting materials may require additional documentation on source, 
+origin, supply chain, method of manufacture and controls applied in 
+order to ensure an appropriate level of control, including the 
+microbiological quality, if applicab

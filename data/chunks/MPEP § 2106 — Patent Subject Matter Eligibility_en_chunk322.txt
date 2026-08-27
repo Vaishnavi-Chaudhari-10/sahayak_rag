@@ -1,0 +1,27 @@
+dicial exception, the
+ examiner should evaluate whether the elements define only well-understood,
+ routine, conventional activity. In this respect, the well-understood, routine,
+ conventional consideration overlaps with other Step 2B considerations,
+ particularly the improvement consideration (see 
+MPEP §
+ 2106.05(a)
+), the mere instructions to apply an exception
+ consideration (see 
+MPEP § 2106.05(f)
+), and the
+ insignificant extra-solution activity consideration (see 
+MPEP §
+ 2106.05(g)
+). Thus, evaluation of those other
+ considerations may assist examiners in making a determination of whether a
+ particular element or combination of elements is well-understood, routine,
+ conventional activity. 
+
+In addition, examiners should keep in mind the
+ following points when determining whether additional elements define only
+ well-understood, routine, conventional activity. 
+
+1. 
+An additional element (or combination
+ of additional elements) that is known in the art can still be
+ unconventiona

@@ -1,0 +1,29 @@
+315 : 
+AQL —1.5 
+AC —10 
+R —11 
+
+BATCH SIZE: OVER 5 LAKHS 
+Single Sampling Plan 
+Sample Size 500 : 
+AQL —1.5 
+AC —14 
+R —15 
+Note.—AQL denotes Acceptance Quality Level : 
+AC denotes Acceptance Number i.e., the maximum allowable number 
+of defectives for acceptance of the Batch; and 
+R denotes Rejection Number i.e., minimum number of defectives for 
+rejection of the Batch.] 
+ANNEXURE IV 
+(See paragraphs 9) 
+DETERMINATION OF BURSTING VOLUME AND PRESSURE 
+1. Principle—Inflation of a constant length of the condom with air and 
+recording the volume and pressure at the moment of bursting. 
+2. Apparatus— (1) Apparatus suitable for inflating the condom with clean 
+air at a specified rate and provided with equipment for measuring volume and 
+pressure. 
+(2) Suitable mount for fitting the condoms to the apparatus as shown in the 
+figure annexed. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+(3) Rod, 140 mm in length having a smooth

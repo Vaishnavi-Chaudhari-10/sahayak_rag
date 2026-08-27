@@ -1,0 +1,19 @@
+rise‖, ―business‖, ―business rules‖, ―supply -chain‖, 
+―order‖, ―sales‖, ―transactions‖, ―commerce‖, ―payment‖ etc. in 
+the claims may not lead to co nclusion of an invention being just a 
+―Business Method‖, but if the subject matter is essential ly about 
+
+97 
+
+carrying out business/trade/financial activity/ transaction and/or a 
+method of buying/selling goods through web (e.g. providing web 
+service functionality ), the same should be treated as business 
+method and shall not be patentable. 
+3) Claims directed as “Algorithm”: Algorithms in all forms 
+including but not limited to, a set of rules or procedures or any 
+sequence of steps or any method expressed by way of a finite list of 
+defined instructions, whether for solving a problem or otherwise, 
+and whether employing a logical, arithmetical or computational 
+method, recursive or otherwise, are excluded from patentability. 
+4) Claims directed as “Computer Programme per se”: Claims 
+which are directed towards computer programs per

@@ -1,0 +1,15 @@
+ing the types of study activities that would be included in this section 
+would be: medical history, type of physical examination, b lood or urine testing, electrocardi ogram 
+(ECG), diagnostic testing such as pulmonary function tests, symptom measurement, dispensation and 
+retrieval of medication, Subject cohort assignment, adverse event review, etc. 
+Each visit should be described separately as Visit 1, Visit 2, etc. 
+
+Discontinued Subjects: Describes the circumstances for Subject withdrawal, dropouts, or other 
+reasons for discontinuation of Subjects . State how dropouts would be managed and if they would be 
+replaced, describe the method of handling of protocol waivers, if any. The person(s) who approves all 
+such waivers should be identified and the criteria used for specific waivers should be provided. 
+Describes how protocol violations will be treated, including conditions where the study will be 
+terminated for non-compliance with the protocol. 
+9. Study Treatment 
+
+(a) Dosing

@@ -1,0 +1,16 @@
+ny specifics required in filling out the forms CRF correction requirements, including who is 
+authorized to make corrections on the CRF and how queries about study data are handled and how 
+errors, if any, are to be corrected should be stated. 
+Investigator study files, including what needs to be stored following study completion should be 
+described. 
+13. Investigational Product Management 
+
+(a) Give Investigational product description and packaging (stating all Ingredients and the 
+formulation of the investigational drug and any placebos used in the study) 
+(b) The precise dosing required during the study. 
+(c) Method of packaging, labelling, and blinding of study substances. 
+(d) Method of assigning treatments to Subjects and the Subject identification code numbering 
+system. 
+(e) Storage conditions for study substances. 
+(f) Investigational product accountability: Describe instructions for the receipt, storage, dispensation, 
+and return of the investigational products to ensure a c

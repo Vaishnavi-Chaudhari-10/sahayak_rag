@@ -1,0 +1,23 @@
+Microsoft
+ Corp.,
+ 822 F.3d 1327, 1339, 118 USPQ2d 1684, 1691-92 (Fed. Cir. 2016)
+ (claims to a self-referential table for a computer database were directed to an
+ improvement in computer capabilities and not directed to an abstract idea);
+
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d 1299,
+ 1315, 120 USPQ2d 1091, 1102-03 (Fed. Cir. 2016) (claims to automatic lip
+ synchronization and facial expression animation were directed to an improvement in
+ computer-related technology and not directed to an abstract idea); 
+Visual
+ Memory LLC v. NVIDIA Corp.,
+ 867 F.3d 1253,1259-60, 123 USPQ2d 1712,
+ 1717 (Fed. Cir. 2017) (claims to an enhanced computer memory system were directed
+ to an improvement in computer capabilities and not an abstract idea);
+
+Finjan Inc. v. Blue Coat Systems, Inc.,
+ 879 F.3d 1299, 125
+ USPQ2d 1282 (Fed. Cir. 2018) (claims to virus scanning were found to be an
+ improvement in computer technology and not directed to an abstract idea);
+
+SRI Int’l, Inc. v. Cisco Sys

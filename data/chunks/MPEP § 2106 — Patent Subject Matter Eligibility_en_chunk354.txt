@@ -1,0 +1,23 @@
+lice Corp.,
+ the claim recited the concept of intermediated
+ settlement as performed by a generic computer. The Court found that the recitation of
+ the computer in the claim amounted to mere instructions to apply the abstract idea on
+ a generic computer. 573 U.S. at 225-26, 110 USPQ2d at 1984. The Supreme Court also
+ discussed this concept in an earlier case, 
+Gottschalk v. Benson,
+
+ 409 U.S. 63, 70, 175 USPQ 673, 676 (1972), where the claim recited a process for
+ converting binary-coded-decimal (BCD) numerals into pure binary numbers. The Court
+ found that the claimed process had no meaningful practical application except in
+ connection with a computer. 
+Benson,
+ 409 U.S. at 71-72, 175 USPQ at
+ 676. The claim simply stated a judicial exception (
+e.g.,
+ law of
+ nature or abstract idea) while effectively adding words that “apply it” in a
+ computer. 
+Id.
+
+Requiring more than mere instructions to apply an
+ exception does not mean that the claim must be narrow in order to be eligible. The

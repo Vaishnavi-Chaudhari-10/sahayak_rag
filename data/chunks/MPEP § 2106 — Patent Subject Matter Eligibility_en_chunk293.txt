@@ -1,0 +1,23 @@
+user
+ interface that improves the accuracy of trader transactions by displaying
+ bid and asked prices in a particular manner that prevents order entry at a
+ changed price, 
+Trading Techs. Int’l, Inc. v. CQG, Inc.,
+
+ 675 Fed. App'x 1001 (Fed. Cir. 2017) (non-precedential); and 
+
+ix. Improved process for preserving hepatocytes
+ for later use, 
+Rapid Litig. Mgmt. v. CellzDirect, Inc.,
+
+ 827 F.3d 1042, 1050, 119 USPQ2d 1370, 1375 (Fed. Cir. 2016). 
+
+To show that the involvement of a computer assists
+ in improving the technology, the claims must recite the details regarding how a
+ computer aids the method, the extent to which the computer aids the method, or the
+ significance of a computer to the performance of the method. Merely adding generic
+ computer components to perform the method is not sufficient. Thus, the claim must
+ include more than mere instructions to perform the method on a generic component
+ or machinery to qualify as an improvement to an existing technology. See
+
+MPEP § 210

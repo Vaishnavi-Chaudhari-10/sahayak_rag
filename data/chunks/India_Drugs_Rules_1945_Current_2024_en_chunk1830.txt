@@ -1,0 +1,21 @@
+r 
+test results shall be recorded and investigated. 
+5.4.8. Changes to the computerised system shall be made according to 
+a change procedure and shall be formally authorised, 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+documented and tested. Records shall be kept of all changes, 
+including modiﬁcations and enhancements made to the 
+hardware, software and any other critical component of the 
+system. These records shal l demonstrate that the system is 
+maintained in a validated state. 
+5.4.9. A back -up system shall be provided so that there is no 
+permanent loss of records due to system breakdown or failure. 
+Means of ensuring data protection shall be established for all 
+computerised systems. 
+5.4.10. Data may be recorded by a second means in addition to the 
+computer system. 
+
+6. Documentation and records:- 
+6.1. Documentation system and speciﬁcations- 
+6.1.1. All documents related to the manufacture of intermediates o

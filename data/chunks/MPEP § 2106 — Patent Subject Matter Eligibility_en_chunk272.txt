@@ -1,0 +1,17 @@
+, 120 USPQ2d 1353, 1359 (Fed. Cir. 2016) (patent owner argued that the
+ claimed email filtering system improved technology by shrinking the protection gap
+ and mooting the volume problem, but the court disagreed because the claims themselves
+ did not have any limitations that addressed these issues). That is, the claim must
+ include the components or steps of the invention that provide the improvement
+ described in the specification. However, the claim itself does not need to explicitly
+ recite the improvement described in the specification (
+e.g.,
+
+ “thereby increasing the bandwidth of the channel”). The full scope of the claim under
+ the BRI should be considered to determine if the claim reflects an improvement in
+ technology (
+e.g.,
+ the improvement described in the specification).
+ In making this determination, it is critical that examiners look at the claim “as a
+ whole,” in other words, the claim should be evaluated “as an ordered combination,
+ without ignoring the requirements o

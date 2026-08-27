@@ -1,0 +1,16 @@
+substitutes provided sufficient scientific justification should be provided to 
+support the argument that a given standard battery test is not appropriate. 
+Both in -vitro and in -vivo studies should be done. In -vitro studies should 
+include Ames' Salmonella Assay and Chromosomal Aberrations (CA) in 
+cultured cells. In -vivo studies should include Micronucleus Assay (MNA) 
+or CA in rodent bone marrow. Data analysis of CA should include analysis 
+of 'gaps'. 
+Cytotoxic Anticancer Agents: Genotoxicity data are not required before Phase 
+I and II trial s. But these studies should be completed before applying for Phase 
+III trials. 
+Notes.—Ames' Test (Reverse Mutation Assay in Salmonella): S. 
+typhimurium tester strains such as TA98, TA100, TA102, TA1535, TA97 or 
+Escherichia coli WP2 uvrA or Escherichia coli WP2 uvrA (pKM101) should be 
+used. 
+(i) In-vitro exposure (with and without metabolic activation, S9 mix) should be 
+done at a minimum of 5 log dose levels. "Solvent" and "positive"

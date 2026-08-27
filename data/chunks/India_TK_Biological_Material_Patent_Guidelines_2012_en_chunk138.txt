@@ -1,0 +1,15 @@
+mbrace non-definitive terms like “comprising”, “including”, etc. to indicate 
+certain c omponents of the invention. Similarly terms like “near to”, “approximately” 
+may lead to confusion about the scope of the invention. Such terms or any other 
+terms , should be closely examined vis -à-vis the support in the description and the 
+scope of protection sought for ensuring the definitiveness of the claims. 
+
+11.13 Functional claims, i.e. claims where the substances are defined in terms of their 
+physiological properties/results to be achieved, should be discouraged, as such claims 
+not only lead to confusion regarding the scope of the invention, all most all the times, 
+they are much wider in scope and are inconsistent with descriptions. 
+
+11.14 In pharmaceutical patenting, the claims are often drafted in terms of Markush 
+formula. Special care should be given to search and examine such claims. Claims with 
+Markush formulas may cover innumerable compounds and may be overbroad, thus 
+leadin

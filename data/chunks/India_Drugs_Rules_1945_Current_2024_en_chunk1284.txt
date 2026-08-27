@@ -1,0 +1,17 @@
+also be considered while fixing the frequency of 
+calibration. 
+(c) For most of the equipments and instruments, Standard Operating 
+Procedures for calibration and calibration schedule be prepared by 
+the laboratory and a logbook shall als o be prepared by each 
+laboratory for proper documentation of calibration results. 
+8. Reference materials: 
+(a) Reference materials are necessary for the testing and, or calibration, 
+validation or verification of a sample or of equipment, instruments 
+or other devices and all such materials shall be traceable to agency 
+authorised by Government of India or any other International body. 
+(b) The laboratory shall prepare working standard by comparing with 
+the reference standards and shall be routinely checke d for their 
+purity by selecting parameters such as identity, loss on drying or on 
+water, impurity and assay, etc. 
+(c) Whenever, any new reference material is received by the laboratory, 
+a code number shall be assigned and this code number sha

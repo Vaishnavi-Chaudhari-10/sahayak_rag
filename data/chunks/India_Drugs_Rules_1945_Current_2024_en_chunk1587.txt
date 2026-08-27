@@ -1,0 +1,16 @@
+. 
+4.7. Where, the necessary tests for approving starting materials take a 
+significantly long time, it may be permissible by exception to process 
+starting materials before the test resu lts are available. The use of these 
+materials shall be clearly justified in a documented manner, and the 
+risks shall be understood and assessed under the principles of QRM. In 
+such cases, release of the finished product is conditional upon 
+satisfactory results from the tests. It must be ensured that this is not 
+standard practice and occurs only with justification of the risk taken. 
+4.8. The risk of contamination of starting materials during their passage 
+along the supply chain shall be assessed, with particular emphasis on 
+adventitious agents such as those causing Transmissible spongiform 
+encephalopathies (TSEs). Other materials that come into direct contact 
+with manufacturing equipment or with potential product contact 
+surfaces (such as filter media, growth medi a during aseptic process 
+s

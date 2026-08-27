@@ -1,0 +1,26 @@
+fied as an
+ abstract idea even though it does not fall within the groupings of abstract ideas
+ discussed in 
+MPEP § 2106.04(a)(2)
+), this form
+ paragraph should be accompanied by form paragraph 
+7.05.017
+.
+
+2. This form paragraph is for use with all product (machine,
+ manufacture, and composition of matter) and process claims, and for all claims directed
+ to a law of nature, natural phenomenon (including a product of nature), or abstract
+ idea.
+
+3. In bracket 1, identify whether the claim(s) are directed to a
+ law of nature, a natural phenomenon (including a product of nature), or an abstract
+ idea.
+
+4. In bracket 2, identify the exception by referring to how it is
+ recited in the claim and explain why it is considered an exception (e.g., for an
+ abstract idea, identify the abstract idea grouping in 
+MPEP §
+ 2106.04(a)(2)
+ into which the recited exception falls). For
+ example, "the Arrhenius equation, which is a law of nature and a mathematical concept
+ which describes the relationship

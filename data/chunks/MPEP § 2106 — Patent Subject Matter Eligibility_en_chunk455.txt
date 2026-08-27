@@ -1,0 +1,22 @@
+ponse [R-10.2019]
+
+After examiners identify and explain in the record
+ the reasons why a claim is directed to an abstract idea, natural phenomenon, or law
+ of nature without significantly more, then the burden shifts to the applicant to
+ either amend the claim or make a showing of why the claim is eligible for patent
+ protection.
+
+ In response to a rejection based on failure to claim
+ patent-eligible subject matter, applicant may: (i) amend the claim, e.g., to add
+ additional elements or modify existing elements so that the claim as a whole amounts
+ to significantly more than the judicial exception, (or integrates the judicial
+ exception into a practical application), (ii) present persuasive arguments based on a
+ good faith belief as to why the rejection is in error and/or (iii) submit evidence
+ traversing a subject matter eligibility rejection according to the procedures set
+ forth in 
+MPEP §
+ 716.01
+ and 
+37 CFR 1.132
+. When evaluating a
+ response, examiners must carefully consider a

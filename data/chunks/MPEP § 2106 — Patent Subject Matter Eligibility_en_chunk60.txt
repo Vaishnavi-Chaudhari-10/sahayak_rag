@@ -1,0 +1,19 @@
+e whether the claim as a whole integrates the
+ exception into a practical application of that exception. If the additional
+ elements in the claim integrate the recited exception into a practical application
+ of the exception, then the claim is not directed to the judicial exception (Step
+ 2A: NO) and thus is eligible at Pathway B. This concludes the eligibility
+ analysis. If, however, the additional elements do not integrate the exception into
+ a practical application, then the claim is directed to the recited judicial
+ exception (Step 2A: YES), and requires further analysis under Step 2B (where it
+ may still be eligible if it amounts to an ‘‘inventive concept’’). For more
+ information on how to evaluate whether a judicial exception is integrated into a
+ practical application, see 
+MPEP § 2106.04(d)(2)
+.
+
+The mere inclusion of a judicial exception such as
+ a mathematical formula (which is one of the mathematical concepts identified as an
+ abstract idea in 
+MPEP § 2106.04(a)
+) in a clai

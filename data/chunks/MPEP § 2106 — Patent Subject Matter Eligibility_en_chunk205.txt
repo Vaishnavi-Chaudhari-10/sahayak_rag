@@ -1,0 +1,19 @@
+oth Step 2A Prong Two and Step 2B), Step 2A specifically excludes
+ consideration of whether the additional elements represent well-understood,
+ routine, conventional activity. Accordingly, in Step 2A Prong Two, examiners
+ should ensure that they give weight to all additional elements, whether or not
+ they are conventional, when evaluating whether a judicial exception has been
+ integrated into a practical application. Additional elements that represent
+ well-understood, routine, conventional activity may integrate a recited judicial
+ exception into a practical application. 
+
+It is notable that mere physicality or tangibility
+ of an additional element or elements is not a relevant consideration in Step 2A
+ Prong Two. As the Supreme Court explained in 
+Alice Corp.,
+ mere
+ physical or tangible implementation of an exception does not guarantee
+ eligibility. 
+Alice Corp. Pty. Ltd. v. CLS Bank Int’l,
+ 573 U.S.
+ 208, 224, 110 USPQ2d 1976, 1983-84 (2014) (“The fact that a computer ‘necessarily

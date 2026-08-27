@@ -1,0 +1,14 @@
+ed for these studies, i.e. the 
+minimum number of animals on which data should be available, is shown in Item 1.9. 
+
+Wherever applicable, a control group of animals given the vehicle alone should be 
+included, and three other groups should be given graded doses of the drug. The high est dose 
+should produce observable toxicity; the lowest dose should not cause observable toxicity, but 
+should be comparable to the intended therapeutic dose in humans or a multiple of it . To make 
+allowance for the sensitivity of the species the intermedi ate dose should cause some 
+symptoms, but not gross toxicity or death, and should be placed logarithmically between the 
+other two doses. 
+The parameters to be monitored and recorded in long-term toxicity studies should include 
+behavioral, physiological, bioc hemical and microscopic observations. In case of parenteral 
+drug administration, the sites of injection should be subjected to gross and microscopic 
+examination. Initial and final electrocardiog

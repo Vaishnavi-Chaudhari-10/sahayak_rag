@@ -1,0 +1,21 @@
+haracteristics
+ analysis. 
+
+It is important to keep in mind that under the
+ broadest reasonable interpretation (BRI) of the claims, a nature-based product
+ limitation may encompass both eligible and ineligible products. For example, a
+ claim to a “cloned giraffe” may have a BRI encompassing cloned giraffes with
+ markedly different characteristics, as well as cloned giraffes that lack markedly
+ different characteristics and thus are products of nature. Cf.
+
+Roslin,
+ 750 F.3d at 1338-39, 110 USPQ2d at 1673 (applicant
+ could not rely on unclaimed features to distinguish claimed mammals from donor
+ mammals). 
+
+Such a claim recites a product of nature, and thus
+ requires further analysis in Prong Two. If the claim is ultimately rejected as
+ failing to encompass an inventive concept (Step 2B: NO), it is a best practice for
+ the examiner to point out the broadest reasonable interpretation and recommend an
+ amendment, if possible, that would narrow the claim to those embodiments that are
+ not

@@ -1,0 +1,26 @@
+g. 
+17.3.10.11. Batch-number allocation shall be immediately 
+recorded, e.g. in a logbook. The record shall 
+include at lea st the date of allocation, product 
+identity and size of batch. 
+17.3.10.12. There shall be written procedures for testing 
+materials and products at different stages of 
+manufacture, describing the methods and 
+equipment to be used. The tests performed shall be 
+recorded. 
+17.3.10.13. Analysis records shall include at least the 
+following data, namely- 
+(a) the name of the material or product and, where 
+applicable, dosage form; 
+(b) the batch number and, where appropriate, the 
+manufacturer and supplier; 
+(c) references to the relevant specifications an d 
+testing procedures; 
+(d) test results, including observations and 
+calculations, and reference to any 
+specifications (limits); 
+(e) date and reference number of testing; 
+(f) the initials of the persons who performed the 
+testing; 
+(g) the date and initials of the persons who verified 
+the testing and the cal

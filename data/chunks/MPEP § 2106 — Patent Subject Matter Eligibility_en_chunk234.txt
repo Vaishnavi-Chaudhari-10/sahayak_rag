@@ -1,0 +1,16 @@
+uce the patient’s blood glucose level, thereby
+ lowering the risk that the patient will develop ketoacidosis. Thus, in the
+ context of this claim, the administration step is significantly related to
+ the recited correlation between high blood glucose levels and the risk of
+ ketoacidosis. Because insulin is also a “particular” treatment, this
+ administration step integrates the law of nature into a practical
+ application. Alternatively, consider a claim that recites the same law of
+ nature and also recites “treating a patient having a blood glucose level
+ over 250 mg/dl with aspirin.” Aspirin is not known in the art as a treatment
+ for ketoacidosis or diabetes, although some patients with diabetes may be on
+ aspirin therapy for other medical reasons (
+e.g.,
+ to
+ control pain or inflammation, or to prevent blood clots). In the context of
+ this claim and the recited correlation between high blood glucose levels and
+ the risk of ketoacidosis, administration of aspirin has at best a nominal

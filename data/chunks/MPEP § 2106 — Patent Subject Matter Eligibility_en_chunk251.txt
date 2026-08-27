@@ -1,0 +1,33 @@
+(see 
+MPEP §
+ 2106.05(g)
+); or
+
+iv. Generally linking the use of the judicial
+ exception to a particular technological environment or field of use,
+
+e.g.,
+ a claim describing how the abstract idea of
+ hedging could be used in the commodities and energy markets, as discussed in
+
+Bilski v. Kappos,
+ 561 U.S. 593, 595, 95 USPQ2d 1001,
+ 1010 (2010) or a claim limiting the use of a mathematical formula to the
+ petrochemical and oil-refining fields, as discussed in 
+Parker v.
+ Flook,
+ 437 U.S. 584, 588-90, 198 USPQ 193, 197-98 (1978)
+ (
+MPEP § 2106.05(h)
+). 
+
+It is notable that mere physicality or tangibility
+ of an additional element or elements is not a relevant consideration in Step 2B.
+ As the Supreme Court explained in 
+Alice Corp.,
+ mere physical or
+ tangible implementation of an exception is not in itself an inventive concept and
+ does not guarantee eligibility: 
+
+The fact that a computer “necessarily exist[s]
+ in the physical, rather than purely conceptual, realm,” is beside the poin

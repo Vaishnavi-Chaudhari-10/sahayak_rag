@@ -1,0 +1,16 @@
+(and its changes to such software or its application) for production and service 
+provision that affect the ability of the product conform to specified requirements. Such soft ware 
+applications shall be validated prior to initial use. 
+Records of validation shall be maintained. 
+
+7.5.2.2 Particular requirements for sterile medical devices: 
+The manufacturer shall establish documented procedures for the validation of sterilization processes. 
+Sterilisation processes shall be validated prior to initial use. The records of validation of each 
+sterilisation process shall be maintained. 
+
+7.5.3 Identification and traceability.- 
+7.5.3.1 Identification: 
+The manufacturer shall identify the pro duct by suitable means throughout product realization, and 
+shall establish documented procedures for such product identification. The manufacturer shall 
+establish documented procedures to ensure that medical devices and In-vitro Diagnostics returned to 
+the manufacturer are identified and distingui

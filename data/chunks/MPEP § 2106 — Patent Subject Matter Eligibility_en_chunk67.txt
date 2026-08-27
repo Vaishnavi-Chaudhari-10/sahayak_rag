@@ -1,0 +1,21 @@
+s, or multiple laws of nature may be
+ recited. In these cases, examiners should not parse the claim. For example, in a
+ claim that includes a series of steps that recite mental steps as well as a
+ mathematical calculation, an examiner should identify the claim as reciting both a
+ mental process and a mathematical concept for Step 2A Prong One to make the
+ analysis clear on the record. However, if possible, the examiner should consider
+ the limitations together as a single abstract idea for Step 2A Prong Two and Step
+ 2B (if necessary) rather than as a plurality of separate abstract ideas to be
+ analyzed individually.
+
+2106.04(a) Abstract Ideas [R-07.2022]
+
+The abstract idea exception has deep roots in the
+ Supreme Court’s jurisprudence. See 
+Bilski v. Kappos,
+ 561 U.S. 593,
+ 601-602, 95 USPQ2d 1001, 1006 (2010) (citing 
+Le Roy v. Tatham,
+ 55
+ U.S. (14 How.) 156, 174–175 (1853)). Despite this long history, the courts have
+ declined to define abstract ideas. However, it is clear from the

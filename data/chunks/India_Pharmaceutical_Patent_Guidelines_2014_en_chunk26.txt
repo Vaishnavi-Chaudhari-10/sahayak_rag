@@ -1,0 +1,16 @@
+alactose content being at 
+least 65 % and (iv) optionally concentrating the galactooligosaccharides solution. 
+Prior Art: D1 discloses a process for the production of galacto -oligosaccharides from lactose 
+using immobilized B. singularis cells. D1 does not explicitly teach the combined use of B. 
+Singularis and Saccharomyces sp. in the production of galacto-oligosaccharides. 
+
+8 
+
+D2 discloses the use of Saccharomyces sp . for the production of galacto -oligosaccharides 
+from lactose. It further discloses that Saccharomyces sp. uses lactose as a carbon source & 
+approximately it removes 92% of glucose from the GOS mixture by fermentation without 
+losing the GOS content. 
+Analysis: Since it is evident from D2 that Saccharomyces sp . consume glucose, one of 
+ordinary person skilled in the art would be motivated to use Saccharomyces sp . in 
+combination with B. singularis to solve the problem of separation of saccharides and also, 
+reducing the competitive inhibition of beta -galactosida

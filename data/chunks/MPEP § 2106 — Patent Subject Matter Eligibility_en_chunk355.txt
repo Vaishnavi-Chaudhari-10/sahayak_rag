@@ -1,0 +1,26 @@
+le effectively adding words that “apply it” in a
+ computer. 
+Id.
+
+Requiring more than mere instructions to apply an
+ exception does not mean that the claim must be narrow in order to be eligible. The
+ courts have identified some broad claims as eligible see, 
+e.g.,
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d 1299, 120
+ USPQ2d 1091 (Fed. Cir. 2016); 
+Thales Visionix Inc. v. United
+ States,
+ 850 F.3d. 1343, 121 USPQ2d 1898 (Fed. Cir. 2017), and some
+ narrow claims as ineligible see 
+e.g.,
+Ultramercial, Inc. v. Hulu, LLC,
+ 772 F.3d 709, 112 USPQ2d 1750
+ (Fed. Cir. 2014); 
+Electric Power Group, LLC v. Alstom, S.A.,
+ 830
+ F.3d 1350, 119 USPQ2d 1739 (Fed. Cir. 2016). Thus, examiners should carefully
+ consider each claim on its own merits, as well as evaluate all other relevant
+ considerations, before making a determination of whether an element (or combination
+ of elements) is more than mere instructions to apply an exception. For example,
+ because this consideration often overlaps

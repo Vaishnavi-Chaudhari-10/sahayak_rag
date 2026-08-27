@@ -1,0 +1,28 @@
+ii. Identifying the participants in a process for
+ hedging risk as commodity providers and commodity consumers, because limiting
+ the use of the process to these participants did no more than describe how the
+ abstract idea of hedging risk could be used in the commodities and energy
+ markets, 
+Bilski,
+ 561 U.S. at 595, 95 USPQ2d at 1010; 
+
+iii. Limiting the use of the formula C = 2 (pi) r to
+ determining the circumference of a wheel as opposed to other circular objects,
+ because this limitation represents a mere token acquiescence to limiting the
+ reach of the claim, 
+Flook,
+ 437 U.S. at 595, 198 USPQ at
+ 199;
+
+iv. Specifying that the abstract idea of monitoring
+ audit log data relates to transactions or activities that are executed in a
+ computer environment, because this requirement merely limits the claims to the
+ computer field, 
+i.e.,
+ to execution on a generic computer,
+
+FairWarning v. Iatric Sys.,
+ 839 F.3d 1089, 1094-95, 120
+ USPQ2d 1293, 1295 (Fed. Cir. 2016); 
+
+v. Language s

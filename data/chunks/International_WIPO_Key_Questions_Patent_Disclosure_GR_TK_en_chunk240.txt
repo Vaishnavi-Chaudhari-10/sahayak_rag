@@ -1,0 +1,9 @@
+whether to create new PDRs related to GRs and TK, and, if so, how to implement them, is not straightforward. 
+It depends on a broad range of factors, including policy goals and objectives, competing interests, legal nature of the 
+requirements, institutional framework and capacities, among others.
+As this study has explained, there are many options to consider – different forms of law in which a new PDR might be 
+included, important differences in terms of the possible scope and content of obligations, the consequences of breaching 
+those obligations, the mechanisms and institutions that might enforce them, and so on. Each of these options may entail 
+different opportunities, risks and costs that will vary depending on the national context in which a PDR is implemented.
+By identifying the key options in a systematic way, drawing on the experience of implementing PDRs in various countries, 
+this study aims to enable policymakers to reach informed decisions and facilitate understanding,

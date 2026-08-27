@@ -1,0 +1,22 @@
+ations, before making a determination of whether an element (or combination
+ of elements) is more than mere instructions to apply an exception. For example,
+ because this consideration often overlaps with the improvement consideration (see
+
+MPEP §
+ 2106.05(a)
+), the particular machine and particular
+ transformation considerations (see 
+MPEP § 2106.05(b) and
+ (c)
+, respectively), and the well-understood, routine,
+ conventional consideration (see 
+MPEP § 2106.05(d)
+), evaluation of
+ those other considerations may assist examiners in making a determination of whether
+ an element (or combination of elements) is more than mere instructions to apply an
+ exception. Note, however, that examiners should not evaluate the well-understood,
+ routine, conventional consideration in the Step 2A Prong Two analysis, because that
+ consideration is only evaluated in Step 2B.
+
+For claim limitations that do not amount to more than
+ a recitation of the words “apply it” (or an equivalent), such as mere instru

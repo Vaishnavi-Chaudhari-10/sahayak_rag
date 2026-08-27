@@ -1,0 +1,30 @@
+afe change ﬁlter housings:- 
+9.1. Safe change or bag -in-bag-out ﬁlter housings shall be suitably designed 
+to provide operator protection and to prevent dust from the ﬁlters 
+entering the atmosphere when ﬁlters are changed. The Sa fe change ﬁlter 
+bypass arrangement shall be as specified in the figure below– 
+
+9.2. The ﬁnal ﬁlters on the safe change unit shall be HEPA ﬁlters with at least 
+an H13 classiﬁcation according to European norms ﬁlter standards. For 
+dusty return, air pre-ﬁltration may also be required to prolong the life of 
+the HEPA ﬁlters. The pre -ﬁltration ﬁlters shall also be removable 
+through the bag-in-bag-out method. 
+
+9.3. For e xhaust systems where the discharge contaminant is considered 
+particularly hazardous, two banks of HEPA ﬁlters in series shall be 
+considered to provide additional protection the ﬁrst ﬁlter fail. 
+DOP 
+Injection 
+Filterintegrity test &De-contamination by-pass duct 
+E 
+Shut-
+offDamper
+s 
+VFD 
+Shut-
+offDampe
+r 
+EXHAUSTAI
+RFAN 
+M M M 
+SECONDAR

@@ -1,0 +1,28 @@
+hine readable media can
+ encompass non-statutory transitory forms of signal transmission, such as a
+ propagating electrical or electromagnetic signal per se. See 
+In re
+ Nuijten,
+ 500 F.3d 1346, 84 USPQ2d 1495 (Fed. Cir. 2007). When the BRI
+ encompasses transitory forms of signal transmission, a rejection under
+
+35 U.S.C.
+ 101
+ as failing to claim statutory subject matter would be
+ appropriate. Thus, a claim to a computer readable medium that can be a compact disc
+ or a carrier wave covers a non-statutory embodiment and therefore should be rejected
+ under 
+35 U.S.C.
+ 101
+ as being directed to non-statutory subject matter. See,
+
+e.g., Mentor Graphics v. EVE-USA, Inc.,
+ 851 F.3d at 1294-95,
+ 112 USPQ2d at 1134 (claims to a “machine-readable medium” were non-statutory, because
+ their scope encompassed both statutory random-access memory and non-statutory carrier
+ waves). 
+
+If a claim is clearly not within one of the four
+ categories (Step 1: NO), then a rejection under 
+35 U.S.C. 101
+ mus

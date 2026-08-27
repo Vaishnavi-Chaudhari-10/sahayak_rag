@@ -1,0 +1,15 @@
+sults 
+confirmed that the treated E. coli cells were damaged, showing formation of “pits” in the 
+cell wall of the bacteria, while the silver nanoparticles were found to accumulate in the 
+bacterial membrane. A membrane with such morphology exhibits a s ignificant increase in 
+permeability, which leads to leaking of intracellular substances (that is admitted by the 
+applicant on page 16, 3rd paragraph in the specification of the present invention). The TEM 
+micrograph also shows coagulation of nano-sized particles at the bacterial surface. 
+Analysis: Prior art discloses each and every aspect of claimed invention right from the 
+selection of E. coli strain, preparation of silver nanoparticles, culturing of the bacterial strain 
+with different concentration of sil ver nanoparticles, conditions for bacterial growth and 
+assessment of effect of silver nanoparticles on gram negative bacteria. Prior art does not 
+
+9 
+
+explicitly teach removal of plasmid from bacteria; however, it teaches tha

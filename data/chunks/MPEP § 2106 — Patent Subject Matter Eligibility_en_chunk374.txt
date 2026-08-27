@@ -1,0 +1,18 @@
+al
+ accounts that communicate with the ISP server, and to associate a request for
+ Internet content with a specific individual account,” were held to be meaningful
+ limitations because they confined the abstract idea of content filtering to a
+ particular, practical application of the abstract idea. 827 F.3d at 1350-51, 119
+ USPQ2d at 1243. 
+
+2106.05(g) Insignificant Extra-Solution
+ Activity [R-10.2019]
+
+Another consideration when determining whether a
+ claim integrates the judicial exception into a practical application in Step 2A Prong
+ Two or recites significantly more in Step 2B is whether the additional elements add
+ more than insignificant extra-solution activity to the judicial exception. The term
+ “extra-solution activity” can be understood as activities incidental to the primary
+ process or product that are merely a nominal or tangential addition to the claim.
+ Extra-solution activity includes both pre-solution and post-solution activity. An
+ example of pre-solution activity is

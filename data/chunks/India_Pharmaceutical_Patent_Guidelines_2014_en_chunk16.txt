@@ -1,0 +1,17 @@
+n a 
+gene/protein which might be associated with a particular condition such as protein 
+expression or a disease. 
+6. PRIOR ART SEARCH 
+While conducting a prior art search, the Examiner should design a comprehensive 
+search strategy by combining various search parameters including key words, IPC, 
+sequences, etc. and thorough search should be carried out in patent as well as non -patent 
+databases. 
+If a patent application discloses sequence listing of nucleotides and/or amino acids 
+as per Rule 9 (1) of the Patents Rules 2003, the same shall also be filed in electronic form. 
+To facilitate the processing of patent applications, the sequence listings should be filed in 
+computer readable format. The examiner should carry out the sequence search on the 
+commercial databases available to the office and freely available databases using diverse 
+search tools such as BLAST, FASTA, etc. 
+7. NOVELTY 
+In the case of biotechnological inventions the assessment of novelty shall be carried 
+out in

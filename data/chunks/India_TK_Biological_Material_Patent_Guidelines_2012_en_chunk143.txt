@@ -1,0 +1,39 @@
+serve 
+the purpose of the alleged invention. As in above, the examples are limited to only few 
+substituents and do not enable (which is not possible also) other classes of substituents. 
+An objection of insufficiency and support may be raised against such claims and 
+descriptions. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Example 3: 
+
+Invention: Discloses a compound of formula 1 having insecticidal property. 
+
+N
+O
+G2
+N
+G1
+G7
+G3
+G6
+G4
+
+G5 
+
+G1 represents oxygen or sulphur, 
+
+G2 represents oxygen, amino, aminoformyl or aminoacetyl, 
+
+G3 represents hydrogen, amino, hydroxyl or represents C1-C6-alkyl, CrC6-alkenyl, C2- C6-
+alkynyl or C3-C6-cycloalkyl, 
+
+G4 independently of one another represent C1-C6-alkyl, C2-C6-alkenyl, C2-C6-alkynyl, C3-
+C6-cycloalkyl, 
+
+n represents 0 to 4, 
+
+G5 represents hydrogen, halogen, cyano, nitro, C1-C4-alkyl, C1-C4-haloalkyl, C2-C6- 
+alkenyl, CrC

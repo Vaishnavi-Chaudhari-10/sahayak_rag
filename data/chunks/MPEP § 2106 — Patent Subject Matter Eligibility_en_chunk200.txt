@@ -1,0 +1,25 @@
+al exception, such that the claim
+ is more than a drafting effort designed to monopolize the judicial exception. Whether
+ or not a claim integrates a judicial exception into a practical application is
+ evaluated using the considerations set forth in subsection I below, in accordance
+ with the procedure described below in subsection II.
+
+In the context of the flowchart in
+
+MPEP §
+ 2106
+, subsection III, Step 2A Prong Two determines
+ whether:
+
+ • The claim as a whole integrates the judicial
+ exception into a practical application, in which case the claim is not directed
+ to a judicial exception (Step 2A: NO) and is eligible at Pathway B. This
+ concludes the eligibility analysis. 
+
+ • The claim as a whole does not integrate the
+ exception into a practical application, in which case the claim is directed to
+ the judicial exception (Step 2A: YES), and requires further analysis under Step
+ 2B (where it may still be eligible if it amounts to an inventive concept). See
+
+MPEP § 2106.05
+ for dis

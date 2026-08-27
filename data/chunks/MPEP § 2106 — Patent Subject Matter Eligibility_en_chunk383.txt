@@ -1,0 +1,39 @@
+ed from an ultrasound scan, to be used in a diagnosis). 
+
+• Selecting a particular data source or type of data to be
+ manipulated:
+
+i. Limiting a database index to XML tags,
+
+Intellectual Ventures I LLC v. Erie Indem. Co.,
+ 850
+ F.3d at 1328-29, 121 USPQ2d at 1937; 
+
+ii. Taking food orders from only table-based
+ customers or drive-through customers, 
+Ameranth,
+ 842
+ F.3d at 1241-43, 120 USPQ2d at 1854-55; 
+
+iii. Selecting information, based on types of
+ information and availability of information in a power-grid environment,
+ for collection, analysis and display, 
+Electric Power Group, LLC
+ v. Alstom S.A.,
+ 830 F.3d 1350, 1354-55, 119 USPQ2d 1739,
+ 1742 (Fed. Cir. 2016); and 
+
+iv. Requiring a request from a user to view
+ an advertisement and restricting public access,
+
+Ultramercial,
+ 772 F.3d at 715-16, 112 USPQ2d at
+ 1754.
+
+• Insignificant application:
+
+i. Cutting hair after first determining the
+ hair style, 
+In re Brown,
+ 645 Fed. App'x 1014,
+ 1016-1017 (Fed. Cir. 2016) (non-precede

@@ -1,0 +1,40 @@
+[top]
+
+2101-2102-[Reserved]
+
+2103-Patent Examination Process
+
+2104-Requirements of 35 U.S.C. 101
+
+2104.01-Barred by Atomic Energy Act
+
+2105-Patent Eligible Subject Matter — Living Subject Matter
+
+2106-Patent Subject Matter Eligibility
+
+2106.01-[Reserved]
+
+2106.02-[Reserved]
+
+2106.03-Eligibility Step 1: The Four Categories of Statutory Subject Matter
+
+2106.04-Eligibility Step 2A: Whether a Claim is Directed to a Judicial Exception
+
+2106.04(a)-Abstract Ideas
+
+2106.04(a)(1)-Examples of Claims That Do Not Recite Abstract Ideas
+
+2106.04(a)(2)-Abstract Idea Groupings
+
+2106.04(a)(3)-Tentative Abstract Ideas
+
+2106.04(b)-Laws of Nature, Natural Phenomena & Products of Nature
+
+2106.04(c)-The Markedly Different Characteristics Analysis
+
+2106.04(d)-Integration of a Judicial Exception Into A Practical Application
+
+2106.04(d)(1)-Evaluating Improvements in the Functioning of a Computer, or an Improvement to Any Other Technology or Technical Field in
+ Step 2A Prong Two
+
+2106.04(d)(2)-Particular Treat

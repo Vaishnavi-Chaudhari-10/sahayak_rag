@@ -1,0 +1,25 @@
+PQ2d 1001, 1006 (2010) (citing 
+Le Roy v. Tatham,
+ 55
+ U.S. (14 How.) 156, 174–175 (1853)). Despite this long history, the courts have
+ declined to define abstract ideas. However, it is clear from the body of judicial
+ precedent that software and business methods are not excluded categories of subject
+ matter. For example, the Supreme Court concluded that business methods are not
+ “categorically outside of 
+§ 101's
+ scope,” stating that “a
+ business method is simply one kind of ‘method’ that is, at least in some
+ circumstances, eligible for patenting under 
+§ 101
+.”
+
+Bilski,
+ 561 U.S. at 607, 95 USPQ2d at 1008 (2010). See also
+
+Content Extraction and Transmission, LLC v. Wells Fargo Bank,
+
+ 776 F.3d 1343, 1347, 113 USPQ2d 1354, 1357 (Fed. Cir. 2014) (“there is no categorical
+ business-method exception”). Likewise, software is not automatically an abstract
+ idea, even if performance of a software task involves an underlying mathematical
+ calculation or relationship. See, 
+e.g., Thales V

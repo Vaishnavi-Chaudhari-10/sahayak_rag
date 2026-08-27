@@ -1,0 +1,23 @@
+3 
+(i) name of equipment or machine or apparatus; 
+(ii) manufacturer's name, model nu mber and type of 
+identification; 
+(iii) serial number; 
+(iv) date on which equipment was received in laboratory; 
+(v) current location; 
+(vi) condition when received (e.g., new, used, re-conditioned); 
+(vii) copy of the manufacturer's operating instructions; 
+(viii) frequency of calibration; 
+(ix) frequency of maintenance; 
+(x) log Book ( day-to-day entry including status of the equipment) 
+(xi) staff responsible for monitoring the calibration and 
+maintenance status of the equipment; 
+(xii) calibrating records; 
+(xiii) list of authorised users or operators, if any; 
+(xiv) history of any damage, malfunction, modification or 
+upgradation, repair and calibration; 
+(xv) list of spares and accessories, if any. 
+(f) A progress register f or non -functional equipments and action for 
+procurement of spares and accessories, monitoring thereof, shall be 
+maintained. 
+(g) A Standard Operating Procedure for pre

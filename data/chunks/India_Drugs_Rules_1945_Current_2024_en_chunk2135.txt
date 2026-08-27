@@ -1,0 +1,36 @@
+n of the drug and the therapeutic class to which it belongs 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+2. Chemical and pharmaceutical information 
+2.1. Information on active ingredients 
+ Drug information (Generic name, Chemical name or INN) 
+2.2 Physicochemical Data 
+(a) Chemical name and structure 
+Empirical formula 
+Molecular weight 
+(b) Physical properties 
+Description 
+Solubility 
+Rotation 
+Partition coefficient 
+Dissociation constant 
+2.3. Analytical Data 
+Elemental analysis 
+Mass spectrum 
+NMR spectra 
+IR spectra 
+UV spectra 
+Polymorphic identification 
+2.4. Complete monograph specification including 
+Identification 
+Identity/quantification of impurities 
+Enantiomeric purity 
+Assay 
+2.5. Validations 
+Assay method 
+Impurity estimation method 
+Residual solvent/other volatile impurities (OVI) estimation method 
+2.6. Stability studies (for details refer Appendix IX) 
+Final release specification 
+
+Central Drugs Standa

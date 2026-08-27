@@ -1,0 +1,23 @@
+t the
+ improvement is not defined by reference to ‘physical’ components does not doom the
+ claims”). See also 
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+
+ 837 F.3d 1299, 1315, 120 USPQ2d 1091, 1102 (Fed. Cir. 2016), (holding that a
+ process producing an intangible result (a sequence of synchronized, animated
+ characters) was eligible because it improved an existing technological process).
+
+B.
+ Examples Of How Courts Conduct The Search For An Inventive
+ Concept
+Alice Corp.
+ provides an example
+ of how courts conduct the significantly more analysis. In this case, the Supreme
+ Court analyzed claims to computer systems, computer readable media, and
+ computer-implemented methods, all of which described a scheme for mitigating
+ “settlement risk,” which is the risk that only one party to an agreed-upon
+ financial exchange will satisfy its obligation. In part one of the
+
+Alice/Mayo
+ test, the Court determined that the claims were
+ directed to the abstract idea of mitigating settlement risk.

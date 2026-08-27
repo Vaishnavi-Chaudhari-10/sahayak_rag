@@ -1,0 +1,22 @@
+ond.
+
+ When an examiner determines a claim does not fall
+ within a statutory category (Step 1: NO), the rejection should provide an explanation of
+ why the claim does not fall within one of the four statutory categories of invention.
+ See 
+MPEP §
+ 2106.03
+ for a discussion of Step 1 and the statutory
+ categories of invention. 
+
+When an examiner determines that a claim is directed to
+ a judicial exception (Step 2A: YES) and does not provide an inventive concept (Step 2B:
+ NO), the rejection should provide an explanation for each part of the Step 2 analysis.
+ For example, the rejection should identify the judicial exception by referring to what
+ is recited (
+i.e.,
+ set forth or described) in the claim and explain
+ why it is considered an exception, identify any additional elements (specifically point
+ to claim features/limitations/steps) recited in the claim beyond the identified judicial
+ exception, and explain the reason(s) that the additional elements taken individually,
+ and also tak

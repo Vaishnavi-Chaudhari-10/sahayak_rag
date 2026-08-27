@@ -1,0 +1,28 @@
+ure-based product limitation and determine the answer to Step 2A. Nature-based
+ products, as used herein, include both eligible and ineligible products and merely
+ refer to the types of products subject to the markedly different characteristics
+ analysis used to identify product of nature exceptions. Examples of nature-based
+ products include the isolated gene and cDNA sequences of
+
+Myriad,
+ the cloned farm animals of
+
+Roslin,
+ and the bacterium of 
+Chakrabarty
+.
+ As is evident from these examples, and as further discussed in
+
+MPEP §
+ 2105
+, a nature-based product that is a living organism
+ (
+e.g.,
+ a plant, an animal, a bacterium, etc.) is not
+ excluded from patent protection merely because it is alive, and such a product is
+ eligible for patenting if it satisfies the markedly different characteristics
+ analysis. 
+
+It is important to keep in mind that under the
+ broadest reasonable interpretation (BRI) of the claims, a nature-based product
+ limitation may encompass both eligible and i

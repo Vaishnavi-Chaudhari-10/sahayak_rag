@@ -1,0 +1,16 @@
+and the finished product]. 
+1.7. Many biological materials (such as live-attenuated bacteria and viruses) 
+cannot be terminally sterilised by heat, ga s or radiation. In addition, 
+some products, such as certain live and adjuvant vaccines [for example, 
+Bacilli Calmette Guerin (BCG) or Cholera], may not be sterilised by 
+filtration processes. For these axenic products, processing shall be 
+conducted aseptica lly to minimise the introduction of contaminants 
+from the point where a potential contamination cannot be removed 
+from the manufacturing process. The validation of specific and critical 
+manufacturing steps such as virus removal or inactivation shall be 
+carried out. Robust environmental controls and monitoring and, 
+wherever feasible, in situ cleaning and sterilisation systems, together 
+with the use of closed systems can significantly reduce the risk of 
+accidental contamination and cross-contamination. 
+1.8. Control usually involves biological analytical techniques, which 
+typ

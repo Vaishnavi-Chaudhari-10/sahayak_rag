@@ -1,0 +1,17 @@
+shall be provided with 
+stopcocks, for safe removal or calibration of gauges. 
+9.5. Monitoring of ﬁlters shall be done at regular intervals to prevent 
+excessive ﬁlter loading that could force dust particles through the ﬁlter 
+media, or could cause the ﬁlters to burst, resulting in ambient 
+contamination. 
+9.6. Computer based data monitoring systems may be installed to monitor 
+ﬁlter condition. 
+9.7. Filter pressure gauges shall be marked with the clean ﬁlter resistance and 
+the change-out ﬁlter resistance. 
+9.8. Installed ﬁlter leakage tests shall be performed in accordance with ISO 
+standards. Injection ports (upstream) and access ports (downstream) 
+shall, therefore, be provided for this purpose. 
+9.9. The exhaust air fan on a safe change ﬁlter system shall be located after 
+the ﬁlters so that the ﬁlter housing is maintained at a negative pressure. 
+This poses a difﬁculty when carrying out ﬁlter integrity tests and for this 
+reason a bypass damper system shall be provided, as illus

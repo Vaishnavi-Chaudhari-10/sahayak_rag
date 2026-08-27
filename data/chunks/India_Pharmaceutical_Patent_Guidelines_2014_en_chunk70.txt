@@ -1,0 +1,16 @@
+any knowledge of any relationship, either from the specification or from 
+common general knowledge, the skilled person would not know how to produce and use 
+the compounds. It would require an undue burden of experimentation to screen undefined 
+compounds for the desired activity. There will also be a lack of support where the function 
+of the compounds identified is not specified. 
+
+20 
+
+19.1. UNITY OF INVENTION 
+According to Section 10 (5) of the Act, the claim or claims of a complete specification 
+shall relate to a single invention, or to a group of inventions linked so as to form a single 
+inventive concept. In the field of gene technology it is quite common for a patent 
+application to claim, a large number of polynucleotide and polypeptide sequences. This 
+raises problems at the various phases of the application such as publication stage, 
+examination especially the searching stage. In particular, it is not always clear whether 
+claimed sequences relate to a single invention, o

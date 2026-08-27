@@ -1,0 +1,35 @@
+103 USPQ2d 1425, 1433 (Fed. Cir.
+ 2012) (“The computer required by some of 
+Bancorp
+’s claims
+ is employed only for its most basic function, the performance of repetitive
+ calculations, and as such does not impose meaningful limits on the scope of
+ those claims.”); 
+
+iii. Electronic recordkeeping, 
+Alice
+ Corp. Pty. Ltd. v. CLS Bank Int'l,
+ 573 U.S. 208, 225, 110
+ USPQ2d 1984 (2014) (creating and maintaining “shadow accounts”);
+
+Ultramercial,
+ 772 F.3d at 716, 112 USPQ2d at 1755
+ (updating an activity log); 
+
+iv. Storing and retrieving information in
+ memory, 
+Versata Dev. Group, Inc. v. SAP Am., Inc.,
+ 793
+ F.3d 1306, 1334, 115 USPQ2d 1681, 1701 (Fed. Cir. 2015); 
+OIP
+ Techs.,
+ 788 F.3d at 1363, 115 USPQ2d at 1092-93; 
+
+v. Electronically scanning or extracting data
+ from a physical document, 
+Content Extraction and Transmission, LLC
+ v. Wells Fargo Bank,
+ 776 F.3d 1343, 1348, 113 USPQ2d 1354, 1358
+ (Fed. Cir. 2014) (optical character recognition); and 
+
+vi. A Web browser’s back and f

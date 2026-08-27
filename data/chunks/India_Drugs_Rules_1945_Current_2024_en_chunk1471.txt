@@ -1,0 +1,30 @@
+4.6. Clean rooms and clean-air devices shall be classified in accordance with 
+ISO standards. 
+4.6.1. Classification shall be clearly differentiated from operational 
+process environmental monitoring. The maximum permitted 
+airborne particle concentration for each Grade is given in Table 
+1 below. 
+
+Table 1 
+
+Maximum permitted airborne particle concentrate 
+
+Grade Maximum permitted number of particles per 
+m3greater than or equal to the tabulated size 
+ At rest In operation 
+ 0.5 μm 5.0 
+μm 0.5 μm 5.0 μm 
+A 3520 20 3520 20 
+B 3520 29 352000 2900 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+C 352000 2900 3520000 29000 
+D 3 
+520000 29000 Not 
+defined Not defined 
+
+The “at rest” state is the condition where the installation is 
+complete with equipment installed and operating in a manner 
+agreed upon by the customer and supplier, but with no 
+personnel present. 
+The “in operation” state is the condition where the installation

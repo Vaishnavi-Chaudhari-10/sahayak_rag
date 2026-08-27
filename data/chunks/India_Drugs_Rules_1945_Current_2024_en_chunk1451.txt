@@ -1,0 +1,17 @@
+d, if appropriate documentation is available. 
+20.4. Computerised systems shall have sufﬁcient controls to prevent 
+unauthorised access or changes to data. There shall be controls to 
+prevent omissions in data (e.g., the system being turned off and data 
+not captured). There shall be a record of any data change made, the 
+previous entry, the person who made the change and when the change 
+was made. 
+20.5. Written procedures shall be available for the operation and 
+maintenance of computerised systems. 
+20.6. Where critical data are being entered manually, there shall be an 
+additional check on the accuracy of the data entered. This can be done 
+by a second operator or by the system itself. 
+20.7. Incidents related to computerised systems that could affect the quality 
+of products or the reliability of records or test results shall be recorded 
+and investigated. 
+20.8. Changes to the computerised system shall be made according to a 
+change procedure and shall be formally authorised, doc

@@ -1,0 +1,27 @@
+amplification was a technique readily practiced by those
+ skilled in the art to overcome the rejection of the claim under
+
+35
+ U.S.C. 112
+, first paragraph); see also
+
+Lindemann Maschinenfabrik GMBH v. Am. Hoist & Derrick
+ Co.,
+ 730 F.2d 1452, 1463, 221 USPQ 481, 489 (Fed. Cir. 1984)
+ ("[T]he specification need not disclose what is well known in the art.");
+
+In re Myers,
+ 410 F.2d 420, 424, 161 USPQ 668, 671
+ (CCPA 1969) ("A specification is directed to those skilled in the art and
+ need not teach or point out in detail that which is well-known in the
+ art."); 
+Exergen Corp.,
+ 725 Fed. App’x. 959, 965 (Fed.
+ Cir. 2018) (holding that "[l]ike indefiniteness, enablement, or obviousness,
+ whether a claim is directed to patent eligible subject matter is a question
+ of law based on underlying facts," and noting that the Supreme Court has
+ recognized that "the inquiry 'might sometimes overlap' with other
+ fact-intensive inquiries like novelty under 
+35 U.S.C. §
+ 102
+"). If the element is not

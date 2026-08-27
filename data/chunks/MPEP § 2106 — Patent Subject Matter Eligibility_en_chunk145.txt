@@ -1,0 +1,25 @@
+graph
+
+7.05.017
+ and include the TC Director’s
+ signature. The TC Director will then inform Patents Management that this
+ procedure has been used so that the public can be notified, for example, on
+ USPTO.GOV at the Subject Matter Eligibility website. 
+
+In response to a Step 2B rejection of a claim
+ reciting a tentative abstract idea, an interview with the examiner may be
+ conducted, which may help advance prosecution and identify patent eligible
+ subject matter. See 
+MPEP § 713
+. For applications
+ in which an abstract idea has been identified using the tentative abstract idea
+ procedure, an interview with the TC Director that provided approval is not
+ necessary because the examiner retains the authority to withdraw or maintain a
+ rejection upon consideration of applicant’s reply. The examiner is not required
+ to obtain TC Director approval to withdraw or maintain such a 
+§ 101
+
+ subject matter eligibility rejection.
+
+2106.04(b) Laws of Nature, Natural Phenomena &
+ Products of Nature [

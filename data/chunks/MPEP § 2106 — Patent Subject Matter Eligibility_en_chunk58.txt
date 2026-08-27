@@ -1,0 +1,20 @@
+the Step 2A inquiry. An example
+ of a claim that merely involves, or is based on, an exception is a claim to “A
+ teeter-totter comprising an elongated member pivotably attached to a base member,
+ having seats and handles attached at opposing sides of the elongated member.” This
+ claim is based on the concept of a lever pivoting on a fulcrum, which involves the
+ natural principles of mechanical advantage and the law of the lever. However, this
+ claim does not recite these natural principles and therefore is not directed to a
+ judicial exception (Step 2A: NO). Thus, the claim is eligible at Pathway B without
+ further analysis. 
+
+If the claim recites a judicial exception
+ (
+i.e.,
+ an abstract idea enumerated in 
+MPEP §
+ 2106.04(a)
+, a law of nature, or a natural phenomenon),
+ the claim requires further analysis in Prong Two. If the claim does not recite a
+ judicial exception (a law of nature, natural phenomenon, or abstract idea), then
+ the claim cannot be directed to a judicial exceptio

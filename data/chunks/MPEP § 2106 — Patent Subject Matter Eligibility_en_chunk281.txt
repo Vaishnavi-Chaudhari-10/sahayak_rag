@@ -1,0 +1,28 @@
+0 USPQ2d 1844, 1854 (Fed. Cir. 2016); 
+
+ix. A method that generates a security profile
+ that identifies both hostile and potentially hostile operations, and can
+ protect the user against both previously unknown viruses and "obfuscated
+ code," which is an improvement over traditional virus scanning.
+
+Finjan Inc. v. Blue Coat Systems,
+ 879 F.3d 1299, 1304,
+ 125 USPQ2d 1282, 1286 (Fed. Cir. 2018); 
+
+x. An improved user interface for electronic
+ devices that displays an application summary of unlaunched applications,
+ where the particular data in the summary is selectable by a user to launch
+ the respective application. 
+Core Wireless Licensing S.A.R.L., v. LG
+ Electronics, Inc.,
+ 880 F.3d 1356, 1362-63, 125 USPQ2d 1436,
+ 1440-41 (Fed. Cir. 2018);
+
+xi. Specific interface and implementation for
+ navigating complex three-dimensional spreadsheets using techniques unique to
+ computers; 
+Data Engine Techs., LLC v. Google LLC,
+ 906
+ F.3d 999, 1009, 128 USPQ2d 1381, 1387 (Fed. Cir. 2018); and
+
+xi

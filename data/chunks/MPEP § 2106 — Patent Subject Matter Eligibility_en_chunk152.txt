@@ -1,0 +1,20 @@
+pirin, the human body’s natural response to
+ aspirin is not considered to be a law of nature. These claims are accordingly
+ eligible at Prong One unless they recite another exception, in which case they
+ require further analysis in Prong Two (and Step 2B, if needed) to determine their
+ eligibility. Similarly, a method of producing a new compound is not directed to
+ the individual components’ ability to combine to form the new compound.
+
+Id.
+ See also 
+Tilghman v. Proctor,
+ 102
+ U.S. 707, 729 (1881) (claims reciting process steps for manufacturing fatty acids
+ and glycerol by hydrolyzing fat at high temperature and pressure were held to be
+ eligible, because they are not focused on the chemical principle that fat can be
+ hydrolyzed into its components). 
+
+Even if a claim does recite a law of nature or
+ natural phenomenon, it may still be eligible at any of Pathways A through C. For
+ example, claims reciting a naturally occurring relationship between a patient’s
+ genotype and the risk of

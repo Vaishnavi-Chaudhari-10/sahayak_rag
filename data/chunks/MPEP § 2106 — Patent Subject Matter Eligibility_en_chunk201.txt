@@ -1,0 +1,26 @@
+is directed to
+ the judicial exception (Step 2A: YES), and requires further analysis under Step
+ 2B (where it may still be eligible if it amounts to an inventive concept). See
+
+MPEP § 2106.05
+ for discussion of Step 2B.
+
+I.
+ RELEVANT CONSIDERATIONS FOR
+ EVALUATING WHETHER ADDITIONAL ELEMENTS INTEGRATE A JUDICIAL EXCEPTION INTO A
+ PRACTICAL APPLICATION
+The Supreme Court and Federal Circuit have
+ identified a number of considerations as relevant to the evaluation of whether the
+ claimed additional elements demonstrate that a claim is directed to
+ patent-eligible subject matter. The list of considerations here is not intended to
+ be exclusive or limiting. Additional elements can often be analyzed based on more
+ than one type of consideration and the type of consideration is of no import to
+ the eligibility analysis. Additional discussion of these considerations, and how
+ they were applied in particular judicial decisions, is provided in
+
+MPEP § 2106.05(a)
+ through 
+(c)
+ and 
+MPEP §
+ 2106.

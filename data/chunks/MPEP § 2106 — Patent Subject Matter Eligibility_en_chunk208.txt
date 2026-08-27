@@ -1,0 +1,23 @@
+6.05(c)
+, and 
+2106.05(f)
+. For example, in 
+Parker v.
+ Flook,
+ 437 U.S. 584, 198 USPQ 193 (1978), the Supreme Court noted
+ that the “patent application does not purport to explain how to select the
+ appropriate margin of safety, the weighting factor, or any of the other variables”
+ in the claimed mathematical formula, “[n]or does it purport to contain any
+ disclosure relating to the chemical processes at work, the monitoring of process
+ variables, or the means of setting off an alarm or adjusting an alarm system.” 437
+ U.S. at 586, 198 USPQ at 195. The Court found this failure to explain any
+ specifics of how to use the claimed formula informative when deciding that the
+ additional elements in the claim were insignificant post-solution activity and
+ thus not meaningful enough to render the claim eligible. 437 U.S. at 589-90, 198
+ USPQ at 197.
+
+II.
+ HOW TO EVALUATE WHETHER THE
+ ADDITIONAL ELEMENTS INTEGRATE THE JUDICIAL EXCEPTION INTO A PRACTICAL
+ APPLICATION
+The analysis under Step 2A

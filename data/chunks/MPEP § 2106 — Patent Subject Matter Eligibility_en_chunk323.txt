@@ -1,0 +1,28 @@
+itional elements define only
+ well-understood, routine, conventional activity. 
+
+1. 
+An additional element (or combination
+ of additional elements) that is known in the art can still be
+ unconventional or non-routine.
+ The question of whether a
+ particular claimed invention is novel or obvious is “fully apart” from the
+ question of whether it is eligible. 
+Diamond v. Diehr,
+ 450
+ U.S. 175, 190, 209 USPQ 1, 9 (1981). For example, claims may exhibit an
+ improvement over conventional computer functionality even if the improvement
+ lacks novelty over the prior art. Compare, 
+e.g.,
+Enfish, LLC v. Microsoft Corp.,
+ 822 F.3d 1327, 118 USPQ2d
+ 1684 (Fed. Cir. 2016) (holding several claims from U.S. Patent Nos.
+ 6,151,604 and 6,163,775 eligible) with 
+Microsoft Corp. v. Enfish,
+ LLC,
+ 662 Fed. App'x 981 (Fed. Cir. 2016) (holding some of the
+ same claims to be anticipated by prior art). The eligible claims in
+
+Enfish
+ recited a self-referential database having two
+ key features: all entity types

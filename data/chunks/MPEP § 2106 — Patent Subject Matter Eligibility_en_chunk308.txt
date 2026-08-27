@@ -1,0 +1,31 @@
+(1972)). If such a transformation exists, the claims are likely to be
+ significantly more than any recited judicial exception or to integrate any recited
+ judicial exception into a practical application. 
+
+It is noted that while the transformation of an
+ article is an important clue, it is 
+not
+ a stand-alone test for
+ eligibility. 
+Id.
+
+All claims must be evaluated for eligibility using
+ the two-part test from 
+Alice/Mayo
+. If a claim passes the
+
+Alice/Mayo
+ test (
+i.e.,
+ is not directed to an
+ exception at Step 2A, or amounts to significantly more than any recited exception in
+ Step 2B), then the claim is eligible even if it “fails” the M-or-T test.
+
+Bilski v. Kappos,
+ 561 U.S. 593, 604, 95 USPQ2d 1001, 1007
+ (2010) (explaining that a claim may be eligible even if it does not satisfy the
+ M-or-T test); 
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d
+ 1299, 1315, 120 USPQ2d 1091, 1102 (Fed. Cir. 2016) (“[T]here is nothing that requires
+ a method ‘be tied to a machine or transfo

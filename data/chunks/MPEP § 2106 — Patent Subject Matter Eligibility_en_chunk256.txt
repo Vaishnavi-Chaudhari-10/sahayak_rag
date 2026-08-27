@@ -1,0 +1,19 @@
+ements individually, noting that all the computer functions were
+ “‘well-understood, routine, conventional activit[ies]’ previously known to
+ the industry," each step “does no more than require a generic computer to
+ perform generic computer functions”, and the recited hardware was “purely
+ functional and generic” (573 U.S. at 225-26, 110 USPQ2d at 1984-85); and
+
+ • The Court considered the additional
+ elements “as an ordered combination,” and determined that “the computer
+ components … ‘[a]dd nothing … that is not already present when the steps are
+ considered separately’” and simply recite intermediated settlement as
+ performed by a generic computer.” 573 U.S. at 225 (citing
+
+Mayo,
+ 566 U.S. at 79, 101 USPQ2d at 1972). 
+
+Based on this analysis, the Court concluded that
+ the claims amounted to “‘nothing significantly more’ than an instruction to apply
+ the abstract idea of intermediated settlement using some unspecified, generic
+ computer”, and therefore held the claims ineligible bec

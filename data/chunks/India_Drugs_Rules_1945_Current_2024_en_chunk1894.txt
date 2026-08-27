@@ -1,0 +1,19 @@
+e unnecessary to validate equipment 
+cleaning procedures where residues are removed by subsequent 
+puriﬁcation steps. 
+12.7.2. Validation of cleaning procedures shall reﬂect actual equipment 
+usage patterns. If various APIs or intermediates are 
+manufactured in the same equipment and the equipment is 
+cleaned by the same process, a representative intermediate or 
+API can be selected for cleaning validation. This selection shall 
+be based on the solubility and difﬁculty of cleaning and the 
+calculation of residue limits based on potency, toxicity and 
+stability. 
+12.7.3. The cleaning validation protocol shall describe the equipment 
+to be cleaned, procedures, materials, acceptable cleaning levels, 
+parameters to be monitored and controlled and analytical 
+methods. The protocol shall also indicate the type of samples to 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+be obtained and how they are collected and labelled. 
+12.7.4

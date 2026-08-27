@@ -1,0 +1,16 @@
+ly. Adjacent 
+rooms of different Grades shall have a pressure differential of 
+approximately 10 to 15 Pascal (guidance value). Particular attention 
+shall be paid to the protection of the zone of great est risk, i.e., the 
+immediate environment to which the product and the cleaned 
+components in contact with it are exposed. The recommendations 
+regarding air supplies and pressure differentials may need to be 
+modified where it becomes necessary to contain ce rtain materials, e.g. 
+pathogenic, highly toxic, radioactive or live viral or bacterial materials 
+or products. The decontamination of the facilities and the treatment of 
+air leaving a clean area may be necessary for some operations. 
+8.10. It shall be demonstrated that airflow patterns do not present a 
+contamination risk; for example, care shall be taken to ensure that 
+particles from a particle generating person, operation or machine are not 
+conveyed to a zone of higher product risk. 
+8.11. A warning system shall be opera ted

@@ -1,0 +1,16 @@
+lidation of the 
+sterilisation cycle in the case of terminally sterilised produ cts, and by 
+“media simulation” or “media fill” runs for aseptically processed 
+products. Batch -processing records and, in the case of aseptic 
+processing, environmental quality records, shall be examined in 
+conjunction with the results of the sterility tests . The sterility test 
+procedure shall be validated for a given product. Pharmacopoeial 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+methods shall be used for the validation and performance of the sterility 
+test. In those cases where parametric release has been authorised in 
+place of sterility testing, special attention shall be paid to the validation 
+and the monitoring of the entire manufacturing process. 
+2.4. For injectable products, the water for injection and the intermediate, if 
+appropriate and finished products shall be monitored for endotoxins, 
+using an established pharmacop

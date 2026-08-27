@@ -1,0 +1,26 @@
+Step 2A Prong One,
+ it is sufficient for the examiner to provide a reasoned rationale that identifies
+ the judicial exception recited in the claim and explains why it is considered a
+ judicial exception (e.g., that the claim limitation(s) falls within one of the
+ abstract idea groupings). Therefore, there is no requirement for the examiner to
+ rely on evidence, such as publications or an affidavit or declaration under
+
+37 CFR
+ 1.104(d)(2)
+, to find that a claim recites a judicial
+ exception. 
+Cf. Affinity Labs of Tex., LLC v. Amazon.com Inc.,
+
+ 838 F.3d 1266, 1271-72, 120 USPQ2d 1210, 1214-15 (Fed. Cir. 2016) (affirming
+ district court decision that identified an abstract idea in the claims without
+ relying on evidence); 
+OIP Techs., Inc. v. Amazon.com, Inc.,
+ 788
+ F.3d 1359, 1362-64, 115 USPQ2d 1090, 1092-94 (Fed. Cir. 2015) (same);
+
+Content Extraction & Transmission LLC v. Wells Fargo
+ Bank,
+ N.A., 776 F.3d 1343, 1347, 113 USPQ2d 1354, 1357-58 (Fed. Cir.
+ 2014) (same).
+
+At Step 2A Pr

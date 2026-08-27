@@ -1,0 +1,32 @@
+sufficient. Thus, the claim must
+ include more than mere instructions to perform the method on a generic component
+ or machinery to qualify as an improvement to an existing technology. See
+
+MPEP § 2106.05(f)
+ for more information about mere
+ instructions to apply an exception. 
+
+Examples that the courts have indicated may not be
+ sufficient to show an improvement to technology include:
+
+i. A commonplace business method being applied
+ on a general purpose computer, 
+Alice Corp.,
+ 573 U.S. at
+ 223, 110 USPQ2d at 1976; 
+Versata Dev. Group, Inc. v. SAP Am.,
+ Inc.,
+ 793 F.3d 1306, 1334, 115 USPQ2d 1681, 1701 (Fed. Cir.
+ 2015); 
+
+ii. Using well-known standard laboratory
+ techniques to detect enzyme levels in a bodily sample such as blood or
+ plasma, 
+Cleveland Clinic Foundation v. True Health Diagnostics,
+ LLC,
+ 859 F.3d 1352, 1355, 1362, 123 USPQ2d 1081, 1082-83, 1088
+ (Fed. Cir. 2017); 
+
+iii. Gathering and analyzing information using
+ conventional techniques and displaying the result, 
+TLI

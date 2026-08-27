@@ -1,0 +1,29 @@
+oxicity test, wherever applicable. 
+(n) Any other tests. 
+(i) Results of Assay. 
+Note.— Records regarding various tests applied (including readings and 
+calculations) should be mainta ined and necessary reference to these records 
+should be entered in Col. 7 above whenever necessary. 
+8. Signature of the Analyst. 
+9. Opinion and signature of the approved Analyst. 
+PYROGEN TEST 
+1. Test Report Number. 
+2. Name of the sample. 
+3. Batch number. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+4. Number of rabbits used. 
+5. Weight of each rabbit. 
+6. Normal temperature of each rabbit. 
+7. Mean initial temperature of each rabbit. 
+8. Dose and volume of solution injected into each rabbit and time of 
+injection. 
+10. Maximum Temperature. 
+11. Response. 
+12. Summed response. 
+13. Signature of the Analyst. 
+14. Opinion and signature of the approved Analyst. 
+TOXICITY TEST 
+1. Test Report Number. 
+2. Name of the sample. 
+3. Batch Numbe

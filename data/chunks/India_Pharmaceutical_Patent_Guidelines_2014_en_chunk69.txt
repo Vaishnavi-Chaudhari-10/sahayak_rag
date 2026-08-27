@@ -1,0 +1,14 @@
+are not specifically disclosed and if the skilled person needs to 
+perform an undue experimentation to achieve the desired result. 
+Claims to antibodies that may have therapeutic or diagnostic potential are 
+unsupported if a role for the target protein in a specific disease has not been identified 
+and proved by sufficient data. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A metho d comprising: (i) contacting polypeptide X with a compound to be screened 
+and determining whether the compound affects the activity of the polypeptide and (ii) 
+formulating any active compound into a pharmaceutical composition. 
+Analysis: Any method that mer ely screens existing materials does not give rise to products 
+and claims resulting from such methods ‘reach through’ to as yet unidentified materials. In 
+the absence of any knowledge of any relationship, either from the specification or from 
+common general knowledge, the skilled person would not know how to produce and use 
+the compounds. It would require an undue

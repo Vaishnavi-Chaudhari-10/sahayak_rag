@@ -1,0 +1,19 @@
+hmetical or computational 
+method, recursive or otherwise, are excluded from patentability. 
+4) Claims directed as “Computer Programme per se”: Claims 
+which are directed towards computer programs per se are 
+excluded from patentability, like, 
+a) Claims directed at computer programmes/set of instructions/ 
+Routines and/or Sub-routines. 
+b) Claims directed a t ―computer programme products‖/ 
+―Storage Medium having instructions‖/―Database‖/ 
+―Computer Memory with instruction‖ stored in a computer 
+readable medium. 
+The legislative intent to attach suffix per se to computer programme is 
+evident by the following view expressed by the Joint Parliamentary 
+Committee while introducing Patents (Amendments) Act, 2002: ―In 
+the new proposed clause (k) the words ''per se" have been inserted. 
+This change has been proposed because sometimes the computer 
+programme may include certain other things, ancillary thereto or 
+developed thereon. The intention here is not to reject them for grant 
+of pat

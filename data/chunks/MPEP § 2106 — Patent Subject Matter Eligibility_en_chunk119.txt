@@ -1,0 +1,25 @@
+ncepts that
+ cannot practically be performed in the human mind and thus are not “mental
+ processes”, is provided below with respect to point A. 
+
+The courts do not distinguish between mental
+ processes that are performed entirely in the human mind and mental processes
+ that require a human to use a physical aid (
+e.g.,
+ pen and
+ paper or a slide rule) to perform the claim limitation. See, 
+e.g.,
+ Benson,
+ 409 U.S. at 67, 65, 175 USPQ at 674-75, 674 (noting that
+ the claimed “conversion of [binary-coded decimal] numerals to pure binary
+ numerals can be done mentally,” 
+i.e., 
+“as a person would do
+ it by head and hand.”); 
+Synopsys, Inc. v. Mentor Graphics
+ Corp.,
+ 839 F.3d 1138, 1139, 120 USPQ2d 1473, 1474 (Fed. Cir. 2016)
+ (holding that claims to a mental process of “translating a functional
+ description of a logic circuit into a hardware component description of the
+ logic circuit” are directed to an abstract idea, because the claims “read on an
+ individual performing the claimed ste

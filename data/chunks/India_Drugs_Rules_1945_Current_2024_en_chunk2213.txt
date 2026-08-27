@@ -1,0 +1,26 @@
+case basis 
+depending upon the quality of data and the credentials of the laboratory(ies) 
+where such data has been generated. 
+2. Requirements for fixed dose combinations are given in Appendix VI. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+1.9 Number of animals required for repeated-dose toxicity studies 
+Group 
+14-28 days 84-182 days 
+Rodent (Rat) Non-rodent (Dog 
+or Monkey) Rodent (Rat) 
+Non-rodent 
+(Dog or 
+Monkey) 
+M F M F M F M F 
+Control 6-10 6-10 2-3 2-3 15-30 15-30 4-6 4-6 
+Low dose 6-10 6-10 2-3 2-3 15-30 15-30 4-6 4-6 
+Intermediate dose 6-10 6-10 2-3 2-3 15-30 15-30 4-6 4-6 
+High dose 6-10 6-10 2-3 2-3 15-30 15-30 4-6 4-6 
+
+2.0 Laboratory parameters to be included in toxicity studies 
+Haematological parameters 
+• Haemoglobin • Total RBC Count • Haematocrit • Reticulocyte Count 
+• Total WBC Count • Differential WBC • Platelet Count • Terminal Bone Marrow 
+ Count Examination 
+• ESR (Non-rodents only) • General

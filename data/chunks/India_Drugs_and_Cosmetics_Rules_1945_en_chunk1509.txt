@@ -1,0 +1,13 @@
+12.5 Data may be recorded by electronic data processing systems or other reliable 
+means, but Master Formulae and detailed operating procedures relating to the system in use 
+shall also be available in a hard copy to facilitate checking of the accuracy of the records. 
+Wherever documentation is handled by electronic data processing methods, authorized 
+persons shall enter or modify data in the computer. There shall be record of changes and 
+deletions. Access shall be restricted by ‗passwords‘ or other means and the result of entry of 
+critical data shall be independently checked. Batch records electronically stored shall be 
+protected by a suitable back-up. During the period of retention, all relevant data shall be 
+readily available. 
+
+13. Labels and other Printed Materials:– Labels are absolutely necessary for identification 
+of the drugs and their use. The printing shall be done in bright colours and in a legible 
+manner. The label shall carry all the prescribed details about the

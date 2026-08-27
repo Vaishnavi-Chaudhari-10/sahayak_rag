@@ -1,0 +1,28 @@
+3, 1259-60, 123 USPQ2d 1712, 1717 (Fed. Cir.
+ 2017);
+
+vi. Technical details as to how to transmit
+ images over a cellular network or append classification information to
+ digital image data, 
+TLI Communications LLC v. AV Auto.
+ LLC,
+ 823 F.3d 607, 614-15, 118 USPQ2d 1744, 1749-50 (Fed. Cir.
+ 2016) (holding the claims ineligible because they fail to provide requisite
+ technical details necessary to carry out the function); 
+
+vii. Particular structure of a server that stores
+ organized digital images, 
+TLI Communications,
+ 823 F.3d at
+ 612, 118 USPQ2d at 1747 (finding the use of a generic server insufficient to
+ add inventive concepts to an abstract idea); 
+
+viii. A particular way of programming or designing
+ software to create menus, 
+Apple, Inc. v. Ameranth, Inc.,
+
+ 842 F.3d 1229, 1241, 120 USPQ2d 1844, 1854 (Fed. Cir. 2016); 
+
+ix. A method that generates a security profile
+ that identifies both hostile and potentially hostile operations, and can
+ protect the user against both previous

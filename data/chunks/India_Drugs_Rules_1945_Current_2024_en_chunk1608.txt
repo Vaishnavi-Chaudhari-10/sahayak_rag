@@ -1,0 +1,17 @@
+10. Air vent filters shall be hydrophobic and subject to integrity testing at 
+intervals determined by a QRM approach. 
+7.11. Where the filtration of exhaust air is necessary, the safe changing of 
+filters shall be ensured or bag -in-bag-out housings shall be employed. 
+Once removed, filters shall be decontaminated and properly 
+destroyed. In addition to HEPA filtration other inactivation 
+technologies such as heat inactivation and steam scavenging may be 
+considered for exhaust air to ensu re effective inactivation of 
+pathogenic organisms of Biosafety Risk Group 3 or 4. 
+
+8. Clean rooms:- 
+8.1. In order to address the specific manufacturing processes involved in 
+the production of biological products, and particularly vaccines, the 
+environmental monito ring of clean rooms in vaccine manufacturing 
+facilities; points to consider for manufacturers of human vaccines 
+guidance document may be used to develop the environmental 
+classification requirements for biological manufacturing pro

@@ -1,0 +1,22 @@
+822 F.3d at 1337, 118 USPQ2d at 1690.
+
+2. 
+A factual determination is required to
+ support a conclusion that an additional element (or combination of
+ additional elements) is well-understood, routine, conventional
+ activity.
+Berkheimer v. HP, Inc.,
+ 881 F.3d 1360, 1368, 125 USPQ2d
+ 1649, 1654 (Fed. Cir. 2018). However, this does not mean that a prior art
+ search is necessary to resolve this inquiry. Instead, examiners should rely
+ on what the courts have recognized, or those in the art would recognize, as
+ elements that are well-understood, routine, conventional activity in the
+ relevant field when making the required determination. For example, in many
+ instances, the specification of the application may indicate that additional
+ elements are well-known or conventional. See, 
+e.g., Intellectual
+ Ventures v. Symantec,
+ 838 F.3d 1307, 1317; 120 USPQ2d 1353,
+ 1359 (Fed. Cir. 2016) (“The written description is particularly useful in
+ determining what is well-known or conventional”); 
+In

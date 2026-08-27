@@ -1,0 +1,29 @@
+used in the formulation. 
+9. Date, time and duration of mixing. 
+10. Details of environmental controls like room temperature, relative humidity. 
+11.Date of granulation, wherever applicable. 
+12. Theoretical weight and actual weight of granules/powder blend. 
+13. Records of in-processes controls (Periodically whenever necessary): 
+(a) Uniformity of mixing. 
+(b) Moisture content of granules/powder in case of Tablet/Capsules. 
+(c) pH of solution in case of liquid. 
+(d) Weight variation. 
+(e) Disintegration time. 
+
+1. Subs. by G.S.R. 735(E) dated 24-06-1988 
+N 
+Y 
+
+Drugs and Cosmetics Rules 1945 
+574 
+
+(f) Hardness 
+(g) Friability test 
+(h) Leak test in case of strip packing. 
+(i) Filled volume of liquids. 
+(j) Quantity of tablets/capsules in the final container. 
+(k) Content of ointment in the filled containers. 
+
+14. Date of compression in case of Tablets/date of filling in case of capsules. 
+15. Date of sealing/coating /polishing in case of capsules/tablets wherever applicable. 
+16. Re

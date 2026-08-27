@@ -1,0 +1,19 @@
+isolation and puriﬁcation- 
+17.4.1. Harvesting steps, either to remove cel ls or cellular components 
+or to collect cellular components after disruption, shall be 
+performed in equipment and areas designed to minimise the 
+risk of contamination. 
+17.4.2. Harvest and puriﬁcation procedures that remove or inactivate 
+the producing organism, cel lular debris and media components 
+(while minimising degradation, contamination and loss of 
+quality) shall be adequate to ensure that the intermediate or API 
+is recovered with consistent quality. 
+17.4.3. All equipment shall be properly cleaned and as appropriate, 
+sanitised after use. Multiple successive batching without 
+cleaning can be used if intermediate or API quality is not 
+compromised. 
+17.4.4. If open systems are used, puriﬁcation shall be performed under 
+environmental conditions appropriate for the preservation of 
+product quality. 
+17.4.5. Additional controls, such as the use of dedicated 
+chromatography resins or additional testing

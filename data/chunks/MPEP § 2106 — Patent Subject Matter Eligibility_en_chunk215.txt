@@ -1,0 +1,21 @@
+the 
+Alice/Mayo
+ test finding that the claims are not directed to
+ an improvement in the functioning of a computer or an improvement to another
+ technology. In particular, the court determined that the claims “did not improve
+ the technical capture of information from a check to create a digital file or the
+ technical step of electronically crediting a bank account” nor did the claims
+ “improve how a check is scanned.” 
+Id.
+ This analysis is
+ equivalent to the Office’s analysis of determining that the exception is not
+ integrated into a practical application at Step 2A Prong Two, and thus that the
+ claims are directed to the judicial exception (Step 2A: YES). 
+
+In 
+Finjan Inc. v. Blue Coat Systems,
+ Inc.,
+ 879 F.3d 1299, 125 USPQ2d 1282 (Fed. Cir. 2018), the claimed
+ invention was a method of virus scanning that scans an application program,
+ generates a security profile identifying any potentially suspicious code in the
+ program, and links the security profile to the application prog

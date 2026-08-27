@@ -1,0 +1,20 @@
+vision of objective evidence that the 
+particular requirement for a specific intended use can be consistently fulfilled; 
+
+3.19.1 Process validation means establishing by objective evidence that a process consistently 
+produces a result or product meeting its predetermined specifications. 
+
+3.19.2 Design validation means establishing by objective evidence that device specifications 
+conform with user needs and intended use(s). 
+
+3.20 Verification means confirmation by examination and provis ion of objective evidence that 
+specified requirements have been fulfilled. 
+
+4 Quality management system.- 
+4.1 General: 
+The manufacturer shall establish, document, implement and maintain a quality management system 
+and maintain its effectiveness in accordance with the requirements of this schedule. 
+The manufacturer shall;- 
+(a) identify the processes needed for the quality management system and their application 
+throughout the organization; 
+(b) determine the sequence and interaction of these

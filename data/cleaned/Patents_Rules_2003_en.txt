@@ -1,0 +1,616 @@
+2025
+https://ipind ia.gov.in
+Office of the Controller General of
+Patents, Designs and Trade Marks
+Guidelines for
+Examination of
+Ayush Related
+Inventions
+
+Integrative system and method for performing medical
+Diagnosis using Artificial Intelligence
+Applicant: Ayur.AI (OPC) Private Limited
+Patent No.: 429737, Date of Grant: 24/04/2023
+Inventor: Balasubrahmanyam Pesala
+Vaginal douche composition based on herbal extracts
+Applicant: VEE EXCEL DRUGS & PHARMACEUTICALS PVT. LTD.
+Patent No: 377408, Date of Grant: 21/09/2021
+Inventor: Bansal Vipin, Kushwaha Ashok Kumar
+Herbal sanitary pad
+Applicant: Poonam Bhatt
+Patent No: 436895, Date of Grant: 03/07/2023
+Inventor: Poonam Bhatt,Krishi Bhatt
+Smart Wearable device and method for estimating traditional
+medicine system parameters
+Applicant: AYUR.AI (OPC) PRIVATE LIMITED
+Patent No: 416499, Date of Grant: 02/01/2023
+inventor: BALA PESALA
+Herbal cigarette and process of preparation thereof
+Applicant: RAJAS UDAY NITSURE, UDAY ANANT NITSURE
+Patent No: 379565, Date of Grant: 21/10/2021
+Inventor: Rajas Uday Nitsure, Uday Anant Nitsure
+Herbal incense formulation
+Applicant: GLOBAL CONSUMER PRODUCTS LIMITED
+Patent No: 421133, Date of Grant: 10/02/2023
+Inventor: Ashish Bhobe, Sridhar Srinivasan, Pavana Nair, Jitendra
+Pandyaji
+Herbal soap
+Applicant: Khumujam Jina
+ Patent No: 319506, Date of Grant: 30/08/2019
+Inventor: Khumujam Jina
+
+Guidelines
+for
+Examination
+of
+Ayush Related Inventions
+Office of the Controller General of Patents, Designs and Trade Marks
+Department for Promotion of Industry and Internal Trade
+Ministry of Commerce and Industry
+Government of India
+
+Table of Content 
+
+Page No. 
+1. Introduction.……………………………………………………………………………………………....... 1 
+2. Legal Provisions.………………………………………………………………………………………....... 1 
+ 2.1 The Provisions and Procedure as per the Patents Act, 1970 (as 
+amended) and the Patents Rules 2003 (as amended).……………….. ….... 
+
+1 
+ 2.2 Additional information related to Biological Diversity Act, 2002 for 
+the applicants..……………………………………………………………………………….... 
+
+3 
+ 2.3 Implications for non - disclosure or wrong mention of the source or 
+geographical origin of biological material under the Patents Act, 
+1970………………………………………………………………………………………….......... 
+
+4 
+3. Guidelines to offer unde rstanding on processing of patent applications of 
+Ayush related invention(s).………………………………………………………………………....... 
+
+4 
+ 3.1 Filing of patent application.…………………………………………………………....... 4 
+ 3.2 Screening and classification.……………………………………………………………… 4 
+ 3.3 Examination.………………………………………………………………………………........ 4 
+ 3.4 Guiding principles for assessment of patent applications.………………... 5 
+
+ of 14 
+
+1. Introduction 
+Ayush is traditional and non -conventional systems of healthcare and healing including 
+Ayurveda, Siddha, Unani, Sowa-Rigpa, Homoeopathy and Yoga & Naturopathy. The scope of 
+these guidelines covers inventions related to Ayush systems of healthcare and other 
+codified/non codified system of Ayush related invention. 
+India is rich in traditional medicinal bio -resources and possesses centuries old associ ated 
+traditional knowledge. The traditional medicinal systems are well established, and further 
+undergoing state of the art research resulting in new products/processes. These guidelines 
+are intended to provide clarity to the filing and processing of paten t applications claiming 
+Ayush related inventions. These guidelines are complementary to the already issued 
+“Guidelines for processing of patent applications relating to traditional knowledge and 
+biological material” by the Indian Patent Office in 2012 and are more focused on providing 
+guidance to Ayush stakeholders regarding filing and examination of patent applications on 
+Ayush related inventions. 
+Ayush related inventions include areas such as – 
+ Ayush product(s) and Equipment(s) / Device(s) 
+ Value added p roducts related to Food recipes/ Nutraceuticals based on Ayush 
+systems 
+Thus, the inventions claiming above said scope of research can be granted IP protection 
+subject to fulfilment of the provisions related to patentability under the Patents Act 1970 (as 
+amended) and corresponding rules as notified thereunder. 
+
+2. Legal Provisions 
+2.1 The Provisions and Procedure as per the Patents Act, 1970 (as 
+amended) and the Patents Rules 2003 (as amended): 
+The following sections of the Patents Act, 1970 are emphasized in th e context of 
+examination of applications based on Ayush related inventions: 
+S. No. Sections of 
+the Patents 
+Act, 1970 
+Details 
+1. Section 2 Section 2(1)(ac): "capable of industrial application", in relation 
+
+ of 14 
+
+ to an invention, means that the invention is capable of being 
+made or used in an industry; 
+Section 2(1)(j) : "invention" means a new product or process 
+involving an inventive step and capable of industrial application; 
+Section 2(1)(ja) : "inventive step" means a feature of an 
+invention that involves te chnical advance as compared to the 
+existing knowledge or having economic significance or both and 
+that makes the invention not obvious to a person skilled in the 
+art 
+Section 2(1)(l) : "new invention" means any invention or 
+technology which has not been anti cipated by publication in 
+any document or used in the country or elsewhere in the world 
+before the date of filing of patent application with complete 
+specification, i.e. the subject matter has not fallen in public 
+domain or that it does not form part of the state of the art; 
+2. Section 3 
+(Inventions not 
+patentable) 
+
+Section 3(a): an invention which is frivolous or which claims 
+anything obviously contrary to well established natural laws; 
+Section 3(b): an invention the primary or intended use or 
+commercial exploitation of which could be contrary to public 
+order or morality or which causes serious prejudice to human, 
+animal or plant life or health or to the environment; 
+Section 3(c): the mere discovery o f a scientific principle or the 
+formulation of an abstract theory or discovery of any living 
+thing or non-living substance occurring in nature; 
+Section 3(d): the mere discovery of a new form of a known 
+substance which does not result in the enhancement of the 
+known efficacy of that substance or the mere discovery of any 
+new property or new use for a known substance or of the mere 
+use of a known process, machine or apparatus unless such 
+known process results in a new product or employs at least one 
+new reactant. 
+Explanation.—For the purposes of this clause, salts, esters, 
+ethers, polymorphs, metabolites, pure form, particle size, 
+isomers, mixtures of isomers, complexes, combinations and 
+
+ of 14 
+
+other derivatives of known substance shall be considered to be 
+the same substance, unless they differ significantly in properties 
+with regard to efficacy; 
+Section 3(e): a substance obtained by a mere admixture 
+resulting only in the aggregation of the properties of the 
+components thereof or a process for producing such substance; 
+Section 3(f): the mere arrangement or re -arrangement or 
+duplication of known devices each functioning independently of 
+one another in a known way 
+Section 3(h): a method of agriculture or horticulture; 
+Section 3(i): any process for the medicinal, surgical, curative, 
+prophylactic diagnostic, therapeutic or other treatment of 
+human beings or any process for a similar treatment of animals 
+to render them free of disease or to increase their economic 
+value or that of their products. 
+Section 3(j): plants and animals in whole or any part thereof 
+other than micro­ organisms but including seeds, varieties and 
+species and essentially biological processes for production or 
+propagation of plants and animals; 
+Section 3(k): a mathematical or business method or a computer 
+programme per se or algorithms; 
+Section 3(p): an invention which in effect, is traditional 
+knowledge or which is an aggregation or duplication of known 
+properties of traditionally known component or components. 
+2.2 Additional information related to Biological Diversity Act, 2002 for the 
+applicants: 
+In addition to the requirements under the Patents Act, 1970 and the rules thereunder, the 
+applicants are also required to abide with the provisions of the Biological Diver sity Act, 2002 
+and rules thereunder for applications for patents for inventions based on biological 
+resources, in particular the Section 6 of the Biological Diversity Act, 2002 and the rules 
+thereunder. 
+
+ of 14 
+
+2.3 Implications for non - disclosure or wrong mention of the source or 
+geographical origin of biological material under the Patents Act, 1970: 
+Applications for patents based on TK and/or biological material can be refused under section 
+15 if not complying with the provisions of the Patents Act or as an outcome o f pre -grant 
+opposition under Section 25(1), and granted patents can be revoked in post-grant opposition 
+under Section 25(2) of the Patents Act, 1970. Granted patents may be revoked under Section 
+64(1) as well. 
+Non-disclosure or wrong mention of the source or geographical origin of biological material 
+used in an invention in the complete specification is one among the grounds for pre - and 
+post- grant oppositions as well as revocation under Sections 25(1), 25(2) and 64(1) 
+respectively of the Patents Act, 1970. 
+3. Guidelines to offer understanding on processing of patent 
+applications of Ayush related invention(s): 
+3.1 Filing of patent application: 
+ An application for a patent for an invention may be made by any of the following 
+persons either alone or jointly with any other person: 
+- True and first inventor 
+- True and first inventor’s assignee 
+ - Legal representative of any deceased true and first inventor or his/her assignee 
+ A patent application can be submitted through online or physical mode at four 
+locations of Indian Patent Office viz. Kolkata, Delhi, Chennai and Mumbai. 
+ For more details, “Manual of Patent Office Practice And Procedure” may be referred 
+(available at 
+https://ipindia.gov.in/writereaddata/Portal/Images/pdf/Manual_for_Patent_Office_Pr
+actice_and_Procedure_.pdf ) 
+3.2 Screening and classification: 
+All inventions including those relating to Ayush systems are screened into different 
+subjects and also assigned patent classification codes. The patent applications are 
+published after 18 months, or earlier if requested by the applicant for early 
+publication. 
+3.3 Examination: 
+The invention should qualify the patentability criteria of novelty, inventive step (non-
+obviousness) and industrial applicability as per the provisions of the Patent Act 1970 
+
+ of 14 
+
+(as amended) and The Patent Rules 2003 (as amended). The Patent office conducts 
+prior art search to evaluate the novelty and inventive step using the Traditional 
+Knowledge Digital Library (TKDL) which allows search on Indian Systems of Medicines 
+like Ayurveda, Siddha, Unani and Sowa -Rigpa as well as Yoga and other available 
+databases. List of some databases to be re ferred for Ayush systems and traditional 
+knowledge is given in Annexure-I. 
+3.4 Guiding principles for assessment of patent applications: 
+The different types of Ayush related inventions that are commonly received by the 
+Indian Patent office have been compiled and the principles that may be adopted for 
+evaluation of patentability in different categories have been listed as guiding 
+principles 1 -6 that are presented below. These are not exhaustive to cover all 
+possible scope of inventions related to Ayush but con sidering the fact that each 
+invention being unique, the patentability of each application will depend on the 
+individual merit of the invention examined as per the provisions of the Patent Act 
+1970 (as amended) and the Patent Rules 2003 (as amended). 
+
+Guiding 
+Principle 1 
+If the claims are for extracts/alkaloids and/or isolated active ingredients 
+of plants, which are naturally/inherently present in plants, such claims 
+cannot be considered as novel and/or inventive when use of such plants 
+is known in prior art. However, processes for obtaining such 
+extracts/isolates may be considered patentable, subject to the 
+requirements of patentability. 
+When the subject-matter of claimed invention is referring to extracts of plant materials as 
+product claims containing undefined active ingredients, such claims cannot be said to be 
+novel if the use of such plants or specific plant part is known / published prior art in Ayush 
+systems. 
+Further, if the claimed invention refers to alkaloids and/or active principles obtained from 
+the plants or specific plant part, and structures of the said alkaloids and/or active principles 
+are characterized and claimed as product, which do not form part o f the prior art, such 
+claims cannot be said to involve an inventive step if adequate human intellect is not 
+involved in deriving the said product beyond the reported use in the literature, if the use of 
+said plant materials and their therapeutic effects are known / reported in Ayush systems. 
+Thus, it is considered that the prior art motivates the person skilled in the art to isolate the 
+individual ingredients such as alkaloids, flavonoids, phyto- steroids, etc. 
+
+ of 14 
+
+Illustration 1: The claims relate to an aque ous extract of Withania somnifera plant for the 
+management of stress. 
+Prior art: Discloses use of Ashwagandha (Withania somnifera) for the treatment of stress 
+related disorders in Ayurveda and Unani systems of medicine. 
+Analysis: The claims of alleged inve ntion relate to an extract of Withania somnifera plant. 
+Based on the prior art, it can be objected that the aqueous extract of Withania somnifera 
+would be useful in treatment of chronic stress disorders such as insomnia, gastric ulcers, 
+hyperacidity, restl essness and depression. Therefore, the subject -matter of claims is not 
+considered as novel over the description in Ayush systems. 
+Illustration 2: The claims relate to glycoside, Chamaemeloside, derived from Roman or 
+German chamomile for the treatment of Ca ncer, Diabetes mellitus, Arthritis, Acne vulgaris, 
+Eczema and for wound healing. 
+Prior art: Discloses use of German chamomile (from which Chamaemeloside is derived) in 
+wound healing and for the treatment of cancer, diabetes mellitus, arthritis, acne vulgaris 
+and eczema in Ayurveda and Unani systems of medicine. The prior art does not disclose the 
+Chamaemeloside. 
+Analysis: The claims of alleged invention relate to Chamaemeloside derived from Roman or 
+German chamomile. Based on the prior art, it can be objected that German or Roman 
+chamomile (from which Chamaemeloside is derived) has already been used alone or in 
+combination with other ingredients for afore -mentioned indications and therefore, the 
+prior art motivates the person skilled in the art to isolate and identify the active ingredient 
+such as Chamaemeloside, which has the same therapeutic effects. Hence, the product 
+arrived at by isolation and characte rization cannot be considered to involve an inventive 
+step in the light of prior art. However, the process of isolation (which is not claimed in this 
+illustration) could have been considered as inventive and patentable, subject to the 
+patentability criteria. The fact that a product claim is not patentable due to existence of 
+prior art does not necessarily mean that a process for isolation of the product is not 
+patentable. Such processes could be patentable if they satisfy the provisions of the Patents 
+Act. 
+Illustration 3: The claims relate to process for the extraction of berberine from leaves of 
+Coscinium fenestratum, wherein an improved yield of berberine is obtained. 
+
+ of 14 
+
+Prior art: The process of isolation of berberine from stem is disclosed in the prior art. 
+Analysis: In the process as disclosed in this invention, the yield of berberine per gram of 
+leaves and the purity of berberine obtained is significantly higher as compared to the prior 
+art. Further, the present invention uses low temperature and minimum chemicals to obtain 
+high purity berberine, which is not disclosed in the prior art. Thus the process could be 
+patentable. 
+Guiding 
+Principle 2 
+In case a combination of ingredients from plants/minerals/animal 
+origin/ existing formulations is already known for the treatment of a 
+disease as a part of Traditional Knowledge, a combination product 
+comprising these known ingredients with f urther ingredients from 
+plants/minerals/animal origin/ existing formulations with the same 
+known therapeutic effect would obviously be more effective than each 
+of the ingredient when applied separately (additive effect). However, 
+specific ratios leading to unexpected technical effect of such 
+combinations may be considered to establish non-obviousness. 
+Illustration 1: The claims relate to a composition comprising of Calendula officinalis, Aloe 
+vera and Centella asiatica as healing agent and for treatment of wound. 
+Prior art: Discloses independent use of Calendula officinalis, Aloe vera and Centella asiatica 
+for the treatment of wound and as a Cicatrizant/ healing agent in Ayurveda and Unani 
+systems of medicine. 
+Analysis: The claims of alleged invention were for a composition. Based on the prior art, 
+the combination of these plants would be obvious for the treatment of skin diseases and 
+healing of wounds. The combination of a plant with a known therapeutic effect with further 
+plants with the same known therapeutic effect, wherein all plants are previously known for 
+treating the same disease is considered to be an obvious combination. It would normally be 
+expected that such combinations of medicinal plants would be more effective than each of 
+the medicinal plan ts when applied separately (additive effect). However, if such 
+combination demonstrates unexpected synergistic effect, it may be considered to establish 
+non-obviousness. 
+(Note- “Synergism” is the interaction of two or more substances to produce a combined 
+effect greater than the sum of their individual effects. Experimental results should prove that 
+the combined action of all the given ingredients is greater than the sum of the ir individual 
+
+ of 14 
+
+effects. A brief about synergism along with illustrations on synergistic data is given at 
+Annexure II). 
+Illustration 2: The claims relate to synergistic anti -acne topical composition comprising of 
+extracts of Symplocos racemose 0.5 gm, Salmalia malabarica 0.5 gm, Picrorhiza kurroa 0.5 
+gm, Vitex negundo 0.5 gm, Embelia ribes 3 gm, Terminalia chebula 3 gm, and Terminalia 
+bellerica 2 gm. 
+Prior art: Discloses formulations comprising one or more of the ingredients selected from 
+Symplocos racemosa, Salmalia malabarica, Picrorhiza kurroa, Vitex negundo, Embelia ribes, 
+Terminalia chebula, and Terminalia bellerica for different uses including skin disorders. 
+Analysis: The cited prior art, though disclosing the different ingredients recited in the claims 
+for the treatment of the same indication, do not disclose the exact combination of the 
+ingredients in the claimed ratio. In view of the synergistic data provided in the description, 
+the inventive step could be established distinguishing the invention from the prior art. 
+Guiding 
+Principle 3 
+In case an ingredient is already known for the treatment of a disease, 
+then it creates a presumption of obviousness that a combination 
+product comprising this known ingredient would be effective for the 
+treatment of the same disease. However, unexpected technical effect of 
+such combinations may be considered to establish non-obviousness. 
+Illustration 1: The claims relate to a combination of two constituents of watery extract of 
+Cucumis melo, along with Citrus aurantifolia, for the treatment of vitiligo. 
+Prior art: Discloses usefulness of only one of the constituents, watery extract of Cucumis 
+melo for its anti-vitiligo property in the Unani system of medicine. 
+Analysis: The claim of alleged invention relates to a composition comprising two 
+constituents and not on a single constituent, the watery extract Cucumis melo for its anti -
+vitiligo property. Based on said cited documents, it can be objected that if one ingredient 
+here, Cucumis melo, was already known for t he treatment of vitiligo, then it is necessarily 
+expected that a combination comprising this known active ingredient must be effective for 
+treating vitiligo. As long as no unexpected technical effect of the claimed combination vis -
+a-vis the already known p roduct comprising Cucumis melo , is established, inventive step 
+cannot be acknowledged. 
+
+ of 14 
+
+Illustration 2: The claims relate to a combination of three constituents containing Maghz-e-
+Karanjwa ( Caesalpinia bonduc Tinn.), Gaozaban ( Onsoma bracteatum Wall.) and Kasni 
+(Cinchorium intybus) for the treatment of worm infestation and anemia. 
+Prior art: Maghz-e-Karanjwa (Caesalpinia bonduc Tinn.) is already known for the treatment 
+for worm infestation only. 
+Analysis: The combination of three constituents has shown unexpected and synergistic 
+effect in the treatment of worm infestation and anemia. In view of the data provided in 
+respect of unexpected and synergistic effect, the inventive step may be considered for 
+acknowledging patentability. 
+Guiding 
+Principle 4 
+Discovering the Optimum or Workable range of traditionally known 
+ingredients by routine experimentation may be considered inventive 
+only if it is not obvious to the person skilled in the art. 
+In case of inventi ons relating to selection of optimum or workable range of ingredients, 
+such selection of a particular range of known ingredients is not inventive since the selection 
+of optimum or workable range is generally considered to be well within the expectation of 
+the person skilled in the art. 
+Illustration 1: The claims relate to a formulation comprising at least two of the following: 
+an extract of Pongamia pinnata (in the range of 2 to 20%), an extract of Lawsonia alba (in 
+the range of 5 to 15%), an extract of Dhatura alba (in the range of 2 to 20%) and an extract 
+of Cocos nucifera (in the range of 20 to 60%) for the management of chronic ulcer, diabetes 
+ulcer, and the management of bleeding in cuts and wounds. 
+Prior art: Discloses use of said plants for the treatm ent of ulcer/wound in Ayurveda, Unani 
+and Siddha systems of medicine. 
+Analysis: The claims of alleged invention relate to a composition comprising plant parts in a 
+specified ratio. The claims can be objected as not patentable in so far as the alleged 
+invention is obvious over Agasthiyar (TK) which taught a composition of extracts of two of 
+the claimed plants, Karanj and Henna formulated as oil for topical treatment of ulcers and 
+wounds. Although, cited art does not specifically teach adding the ingredients in the 
+percentages claimed by the applicant, the amount of specific ingredient in a composition is 
+clearly a result affecting variable, which a person skilled in the art would routinely optimize. 
+
+ of 14 
+
+Guiding 
+Principle 5 
+In case a multi -ingredient formulation is known to have a specific 
+therapeutic activity as per the prior art, merely selecting one or more 
+ingredient for the same said therapeutic activity cannot be considered 
+as inventive. 
+Illustration 1: The claims relate to an extract of Zingiber zerumbet (bitter ginger) for 
+inflammation and also for allergic disorder like Asthma. 
+Prior art: Discloses use of Zingiber zerumbet (bitter ginger) along with few other 
+ingredients for the treatment of inflammation and Asthma in Unani system of medicine. 
+Analysis: The claims of alleged invention relate to an extract of Zingiber zerumbet. As per 
+the prior art disclosure, the multi -component formulation comprising Zingiber zerumbet 
+has the same therapeutic activity (i.e. anti -bronchial asthmatic), and therefore it is obvious 
+that one single component namely Zingiber zerumbet taken out of them would have the 
+same therapeutic activity. Hence, the person skilled in the art would have b een motivated 
+to arrive at the invention and thus, the claims of alleged invention can be objected for 
+lacking inventive step. 
+Guiding 
+Principle 6 
+If the subject matter of the claims relates to inventions regarding 
+equipment / device used for known proce dure in Ayush systems or 
+related fields, then such inventions may be patentable if the claims 
+qualify the patentability criteria as per the provisions of the Act. 
+Illustration 1: Advanced automated system or device for Therapeutic Emesis ( Vamana 
+Karma) c omprising a frame holding primary and secondary sinks connected with sensing 
+elements for pH, temperature, weight, volume & a display unit along with vomitus 
+collecting bag and its method for fabrication. 
+Prior art: Procedure for performing Vamana Karma is disclosed in Ayurveda but it does not 
+disclose any device along with sensors, for doing such procedure. 
+Analysis: The claims relate to advanced automated system or device for Therapeutic 
+Emesis (Vamana Karma) and its method for fabrication. As per the prior art (Ayurveda), the 
+procedure for performing Vamana Karma is well documented however, an automated 
+device for conducting Vaman Karma, comprising pH, temperature, and volume sensors for 
+analyzing the vomitus and hygienically conducting the said karma was not known and can 
+be considered patentable. 
+
+ of 14 
+
+Annexure-I 
+
+List of some databases and relevant Acts to be referred for Ayush systems and related 
+inventions: 
+1. Ayush Research Portal (https://ayushportal.nic.in ) 
+2. Database of Ayurvedic, Unani, Siddha and Sowarigpa Formulations 
+(https://www.tkdl.res.in) 
+3. Foundation for Revitalisation of Local Health Traditions (FRLHT) Indian Medicinal Plant 
+Database (https://www.medicinalplants.in ) 
+4. e-Charak portal has been jointly developed by the National Medicinal Plants Board (NMPB), 
+Ministry of Ayush, Government of India and Centre for Development of Advanced 
+Computing (C-DAC) (https://echarak.in/echarak/main.do ). It is an e-Channel for Herbs, 
+Aromatic, Raw material and Knowledge and a platform to enable information exchange 
+between various stakeholders involved in the medicinal plants sector. 
+5. Tribal Digital Document Repository by Ministry of Tribal Affairs, Govt. of India. 
+(https://repository.tribal.gov.in) 
+6. The Biological Diversity (Amendment) Act, 2023, 
+https://egazette.gov.in/WriteReadData/2023/247815.pdf 
+7. The Patent Act, 1970. https://ipindia.gov.in/writereaddata/Portal/ev/sections-index.html 
+8. The Patent Rules, 2003. https://ipindia.gov.in/writereaddata/Portal/ev/rules-index.html 
+
+ of 14 
+
+Annexure-II 
+Brief about synergism along with illustrations on synergistic data. 
+Section 3(e) precludes patenting of "a substance obtained by a mere admixture resulting only in 
+the aggregation of the properties of the components thereof or a process for producing such 
+substance". In order to assess whether the invention falls under Section 3(e), it is examined 
+whether there is synergistic effect o f claimed composition which is more than the combined 
+effect of each component of the composition when used individually. 
+Synergism is the interaction of two or more substances to produce a combined effect greater 
+than the sum of their individual effects. The Guidelines for examination of patent applications in 
+the field of Pharmaceuticals provides insight that "if the functional interaction between the 
+features achieves a combined technical effect which is greater than the sum of the technical 
+effects of t he individual features, it indicates that such a composition is more than a mere 
+aggregation of the features" and does not fall within the ambit of mere aggregation of features. 
+Some illustrations demonstrating the assessment of presence of synergism are as follows: 
+Illustration 1: Patent application claims relate to a composition comprising tamarind seed 
+polysaccharide (TSP) in combination with an extract of Helichrysum italicum. The treatment with 
+TSP according to the said patent application is effective in stimulating the antimicrobial 
+response, especially when administered topically to the skin and to the mucosa. 
+Analysis: The claims of alleged invention relate to a composition of two active ingredients, 
+namely tamarind seed polysaccharide and extract of Helichrysum italicum. The complete 
+specification contained the following experimental data regarding the expression of be ta 
+defensin by normal human epidermal keratinocyte. Beta defensin are host defense peptides 
+having the ability to kill a broad range of microorganisms including bacteria, yeast and viruses. 
+Products Concentration DEFB2 expression (pg/ml) 
+Negative ref. (control) - 0 
+Positive ref. (LPS) 5 mcg/ml 12 
+Tamarind Seed Polysaccharide (TSP) 0.2% 40* 
+Helichrysum italicum extract (HIE) 0.2% 21 
+HIE + TSP 0.2% + 0.2% 140* 
+ *p < 0.001 vs. control 
+It is apparent from the table that the combined effect of Helichrysum italicum extract and 
+
+ of 14 
+
+Tamarind Seed Polysaccharide (140 pg/ml) is higher than the sum of their individual effects (40 
+pg/ml + 21 pg/ml), thereby indicating synergism between them. 
+Illustration 2: Patent application claims relate to a composition comprising Vaccinium myrtillus 
+extract and Echinacea sp. extract. 
+Analysis: The claims of alleged invention relate to a composition of two active ingredients, 
+namely Vaccinium myrtillus extract and Echinacea sp. extract. The complete specification 
+contained the following experimental data regarding the re-epithelialisation of ulcers by the use 
+of Vaccinium myrtillus extract and Echinacea sp. extract, when used individually and in 
+combination. 
+Treatment Re-epithelialisation 
+7 days 14 days 28 days 
+Placebo 0.02 +/- 0.01 0.01 +/- 0.01 0.03 +/- 0.02 
+Vaccinium myrtillus 0.3% 0.10 +/- 0.03 0.23 +/- 0.13* 0.50 +/- 0.23* 
+Echinacea sp. extract 0.3% 0.01 +/- 0.01 0.20 +/- 0.02* 0.35 +/- 0.02* 
+Vaccinium myrtillus 0.3% + Echinacea 
+sp. extract 0.3% 
+2.14 +/- 0.73** 4.9 +/- 1.01** 8.30 +/- 1.10** 
+ *P<0.05; 
+ **P<0.001 Student's "t" test 
+The provided data clearly demonstrates that the re -epithelialisation achieved using the 
+composition comprising Vaccinium myrtillus and Echinacea sp. extract is much higher than the 
+sum of re-epithelialisation achieved when these two ingredients are used individually, indicating a 
+synergistic effect between them. 
+Illustration 3: Patent application claims relate to a compositi on comprising extract of 
+Andrographis paniculata and Ginkgo biloba extract for the treatment of neurodegenerative 
+disorders. 
+Analysis: The claims of alleged invention relate to a composition of two active ingredients, 
+namely extract of Andrographis panicu lata and Ginkgo biloba extract. The complete 
+specification contains the following experimental data regarding the comparative effect of the 
+claimed composition and its components when used individually, on Experimental Autoimmune 
+Encephalomyelitis (EAE) in 20 transgenic mice. Clinical signs of the disease are recorded daily on 
+the basis of the following scores: 
+0 : no signs of EAE 
+
+ of 14 
+
+1: limp tail 
+2: weakness of hind legs or abnormal gait 
+3: complete paralysis of hind legs 
+4: complete paralysis of hind and fore legs 
+5: death 
+The mean clinical data are calculated by adding the daily scores of the mice belonging to the 
+same treatment group and dividing by the number of mice. 
+Group Incidence Score (Maximum) Average of Maxi mum 
+Scores 
+Control 20/20 (100%) 5 3.9 +/- 0.1 
+Andrographis paniculata extract 7/20 (35%) 4 2.9 +/- 0.1* 
+Ginkgo biloba extract 4/20 (20%) 5 3.3 +/- 0.1 
+Andrographis paniculata extract + 
+Ginkgo biloba extract 
+12/20 (60%) 2 2.2 +/- 0.1** 
+ * p<0.05 Student's t-test 
+ ** p<0.01 vs. control 
+Based on the data provided in the above given table, the combination of Andrographis 
+paniculata extract and Ginkgo biloba extract exhibits no incidence of death and much lower 
+maximum scores indicating less severe clinical signs of disease compared to the scores achieved 
+using Andrographis paniculata extract and Ginkgo biloba extract when used individually, 
+thereby indicating the presence of synergism between the two components. 
+
+Disclaimer: These guidelines provide guidance for the situations that are commonly encountered in TK and Ayush related invent ions and are not 
+exhaustive to cover all aspects of patentability . Each application will be decided based on the individual merits of the invention. The guidelines are 
+subject to revision from time to time based on interpretations by a Court of Law, statutory amendments and valuable inputs fr om the stakeholders. 
+
+A polyherbal composition and process for preparing the same
+Applicant: Dr Ankita Wal & Dr Pranay Wal
+Patent No: 442819, Date of Grant: 03/08/2023
+Inventor: Dr Ankita Wal, Dr. Abdul Samad, Mohd Nazam Ansari, Dr. Amita Verma,
+Dr. Mohd Masih Uzzaman Khan, Shahnawaz Sameem, Dhaneshwar Kumar,
+Somesh Shukla
+A herbal based repellent for termites on woody trees
+Applicant: Indian Council of Agricultural Research (ICAR)
+Patent No: 535555, Date of Grant: 29/04/2024
+Inventor: Dr. Abraham Verghese, Dr. T.N. Shivananda, Dr. N. Bakthavatsalam
+Herbal composition and ingestable capsule containing the same for
+accelerated healing and reunion of fractured bones
+Applicant: MAHAVIR JAYKUMARJI SHAH
+Patent No: 342423, Date of Grant: 24/07/2020
+Inventor: Mahavir Jaykumarji Shah
+Oat milk based instant soluble (effervescent)
+Tea tablets and a method for its production
+Applicant: INDIAN INSTITUTE OF TECHNOLOGY, KHARAGPUR
+Patent No: 493669, Date of Grant: 03/01/2024
+Inventors: Dr. Hari Mishra, Sunil Behra, Aastha Deora
+Moringa oleifera based complete feed for goats: chemical composition,
+production protocol & goat productivity thereof
+Applicant: Indian Council of Agricultural Research (ICAR)
+Patent No: 412627,Date of Grant: 28/11/2022
+Inventor: U. B. Chaudhary, Giriraj Singh
+Synergistic herbal hair growth formulation for alopecia
+Applicant: 1. H.N.B. GARHWAL UNIVERSITY SRINAGAR (GARHWAL) (A CENTRAL
+UNIVERSITY), 2. MONA SEMALTY, 3. AJAY SEMALTY, 4. TEJ PRAKASH SEVAK, 5.
+YUVERAJ SINGH TANWAR, 6. MOHAN SINGH MANIYARI RAWAT
+Patent No: 426371, Date of Grant: 22/03/2023
+Inventor: Mona Semalty, Ajay Semalty, Tej Sevak, Yuveraj Tanwar, Mohan Rawat
+A novel antimicrobial polyherbal composition
+Applicant: The Talwar Research Foundation
+Patent No: 282906, Date of Grant: 05/05/2017
+Inventor: Gursaran Talwar, Mahendra Rai, Kavita Bansal
+Improved process for pygeum extraction
+Applicant: Goel Pawan Kumar
+Patent No: 389375, Date of Grant: 15/02/2022
+Inventor: Tewari Kiran, Sharma Ashok
+
+www.ipindia .gov .in
+Brief on AYUSH-64
+The CCRAS, an apex body for R&D in Ayurveda under the Ministry of Ayush, Govt. of
+India developed a poly-herbal anti-malarial drug ‘AYUSH-64’ in 1980 through extensive
+pharmacological, toxicological and clinical studies. It has been patented by the Central
+Council for Research in Ayurvedic Sciences CCRAS through National Research and
+Development Corporation, New Delhi. Its efficacy and safety has already been proven in
+infective febrile conditions such as malaria, microfilaremia, chikungunya, and flu-like
+illness. It was repurposed for COVID-19 based on the recommendations of Interdisciplinary
+Ayush R & D Task Force. A molecular docking study conducted at ICMR-NIN,
+Hyderabad that revealed 35 phytoconstituents isolated from AYUSH-64 demonstrated anti-
+viral activity against SARS-CoV-2.

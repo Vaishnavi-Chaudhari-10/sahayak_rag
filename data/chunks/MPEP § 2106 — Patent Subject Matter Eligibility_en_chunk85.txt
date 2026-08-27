@@ -1,0 +1,24 @@
+d n.1 (Fed. Cir. 1989). See, 
+e.g., SAP America, Inc. v.
+ InvestPic, LLC,
+ 898 F.3d 1161, 1163, 127 USPQ2d 1597, 1599 (Fed.
+ Cir. 2018) (holding that claims to a ‘‘series of mathematical calculations
+ based on selected information’’ are directed to abstract ideas);
+
+Digitech Image Techs., LLC v. Elecs. for Imaging, Inc.,
+
+ 758 F.3d 1344, 1350, 111 USPQ2d 1717, 1721 (Fed. Cir. 2014) (holding that
+ claims to a ‘‘process of organizing information through mathematical
+ correlations’’ are directed to an abstract idea); and 
+Bancorp Servs.,
+ LLC v. Sun Life Assurance Co. of Can. (U.S.),
+ 687 F.3d 1266, 1280,
+ 103 USPQ2d 1425, 1434 (Fed. Cir. 2012) (identifying the concept of ‘‘managing a
+ stable value protected life insurance policy by performing calculations and
+ manipulating the results’’ as an abstract idea).
+
+A.
+ Mathematical Relationships
+A mathematical relationship is a
+ relationship between variables or numbers. A mathematical relationship may
+ be expressed in words or using mathemati

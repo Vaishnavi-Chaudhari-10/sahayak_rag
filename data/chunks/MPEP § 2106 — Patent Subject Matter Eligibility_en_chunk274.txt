@@ -1,0 +1,28 @@
+Holdings,
+ 773 F.3d at 1259,
+ 113 USPQ2d at 1107. In this respect, the improvement consideration overlaps with
+ other considerations, specifically the particular machine consideration (see
+
+MPEP
+ § 2106.05(b)
+), and the mere instructions to apply an
+ exception consideration (see 
+MPEP § 2106.05(f)
+). Thus, evaluation
+ of those other considerations may assist examiners in making a determination of
+ whether a claim satisfies the improvement consideration. 
+
+It is important to note, the judicial exception alone
+ cannot provide the improvement. The improvement can be provided by one or more
+ additional elements. See the discussion of 
+Diamond v. Diehr
+, 450
+ U.S. 175, 187 and 191-92, 209 USPQ 1, 10 (1981)) in subsection II, below. In
+ addition, the improvement can be provided by the additional element(s) in combination
+ with the recited judicial exception. See 
+MPEP §
+ 2106.04(d)
+ (discussing 
+Finjan, Inc. v. Blue Coat
+ Sys., Inc.,
+ 879 F.3d 1299, 1303-04, 125 USPQ2d 1282, 1285-87 (Fed. C

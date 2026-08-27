@@ -1,0 +1,18 @@
+ANALYSIS AND FLOWCHART
+Examiners should determine whether a claim satisfies the
+ criteria for subject matter eligibility by evaluating the claim in accordance with the
+ following flowchart. The flowchart illustrates the steps of the subject matter
+ eligibility analysis for products and processes that are to be used during examination
+ for evaluating whether a claim is drawn to patent-eligible subject matter. It is
+ recognized that under the controlling legal precedent there may be variations in the
+ precise contours of the analysis for subject matter eligibility that will still achieve
+ the same end result. The analysis set forth herein promotes examination efficiency and
+ consistency across all technologies. 
+
+ As shown in the flowchart, Step 1 relates to the
+ statutory categories and ensures that the first criterion is met by confirming that the
+ claim falls within one of the four statutory categories of invention. See
+
+MPEP §
+ 2106.03
+ for more information on Step 1. Step 2, which i

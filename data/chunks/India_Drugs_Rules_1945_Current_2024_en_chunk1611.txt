@@ -1,0 +1,17 @@
+is for implementing the technical and 
+organisational measures required to control the risks of contamination 
+and cross-contamination. These could include, though are not limited 
+to- 
+(i) carrying out processing and filling in segregated areas; 
+(ii) containing material transfer by means of an airlock and appropriate 
+type of pass box with validated transfer procedures, clothing 
+change and effective washing and decontamination of equipment; 
+(iii) recirculation of only treated (HEPA filtered) air; 
+(iv) acquiring knowledge of the key characteristics (for example, 
+pathogenicity, detectab ility, persistence and susceptibility to 
+inactivation) of all cells, organisms and any adventitious agents 
+within the same facility; 
+(v) when considering the acceptability of concurrent work in cases 
+where production is characterised by multiple small batches from 
+different starting materials (for example, cell -based products) 
+taking into account factors such as the health status of donors an

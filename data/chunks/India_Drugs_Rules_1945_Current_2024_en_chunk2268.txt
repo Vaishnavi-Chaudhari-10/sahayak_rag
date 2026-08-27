@@ -1,0 +1,17 @@
+h as pulmonary function tests, symptom measurement, dispensation 
+and retrieval of medication, subject cohort assignment, adverse event review, 
+etc. 
+Each visit should be described separately as Visit 1, Visit 2, etc. 
+Discontinued Subjects: Describes the circumstances for subject withdrawal, 
+drop-outs, or other reasons for discontinuation of subjects. State how drop -outs 
+would be managed and if they would be replaced, describe the method of 
+handling of protocol waivers, if any. The person(s) who approves all such 
+waivers should be identified and the criteria used for specific waivers should be 
+provided. 
+Describes how protocol violations will be treated, includ ing conditions 
+where the study will be terminated for non-compliance with the protocol. 
+9. Study Treatment— 
+(a) Dosing schedule (dose, frequency and duration of the experimental 
+treatment). Describe the administration of placebos and/or dummy 
+medications if they are part of the treatment plan. If applicable, 
+concom

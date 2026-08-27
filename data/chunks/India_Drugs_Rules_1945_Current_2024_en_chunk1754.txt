@@ -1,0 +1,16 @@
+tems were inoperative). Systems shall be designed to prevent dust 
+flowing back in the opposite direction in the event of component failure 
+or airflow failure. 
+1.25. Adequate room pressure differential indication shall be provided so that 
+each critical room pressure can be traced back to ambient pressure (by 
+summation of the room pressure differentials), in order to determine the 
+room actual absolute pressure. Room pressure indication gauges shall 
+have a range and graduation scale which enables the reading to accuracy, 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+as appropriate; normal operating range, alert and action limits shall be 
+defined and displayed at the point of indication. A colour co ding gauge 
+may be helpful. Room pressure indication may be either analogue or 
+digital, and may be represented as either pressure differentials or 
+absolute pressures. Whichever system is used any out -of-specification 
+co

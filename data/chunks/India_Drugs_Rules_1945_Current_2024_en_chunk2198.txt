@@ -1,0 +1,16 @@
+ge to DNA and its 
+fixation. 
+The following standard test battery is generally expected to be conducted: 
+(i) A test for gene mutation in bacteria. 
+(ii) An in-vitro test with cytogenetic evaluation of chromosomal damage 
+with mammalian cells or an in vitro mouse lymphoma tic assay. 
+(iii) An in-vivo test for chromosomal damage using rodent hematopoietic 
+cells. Other genotoxicity tests e.g. tests for measurement of DNA adducts, 
+DNA strand breaks, DNA repair or recombination serve as options in 
+addition to the standard battery for further investigation of genotoxi city 
+test results obtained in the standard battery. Only under extreme conditions 
+in which one or more tests comprising the standard battery cannot be 
+employed for technical reasons, alternative validated tests can serve as 
+substitutes provided sufficient scientific justification should be provided to 
+support the argument that a given standard battery test is not appropriate. 
+Both in -vitro and in -vivo studies should

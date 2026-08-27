@@ -1,0 +1,20 @@
+ll be checked. If documentation is handled by 
+electronic data -processing methods, only authorised persons 
+shall be able to enter or modify data in the computer system, 
+and there shall be a record of changes and deletions; access 
+shall be restricted by passwords or other means and the entry 
+of critical data shall be independently checked. Batch records 
+stored electronically shall be protected by back -up transfer on 
+magnetic tape, microfilm, electronic discs, paper printouts or 
+other means. It is particularly important that, during the 
+period of retention, the data are readily available. 
+17.2.9 The site master file shall be prepared and maintained 
+up to date as per the Appendix-I this Part. 
+
+17.3. Documents Required: 
+17.3.1. Labels- 
+17.3.1.1. Labels applied to containers, equipment or premises 
+shall be clear, unambiguous and in the company’s 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+agreed format. It is

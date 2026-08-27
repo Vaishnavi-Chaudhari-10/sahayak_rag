@@ -1,0 +1,18 @@
+liability of records or test results shall be recorded 
+and investigated. 
+20.8. Changes to the computerised system shall be made according to a 
+change procedure and shall be formally authorised, documented and 
+tested. Records shall be kept of all changes, including modiﬁcations 
+and enhancements made to the hardware, software and any other 
+critical component of the system. These records shall demonstrate that 
+the system is maintained in a validated state. 
+20.9. A back-up system shall be provided so that there is no permanent loss 
+of records due to system breakdown or failure. Means of ensuring 
+data protection shall be established for all computerised systems. 
+20.10. Data may be recorded by other means in addition to the computer 
+system. 
+Appendix-I 
+Site Master File 
+The licensee shall prepare a succinct document in the form of ‘Site Master 
+File’ containing specific and factual Good Manufacturing Practices about 
+the production or control or both of pharmaceutical manufactur

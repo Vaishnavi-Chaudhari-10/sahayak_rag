@@ -1,0 +1,49 @@
+417-01). Thus, 
+section 33(a) of the
+ AIA
+ codifies existing Office policy that human organisms are not
+ patent-eligible subject matter. 
+
+If the broadest reasonable interpretation of the claimed invention as a
+ whole encompasses a human organism, then a rejection under 
+35 U.S.C. 101
+ and
+
+AIA
+ sec. 33(a)
+ must be made indicating that the claimed invention is
+ directed to a human organism and is therefore nonstatutory subject matter. Furthermore,
+ the claimed invention must be examined with regard to all issues pertinent to
+ patentability, and any applicable rejections under 
+35 U.S.C. 102
+, 
+103
+, or
+
+112
+ must also be made. 
+
+Use form paragraph 
+7.04.03
+ to reject a claim under
+
+35 U.S.C.
+ 101
+ and 
+AIA sec. 33(a)
+.
+
+¶ 7.04.03 Human Organism
+
+Section 33(a) of the America Invents Act reads as
+ follows
+
+Notwithstanding any other provision of law, no patent may
+ issue on a claim directed to or encompassing a human organism.
+
+Claim 
+[1]
+ rejected under 
+35 U.S.C. 101
+ and
+ section 33(a)

@@ -1,0 +1,17 @@
+ted from the rear of the room at low level to help give a 
+flushing effect in the room. Correct flushing of the rooms may be 
+verified by airflow visualisation smoke tests. 
+1.46. When dealing with particularly harmful products, additional steps, such 
+as handling the products in glove boxes or using barrier isolator 
+technology, shall be used. 
+1.47. Exhaust air discharge points on pharmace utical equipment and facilities, 
+such as from fluid bed driers and tablet -coating equipment, and exhaust 
+air from dust extraction systems, carry heavy dust loads and shall be 
+provided with adequate filtration to prevent contamination of the 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+ambient air. 
+1.48. Where the powders are not highly potent, final filters on a dust exhaust 
+system shall be fine dust filters with a filter classification of 5µ. 
+1.49. Where reverse-pulse dust collectors are used for removing dust from dust 
+extra

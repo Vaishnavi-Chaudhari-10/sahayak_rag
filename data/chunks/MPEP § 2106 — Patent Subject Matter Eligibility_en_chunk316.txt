@@ -1,0 +1,30 @@
+step or in a field-of-use
+ limitation) would not provide significantly more (or integrate a judicial
+ exception into a practical application). For example, in
+
+Mayo
+ the Supreme Court found claims regarding calibrating
+ the proper dosage of thiopurine drugs to be patent ineligible subject matter.
+ The Federal Circuit had held that the step of administering the thiopurine drug
+ demonstrated a transformation of the human body and blood.
+
+Mayo,
+ 566 U.S. at 76, 101 USPQ2d at 1967. The Supreme
+ Court disagreed, finding that this step was only a field-of-use limitation and
+ did not provide significantly more than the judicial exception.
+
+Id.
+ See 
+MPEP §
+ 2106.05(g)
+ &
+ (h)
+ for more information on insignificant
+ extra-solution activity and field of use, respectively.
+
+2106.05(d) Well-Understood, Routine, Conventional
+ Activity [R-07.2022]
+
+Another consideration when determining whether a claim
+ recites significantly more than a judicial exception is whether the additional
+ element(s) are w

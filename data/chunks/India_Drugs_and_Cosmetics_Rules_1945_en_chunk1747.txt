@@ -1,0 +1,24 @@
+n and development 
+progresses. 
+
+NOTE: Design transfer activities during the design and development process ensure that design and 
+development outputs are verified as suitable for manufacturing before becoming final production 
+specifications. 
+
+7.3.2 Design and development inputs: 
+Inputs relating to product requirements shall be determined and records maintained. The design 
+requirements relating to a device are appropriate and address the intended use of the device, 
+including the needs of the user and patients. 
+
+Drugs and Cosmetics Rules 1945 
+508 
+
+These inputs shall include:- 
+(a) functional, performance and safety requirements, according to the intended use; 
+(b) applicable statutory and regulatory requirements; 
+(c) where applicable, information derived from previous similar designs; 
+(d) other requirements essential for design and development; and 
+(e) output(s) of risk management. 
+
+These inputs shall be reviewed for adequacy and approved by designated individual. 
+Requirem

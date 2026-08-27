@@ -1,0 +1,17 @@
+rial transfer by means of airlocks, air extraction, 
+changing clothes and careful washing and decontamination of 
+equipment; 
+(iv) protecting against the risks of contamination caused by 
+recirculation of untreated air or by accidental re-entry of extracted air; 
+(v) using “closed systems” of manufacture; 
+(vi) taking care to prevent aerosol formation; and 
+(vii) using sterilised containers. 
+3.8. Positive pressure areas shall be used to process sterile products. In 
+general, any radioactivity shall be handled within specifically designed 
+areas maintained under negative pressures. The production of sterile 
+radioactive products shall therefore be carried out under negative 
+pressure s urrounded by a positive pressure zone ensuring that 
+appropriate air quality requirements are met. 
+3.9. Separate air -handling units shall be used for radioactive and non -
+radioactive areas. Air from operations involving radioactivity shall be 
+exhausted through ap propriate filters that are regularly

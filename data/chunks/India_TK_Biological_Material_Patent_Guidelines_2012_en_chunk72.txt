@@ -1,0 +1,23 @@
+ords there was no 
+coherent thread leading from the prior art to arrive to the invention. Alternatively, it 
+may be said that there was no prior art motivation. 
+
+Conclusion: The invention is therefore non-obvious. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Example 2 
+
+Invention: Selective COX-II inhibitor NSAIDs represented by the formula Hy-X. Hy 
+represents a complex heterocyclic structure, whereas X represents substituents. 
+
+Background: Cyclooxygenase I and II play vital roles in pharmacological activities of 
+NSAIDS. Early NSAIDS are known to cause gastric irritations and life threatening ulcers. 
+Selective COX II inhibitors, developed later, are shown to inhibit gastric secretions and 
+thereby proved to be a better choice as NSAID. The object of the invention is to 
+provide a class of COX II inhibitors. 
+
+Q stands for S and O 
+
+Prior Art: D1 teaches compounds with fol

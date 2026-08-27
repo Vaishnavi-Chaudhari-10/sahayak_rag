@@ -1,0 +1,15 @@
+e batch of the drug 
+substance. It should include the effect of temperature(s), humidity where 
+appropriate, oxidation and photolysis on the drug substance. 
+Data should be provided for (a) Photostability on at least one primary batch 
+of the drug substance as well as the formulation, as the case may be, and (b) the 
+susceptibility of the drug substance to hydrolysis across a wide range of pH 
+values when in solution or suspension. 
+Long-term testing should cover a minimum of 12 months' duration on at 
+least three primary batches of the drug substance or the formulation at the time 
+of submission and should be continued for a period of time sufficient to cover 
+the proposed shelf life. Accelerated testing should cover a minimum of 6 
+months duration at the time of submission. 
+In case of drug substances, the batches should be manufactured to a 
+minimum of pilot scale by the same synthetic route and using a method of 
+manufacture that simulates the final process to be used for productio

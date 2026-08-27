@@ -1,0 +1,21 @@
+on (WHO) on 
+following aspects relating to GMP through their Technical Report Series from 
+time to time may be considered for general guidance purposes:- 
+(1) Guidelines on the principles of airflow directions, air filtration 
+standards, temperature, humidity and related parameters. 
+(2) GMP guidelines regarding the design, installation and operation of 
+pharmaceutical water systems including guidance about which quality 
+of water to use for specific applications, such as the manufacture of 
+APIs and dosage forms. 
+(3) Guidelines on design, installation, qualification and maintenance of the 
+HVAC systems of the manufacturing plant. 
+(4) GMP guidelines for validation. 
+(5) Guidelines on packaging of pharmaceutical products. 
+
+PART II 
+SPECIFIC REQUIREMENTS FOR MANUFACTURE OF STERILE 
+PRODUCTS, PARENTERAL PREPARATIONS (SMALL VOLUME 
+INJECTABLES AND LARGE VOLUME PARENTERALS) AND 
+STERILE OPHTHALMIC PREPARATIONS 
+Note.-Good Manufacturing Practices for pharmaceutical products: - Main 
+princ

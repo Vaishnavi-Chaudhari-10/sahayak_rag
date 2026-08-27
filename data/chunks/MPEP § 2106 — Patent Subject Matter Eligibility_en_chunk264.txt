@@ -1,0 +1,26 @@
+inding may indicate that the additional element is no longer considered to be
+ insignificant; and
+
+ • Evaluate whether any additional element or
+ combination of elements are other than what is well-understood, routine,
+ conventional activity in the field, or simply append well-understood, routine,
+ conventional activities previously known to the industry, specified at a high
+ level of generality, to the judicial exception, per 
+MPEP §
+ 2106.05(d)
+. 
+
+In the context of the flowchart in
+
+MPEP §
+ 2106
+, subsection III, Step 2B determines whether:
+
+ • The claim as a whole does not amount to
+ significantly more than the exception itself (there is no inventive concept in
+ the claim) (Step 2B: NO) and thus is not eligible, warranting a rejection for
+ lack of subject matter eligibility and concluding the eligibility analysis; or
+
+ • The claim as a whole does amount to
+ significantly more than the exception (there is an inventive concept in the
+ claim) (Step 2B: YES), and thus is eligible at Pa

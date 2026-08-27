@@ -1,0 +1,19 @@
+butes shall normally be 
+identiﬁed during the development stage or from historical data 
+and the ranges necessary for the reproducible operation shall be 
+deﬁned. This shall include- 
+(i) deﬁning the API in terms of its critical product attributes; 
+(ii) identifying process parameters that could affect the critical 
+quality attributes of the API; and 
+(iii) determining the range for each critical process parameter 
+expected to be used during routine manufacturing and 
+process control. 
+12.1.3. Validation sh all extend to those operations determined to be 
+critical to the quality and purity of the API. 
+12.2. Validation documentation- 
+12.2.1. A written validation protocol shall be established that speciﬁes 
+how validation of a particular process will be conducted. The 
+protocol shall be reviewed and approved by the quality units 
+and other designated units. 
+12.2.2. The validation protocol shall specify cr itical process steps and 
+acceptance criteria as well as the type of validation

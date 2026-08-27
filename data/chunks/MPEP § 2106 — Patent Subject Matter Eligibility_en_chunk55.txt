@@ -1,0 +1,27 @@
+that there are two ways in which an exception can be recited
+ in a claim. For instance, the claims in 
+Diehr,
+ 450 U.S. at 178
+ n. 2, 179 n.5, 191-92, 209 USPQ at 4-5 (1981), clearly stated a mathematical
+ equation in the repetitively calculating step, and the claims in
+
+Mayo,
+ 566 U.S. 66, 75-77, 101 USPQ2d 1961, 1967-68 (2012),
+ clearly stated laws of nature in the wherein clause, such that the claims “set
+ forth” an identifiable judicial exception. Alternatively, the claims in
+
+Alice Corp.,
+ 573 U.S. at 218, 110 USPQ2d at 1982, described
+ the concept of intermediated settlement without ever explicitly using the words
+ “intermediated” or “settlement.” 
+
+The Supreme Court has held that Section 101
+ contains an implicit exception for ‘‘[l]aws of nature, natural phenomena, and
+ abstract ideas,’’ which are ‘‘the basic tools of scientific and technological
+ work.’’ 
+Alice Corp.,
+ 573 U.S. at 216, 110 USPQ2d at 1980
+ (citing 
+Mayo,
+ 566 US at 71, 101 USPQ2d at 1965). Yet, the Court
+ has ex

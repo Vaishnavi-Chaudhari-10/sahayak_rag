@@ -1,0 +1,20 @@
+hyl 
+phenyl tolyl Pyridyl Tolyl 
+phenyl pyridyl Methyl Tolyl 
+In all examples, the definition of R1 is restricted to Phenyl. The claim is much broader 
+than what has been described and enabled and is therefore lacking in support. It may be 
+noted that sufficiency and support are two different criteria and serve tw o distinct 
+purposes, despite that they are supplemental to each other. In the example given, the 
+examiner can raise a question of sufficiency also. 
+
+Example 2: 
+
+An H2 receptor antagonist of formula I 
+Formula I is depicted as A-Z. 
+A comprises substituted imidazoles and Z comprises substituted benzimidazoles. 
+
+At the first place, the term ‘Comprises’ or ‘substituted’ are open ended terms and there 
+remains every likelihood that the majority of the compounds claimed would not serve 
+the purpose of the alleged invention. As in above, the examples are limited to only few 
+substituents and do not enable (which is not possible also) other classes of substituents. 
+An objectio

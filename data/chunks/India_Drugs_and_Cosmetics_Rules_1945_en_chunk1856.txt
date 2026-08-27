@@ -1,0 +1,19 @@
+r i.e. the maximum allowable number of defectives 
+for acceptance of the Batch; and 
+R denotes Rejection Number i.e., the minimum number of defectives for rejection of the 
+Batch.] 
+
+ANNEXURE IV 
+(See Paragraph 9) 
+DETERMINATION OF BURSTING VOLUME AND PRESSURE 
+
+1. Principle - Inflation of constant length of the condom with air and recording 
+the volume and pressure at the moment of bursting. 
+2. Apparatus - (1) Apparatus suitable for inflating the condom with clean air at a 
+specified rate and provided with equipment for measuring volume and pressure. 
+(2) Suitable mount for fitting the condoms to the apparatus as shown in the figure annexed. 
+(3) Rod, 140 mm in length having a smooth sphere 20 mm in diameter at its top (see 
+the figure) for hanging the unrolled condom when fixed to the apparatus. 
+3. Procedure - (1) Unroll the condom, hang it on the rod (2.3), affix to the mount 
+(2.2) and inflate with air at a rate of 0.4 to 0.5 litre/sec. (24 to 30 litres/min.) 
+(2) Measure and not

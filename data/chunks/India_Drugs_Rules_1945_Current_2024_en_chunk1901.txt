@@ -1,0 +1,19 @@
+ffected by the changes are revised. 
+13.6. After the change has been implemented there shall be an evaluation of 
+the ﬁrst batch produced or tested under the change. 
+13.7. The potential for critical changes to affect established retest or expiry 
+dates shall be evaluated. If necessary, samples of the intermediate or 
+API produced by the modiﬁed process can be placed on an accelerated 
+stability programme or can be added to the stabilit y monitoring 
+programme. 
+13.8. Manufacturers of the current dosage form shall be notiﬁed of changes 
+from established production and process control procedures that can 
+impact the quality of the API. 
+
+14. Rejection and reuse of materials:- 
+14.1. Rejection- Intermediates and APIs failing to meet established 
+speciﬁcations shall be identiﬁed as such and quarantined. These 
+intermediates or APIs can be reprocessed or reworked as described 
+below. The ﬁnal disposition of rejected materials shall be recorded. 
+14.2. Reprocessing- 
+14.2.1. Introducing an

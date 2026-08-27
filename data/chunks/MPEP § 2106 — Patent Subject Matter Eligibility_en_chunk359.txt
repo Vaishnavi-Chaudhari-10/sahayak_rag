@@ -1,0 +1,25 @@
+on is equivalent to the words “apply
+ it”. See 
+Electric Power Group, LLC v. Alstom, S.A.,
+ 830 F.3d 1350,
+ 1356, 119 USPQ2d 1739, 1743-44 (Fed. Cir. 2016); 
+Intellectual Ventures I v.
+ Symantec,
+ 838 F.3d 1307, 1327, 120 USPQ2d 1353, 1366 (Fed. Cir. 2016);
+
+Internet Patents Corp. v. Active Network, Inc.,
+ 790 F.3d 1343,
+ 1348, 115 USPQ2d 1414, 1417 (Fed. Cir. 2015). In contrast, claiming a particular
+ solution to a problem or a particular way to achieve a desired outcome may integrate
+ the judicial exception into a practical application or provide significantly more.
+ See 
+Electric Power,
+ 830 F.3d at 1356, 119 USPQ2d at 1743. 
+
+By way of example, in 
+Intellectual Ventures
+ I v. Capital One Fin. Corp.,
+ 850 F.3d 1332, 121 USPQ2d 1940 (Fed. Cir.
+ 2017), the steps in the claims described “the creation of a dynamic document based
+ upon ‘management record types’ and ‘primary record types.’” 850 F.3d at 1339-40; 121
+ USPQ2d at 1945-46. The claims were found to be directed to the abstract i

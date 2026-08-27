@@ -1,0 +1,13 @@
+n ingredient is already known for the treatment of a disease, 
+then it creates a presumption of obviousness that a combination 
+product comprising this known ingredient would be effective for the 
+treatment of the same disease. However, unexpected technical effect of 
+such combinations may be considered to establish non-obviousness. 
+Illustration 1: The claims relate to a combination of two constituents of watery extract of 
+Cucumis melo, along with Citrus aurantifolia, for the treatment of vitiligo. 
+Prior art: Discloses usefulness of only one of the constituents, watery extract of Cucumis 
+melo for its anti-vitiligo property in the Unani system of medicine. 
+Analysis: The claim of alleged invention relates to a composition comprising two 
+constituents and not on a single constituent, the watery extract Cucumis melo for its anti -
+vitiligo property. Based on said cited documents, it can be objected that if one ingredient 
+here, Cucumis melo, was already known for t he treatment of vit

@@ -1,0 +1,25 @@
+lly point
+ to claim features/limitations/steps) recited in the claim beyond the identified judicial
+ exception, and explain the reason(s) that the additional elements taken individually,
+ and also taken as a combination, 1) do not integrate the judicial exception into a
+ practical application and 2) do not result in the claim as a whole amounting to
+ significantly more than the judicial exception. See 
+MPEP §
+ 2106.04
+et seq.
+ for a discussion of Step 2A and the judicial exceptions,
+
+MPEP §
+ 2106.05
+et seq.
+ for a discussion of Step 2B and the search for an inventive
+ concept, and 
+MPEP § 2106.07(a)
+ for more information
+ on formulating an ineligibility rejection. 
+
+If the evaluation of the claimed invention results in a
+ conclusion that it is more likely than not that the claimed invention falls within a
+ statutory category (Step 1: YES) and is either not directed to a judicial exception
+ (Step 2A: NO) or is directed to a judicial exception and amounts to significantly more
+ than the

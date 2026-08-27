@@ -1,0 +1,17 @@
+phically ... by causing electrical
+ undulations, similar in form to the vibrations of the air accompanying the said vocal
+ or other sounds,” to be ineligible, because it “monopolize[d] a natural force” and
+ “the right to avail of that law by any means whatever.”). 
+
+In contrast, limitations that confine the judicial
+ exception to a particular, practical application of the judicial exception may amount
+ to significantly more or integrate the judicial exception into a practical
+ application. For example, in 
+BASCOM,
+ the combination of additional
+ elements, and specifically “the installation of a filtering tool at a specific
+ location, remote from the end‐users, with customizable filtering features specific to
+ each end user” where the filtering tool at the ISP was able to “identify individual
+ accounts that communicate with the ISP server, and to associate a request for
+ Internet content with a specific individual account,” were held to be meaningful
+ limitations because they confined t

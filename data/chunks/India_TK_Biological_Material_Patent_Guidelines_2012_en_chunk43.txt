@@ -1,0 +1,25 @@
+step. 
+
+Example 2: 
+
+The invention relates to the fumarate salt of (2S)-1-{[1,1-Dimethyl-3-(4-(pyridin-3- 
+yl))-imidazol-1-yl)-propylamino]-acetyl}-pyrrolidine-2-carbonitrile useful for the 
+treatment of diabetes mellitus, having the structure 
+
+N
+O
+HN
+N
+
+Prior art specifically discloses methanesulfonic acid salt of (2S)-1-{[1,1-Dimethyl-3- 
+(4-pyridin-3-yl-imidazol-1-yl)-propylamino]-acetyl}-pyrrolidine-2-carbonitrile. 
+Further, it discloses "many pharmaceutically acceptable salts" of the said compound 
+and also mentions many salt forming acids, among which fumaric acid was 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+mentioned as one of the pharmaceutically acceptable salt forming acid. However, it 
+does not specifically disclose the fumaric acid salt. 
+Analysis: The subject-matter of the claimed invention claiming fumaric acid salt of a 
+compound (2S)-1-{[1,1-Dimethyl-3-(4-

@@ -1,0 +1,19 @@
+inical data are calculated by adding the daily scores of the mice belonging to the 
+same treatment group and dividing by the number of mice. 
+Group Incidence Score (Maximum) Average of Maxi mum 
+Scores 
+Control 20/20 (100%) 5 3.9 +/- 0.1 
+Andrographis paniculata extract 7/20 (35%) 4 2.9 +/- 0.1* 
+Ginkgo biloba extract 4/20 (20%) 5 3.3 +/- 0.1 
+Andrographis paniculata extract + 
+Ginkgo biloba extract 
+12/20 (60%) 2 2.2 +/- 0.1** 
+ * p<0.05 Student's t-test 
+ ** p<0.01 vs. control 
+Based on the data provided in the above given table, the combination of Andrographis 
+paniculata extract and Ginkgo biloba extract exhibits no incidence of death and much lower 
+maximum scores indicating less severe clinical signs of disease compared to the scores achieved 
+using Andrographis paniculata extract and Ginkgo biloba extract when used individually, 
+thereby indicating the presence of synergism between the two components. 
+
+Disclaimer: These guidelines provide guidance for the situations that are co

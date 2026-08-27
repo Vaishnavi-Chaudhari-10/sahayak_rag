@@ -1,0 +1,25 @@
+in methods of organizing human activity, mental processes). This type of
+ claim limitation is referred to as a “tentative abstract idea.”
+
+In such circumstances, the examiner should
+ evaluate the claim under the subject matter eligibility framework: 
+
+ • If the claim as a whole integrates the
+ tentative abstract idea into a practical application, the claim is not
+ directed to a judicial exception (Step 2A; NO) and thus is
+
+eligible
+ at Pathway B. This concludes the eligibility
+ analysis. 
+
+ • If the claim as a whole does not integrate
+ the tentative abstract idea into a practical application, then the claim is
+ directed to a judicial exception (Step 2A: YES) and thus requires further
+ analysis at Step 2B. At Step 2B, if the claim as a whole provides an
+ inventive concept (Step 2B: YES), the claim is 
+eligible
+ at
+ Pathway C. This concludes the eligibility analysis. 
+
+ • If the claim as a whole does not provide
+ an inventive concept (Step 2B: NO), the application should be brought to th

@@ -1,0 +1,18 @@
+ause when isolated as a primer, a primer can be used as a starting
+ material for a DNA polymerization process. The court disagreed, because this
+ ability to serve as a starting material is innate to DNA itself, and was not
+ created or altered by the patentee: 
+
+In fact, the naturally occurring genetic
+ sequences at issue here do not perform a significantly new function.
+ Rather, the naturally occurring material is used to form the first step
+ in a chain reaction--a function that is performed because the primer
+ maintains the exact same nucleotide sequence as the relevant portion of
+ the naturally occurring sequence. One of the primary functions of DNA’s
+ structure in nature is that complementary nucleotide sequences bind to
+ each other. It is this same function that is exploited here--the primer
+ binds to its complementary nucleotide sequence. Thus, just as in nature,
+ primers utilize the innate ability of DNA to bind to itself.
+
+Ambry Genetics,
+ 774 F.3d at 760-61, 113 USPQ2d at 1244.

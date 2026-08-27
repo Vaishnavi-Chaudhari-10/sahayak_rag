@@ -1,0 +1,23 @@
+se were not directed to an abstract
+ idea). 
+
+To facilitate examination, the Office has set forth an
+ approach to identifying abstract ideas that distills the relevant case law into
+ enumerated groupings of abstract ideas. The enumerated groupings are firmly rooted in
+ Supreme Court precedent as well as Federal Circuit decisions interpreting that
+ precedent, as is explained in 
+MPEP § 2106.04(a)(2)
+. This approach
+ represents a shift from the former case-comparison approach that required examiners
+ to rely on individual judicial cases when determining whether a claim recites an
+ abstract idea. By grouping the abstract ideas, the examiners’ focus has been shifted
+ from relying on individual cases to generally applying the wide body of case law
+ spanning all technologies and claim types.
+
+The enumerated groupings of abstract ideas are
+ defined as:
+
+1) Mathematical concepts – mathematical
+ relationships, mathematical formulas or equations, mathematical calculations
+ (see 
+MPEP § 2106.04(a

@@ -1,0 +1,16 @@
+logue pressure indicators. 
+7.8. Consideration shall be given to providing an emergency power supply, 
+e.g., diesel generators, to ensure that safe operation of the premises and 
+systems can be maintained at all times. 
+7.9. The principles of airﬂow direction, air ﬁltration standards, temperature, 
+humidity and related parameters shall be en sured and the ﬁltration shall 
+be consistent with the zone concepts and product protection required. 
+8. Air-Handling Units (AHU):- 
+8.1. The decision to use return air or re -circulated air shall be made on the 
+basis of a risk assessment. 
+8.2. Where a full fresh -air or si ngle-pass system is used, an energy recovery 
+wheel could be considered. In such cases, there shall not be any potential 
+for air leakage between the supply air and exhaust air as it passes through 
+the wheel. The relative pressures between supply and exhaust air systems 
+shall be such that the exhaust-air system operates at a lower pressure than 
+the supply system. (Alternati

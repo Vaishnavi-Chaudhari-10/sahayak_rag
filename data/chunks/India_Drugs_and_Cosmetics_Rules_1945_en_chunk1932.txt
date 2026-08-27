@@ -1,0 +1,16 @@
+and date when manufacture was completed. 
+6. Names of all ingredients, quantities required for the lot/batch size, quantities actually used. 
+7. Control reference numbers in respect of raw materials used in formulation. 
+8. Reference to analytical report numbers. 
+9. Actual production and packing particulars indicating the size and quantity of 
+finished packings. 
+10. Date of release of finished packing for distribution or sale. 
+11. Signature of the expert staff responsible for the manufacture. 
+
+II. RECORDS OF RAW MATERIALS: 
+Records in respect of each raw material shall be maintained indicating the quantity received, 
+control reference number, the quantity issued from time to time, the names and batch numbers of the 
+products for the manufacture of which the said quantity of raw material has been issued and the 
+particulars relating to the proper disposal of the stocks. 
+Notes: (1) The Licensing Authority may permit the licensee to maintain records in such 
+manner as is considered

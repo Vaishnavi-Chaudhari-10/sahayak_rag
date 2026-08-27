@@ -1,0 +1,15 @@
+ic data processing systems or other reliable means, but documents 
+and record relating to the system in use shall also be available in a hard copy to facilitate checking of 
+the accuracy o f the records. Wherever documentation is handled by electronic data processing 
+methods, authorized persons shall enter or modify data in the computer. There shall be record of 
+changes and deletions. Access shall be restricted by ‗passwords‘ or other means and the result of 
+entry of critical data shall be independently checked. Batch records electronically stored shall be 
+protected by a suitable back -up. During the period of retention, all relevant data shall be readily 
+available. 
+
+4.2.2 Quality manual.- 
+The manufacturer shall establish and maintain a quality manual that includes:- 
+(a) the scope of the quality management system, including details of and justification for any 
+exclusion or non-application or both; 
+
+(b) the documented procedures established for the quality management system, o

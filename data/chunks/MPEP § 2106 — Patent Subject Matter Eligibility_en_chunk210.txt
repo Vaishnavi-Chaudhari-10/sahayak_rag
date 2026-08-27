@@ -1,0 +1,28 @@
+and discussed in more detail in 
+MPEP §§
+ 2106.04(d)(1)
+, 
+2106.04(d)(2)
+, 
+2106.05(a)
+ through 
+(c)
+ and 
+2106.05(e)
+ through 
+(h)
+. 
+
+Many of these considerations overlap, and often
+ more than one consideration is relevant to analysis of an additional element. Not
+ all considerations will be relevant to every element, or every claim. Because the
+ evaluation in Prong Two is not a weighing test, it is not important how the
+ elements are characterized or how many considerations apply from the list. It is
+ important to evaluate the significance of the additional elements relative to the
+ invention, and to keep in mind the ultimate question of whether the exception is
+ integrated into a practical application. If the claim as a whole integrates the
+ judicial exception into a practical application based upon evaluation of these
+ considerations, the additional limitations impose a meaningful limit on the
+ judicial exception and the claim is eligible at Step 2A. 
+
+Examiners should examine ea

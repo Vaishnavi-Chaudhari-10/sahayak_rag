@@ -1,0 +1,30 @@
+an entity) 
+
+(vii) Details of the authorized representative for the 
+applicant (applicable if the applicant is an entity) 
+
+(Name with postal address including PIN code, 
+email, mobile and alternate mobile numbers and/or 
+landline number) 
+
+(viii) Contact person of the applicant in India (If any) 
+(Name with postal address including PIN code, 
+email, mobile and alternate mobile numbers and/or 
+landline number) 
+
+(2) Details of the biological resources and knowledge associated thereto intended to be accessed 
+(i) Details of the biological resource (Drop down menu) 
+i. Nature of the biological resource(s) 
+(plants/animals/microbes/genetic 
+material/variety/hybrid) 
+ii. Common name 
+iii. Scientific name (Genus and species/ 
+variety/strain) 
+iv. Plant parts (Seed, stem, bark, leaf, flower, 
+fruit, root, rhizome, genetic material, extract, 
+exudate, etc.) 
+v. Quantity of each biological resource (in 
+Kg/gm/ml) 
+vi. Duration of access (expected start and end 
+date) 
+vii. Frequency of acces

@@ -1,0 +1,24 @@
+ONS FOR MANUFACTURE OF STERILE 
+PRODUCTS 
+Grade Maximum number of permitted particles per cubic meter equal to or above 
+ At rest (b) In Operation (a) 
+ 0.5 µm 5 µm 0.5 µm 5µm 
+A 3,500 0 3,500 0 
+B(a) 3,500 0 3,50,000 2000 
+C(a) 3,50,000 2000 35,00,000 20,000 
+D(a) 35,00,000 20,000 Not defined Not defined 
+
+Notes.— 
+(a) In order to reach the B, C and D air grades, the number of air changes shall 
+be related to the size of the room and the equipment and personnel present in 
+the room. The air system shall be provided with the appropriate filters such as 
+HEPA for Grades A, B and C. The maximum permitted number of particles in 
+the "at rest" condition shall approximately be as under: 
+[Grade A and B corresponds with class 100 or M 3.5 or class 5]; Grade C with 
+Class 10,000 or M 5.5 or ISO Class 7; Grade D with Class 1,00,000 or M 6.5 or 
+ISO Class 8. 
+(b) The requirement and limit for the area shall depend on the nature of the 
+operation carried out. 
+TABLE II 
+
+Central Drugs Standard C

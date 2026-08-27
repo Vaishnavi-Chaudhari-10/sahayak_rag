@@ -1,0 +1,20 @@
+tion is withheld with fraudulent intent.
+Switzerland: Article 81(a) of the Federal Act of 
+June 25, 1954 on Patents for Inventions (status as of 
+January 1, 2017) provides a fine for wrongful provision 
+of false information but not patent invalidation: 
+“Any person who willfully provides false information 
+under Article 49(a) [on disclosure of source] is liable 
+to a fine of up to 100,000 francs. The court may order 
+the publication of the judgment.”
+Norway: Section 8(b) of the Patents Act No. 9 of 
+December 15, 1967 (consolidated version of 2016) 
+provides: 
+“Breach of the duty to disclose information is subject 
+to penalty in accordance with the General Civil Penal 
+Code § 166. The duty to disclose information is without 
+prejudice to the processing of patent applications or 
+the validity of rights arising from granted patents.”
+Depending on how they are designed and implemented, 
+such civil law measures (e.g., claims for compensation) or 
+administrative and criminal penalties (e.g.,

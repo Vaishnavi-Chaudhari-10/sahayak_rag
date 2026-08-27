@@ -1,0 +1,18 @@
+red. 
+1.12. Building structure shall be given special attention to accommodate the 
+pressure cascade design. 
+1.13. Ceilings and walls, close fitting doors and sealed light fittings shall be in 
+place, to limit ingress or egress of air. 
+1.14. The pressure differential between adjacent rooms could be considered a 
+critical parameter, depending on the outcome of risk analysis. The limits 
+for the pressure differential between adjacent areas shall be such that 
+there is no risk of overlap in the acceptable operating range, e.g., 5 Pa to 
+15 Pa in on e room and 15 Pa to 30 Pa in an adjacent room, resulting in 
+the failure of the pressure cascade, where the first room is at the 
+maximum pressure limit and the second room is at its minimum pressure 
+limit. 
+1.15. Low pressure differentials may be acceptable when a irlocks (pressure 
+sinks or pressure bubbles) are used to segregate areas. 
+1.16. The effect of room pressure tolerances shall be calculated and taken into 
+consideration. 
+1.17.

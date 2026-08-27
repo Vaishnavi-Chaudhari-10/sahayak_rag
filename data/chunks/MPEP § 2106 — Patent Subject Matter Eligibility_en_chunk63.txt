@@ -1,0 +1,25 @@
+by the unpatentable law of nature (or natural phenomenon or abstract
+ idea) itself.”). For a claim reciting a judicial exception to be eligible, the
+ additional elements (if any) in the claim must “transform the nature of the claim”
+ into a patent-eligible application of the judicial exception, 
+Alice
+ Corp.,
+ 573 U.S. at 217, 110 USPQ2d at 1981, either at Prong Two or in
+ Step 2B. If there are no additional elements in the claim, then it cannot be
+ eligible. In such a case, after making the appropriate rejection (see
+
+MPEP § 2106.07
+ for more information on formulating a
+ rejection for lack of eligibility), it is a best practice for the examiner to
+ recommend an amendment, if possible, that would resolve eligibility of the claim.
+
+B.
+Evaluating Claims Reciting Multiple Judicial
+ Exceptions
+A claim may recite multiple judicial exceptions.
+ For example, claim 4 at issue in 
+Bilski v. Kappos,
+ 561 U.S.
+ 593, 95 USPQ2d 1001 (2010) recited two abstract ideas, and the claims at issue in
+
+M

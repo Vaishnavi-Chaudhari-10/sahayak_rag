@@ -1,0 +1,17 @@
+th previously unknown viruses
+ and “obfuscated code,” as compared to traditional virus scanning, which only
+ recognized the presence of previously-identified viruses. The security profile
+ also enables more flexible virus filtering and greater user customization. 879
+ F.3d at 1304, 125 USPQ2d at 1286. The court identified these benefits as improving
+ computer functionality, and verified that the claims recite additional elements
+ (
+e.g.,
+ specific steps of using the security profile in a
+ particular way) that reflect this improvement. Accordingly, the court held the
+ claims eligible as not being directed to the recited abstract idea. 879 F.3d at
+ 1304-05, 125 USPQ2d at 1286-87. This analysis is equivalent to the Office’s
+ analysis of determining that the additional elements integrate the judicial
+ exception into a practical application at Step 2A Prong Two, and thus that the
+ claims were not directed to the judicial exception (Step 2A: NO).
+
+2106.04(d)(1) Evaluating Improvements in the

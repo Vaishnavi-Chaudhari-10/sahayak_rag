@@ -1,0 +1,27 @@
+X II 
+
+STRUCTURE, CONTENTS AND FORMAT FOR CLINICAL STUDY REPORTS 
+1. Title Page: 
+
+This page should contain information about the title of the study, the protocol code, name of the 
+investigational product tested, development Phase, indication studied, a brief description of the trial 
+design, the start and end date of patient accrual and the names of the Sponsor and the participating 
+Institutes (Investigators). 
+
+2. Study Synopsis (1 to 2 pages): 
+
+Drugs and Cosmetics Rules 1945 
+601 
+
+A brief overview of the study from the protocol development to the trial closure should be given 
+here. This section will only summarize the important conclusions derived from the study. 
+
+3. Statement of compliance with the ‗Guidelines for Clinical Trials on Pharmaceutical 
+Products in India : 
+GCP Guidelines‘ issued by the Central Drugs Standard Control Organization, Ministry of 
+Health, Government of India. 
+4. List of Abbreviations and Definitions 
+
+5. Table of contents 
+6. Ethics Committee: 
+This

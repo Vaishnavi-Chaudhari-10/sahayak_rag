@@ -1,0 +1,32 @@
+legal obligation is found in
+
+Fort Properties, Inc. v. American Master Lease, LLC,
+
+ 671 F.3d 1317, 101 USPQ2d 1785 (Fed Cir. 2012). The patentee claimed a
+ method of “aggregating real property into a real estate portfolio, dividing
+ the interests in the portfolio into a number of deedshares, and subjecting
+ those shares to a master agreement.” 671 F.3d at 1322, 101 USPQ2d at 1788.
+ The legal obligation at issue was the tax-free exchanges of real estate. The
+ Federal Circuit concluded that the real estate investment tool designed to
+ enable tax-free exchanges was an abstract concept. 671 F.3d at 1323, 101
+ USPQ2d at 1789. 
+
+Other examples of subject matter where the
+ commercial or legal interaction is a legal obligation include:
+
+i. hedging, 
+Bilski v.
+ Kappos
+, 561 U.S. 593, 595, 95 USPQ2d 1001, 1004
+ (2010);
+
+ii. mitigating settlement risk,
+
+Alice Corp. Pty. Ltd. v. CLS Bank Int'l,
+ 573
+ U.S. 208, 218, 110 USPQ2d 1976, 1979 (2014); and
+
+iii. arbitration, 
+In re
+ Comiskey
+, 554 F.3d 9

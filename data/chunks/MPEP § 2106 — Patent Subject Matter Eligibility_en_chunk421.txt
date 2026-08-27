@@ -1,0 +1,18 @@
+tract ideas in accordance with the “tentative abstract idea” procedure (see
+
+MPEP § 2106.04(a)(3)
+). While not required, this
+ explanation or justification may include citing to an appropriate court decision
+ that supports the identification of the subject matter recited in the claim
+ language as an abstract idea within one of the groupings. Examiners should be
+ familiar with any cited decision relied upon in making or maintaining a rejection
+ to ensure that the rejection is reasonably tied to the facts of the case and to
+ avoid relying upon language taken out of context. Examiners should not go beyond
+ those concepts that are enumerated as abstract ideas in 
+MPEP §
+ 2106.04
+, unless they are identifying a tentative
+ abstract idea in the claim, and should avoid relying upon or citing
+ non-precedential decisions unless the facts of the application under examination
+ uniquely match the facts at issue in the non-precedential decisions. Examiners are
+ reminded that a chart of court decisio

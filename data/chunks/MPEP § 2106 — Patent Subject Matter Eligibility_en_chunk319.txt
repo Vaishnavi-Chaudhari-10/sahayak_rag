@@ -1,0 +1,24 @@
+ed conventional Internet hyperlink protocol to
+ dynamically produce a dual-source hybrid webpage, which differed from the
+ conventional operation of Internet hyperlink protocol that transported the user away
+ from the host’s webpage to the third party’s webpage when the hyperlink was
+ activated. 773 F.3d at 1258-59, 113 USPQ2d at 1106-07. Thus, the claims in
+
+DDR Holdings
+ were eligible. 
+
+On the other hand, 
+Mayo Collaborative Servs.
+ v. Prometheus Labs.,
+ Inc., 566 U.S. 66, 67, 101 USPQ2d 1961, 1964 (2010)
+ provides an example of additional elements that were not an inventive concept because
+ they were merely well-understood, routine, conventional activity previously known to
+ the industry, which were not by themselves sufficient to transform a judicial
+ exception into a patent eligible invention. 
+Mayo Collaborative Servs. v.
+ Prometheus Labs., Inc.,
+ 566 U.S. 66, 79-80, 101 USPQ2d 1969 (2012)
+ (citing 
+Parker v. Flook,
+ 437 U.S. 584, 590, 198 USPQ 193, 199
+ (1978) (the additional e

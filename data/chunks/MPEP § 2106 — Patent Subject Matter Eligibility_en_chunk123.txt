@@ -1,0 +1,26 @@
+A.
+ A Claim With Limitation(s) That Cannot Practically be Performed
+ in the Human Mind Does Not Recite a Mental
+ Process
+Claims do not recite a mental process when
+ they do not contain limitations that can practically be performed in the
+ human mind, for instance when the human mind is not equipped to perform the
+ claim limitations. See 
+SRI Int’l, Inc. v. Cisco Systems,
+ Inc.,
+ 930 F.3d 1295, 1304 (Fed. Cir. 2019) (declining to
+ identify the claimed collection and analysis of network data as abstract
+ because “the human mind is not equipped to detect suspicious activity by
+ using network monitors and analyzing network packets as recited by the
+ claims”); 
+CyberSource,
+ 654 F.3d at 1376, 99 USPQ2d at
+ 1699 (distinguishing 
+Research Corp. Techs. v. Microsoft
+ Corp.,
+ 627 F.3d 859, 97 USPQ2d 1274 (Fed. Cir. 2010), and
+
+SiRF Tech., Inc. v. Int’l Trade Comm’n,
+ 601 F.3d 1319,
+ 94 USPQ2d 1607 (Fed. Cir. 2010), as directed to inventions that ‘‘could not,
+ as a practical matter, be performed

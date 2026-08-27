@@ -1,0 +1,21 @@
+he market. 
+
+3.5 Implantable medical device.- Medical device intended:- 
+a. to be totally or partially introduced into the human or animal body or a natural orifice; or 
+b. to replace an epithelial surface or the surface of the eye; 
+by surgical intervention, and which is intended to remain after the procedure for at least 
+thirty days, and which can only be removed by medical or surgical intervention. 
+
+3.6 Component means any raw material, substance, piece, part, software, firmware, labeling, or 
+assembly which is intended to be included as part of the finished, packaged, and labeled device. 
+
+3.7 Design input means the physical and performance requirements of a device that are used as a 
+basis for device design. 
+
+3.8 Design output means the results of a design effort at each design phase and at the end of the 
+total design effort. The finished design output is the basis for the device master record. The total 
+
+Drugs and Cosmetics Rules 1945 
+498 
+
+finished design output consists o

@@ -1,0 +1,26 @@
+res further analysis in Prong Two. If the claim does not recite a
+ judicial exception (a law of nature, natural phenomenon, or abstract idea), then
+ the claim cannot be directed to a judicial exception (Step 2A: NO), and thus the
+ claim is eligible at Pathway B without further analysis. 
+
+For more information how to determine if a claim
+ recites an abstract idea, see 
+MPEP §
+ 2106.04(a)
+. For more information on how to determine if
+ a claim recites a law of nature or natural phenomenon, see 
+MPEP §
+ 2106.04(b)
+. For more information on how to determine if
+ a claim recites a product of nature, see 
+MPEP §
+ 2106.04(c)
+. 
+
+2.
+ Prong Two
+Prong Two asks does the claim recite additional
+ elements that integrate the judicial exception into a practical application? In
+ Prong Two, examiners evaluate whether the claim as a whole integrates the
+ exception into a practical application of that exception. If the additional
+ elements in the claim integrate the recited exception into a practical appli

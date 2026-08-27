@@ -1,0 +1,35 @@
+r any incorrect or wrong information provided. 
+
+Place Signature. 
+Date Name 
+
+FORM-6 
+ {See section 4 of the Act and rule 15(1)(d)} 
+ Application for seeking prior approval of the National Biodiversity Authority to use the results of research for 
+obtaining intellectual property rights by the transferee. 
+
+(1) Particulars of applicant (Transferee) 
+(i) Category of the applicant 
+
+(Drop down menu) 
+a. Individual 
+b. Individual and Entity 
+c. Entity 
+(ii) Name of the applicant 
+(iii) Status of the applicant (Drop down menu) 
+a. NRI 
+b. Non-Indian 
+c. Entity covered under section 
+3(2) of the Act 
+(iv) Address of the applicant 
+(Postal address including PIN code, email, mobile, alternate mobile 
+number and/or landline number) 
+
+(v) Profile of the individual/entity 
+(vi) Nature of business 
+(applicable if the applicant is an entity) 
+
+(vii) Turnover of the organization in Indian rupees 
+(applicable if the applicant is an entity) 
+
+(viii) Authorized representative (applicable if the applic

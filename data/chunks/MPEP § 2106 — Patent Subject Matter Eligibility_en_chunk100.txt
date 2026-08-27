@@ -1,0 +1,23 @@
+ctuations in
+ market demand for energy. The Supreme Court determined that hedging is
+ “fundamental economic practice” and therefore is an “unpatentable abstract
+ idea.” 561 U.S. at 611-12, 95 USPQ2d at 1010. 
+
+Another example of a case identifying a
+ claim as reciting a fundamental economic practice is 
+Bancorp
+ Services., L.L.C. v. Sun Life Assurance Co. of Canada (U.S.),
+
+ 687 F.3d 1266, 103 USPQ2d 1425 (Fed. Cir. 2012). The fundamental economic
+ practice at issue in 
+Bancorp
+ pertained to insurance. The
+ patentee in 
+Bancorp
+ claimed methods and systems for
+ managing a life insurance policy on behalf of a policy holder, which
+ comprised steps including generating a life insurance policy including a
+ stable value protected investment with an initial value based on a value of
+ underlying securities, calculating surrender value protected investment
+ credits for the life insurance policy; determining an investment value and a
+ value of the underlying securities for the current day; and

@@ -1,0 +1,20 @@
+a law of
+ nature and/or natural phenomenon”). Examiners should accordingly be careful to
+ distinguish claims that 
+recite
+ an exception (which require further
+ eligibility analysis) and claims that merely 
+involve
+ an exception
+ (which are eligible and do not require further eligibility analysis).
+
+An example of a claim that recites a judicial
+ exception is “A machine comprising elements that operate in accordance with F=ma.”
+ This claim sets forth the principle that force equals mass times acceleration
+ (F=ma) and therefore recites a law of nature exception. Because F=ma represents a
+ mathematical formula, the claim could alternatively be considered as reciting an
+ abstract idea. Because this claim recites a judicial exception, it requires
+ further analysis in Prong Two in order to answer the Step 2A inquiry. An example
+ of a claim that merely involves, or is based on, an exception is a claim to “A
+ teeter-totter comprising an elongated member pivotably attached to a base member,
+ hav

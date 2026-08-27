@@ -1,0 +1,15 @@
+terial cell membrane permeability leading to removal of 
+intracellular substances, which may include plasmids. Thus, the claimed subject-matter lacks 
+inventive step in view of prior art. 
+If the claimed invention r elates to a polynucleotide/polypeptide having 
+mutation(s) in a known sequence of polynucleotide/polypeptide, which does not result in 
+an unexpected property whatsoever, then the claimed subject -matter lacks inventive 
+step. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: Pro-insulin having a C-peptide encompassing only two amino acids selected from Arg-
+Lys, Lys-Lys and Lys-Arg*. 
+(*Human Pro-insulin is comprised of three chains, A, B and C, in the insulin the two chains 
+are combined eliminating the third chain, i.e. the C–chain consisting of thirty amino acids). 
+Prior art discloses natural Pro -insulin having 30 amino acids C -peptide, Pro -insulin with C -
+peptide as short as two amino acids (Arg-Arg). 
+Analysis: The claim was held to be prima facie obvious. The applicant argued th

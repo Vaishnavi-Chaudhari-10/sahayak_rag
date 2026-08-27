@@ -1,0 +1,19 @@
+rence numbers for all ingredients. 
+(12) Time and duration of blending, mixing, etc. whenever applicable. 
+(13) pH of solution whenever applicable. 
+(14) Filter integrity testing records 
+(15) Temperature and humidity records whenever applicable 
+(16) Records of plate-counts whenever applicable. 
+(17) Results of pyrogen and/or bacterial endotoxin & toxicity. 
+(18) Records of weight or volume of drug filled in containers. 
+(19) Bulk sterility in case of aseptically filled products. 
+(20) Leak test records. 
+(21) Inspection records. 
+(22) Sterilization records including autoclave leakage test records, load details, date, 
+duration, temperature, pressure, etc. 
+(23) Container washing records. 
+(24) Total number of containers filled. 
+(25) Total numbers of containers rejected at each stage 
+(26) Theoretical yield, permissible yield, actual yield and variation thereof. 
+(27) Clarification for variation in yield beyond permissible yield. 
+(28) Reference numbers of relevant analytical reports

@@ -1,0 +1,19 @@
+Analysis: The complete specification must describe each embodiment of the 
+invention claimed and the description must be sufficient to enable a person skilled in 
+the art to carry out substantially all that which falls within the ambit of what is 
+claimed without undue experimentation. 
+
+There is no support for compounds where R and R’ are Mono, di, tri, poly 
+substituted aromatic, heteroaromatic, cy clic or polycyclic groups. To prepare 
+compounds where R and R’ are Mono, di, tri, poly substituted aromatic,. 
+Heteroaromatic, cyclic or polycyclic groups and to find the claimed biological activity 
+involves undue experimentation. 
+
+Hence the subject matter of claim 1 where R and R’ are Mono, di, tri, poly 
+substituted aromatic, heteroaromatic, cyclic or polycyclic lacks groups lacks 
+support. 
+
+12. UNITY OF INVENTION 
+
+12.1 The requirement of unity of invention is provides by the following provision in the 
+Patent Act and Manual of Patent Office Practice and Procedure. As referred abov

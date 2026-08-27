@@ -1,0 +1,17 @@
+n of the medical device or In-vitro Diagnostic 
+device. 
+If the agreed customer requirements allow installation to be performed other than by manufacturer or 
+its authorised agent, the manufacturer shall provide documented requirements for installation and 
+verification. Records of installation and verification performed by the manufacturer or its authorized 
+agent shall be maintained. 
+
+7.5.1.3 Particular requirements for sterile medical devices: 
+The manufacturer shall maintain records of the process parameters for the sterilisation process which 
+was used for each sterilisation batch. Sterilisation records shall be traceable to each production batch 
+of medical device. 
+
+7.5.2 Validation of processes for production and service provision.- 
+7.5.2.1 General: 
+The manufacturer shall validate any processes for production and service provision where the 
+resulting output cannot be verified by subsequent monitoring or measurement. This includes any 
+processes where deficiencies become app

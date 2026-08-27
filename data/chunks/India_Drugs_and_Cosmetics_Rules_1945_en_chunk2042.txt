@@ -1,0 +1,12 @@
+t should be tested by Armstrong/ Harber 
+Test in guinea pig. This test should be done if the drug or a metabolite is related to an agent 
+causing photosensitivity or the nature of action suggests such a potential (e.g., drugs to be 
+used in treatment of leucoderma). Pretest in 8 animals should screen 4 
+concentrations (patch application for 2 hours ±15 min.) with and without UV e xposure (10 
+J/cm2). Observations recorded at 24 and 48 hours should be used to ascertain highest 
+nonirritant dose. Main test should be performed with 10 test animals and 5 controls. 
+Induction with the dose selected from pretest should use 0.3 ml/patch for 2 hour ±15 min. 
+followed by 10 J/cm2 of UV exposure. This should be repeated on day 0, 2,4,7,9 and 11 of 
+the test. Animals should be challenged with the same concentration of test substance 
+between day 20 to 24 of the test with a similar 2-hour application followed by exposure to 10 
+J/cm2 of UV light. Examination and grading of erythema and oedema form

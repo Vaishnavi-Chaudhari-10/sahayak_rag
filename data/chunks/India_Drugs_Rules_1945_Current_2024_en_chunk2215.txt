@@ -1,0 +1,25 @@
+ase • GGT (Non-rodents (ALP) only) • Blood Urea Nitrogen • Creatinine 
+• Total Proteins • Albumin • Globulin (Calculated values) • Sodium 
+• Potassium • Phosphorus • Calcium 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+Grass and Microscopic Pathology 
+• Brain*: 
+Cerebrum, 
+Cerebellum, 
+Midbrain 
+• (Spinal Cord) • Eye • (Middle Ear) 
+• Thyroid • (Parathyroid) • Spleen* • Thymus 
+• Adrenal* • (Pancreas) • (Trachea) • Lung* 
+• Heart* • Aorta • Oesophagus • Stomach 
+• Duodenum • Jejunum • Terminal ileum • Colon 
+• (Rectum) • Liver* • Kidney* • Urinary bladder 
+• Epididymis • Testis* • Ovary • Uterus* 
+• Skin • Mammary gland • Mesenteric 
+lymph node • Skeletal muscle 
+
+* Organs marked with an asterisk should be weighed. 
+( ) Organs listed in parenthesis should be examined if indicated by the nature of 
+the drug or observed effects. 
+Non-clinical toxicity testing and safety evaluation data of an IND needed for 
+the conduct of d

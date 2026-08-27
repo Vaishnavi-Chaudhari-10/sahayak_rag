@@ -1,0 +1,31 @@
+er the limitation is significant
+ (
+i.e.
+ it imposes meaningful limits on the claim such that it
+ is not nominally or tangentially related to the invention).
+ See 
+
+ Ultramercial, Inc. v. Hulu, LLC,
+ 772 F.3d 709, 715-16, 112 USPQ2d 1750,
+ 1755 (Fed. Cir. 2014) (restricting public access to media was found to be
+ insignificant extra-solution activity); 
+Apple, Inc. v. Ameranth,
+ Inc.,
+ 842 F.3d 1229, 1242, 120 USPQ2d 1844, 1855 (Fed. Cir. 2016) (in
+ patents regarding electronic menus, features related to types of ordering were found
+ to be insignificant extra-solution activity). This is considered in Step 2A Prong Two
+ and Step 2B. 
+
+(3) Whether the limitation amounts to necessary
+ data gathering and outputting, (
+i.e.,
+ all uses of the recited
+ judicial exception require such data gathering or data output).
+ See
+
+Mayo,
+ 566 U.S. at 79, 101 USPQ2d at 1968; 
+OIP Techs.,
+ Inc. v. Amazon.com, Inc.,
+ 788 F.3d 1359, 1363, 115 USPQ2d 1090, 1092-93
+ (Fed. Cir. 2015) (presenting offers and gat

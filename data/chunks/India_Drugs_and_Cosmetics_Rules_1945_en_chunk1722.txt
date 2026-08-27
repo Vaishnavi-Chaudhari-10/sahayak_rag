@@ -1,0 +1,22 @@
+plemented effectively, and that these procedures are suitable to achieve 
+quality system objectives. 
+
+3.15 Quality policy means the overall intention and direction of an organization with respect to 
+quality, as established by management with executive responsibility. 
+
+3.16 Quality system means the organisational structure, responsibilities, procedures, processes, 
+and resources for implementing quality management. 
+
+3.17 Rework means action taken on a nonconforming product th at will fulfill the specified 
+Device Master File requirements before it is released for distribution. 
+
+3.18 Specification means any requirement with which a product, process, service, or other 
+activity must conform. 
+
+Drugs and Cosmetics Rules 1945 
+499 
+
+3.19 Validation means confirmation by examination and provision of objective evidence that the 
+particular requirement for a specific intended use can be consistently fulfilled; 
+
+3.19.1 Process validation means establishing by objective evidence that a pro

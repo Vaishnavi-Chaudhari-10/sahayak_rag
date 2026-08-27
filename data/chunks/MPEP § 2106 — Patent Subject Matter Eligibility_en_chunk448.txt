@@ -1,0 +1,41 @@
+s into at least one category (see
+
+MPEP §
+ 2106.03
+).
+
+3. For a claim that is directed to a judicial exception and is
+ nonstatutory, use form paragraph 
+7.05.016
+.
+
+¶ 7.05.016 Rejection, 35 U.S.C. 101, Nonstatutory (Directed to a Judicial
+ Exception without an Inventive Concept/Significantly More)
+
+the claimed invention is directed to 
+[1]
+ without
+ significantly more. The claim(s) recite(s) 
+[2]
+. This judicial exception is not
+ integrated into a practical application because 
+[3]
+. The claim(s) does/do not
+ include additional elements that are sufficient to amount to significantly more than the
+ judicial exception because 
+[4]
+.
+
+Examiner Note:
+
+1. This form paragraph should be preceded by form paragraph
+
+7.05
+. For
+ claims that recite a tentative abstract idea (i.e., a limitation identified as an
+ abstract idea even though it does not fall within the groupings of abstract ideas
+ discussed in 
+MPEP § 2106.04(a)(2)
+), this form
+ paragraph should be accompanied by form paragraph 
+7.05.

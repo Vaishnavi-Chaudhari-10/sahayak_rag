@@ -1,0 +1,33 @@
+possibly patentable subject matter.” 
+Intellectual Ventures I
+ v. Symantec Corp.,
+ 838 F.3d 1307, 1315, 120 USPQ2d 1353, 1358 (Fed. Cir.
+ 2016) (quoting 
+Diamond v. Diehr,
+ 450 U.S. at 188–89, 209 USPQ at
+ 9). See also 
+Synopsys, Inc. v. Mentor Graphics Corp.,
+ 839 F.3d
+ 1138, 1151, 120 USPQ2d 1473, 1483 (Fed. Cir. 2016) (“a claim for a
+
+new
+ abstract idea is still an abstract idea.
+ The search for a 
+§
+ 101
+ inventive concept is thus distinct from demonstrating
+
+§
+ 102
+ novelty.”). In addition, the search for an inventive
+ concept is different from an obviousness analysis under 
+35 U.S.C.
+ 103
+. See, 
+e.g., BASCOM Global Internet v. AT&T
+ Mobility LLC,
+ 827 F.3d 1341, 1350, 119 USPQ2d 1236, 1242 (Fed. Cir.
+ 2016) (“The inventive concept inquiry requires more than recognizing that each claim
+ element, by itself, was known in the art. . . . [A]n inventive concept can be found
+ in the non-conventional and non-generic arrangement of known, conventional pieces.”).
+ Specifically, lack of n

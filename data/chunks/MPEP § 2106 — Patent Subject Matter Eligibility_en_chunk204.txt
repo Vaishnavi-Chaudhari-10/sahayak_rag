@@ -1,0 +1,31 @@
+ception, or merely including instructions
+ to implement an abstract idea on a computer, or merely using a computer as a
+ tool to perform an abstract idea, as discussed in 
+MPEP §
+ 2106.05(f)
+;
+
+ • Adding insignificant extra-solution
+ activity to the judicial exception, as discussed in 
+MPEP §
+ 2106.05(g)
+; and 
+
+ • Generally linking the use of a judicial
+ exception to a particular technological environment or field of use, as
+ discussed in 
+MPEP § 2106.05(h)
+.
+
+Step 2A Prong Two is similar to Step 2B in that
+ both analyses involve evaluating a set of judicial considerations to determine if
+ the claim is eligible. See 
+MPEP §§ 2106.05(a)
+ through
+
+(h)
+ for the list of considerations that are evaluated
+ at Step 2B. Although most of these considerations overlap (i.e., they are
+ evaluated in both Step 2A Prong Two and Step 2B), Step 2A specifically excludes
+ consideration of whether the additional elements represent well-understood,
+ routine, conventional activity. Accordingly, in Step 2A

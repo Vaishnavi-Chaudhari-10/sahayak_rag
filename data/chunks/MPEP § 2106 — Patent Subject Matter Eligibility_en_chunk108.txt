@@ -1,0 +1,31 @@
+3d. at 715, 112 USPQ2d at 1754. The Federal
+ Circuit determined that the "combination of steps recites an abstraction—an
+ idea, having no particular concrete or tangible form" and thus was directed
+ to an abstract idea, which the court described as "using advertising as an
+ exchange or currency." 
+Id.
+
+Other examples of subject matter where the
+ commercial or legal interaction is advertising, marketing or sales
+ activities or behaviors include:
+
+i. structuring a sales force or marketing
+ company, which pertains to marketing or sales activities or behaviors,
+
+In re Ferguson,
+ 558 F.3d 1359, 1364, 90 USPQ2d
+ 1035, 1038 (Fed. Cir. 2009); 
+
+ii. using an algorithm for determining the
+ optimal number of visits by a business representative to a client,
+
+In re Maucorps,
+ 609 F.2d 481, 485, 203 USPQ 812,
+ 816 (CCPA 1979); and
+
+iii. offer-based price optimization, which
+ pertains to marketing, 
+OIP Techs., Inc. v. Amazon.com,
+ Inc.,
+ 788 F.3d 1359, 1362-63, 115 USPQ2d 1090, 1092 (Fed.
+ Cir. 2015

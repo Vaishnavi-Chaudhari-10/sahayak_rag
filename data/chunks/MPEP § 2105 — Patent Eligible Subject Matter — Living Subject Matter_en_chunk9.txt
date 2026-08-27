@@ -1,0 +1,30 @@
+e for patent protection.” 
+In re Roslin Institute
+ (Edinburgh),
+ 750 F.3d 1333, 1336, 110 USPQ2d 1668, 1671 (Fed. Cir. 2014)
+ (quoting 
+Chakrabarty,
+ 447 U.S. at 310, 206 USPQ2d at 197). In
+
+Roslin,
+ the claimed invention was a live-born clone of a
+ pre-existing, non-embryonic, donor mammal selected from cattle, sheep, pigs, and
+ goats. An embodiment of the claimed invention was the famous Dolly the Sheep, which
+ the court stated was “the first mammal ever cloned from an adult somatic cell.”
+ Despite acknowledging that the method used to create the claimed clones “constituted
+ a breakthrough in scientific discovery”, the court relied on
+
+Chakrabarty
+ in holding the claims ineligible because “Dolly
+ herself is an exact genetic replica of another sheep and does not possess ‘markedly
+ different characteristics from any [farm animals] found in nature.’”
+
+Roslin,
+ 750 F.3d at 1337, 110 USPQ2d at 1671.
+
+See 
+MPEP §
+ 2106.04
+ for a discussion of the judicial exceptions in
+ general, 
+MPEP § 21

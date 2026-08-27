@@ -1,0 +1,12 @@
+ion of list of TK related patent applications: 
+24. The System Administrator shall publish the list of all pending patent applications 
+related to TK, which are published under section 11 (A) of 
+the Patents Act, in a separate link on the official website of CGPDTM. This list should be 
+updated automatically on the website as per screening field in the module on real time basis. 
+The list should display at least the following fields: application number, date of filing, title of 
+the invention and name of applicant (indexed in the order of date of filing). 
+25. A list of patents granted on applications related to TK should also be published on the 
+website for all such patents granted from 1 st July 2012. This list should also be updated 
+automatically on the website as per screening field in the module on real time basis. The list 
+should display at least the following fields: application number, patent number, date of filing, 
+date of grant, title of the invention and name of patentee

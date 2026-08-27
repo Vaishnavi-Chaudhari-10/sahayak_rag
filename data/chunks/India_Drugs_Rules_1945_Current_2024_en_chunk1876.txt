@@ -1,0 +1,17 @@
+ntrol Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+11.2.2. An impurity proﬁle describing the identiﬁed and unidentiﬁed 
+impurities present in a typical batch produced by a speciﬁc 
+controlled production process shall normally be established for 
+each API. The impurity proﬁle shall include the identity or 
+some qualitative analytical designation (e.g., retention time), 
+the range of ea ch impurity observed and classiﬁcation of each 
+identiﬁed impurity (e.g., inorganic, organic or solvent). The 
+impurity proﬁle is normally dependent upon the production 
+process and origin of the API. Impurity proﬁles are normally 
+not necessary for APIs of phytopharmaceutical or animal tissue 
+origin. Biotechnology considerations are covered in ICH 
+Guideline Q6B (1). 
+11.2.3. The impurity proﬁle shall be compared at appropriate intervals 
+with the impurity proﬁle in the regulatory submission or 
+compared with his torical data in order to detect changes to the 
+API resulti

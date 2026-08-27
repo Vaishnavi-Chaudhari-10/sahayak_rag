@@ -1,0 +1,26 @@
+99. The Federal Circuit acknowledged that the claims were performed
+ on a generic computer, but still described the claims as “directed to
+ the abstract idea of determining a price, using organizational and
+ product group hierarchies, in the same way that the claims in
+
+Alice
+ were directed to the abstract idea of
+ intermediated settlement, and the claims in 
+Bilski
+
+ were directed to the abstract idea of risk hedging.” 793 F.3d at 1333;
+ 115 USPQ2d at 1700-01. 
+
+2. 
+Performing a mental process in a
+ computer environment.
+ An example of a case identifying a
+ mental process performed in a computer environment as an abstract idea
+ is 
+Symantec Corp.,
+ 838 F.3d at 1316-18, 120 USPQ2d
+ at 1360. In this case, the Federal Circuit relied upon the
+ specification when explaining that the claimed electronic post office,
+ which recited limitations describing how the system would receive,
+ screen and distribute email on a computer network, was analogous to
+ how a person decides whether to read or

@@ -1,0 +1,22 @@
+the container from which the sample has been 
+taken; 
+(d) the number of the sample; 
+(e) the signature of the person who has taken the sample; and 
+(f) the date of sampling. 
+19.6.7. Out-of-specification results obtained during testing of 
+materials or products shall be investigated in accorda nce 
+with an approved procedure and record shall be maintained. 
+
+19.7. Test requirements- 
+19.7.1. Before releasing a starting or packaging material for use, 
+the QC in-charge shall ensure that the materials have been 
+tested for conformity with specifications for id entity, 
+strength, purity and other quality parameters. 
+19.7.2. An identity test shall be conducted on a sample from each 
+container of starting material. It is permissible to sample 
+only a proportion of the containers where a validated 
+procedure has been establishe d to ensure that no single 
+container of starting material has been incorrectly labelled. 
+
+19.7.2.1. The above validation shall take account of at least 
+the follow

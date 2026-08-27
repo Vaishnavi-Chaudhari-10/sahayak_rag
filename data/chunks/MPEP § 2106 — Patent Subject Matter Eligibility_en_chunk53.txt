@@ -1,0 +1,26 @@
+erpretation. 
+
+Step 2A asks: Is the claim directed to a law of
+ nature, a natural phenomenon (product of nature) or an abstract idea? In the context
+ of the flowchart in 
+MPEP § 2106
+, subsection III, Step 2A determines whether: 
+
+ • The claim as a whole is not directed to a
+ judicial exception (Step 2A: NO) and thus is eligible at Pathway B, thereby
+ concluding the eligibility analysis; or 
+
+ • The claim as a whole is directed to a
+ judicial exception (Step 2A: YES) and thus requires further analysis at Step 2B
+ to determine if the claim as a whole amounts to significantly more than the
+ exception itself. 
+
+A.
+Step 2A Is a Two-Prong Inquiry
+Step 2A is a two-prong inquiry, in which examiners
+ determine in Prong One whether a claim recites a judicial exception, and if so, then
+ determine in Prong Two if the recited judicial exception is integrated into a
+ practical application of that exception. Together, these prongs represent the first
+ part of the 
+Alice/Mayo
+ test, which determines

@@ -1,0 +1,19 @@
+d, Routine, Conventional
+ Activity [R-07.2022]
+
+Another consideration when determining whether a claim
+ recites significantly more than a judicial exception is whether the additional
+ element(s) are well-understood, routine, conventional activities previously known to
+ the industry. This consideration is only evaluated in Step 2B of the eligibility
+ analysis.
+
+If the additional element (or combination of elements)
+ is a specific limitation other than what is well-understood, routine and conventional
+ in the field, for instance because it is an unconventional step that confines the
+ claim to a particular useful application of the judicial exception, then this
+ consideration favors eligibility. If, however, the additional element (or combination
+ of elements) is no more than well-understood, routine, conventional activities
+ previously known to the industry, which is recited at a high level of generality,
+ then this consideration does not favor eligibility. 
+
+ DDR Holdings, LLC v. Hotels

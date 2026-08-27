@@ -1,0 +1,17 @@
+ct of Water Leakage Test shall be done in accordance with the plan set out in 
+Annexure 1 to this Schedule. 
+
+(2) A test sample failing in the above test is to be considered as defective. If the 
+cumulative total of rejects ‗R‘ is found to be equal to or greater than the number shown against 
+‗R‘ in Annexure-I, the batch or lot shall be declared as not of standard quality. 
+
+B. Bursting Volume and Pressure Test.- (1) Sample condoms shall be tested for 
+Bursting Volume and Pressure Test. Statistical sampling for this test shall be done in 
+accordance with the plan set out in Annexure III to this Schedule. 
+Condoms shall not leak or burst at a volume of less than that specified or at a 
+pressure less than 1.0 kpa (gauge), when tested as per paragraph 9, both before and after oven 
+conditioning as specified in Annexure V. Bursting Volume minimum limit in litres shall be 
+equal to [mean condom width (mm)2] rounded to the nearest 0.5 litre. 
+151.8 
+
+(2) A test sample failing in the above te

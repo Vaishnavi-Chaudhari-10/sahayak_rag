@@ -1,0 +1,17 @@
+itten in a script 
+other than Hindi or English shall be accompanied by a transcription 
+of the name, either in Hindi or in English, in block letters. 
+03.04.06 Sequence listing 
+If the application for patent discloses sequence listing of nucleotides 
+or amino acid sequences, such sequence list ing shall be filed in the 
+computer readable text format along with the application and no print 
+form of the sequence listing of nucleotides or amino acid sequences 
+will be required to be given. 
+A nucleotide sequence shall be listed with a maximum of 60 bas es per 
+line, with a space between each group of 10 bases. The bases of a 
+nucleotide sequence (including introns) shall be listed in groups of 10 
+bases, except in the coding parts of the sequence. Leftover bases, 
+fewer than 10 in number at the end of non-coding parts of a sequence, 
+should be grouped together and separated from adjacent groups by a 
+space. The bases of the coding parts of a nucleotide sequence shall be 
+listed as triplet

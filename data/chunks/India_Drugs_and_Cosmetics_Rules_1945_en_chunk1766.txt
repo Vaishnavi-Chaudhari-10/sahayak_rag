@@ -1,0 +1,18 @@
+safeguarded from adjustments that would invalidate the measurement result; 
+(e) protected from damage and deterioration during handling, maintenance and storage. 
+
+In addition, the manufacturer shall assess and record the validity of the previous measuring results 
+when the equipment is found not to conform to requirements. The manufacturer shall take 
+appropriate action on the equipme nt and any product affected. Records of the results of calibration 
+and verification shall be maintained. 
+
+When used in the monitoring and measurement of specified requirements, the ability of computer 
+software to satisfy the intended application shall be c onfirmed. This shall be undertaken prior to 
+initial use and reconfirmed as necessary. 
+
+8 Measurement, analysis and improvement.- 
+8.1 General: 
+The manufacturer shall plan and implement the monitoring, measurement, analysis and 
+improvement processes needed:- 
+(a) to demonstrate conformity of the product; 
+(b) to ensure conformity of the quality

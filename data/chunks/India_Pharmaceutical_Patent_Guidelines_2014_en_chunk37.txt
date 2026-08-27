@@ -1,0 +1,17 @@
+vast number of 
+polypeptides for which no use was established and the said claim therefore, was not 
+allowable on the ground that it lacked industrial applicability. 
+The use of claimed subject -matter (e .g. a gene or a protein) disclosed in the 
+specification should not be merely speculative, rather the said use should be specific, 
+substantial and credible for establishing industrial applicability of the claimed subject -
+matter. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim 1: A V28 protein (V28) having a function as a receptor (of a kind known as 7TM). 
+Claim 2: A method of verifying the function of a V28 protein as claimed in claim 1. 
+
+11 
+
+Analysis: The function of V28 protein as a receptor was based on prediction upon vario us 
+structural elements in the deduced amino acid sequence and homology to known 7TM 
+receptors but the specification disclosed no ligand. The use of the invention is disclosed in 
+the specification, which is however based on a proposed function of the V28 pr otein as a

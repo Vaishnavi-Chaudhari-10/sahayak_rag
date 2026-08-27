@@ -1,0 +1,18 @@
+routine, conventional activities
+ previously known to the industry, which is recited at a high level of generality,
+ then this consideration does not favor eligibility. 
+
+ DDR Holdings, LLC v. Hotels.com,
+ L.P.,
+ 773 F.3d 1245, 113 USPQ2d 1097 (Fed. Cir. 2014), provides an
+ example of additional elements that favored eligibility because they were more than
+ well-understood, routine conventional activities in the field. The claims in
+
+DDR Holdings
+ were directed to systems and methods of generating
+ a composite webpage that combines certain visual elements of a host website with the
+ content of a third-party merchant. 773 F.3d at 1248, 113 USPQ2d at 1099. The court
+ found that the claim had additional elements that amounted to significantly more than
+ the abstract idea, because they modified conventional Internet hyperlink protocol to
+ dynamically produce a dual-source hybrid webpage, which differed from the
+ conventional operation of Internet hyperlink protocol that transported the us

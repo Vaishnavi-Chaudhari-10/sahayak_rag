@@ -1,0 +1,17 @@
+rouping in 
+MPEP §
+ 2106.04(a)(2)
+ into which the recited exception falls). For
+ example, "the Arrhenius equation, which is a law of nature and a mathematical concept
+ which describes the relationship between temperature and reaction rate" or "the series
+ of steps instructing how to hedge risk, which is a fundamental economic practice and
+ thus grouped as a certain method of organizing human interactions." For a product of
+ nature exception, refer to how it is recited in the claim and explain why its
+ characteristics are not markedly different from the product’s naturally occurring
+ counterpart in its natural state. For example, "the naturally occurring DNA segment,
+ which is not markedly different from its naturally occurring counterpart because it
+ conveys the same genetic information." Provide additional explanation regarding the
+ exception and how it has been identified when appropriate.
+
+5. In bracket 3, explain why the combination of additional
+ elements fails to integrate the ju

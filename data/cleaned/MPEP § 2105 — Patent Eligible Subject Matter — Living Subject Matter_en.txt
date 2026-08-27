@@ -1,0 +1,1087 @@
+2105-Patent Eligible Subject Matter — Living Subject Matter
+
+Skip over navigation
+
+search for patents
+ | 
+search for trademarks
+
+Search
+
+PATENTS 
+
+Patent Search
+
+Patent Process
+
+Patent Classification
+
+Patent Forms
+
+Statistics
+
+Electronic Business Center
+
+Patent Laws, Regulations, Policies & Procedures
+
+Resources and Guidance
+
+Office of Data Management
+
+Announcements
+
+Initiatives & Events
+
+International Protection
+
+Employee Locator
+
+Contact Patents
+
+TRADEMARKS 
+
+Trademark Search
+
+Trademarks Process
+
+News & Notices
+
+Manuals, Guides, Official Gazette
+
+Laws & Regulations
+
+Online Filing
+
+Contact Trademarks
+
+IP LAW & POLICY 
+
+Rulemaking
+
+IP Policy and Enforcement
+
+Protecting IP Overseas
+
+Training and Education
+
+Training Programs & Conferences
+
+Office of Governmental Affairs
+
+Office of Chief Economist
+
+Boards and Counsel
+
+PRODUCTS & SERVICES 
+
+Electronic Data Products
+
+XML Resources
+
+XML Resources - Retrospective
+
+USPTO Contact Center Order Form
+
+Services
+
+Locate Libraries
+
+Training/Events
+
+Online Services Hub
+
+INVENTORS 
+
+Patents for Inventors
+
+Trademarks for Inventors
+
+Inventors Assistance
+
+Education and Information
+
+Scam Prevention
+
+Pro Se and Pro Bono
+
+Current Events
+
+State Resources
+
+InventorsEye Newsletter
+
+NEWS & NOTICES 
+
+Subscription Center
+
+Press Releases
+
+Testimony and Speeches
+
+Director's Forum
+
+Systems Status
+
+Emergency Notices
+
+USPTO Videos
+
+Official Gazette
+
+Federal Register Notices
+
+Event Calendar
+
+FAQs 
+
+Patents FAQs
+
+Trademarks FAQs
+
+Assignments
+
+Security
+
+Musicians and Artists
+
+Browser Plugins
+
+Other Web Resources
+
+ABOUT US 
+
+USPTO Leadership
+
+USPTO Organization
+
+USPTO Offices
+
+Careers
+
+Budget, Performance, and Planning
+
+Statistics
+
+Vendor Information
+
+Public Advisory Committees
+
+National Medal of Technology and Innovation
+
+IP in Motion
+
+Contact Us
+
+Home Page
+
+Patents
+
+Patent Laws, Regulations, Policies & Procedures 
+
+Manual of Patent Examining Procedure
+
+Chapter 2100
+
+Section 2105
+
+2105 Patent Eligible Subject Matter — Living Subject Matter [R-10.2019]
+I.
+ INTRODUCTION
+Prior to 1980, it was widely believed that living subject matter was
+ not eligible for patenting, either because such subject matter did not fall within a
+ statutory category, or because it was a judicial exception to patent eligibility.
+ However, the decision of the Supreme Court in 
+Diamond v. Chakrabarty,
+
+ 447 U.S. 303, 206 USPQ 193 (1980), made it clear that the question of whether an
+ invention embraces living matter is irrelevant to the issue of patent eligibility. Note,
+ however, that Congress has excluded claims directed to or encompassing a human organism
+ from eligibility. See The Leahy-Smith America Invents Act (AIA), Pub. L. 112-29, sec.
+ 33(a), 125 Stat. 284 (September 16, 2011).
+
+II.
+ LIVING SUBJECT MATTER MAY BE PATENT ELIGIBLE
+
+A.
+ Living Subject Matter May Be Directed To A Statutory Category 
+In 
+Chakrabarty,
+ the Supreme Court held that a
+ claim to a genetically engineered bacterium was directed to at least one of the four
+ statutory categories, because the bacterium was a “manufacture” and/or a “composition
+ of matter.” In its opinion, the Court stated that “Congress plainly contemplated that
+ the patent laws would be given wide scope” because it chose to draft
+
+35 U.S.C.
+ 101
+ using “such expansive terms as ‘manufacture’ and
+ ‘composition of matter,’ modified by the comprehensive ‘any.’” 447 U.S. at 308, 206
+ USPQ at 197. The Court also determined that the distinction between living and
+ inanimate things was not relevant for subject matter eligibility. 447 U.S. at 313,
+ 206 USPQ at 199. Thus, the Court held that living subject matter with markedly
+ different characteristics from any found in nature, such as the claimed bacterium
+ produced by genetic engineering, is not excluded from patent protection by
+
+35 U.S.C.
+ 101
+. 447 U.S. at 310, 206 USPQ at 197.
+
+Following the reasoning in
+
+Chakrabarty,
+ the Board of Patent Appeals and Interferences
+ determined that animals are patentable subject matter under 
+35 U.S.C. 101
+.
+ In 
+Ex parte Allen,
+ 2 USPQ2d 1425 (Bd. Pat. App. & Inter.
+ 1987), the Board decided that a non-naturally occurring polyploid Pacific coast
+ oyster could have been the proper subject of a patent under 
+35 U.S.C. 101
+
+ if all the criteria for patentability were satisfied. Shortly after the
+
+Allen
+ decision, the Commissioner of Patents and Trademarks
+ issued a notice (Animals - Patentability, 1077 O.G. 24, April 21, 1987) stating that
+ the Patent and Trademark Office “now considers nonnaturally occurring, non-human
+ multicellular living organisms, including animals, to be patentable subject matter
+ within the scope of 
+35 U.S.C. 101
+.”
+
+With respect to plant subject matter, the Supreme
+ Court held that patentable subject matter under 
+35 U.S.C. 101
+ includes newly
+ developed plant breeds, even though plant protection is also available under the
+ Plant Patent Act (
+35 U.S.C. 161
+ - 
+164
+) and the Plant Variety
+ Protection Act (7 U.S.C. 2321 
+et. seq.
+). 
+J.E.M. Ag
+ Supply, Inc. v. Pioneer Hi-Bred Int’ l, Inc.,
+ 534 U.S. 124, 143-46, 60
+ USPQ2d 1865, 1874 (2001) (The scope of coverage of 
+35 U.S.C. 101
+
+ is not limited by the Plant Patent Act or the Plant Variety Protection Act; each
+ statute can be regarded as effective because of its different requirements and
+ protections).
+
+See 
+MPEP §
+ 2106.03
+ for a discussion of the categories of statutory
+ subject matter. 
+
+B.
+Living Subject Matter May Be Eligible for Patent Protection
+The Supreme Court in 
+Chakrabarty
+
+ held a claim to a genetically engineered bacterium eligible, because the claimed
+ bacterium was not a “product of nature” exception. As the Court explained, the
+ modified bacterium was patentable because the patent claim was not to a “hitherto
+ unknown natural phenomenon,” but instead had “markedly different characteristics from
+ any found in nature,” due to the additional plasmids and resultant capacity for
+ degrading oil. 447 U.S. at 309-10, 206 USPQ at 197.
+
+Subsequent judicial decisions have made clear that the Supreme
+ Court’s decision in 
+Chakrabarty
+ is “central” to the eligibility
+ inquiry with respect to nature-based products. See, 
+e.g., Association for
+ Molecular Pathology v. Myriad Genetics, Inc.,
+ 569 U.S. 576, 590, 106
+ USPQ2d 1972, 1979 (2013). For example, the Federal Circuit has indicated that
+ “discoveries that possess ‘markedly different characteristics from any found in
+ nature,’ … are eligible for patent protection.” 
+In re Roslin Institute
+ (Edinburgh),
+ 750 F.3d 1333, 1336, 110 USPQ2d 1668, 1671 (Fed. Cir. 2014)
+ (quoting 
+Chakrabarty,
+ 447 U.S. at 310, 206 USPQ2d at 197). In
+
+Roslin,
+ the claimed invention was a live-born clone of a
+ pre-existing, non-embryonic, donor mammal selected from cattle, sheep, pigs, and
+ goats. An embodiment of the claimed invention was the famous Dolly the Sheep, which
+ the court stated was “the first mammal ever cloned from an adult somatic cell.”
+ Despite acknowledging that the method used to create the claimed clones “constituted
+ a breakthrough in scientific discovery”, the court relied on
+
+Chakrabarty
+ in holding the claims ineligible because “Dolly
+ herself is an exact genetic replica of another sheep and does not possess ‘markedly
+ different characteristics from any [farm animals] found in nature.’”
+
+Roslin,
+ 750 F.3d at 1337, 110 USPQ2d at 1671.
+
+See 
+MPEP §
+ 2106.04
+ for a discussion of the judicial exceptions in
+ general, 
+MPEP § 2106.04(b)
+, subsection II, for a discussion of
+ products of nature, and 
+MPEP § 2106.04(c)
+ for a discussion
+ of the markedly different characteristics analysis that examiners should use to
+ determine whether a nature-based product such as living subject matter is eligible
+ for patent protection. 
+
+III.
+ HUMAN ORGANISMS ARE NONSTATUTORY SUBJECT MATTER
+Congress has excluded claims directed to or encompassing
+ a human organism from patentability. The Leahy-Smith America Invents Act (AIA), Public
+ Law 112-29, 
+sec. 33(a)
+, 125 Stat. 284,
+ states:
+
+ Notwithstanding any other provision of law, no patent
+ may issue on a claim directed to or encompassing a human organism.
+
+The legislative history of the AIA includes the following
+ statement, which sheds light on the meaning of this provision:
+
+[T]he U.S. Patent Office has already issued patents on
+ genes, stems cells, animals with human genes, and a host of non-biologic products
+ used by humans, but it has not issued patents on claims directed to human organisms,
+ including human embryos and fetuses. My amendment would not affect the former, but
+ would simply affirm the latter.
+
+157 Cong. Rec. E1177-04 (testimony of Representative Dave
+ Weldon previously presented in connection with the Consolidated Appropriations Act,
+ 2004, Public Law 108-199, 634, 118 Stat. 3, 101, and later resubmitted with regard to
+ the AIA; see 149 Cong. Rec. E2417-01). Thus, 
+section 33(a) of the
+ AIA
+ codifies existing Office policy that human organisms are not
+ patent-eligible subject matter. 
+
+If the broadest reasonable interpretation of the claimed invention as a
+ whole encompasses a human organism, then a rejection under 
+35 U.S.C. 101
+ and
+
+AIA
+ sec. 33(a)
+ must be made indicating that the claimed invention is
+ directed to a human organism and is therefore nonstatutory subject matter. Furthermore,
+ the claimed invention must be examined with regard to all issues pertinent to
+ patentability, and any applicable rejections under 
+35 U.S.C. 102
+, 
+103
+, or
+
+112
+ must also be made. 
+
+Use form paragraph 
+7.04.03
+ to reject a claim under
+
+35 U.S.C.
+ 101
+ and 
+AIA sec. 33(a)
+.
+
+¶ 7.04.03 Human Organism
+
+Section 33(a) of the America Invents Act reads as
+ follows
+
+Notwithstanding any other provision of law, no patent may
+ issue on a claim directed to or encompassing a human organism.
+
+Claim 
+[1]
+ rejected under 
+35 U.S.C. 101
+ and
+ section 33(a) of the America Invents Act as being directed to or encompassing a human
+ organism. See also Animals - Patentability, 1077 Off. Gaz. Pat. Office 24 (April 21, 1987)
+ (indicating that human organisms are excluded from the scope of patentable subject matter
+ under 
+35 U.S.C.
+ 101
+). 
+[2]
+
+Examiner Note:
+
+1. This paragraph must be preceded by form paragraph
+
+7.04.01
+
+ which quotes 
+35
+ U.S.C. 101
+.
+
+2. In bracket 1, pluralize “Claim” if necessary, insert
+ claim number(s), and insert “is” or “are” as appropriate.
+
+3. In bracket 2, explain why the claim is interpreted
+ to read on a human organism.
+
+[top]
+
+2101-2102-[Reserved]
+
+2103-Patent Examination Process
+
+2104-Requirements of 35 U.S.C. 101
+
+2104.01-Barred by Atomic Energy Act
+
+2105-Patent Eligible Subject Matter — Living Subject Matter
+
+2106-Patent Subject Matter Eligibility
+
+2106.01-[Reserved]
+
+2106.02-[Reserved]
+
+2106.03-Eligibility Step 1: The Four Categories of Statutory Subject Matter
+
+2106.04-Eligibility Step 2A: Whether a Claim is Directed to a Judicial Exception
+
+2106.04(a)-Abstract Ideas
+
+2106.04(a)(1)-Examples of Claims That Do Not Recite Abstract Ideas
+
+2106.04(a)(2)-Abstract Idea Groupings
+
+2106.04(a)(3)-Tentative Abstract Ideas
+
+2106.04(b)-Laws of Nature, Natural Phenomena & Products of Nature
+
+2106.04(c)-The Markedly Different Characteristics Analysis
+
+2106.04(d)-Integration of a Judicial Exception Into A Practical Application
+
+2106.04(d)(1)-Evaluating Improvements in the Functioning of a Computer, or an Improvement to Any Other Technology or Technical Field in
+ Step 2A Prong Two
+
+2106.04(d)(2)-Particular Treatment and Prophylaxis in Step 2A Prong Two
+
+2106.05-Eligibility Step 2B: Whether a Claim Amounts to Significantly More
+
+2106.05(a)-Improvements to the Functioning of a Computer or To Any Other Technology or Technical Field
+
+2106.05(b)-Particular Machine
+
+2106.05(c)-Particular Transformation
+
+2106.05(d)-Well-Understood, Routine, Conventional Activity
+
+2106.05(e)-Other Meaningful Limitations
+
+2106.05(f)-Mere Instructions To Apply An Exception
+
+2106.05(g)-Insignificant Extra-Solution Activity
+
+2106.05(h)-Field of Use and Technological Environment
+
+2106.06-Streamlined Analysis
+
+2106.06(a)-Eligibility is Self Evident
+
+2106.06(b)-Clear Improvement to a Technology or to Computer Functionality
+
+2106.07-Formulating and Supporting Rejections For Lack Of Subject Matter Eligibility
+
+2106.07(a)-Formulating a Rejection For Lack of Subject Matter Eligibility
+
+2106.07(a)(1)-Form Paragraphs for use in Lack of Subject Matter Eligibility Rejections
+
+2106.07(b)-Evaluating Applicant’s Response
+
+2106.07(c)-Clarifying the Record
+
+2107-Guidelines for Examination of Applications for Compliance with the Utility Requirement
+
+2107.01-General Principles Governing Utility Rejections
+
+2107.02-Procedural Considerations Related to Rejections for Lack of Utility
+
+2107.03-Special Considerations for Asserted Therapeutic or Pharmacological Utilities
+
+2108-[Reserved]
+
+2109-Inventorship
+
+2109.01-Joint Inventorship
+
+2110-[Reserved]
+
+2111-Claim Interpretation; Broadest Reasonable Interpretation
+
+2111.01-Plain Meaning
+
+2111.02-Effect of Preamble
+
+2111.03-Transitional Phrases
+
+2111.04-“Adapted to,” “Adapted for,” “Wherein,” “Whereby,” and Contingent Clauses
+
+2111.05-Functional and Nonfunctional Descriptive Material
+
+2112-Requirements of Rejection Based on Inherency; Burden of Proof
+
+2112.01-Composition, Product, and  Apparatus Claims
+
+2112.02-Process Claims
+
+2113-Product-by-Process Claims
+
+2114-Apparatus and Article Claims — Functional Language
+
+2115-Material or Article Worked Upon by Apparatus
+
+2116-Novel, Nonobvious Starting Material or End Product
+
+2116.01-Novel, Nonobvious Starting Material or End Product
+
+2117-Markush Claims
+
+2118-2119-[Reserved]
+
+2120-Rejection on Prior Art
+
+2120.01-Rejections Under 35 U.S.C. 102(a)(1) and (a)(2) and Pre-AIA 35 U.S.C. 102(a), (b), or (e): Printed Publication or Patent
+
+2120.02-Rejections Under 35 U.S.C. 102(a)(1) or Pre-AIA 35 U.S.C. 102(a) or (b): Knowledge by Others, or Public Use, or On Sale
+
+2121-Prior Art; General Level of Operability Required to Make a Prima Facie Case
+
+2121.01-Use of Prior Art in Rejections Where Operability is in Question
+
+2121.02-Compounds and Compositions — What Constitutes Enabling Prior Art
+
+2121.03-Plant Genetics — What Constitutes Enabling Prior Art
+
+2121.04-Apparatus and Articles — What Constitutes Enabling Prior Art
+
+2122-Discussion of Utility in the Prior Art
+
+2123-Rejection Over Prior Art’s Broad Disclosure Instead of Preferred Embodiments
+
+2124-Exception to the Rule That the Reference Must be Prior Art
+
+2124.01-Tax Strategies Deemed Within the Prior Art
+
+2125-Drawings as Prior Art
+
+2126-Availability of a Document as a “Patent” for Purposes of Rejection Under 35 U.S.C. 102(a) or Pre-AIA 35 U.S.C. 102(a), (b),
+ and (d)
+
+2126.01-Date of Availability of a Patent as a Reference
+
+2126.02-Scope of Reference’s Disclosure Which Can Be Used to Reject Claims When the Reference Is a “Patent” but Not a “Publication”
+
+2127-Domestic and Foreign Patent Applications as Prior Art
+
+2128-“Printed Publications” as Prior Art
+
+2128.01-Level of Public Accessibility Required
+
+2128.02-Date Publication Is Available as a Reference
+
+2129-Admissions as Prior Art
+
+2130-[Reserved]
+
+2131-Anticipation — Application of 35 U.S.C. 102
+
+2131.01-Multiple Reference 35 U.S.C. 102 Rejections
+
+2131.02-Genus-Species Situations
+
+2131.03-Anticipation of Ranges
+
+2131.04-Secondary Considerations
+
+2131.05-Nonanalogous or Disparaging Prior Art
+
+2132-Pre-AIA 35 U.S.C. 102(a)
+
+2132.01-Overcoming a Pre-AIA 35 U.S.C. 102(a) Rejection based on a Printed Publication or Patent
+
+2133-Pre-AIA 35 U.S.C. 102(b)
+
+2133.01-Rejections of Continuation-In-Part (CIP) Applications
+
+2133.02-Rejections Based on Publications and Patents
+
+2133.02(a)-Overcoming a Pre-AIA 35 U.S.C. 102(b) Rejection Based on a Printed Publication or Patent
+
+2133.03-Rejections Based on “Public Use” or “On Sale”
+
+2133.03(a)-“Public Use”
+
+2133.03(b)-“On Sale”
+
+2133.03(c)-The “Invention”
+
+2133.03(d)-“In This Country”
+
+2133.03(e)-Permitted Activity; Experimental Use
+
+2133.03(e)(1)-Commercial Exploitation
+
+2133.03(e)(2)-Intent
+
+2133.03(e)(3)-“Completeness” of the Invention
+
+2133.03(e)(4)-Factors Indicative of an Experimental Purpose
+
+2133.03(e)(5)-Experimentation and Degree of Supervision and Control
+
+2133.03(e)(6)-Permitted Experimental Activity and Testing
+
+2133.03(e)(7)-Activity of an Independent Third Party Inventor
+
+2134-Pre-AIA 35 U.S.C. 102(c)
+
+2135-Pre-AIA 35 U.S.C. 102(d)
+
+2135.01-The Four Requirements of Pre-AIA 35 U.S.C. 102(d)
+
+2136-Pre-AIA 35 U.S.C. 102(e)
+
+2136.01-Status of Unpublished or Published as Redacted U.S. Application as a Reference Under Pre-AIA 35 U.S.C. 102(e)
+
+2136.02-Content of the Prior Art Available Against the Claims
+
+2136.03-Critical Reference Date
+
+2136.04-Different Inventive Entity; Meaning of “By Another”
+
+2136.05-Overcoming a Rejection Under Pre-AIA 35 U.S.C. 102(e)
+
+2136.05(a)-Antedating a Pre-AIA 35 U.S.C. 102(e) Reference
+
+2136.05(b)-Showing The Reference Is Describing An Inventor's Or At Least One Joint Inventor's Own Work
+
+2137-Pre-AIA 35 U.S.C. 102(f)
+
+2137.01-[Reserved]
+
+2137.02-[Reserved]
+
+2138-Pre-AIA 35 U.S.C. 102(g)
+
+2138.01-Interference Practice
+
+2138.02-“The Invention Was Made in This Country”
+
+2138.03-“By Another Who Has Not Abandoned, Suppressed, or Concealed It”
+
+2138.04-“Conception”
+
+2138.05-“Reduction to Practice”
+
+2138.06-“Reasonable Diligence”
+
+2139-Rejections Under Pre-AIA 35 U.S.C. 102
+
+2139.01-Effective Filing Date of a Claimed Invention Under Pre-AIA 35 U.S.C. 102
+
+2139.02-Determining Whether To Apply Pre-AIA 35 U.S.C. 102(a), (b), or (e)
+
+2139.03-Form Paragraphs for Use in Rejections Under Pre-AIA 35 U.S.C. 102
+
+2140-[Reserved]
+
+2141-Examination Guidelines for Determining Obviousness Under 35 U.S.C. 103
+
+2141.01-Scope and Content of the Prior Art
+
+2141.01(a)-Analogous and Nonanalogous Art
+
+2141.02-Differences Between Prior Art and Claimed Invention
+
+2141.03-Level of Ordinary Skill in the Art
+
+2142-Legal Concept of Prima Facie Obviousness
+
+2143-Examples of Basic Requirements of a Prima Facie Case of Obviousness
+
+2143.01-Suggestion or Motivation To Modify the References
+
+2143.02-Reasonable Expectation of Success Is Required
+
+2143.03-All Claim Limitations Must Be Considered
+
+2144-Supporting a Rejection Under 35 U.S.C. 103
+
+2144.01-Implicit Disclosure
+
+2144.02-Reliance on Scientific Theory
+
+2144.03-Reliance on Common Knowledge in the Art or “Well Known” Prior Art
+
+2144.04-Legal Precedent as Source of Supporting Rationale
+
+2144.05-Obviousness of Similar and Overlapping Ranges, Amounts, and Proportions
+
+2144.06-Art Recognized Equivalence for the Same Purpose
+
+2144.07-Art Recognized Suitability for an Intended Purpose
+
+2144.08-Obviousness of Species When Prior Art Teaches Genus
+
+2144.09-Close Structural Similarity Between Chemical Compounds (Homologs, Analogues, Isomers)
+
+2145-Consideration of Applicant’s Rebuttal Arguments and Evidence
+
+2146-Pre-AIA 35 U.S.C. 103(c)
+
+2146.01-Prior Art Disqualification Under Pre-AIA 35 U.S.C. 103(c)
+
+2146.02-Establishing Common Ownership or Joint Research Agreement Under Pre-AIA 35 U.S.C. 103(c)
+
+2146.03-Examination Procedure With Respect to Pre-AIA 35 U.S.C. 103(c)
+
+2146.03(a)-Provisional Rejection (Obviousness) Under 35 U.S.C. 103(a) Using Provisional Prior Art Under Pre-AIA 35 U.S.C. 102(e)
+
+2147-Biotechnology Process Applications; Pre-AIA 35 U.S.C. 103(b)
+
+2148-Form Paragraphs for Use in Rejections Under Pre-AIA 35 U.S.C. 103
+
+2149-[Reserved]
+
+2150-Examination Guidelines for 35 U.S.C. 102 and 103 as Amended by the First Inventor To File Provisions of the Leahy-Smith America
+ Invents Act
+
+2151-Overview of the Changes to 35 U.S.C. 102 and 103 in the AIA
+
+2152-Detailed Discussion of AIA 35 U.S.C. 102(a) and (b)
+
+2152.01-Effective Filing Date of the Claimed Invention
+
+2152.02-Prior Art Under AIA 35 U.S.C. 102(a)(1) (Patented, Described in a Printed Publication, or in Public Use, on Sale, or Otherwise
+ Available to the Public)
+
+2152.02(a)-Patented
+
+2152.02(b)-Described in a Printed Publication
+
+2152.02(c)-In Public Use
+
+2152.02(d)-On Sale
+
+2152.02(e)-Otherwise Available to the Public
+
+2152.02(f)-No Requirement of “By Others”
+
+2152.03-Admissions
+
+2152.04-The Meaning of “Disclosure”
+
+2152.05-Determining Whether To Apply 35 U.S.C. 102(a)(1) or 102(a)(2)
+
+2152.06-Overcoming a 35 U.S.C. 102(a)(1) or 102(a)(2) Rejection
+
+2152.07-Form Paragraphs for Use in Rejections Under AIA 35 U.S.C. 102
+
+2153-Prior Art Exceptions Under 35 U.S.C. 102(b)(1) to AIA 35 U.S.C. 102(a)(1)
+
+2153.01-Prior Art Exception Under AIA 35 U.S.C. 102(b)(1)(A) To AIA 35 U.S.C. 102(a)(1) (Grace Period Inventor-Originated Disclosure
+ Exception)
+
+2153.01(a)-Grace Period Inventor-Originated Disclosure Exception
+
+2153.01(b)-[Reserved]
+
+2153.02-Prior Art Exception Under AIA 35 U.S.C. 102(b)(1)(B) to AIA 35 U.S.C. 102(a)(1) (Inventor-Originated Prior Public Disclosure
+ Exception)
+
+2154-Provisions Pertaining to Subject Matter in a U.S. Patent or Application Effectively Filed Before the Effective Filing Date
+ of the Claimed Invention
+
+2154.01-Prior Art Under AIA 35 U.S.C. 102(a)(2) “U.S. Patent Documents”
+
+2154.01(a)-WIPO Published Applications
+
+2154.01(b)-Determining When Subject Matter Was Effectively Filed Under AIA 35 U.S.C. 102(d)
+
+2154.01(c)-Requirement Of “Names Another Inventor”
+
+2154.01(d)-Provisional Rejections Under 35 U.S.C. 102(a)(2); Reference Is a Copending U.S. Patent Application
+
+2154.02-Prior Art Exceptions Under 35 U.S.C. 102(b)(2) to AIA 35 U.S.C. 102(a)(2)
+
+2154.02(a)-Prior Art Exception Under AIA 35 U.S.C. 102(b)(2)(A) to AIA 35 U.S.C. 102(a)(2) (Inventor-Originated Disclosure Exception)
+
+2154.02(b)-Prior Art Exception Under AIA 35 U.S.C. 102(b)(2)(B) to AIA 35 U.S.C. 102(a)(2) (Inventor-Originated Prior Public Disclosure
+ Exception)
+
+2154.02(c)-Prior Art Exception Under AIA 35 U.S.C. 102(b)(2)(C) to AIA 35 U.S.C. 102(a)(2) (Common Ownership or Obligation of Assignment)
+
+2155-Use of Affidavits or Declarations Under 37 CFR 1.130 To Overcome Prior Art Rejections
+
+2155.01-Showing That the Disclosure Was Made by the Inventor or a Joint Inventor
+
+2155.02-Showing That the Subject Matter Disclosed Had Been Previously Publicly Disclosed by the Inventor or a Joint Inventor
+
+2155.03-Showing That the Disclosure was Made, or That Subject Matter had Been Previously Publicly Disclosed, by Another Who Obtained
+ the Subject Matter Disclosed Directly or Indirectly From the Inventor or a Joint Inventor
+
+2155.04-Enablement
+
+2155.05-Who May File an Affidavit or Declaration Under 37 CFR 1.130
+
+2155.06-Situations in Which an Affidavit or Declaration Is Not Available
+
+2156-Joint Research Agreements
+
+2157-Improper Naming of Inventors
+
+2158-AIA 35 U.S.C. 103
+
+2158.01-Form Paragraphs for Use in Rejections Under AIA 35 U.S.C. 103
+
+2159-Applicability Date Provisions and Determining Whether an Application Is Subject to the First Inventor To File Provisions of
+ the AIA
+
+2159.01-Applications Filed Before March 16, 2013
+
+2159.02-Applications Filed on or After March 16, 2013
+
+2159.03-Applications Subject to the AIA but Also Containing a Claimed Invention Having an Effective Filing Date Before March 16, 2013
+
+2159.04-Applicant Statement in Transition Applications Containing a Claimed Invention Having an Effective Filing Date on or After
+ March 16, 2013
+
+2160-[Reserved]
+
+2161-Three Separate Requirements for Specification Under 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph
+
+2161.01-Computer Programming, Computer Implemented Inventions, and 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph
+
+2162-Policy Underlying 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph
+
+2163-Guidelines for the Examination of Patent Applications Under the 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, first paragraph,
+ “Written Description” Requirement
+
+2163.01-Support for the Claimed Subject Matter in Disclosure
+
+2163.02-Standard for Determining Compliance With the Written Description Requirement
+
+2163.03-Typical Circumstances Where Adequate Written Description Issue Arises
+
+2163.04-Burden on the Examiner with Regard to the Written Description Requirement
+
+2163.05-Changes to the Scope of Claims
+
+2163.06-Relationship of Written Description Requirement to New Matter
+
+2163.07-Amendments to Application Which Are Supported in the Original Description
+
+2163.07(a)-Inherent Function, Theory, or Advantage
+
+2163.07(b)-Incorporation by Reference
+
+2164-The Enablement Requirement
+
+2164.01-Test of Enablement
+
+2164.01(a)-Undue Experimentation Factors
+
+2164.01(b)-How to Make the Claimed Invention
+
+2164.01(c)-How to Use the Claimed Invention
+
+2164.02-Working and Prophetic Examples
+
+2164.03-Relationship of Predictability of the Art and the Enablement Requirement
+
+2164.04-Burden on the Examiner Under the Enablement Requirement
+
+2164.05-Determination of Enablement Based on Evidence as a Whole
+
+2164.05(a)-Specification Must Be Enabling as of the Filing Date
+
+2164.05(b)-Specification Must Be Enabling to Persons Skilled in the Art
+
+2164.06-Quantity of Experimentation
+
+2164.06(a)-Examples of Enablement Issues-Missing Information
+
+2164.06(b)-Examples of Enablement Issues — Biological and Chemical Cases
+
+2164.06(c)-Examples of Enablement Issues – Computer Programming Cases
+
+2164.07-Relationship of Enablement Requirement to Utility Requirement of 35 U.S.C. 101
+
+2164.08-Enablement Commensurate in Scope With the Claims
+
+2164.08(a)-Single Means Claim
+
+2164.08(b)-Inoperative Subject Matter
+
+2164.08(c)-Critical Feature Not Claimed
+
+2165-The Best Mode Requirement
+
+2165.01-Considerations Relevant to Best Mode
+
+2165.02-Best Mode Requirement Compared to Enablement Requirement
+
+2165.03-Requirements for Rejection for Lack of Best Mode
+
+2165.04-Examples of Evidence of Concealment
+
+2166-Rejections Under 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph
+
+2167-2170-[Reserved]
+
+2171-Two Separate Requirements for Claims Under 35 U.S.C. 112(b) or Pre-AIA 35 U.S.C. 112, Second Paragraph
+
+2172-Subject Matter Which the Inventor or a Joint Inventor Regards as The Invention
+
+2172.01-Unclaimed Essential Subject Matter
+
+2173-Claims Must Particularly Point Out and Distinctly Claim the Invention
+
+2173.01-Interpreting the Claims
+
+2173.02-Determining Whether Claim Language is Definite
+
+2173.03-Correspondence Between Specification and Claims
+
+2173.04-Breadth Is Not Indefiniteness
+
+2173.05-Specific Topics Related to Issues Under 35 U.S.C. 112(b) or Pre-AIA 35 U.S.C. 112, Second Paragraph
+
+2173.05(a)-New Terminology
+
+2173.05(b)-Relative Terminology
+
+2173.05(c)-Numerical Ranges and Amounts Limitations
+
+2173.05(d)-Exemplary Claim Language (“for example,” “such as”)
+
+2173.05(e)-Lack of Antecedent Basis
+
+2173.05(f)-Reference to Limitations in Another Claim
+
+2173.05(g)-Functional Limitations
+
+2173.05(h)-Alternative Limitations
+
+2173.05(i)-Negative Limitations
+
+2173.05(j)-Old Combination
+
+2173.05(k)-Aggregation
+
+2173.05(l)-[Reserved]
+
+2173.05(m)-Prolix
+
+2173.05(n)-Multiplicity
+
+2173.05(o)-Double Inclusion
+
+2173.05(p)-Claim Directed to Product-By- Process or Product and Process
+
+2173.05(q)-“Use” Claims
+
+2173.05(r)-Omnibus Claim
+
+2173.05(s)-Reference to Figures or Tables
+
+2173.05(t)-Chemical Formula
+
+2173.05(u)-Trademarks or Trade Names in a Claim
+
+2173.05(v)-Mere Function of Machine
+
+2173.06-Practice Compact Prosecution
+
+2174-Relationship Between the Requirements of 35 U.S.C. 112(a) and (b) or Pre-AIA 35 U.S.C. 112, First and Second Paragraphs
+
+2175-Form Paragraphs for Use in Rejections Under 35 U.S.C. 112(b) or Pre-AIA 35 U.S.C. 112, Second Paragraph
+
+2176-2180-[Reserved]
+
+2181-Identifying and Interpreting a 35 U.S.C. 112(f) or Pre-AIA 35 U.S.C. 112, Sixth Paragraph Limitation
+
+2182-Search and Identification of the Prior Art
+
+2183-Making a Prima Facie Case of Equivalence
+
+2184-Determining Whether an Applicant Has Met the Burden of Proving Nonequivalence After a Prima Facie Case Is Made
+
+2185-Related Issues Under 35 U.S.C. 112(a) or (b) and Pre-AIA 35 U.S.C. 112, First or Second Paragraphs
+
+2186-Relationship to the Doctrine of Equivalents
+
+2187-Form Paragraphs for Use Relating to 35 U.S.C. 112(f) or Pre-AIA 35 U.S.C. 112, Sixth Paragraph
+
+2188-2189-[Reserved]
+
+2190-Prosecution Laches and Res Judicata
+
+Accessibility
+
+Privacy Policy
+
+Terms of Use
+
+Security
+
+Emergencies/Security Alerts
+
+Information Quality Guidelines
+
+Federal Activities Inventory Reform (FAIR) Act
+
+Notification and Federal Employee Antidiscrimination and Retaliation (NoFEAR) Act
+
+Budget & Performance
+
+Freedom of Information Act (FOIA)
+
+Department of Commerce NoFEAR Act Report
+
+Regulations.gov
+
+STOP!Fakes.gov
+
+Department of Commerce
+
+USA.gov
+
+Strategy Targeting Organized Piracy (STOP!)
+
+Careers
+
+Site Index
+
+Contact Us
+
+Submit Feedback
+
+ This page is owned by Patents.
+
+ Last Modified: 
+
+ 03/09/2026 20:50:39

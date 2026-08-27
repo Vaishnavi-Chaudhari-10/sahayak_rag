@@ -1,0 +1,25 @@
+he end of non-coding parts of a sequence, 
+should be grouped together and separated from adjacent groups by a 
+space. The bases of the coding parts of a nucleotide sequence shall be 
+listed as triplets (codons). 
+Any sequence listing in electronic form shall be contained with in one 
+electronic file encoded using IBM 39 Code , IBM Code Page 
+93240 or a compatible code page to represent the sequence listing 
+with no other codes included. 
+Any sequence listing in the electronic document format as specified 
+shall preferably be created by dedicated software such as PatentIn. 
+(REFERENCE: WIPO STANDARD ST.25 FOR THE 
+PRESENTATION OF NUCLEOTIDE AND AMINO ACID. 
+URL: https://www.wipo.int/exp ort/sites/www/standards/en/pdf/ 
+03-25-01.pdf ) 
+Rule 9 
+03.04.07 Fee: 
+1. Fee payable under the Act in case of offline filing may either be 
+
+Section 
+
+23 
+
+paid in cash or may be sent by bank draft or banker‘s cheque 
+payable to the Controller of Patents and drawn on a schedu led 
+bank at the place whe

@@ -1,0 +1,18 @@
+ries, i.e., the return air ﬁlters in the 
+safe change housing and the s upply air HEPA ﬁlters. The supply air 
+HEPA ﬁlters could either be located in the AHU or terminally located at 
+the supply diffusers, depending on the clean room classiﬁcation of the 
+facility. 
+8.5. The starting and stopping of the supply and exhaust air fans and 
+associated system ventilation fans shall be synchronised such that the 
+premises retain their design pressure and ﬂow relationships during start -
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+up and shut -down. Processing shall stop when the fans are not running. 
+This fan interlock sequence shall also apply if any fan shall fail, to ensure 
+that there is no airﬂow reversal in the system. 
+
+9. Safe change ﬁlter housings:- 
+9.1. Safe change or bag -in-bag-out ﬁlter housings shall be suitably designed 
+to provide operator protection and to prevent dust from the ﬁlters 
+entering the atmosphere

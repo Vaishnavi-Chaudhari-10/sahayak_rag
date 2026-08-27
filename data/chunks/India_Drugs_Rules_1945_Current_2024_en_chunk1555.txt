@@ -1,0 +1,18 @@
+be 
+safely bagged. Appropriate means for protecting laundry staff and 
+prevention of contamination of other garments from non -hazardous 
+facilities shall be in place. 
+7.3. If required, appropriate measures shall be taken to prevent airﬂow from 
+the primary packing area (through the conveyor “mouse hole”) to the 
+secondary packing area. 
+Note.- This could be overcome by having a pass-through chamber over 
+the “mouse hole” which is maintained at a negative pressure to both 
+primary and secondary packing. This typical arrangement is illustrated in 
+Figure below. This principle can be applied to other situations where 
+containment from two sides is required. The typical airflow pattern for 
+contaminant shall be as specified in the figure below– 
+
+7.4. Where possible, HEPA ﬁlters in the supply air system shall be terminally 
+mounted to provide protection against back -ﬂow cross-contamination in 
+the event of failure in the supply airﬂow. 
+7.5. In some cases consideration can be given to t

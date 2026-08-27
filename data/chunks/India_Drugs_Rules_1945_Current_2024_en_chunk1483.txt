@@ -1,0 +1,36 @@
+he said Table are not 
+intended to represent specifications, but are for information only. 
+
+Table 
+Recommended limits for microbial contamination 
+
+Grad
+e 
+Air sample 
+(CFU/m3) 
+Settle plates 
+(diameter 90 
+mm)(CFU/4 
+hours) 
+Contact plates 
+(diameter 55 
+mm)(CFU/plate) 
+Glove print 
+(5 fingers) 
+(CFU/glove) 
+A < 1 < 1 < 1 < 1 
+B 10 5 5 5 
+C 100 50 25 – 
+D 200 100 50 – 
+
+These are average values. 
+Individual settle plates may be exposed for less than four hours. 
+
+4.10. Appropriate alert and action limits shall be set for the results of 
+particulate and microbiological monitoring. If the action limits are 
+exceeded or a trend is identified in the alert limits, investigation shall be 
+initiated and the appropriate corrective actions shall be taken, as 
+prescribed in the operating procedures. 
+4.11. The area Grades specified in this Part shall be selected by the 
+manufacturer on the basis of the nature of the process operations being 
+performed and validation runs (e.g., aseptic media f

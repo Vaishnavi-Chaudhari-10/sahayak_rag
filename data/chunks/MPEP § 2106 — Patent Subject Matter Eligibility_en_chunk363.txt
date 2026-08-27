@@ -1,0 +1,24 @@
+. 
+
+In contrast, other cases have found that additional
+ elements are more than “apply it” or are not “mere instructions” when the claim
+ recites a technological solution to a technological problem. In 
+DDR
+ Holdings,
+ the court found that the additional elements did amount to
+ more than merely instructing that the abstract idea should be applied on the
+ Internet. 
+DDR Holdings, LLC v. Hotels.com, L.P.,
+ 773 F.3d 1245,
+ 1259, 113 USPQ2d 1097, 1107 (Fed. Cir. 2014). The claims at issue specified how
+ interactions with the Internet were manipulated to yield a desired result—a result
+ that overrode the routine and conventional sequence of events ordinarily triggered by
+ the click of a hyperlink. 773 F.3d at 1258; 113 USPQ2d at 1106. In
+
+BASCOM,
+ the court determined that the claimed combination of
+ limitations did not simply recite an instruction to apply the abstract idea of
+ filtering content on the Internet. 
+BASCOM Global Internet Servs. v. AT&T
+ Mobility, LLC,
+ 827 F.3d 1341, 1350, 1

@@ -1,0 +1,27 @@
+her a claim was directed to an abstract idea (Step 2A). See,
+ e.g.,
+ Enfish, LLC v. Microsoft Corp.,
+ 822 F.3d 1327, 1335-36,
+ 118 USPQ2d 1684, 1689 (Fed. Cir. 2016); 
+McRO, Inc. v. Bandai Namco Games Am.
+ Inc.,
+ 837 F.3d 1299, 1314-16, 120 USPQ2d 1091, 1102-03 (Fed. Cir. 2016);
+
+Visual Memory, LLC v. NVIDIA Corp.,
+ 867 F.3d 1253, 1259-60, 123
+ USPQ2d 1712, 1717 (Fed. Cir. 2017). Thus, an examiner should evaluate whether a claim
+ contains an improvement to the functioning of a computer or to any other technology
+ or technical field at Step 2A Prong Two and Step 2B, as well as when considering
+ whether the claim has such self-evident eligibility that it qualifies for the
+ streamlined analysis. See 
+MPEP § 2106.04(d)(1)
+ for more
+ information about evaluating improvements in Step 2A Prong Two, and
+
+MPEP
+ § 2106.07(b)
+ for more information about improvements in the
+ streamlined analysis context. 
+
+If it is asserted that the invention improves upon
+ conventional functioning of a computer,

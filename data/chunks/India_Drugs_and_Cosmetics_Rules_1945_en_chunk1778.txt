@@ -1,0 +1,26 @@
+rm of Device Master File containing 
+specific information about the device manufacturing in the premises. 
+
+1.0 Executive Summary: 
+An executive summary shall be provided by the manufacturer and shall contain: 
+Introductory descriptive information on the medical device or In-vitro Diagnostics, the intended use 
+and indication for use, Class of Device, novel features of the device (if any), shelf life of the device 
+and a synopsis on the content of the dossier information regarding sterilisation of the device 
+(whether it is sterile or non-sterile; if sterile, mode of sterilisation) 
+
+2.0 Device Description And Product Specification, Including Variants And Accessories: 
+2.1 Device Description 
+2.2 Product Specification 
+2.3 Reference to predicate and/or previous generations of the device 
+
+3.0 Labelling 
+
+4.0 Design And Manufacturing Information: 
+4.1 Device Design 
+4.2 Manufacturing Processes 
+
+5.0 Essential Principles (EP) Checklist 
+
+6.0 Risk Analysis And Control Summary 
+
+7.0 Produc

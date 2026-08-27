@@ -1,0 +1,14 @@
+a mechanical leaning method so 
+as to increase a correlatio n between first space expressing the first characteristic amount 
+and second space expressing the second characteristic amount. 
+Analysis: The claimed invention is considered as a mathematical method or computer 
+programme per se in so far as that it relates to data processing of certain technical 
+parameters of chemical and biological substances, but does not lead to any product 
+whatsoever. Various references to chemical and biological substances therein are only 
+to the meaning of data itself and do not relate to any technical implementation 
+details for carrying out the methods. Hence, the subject -matter of claim falls within the 
+scope of statutorily non-patentable inventions under Section 3 (k) of the Act. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A computer -assisted me thod of generating a compound that inhibits the glutamine 
+formation active site activity of a glutamine synthetase polypeptide, wherein said test 
+compound is

@@ -1,0 +1,17 @@
+omponents in setting up and maintaining 
+pressure cascade systems and also to limit cross-contamination. 
+1.20. Airlocks with different press ure cascade regimes include the cascade 
+airlock, sink airlock and bubble airlock:- 
+(a) Cascade airlock: higher pressure on one side of the airlock and 
+lower pressure on the other; 
+(b) Sink airlock: lower pressure inside the airlock and higher 
+pressure on both outer sides; and 
+(c) Bubble airlock: higher pressure inside the airlock and lower 
+pressure on both outer sides. 
+1.21. Doors shall open to the high pressure side, so that room pressure assists 
+in holding the door closed and in addition self -closers shall be provided. 
+If the doors open to the low pressure side, the door closer springs shall 
+be sufficient to hold the door closed and prevent the pressure differential 
+from pushing the door open. There shall be a method to indicate if both 
+doors to airlocks are open at the sam e time, or alternatively these shall 
+be interlocked. The

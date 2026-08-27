@@ -1,0 +1,27 @@
+in Which an Affidavit or Declaration Is Not Available
+
+2156-Joint Research Agreements
+
+2157-Improper Naming of Inventors
+
+2158-AIA 35 U.S.C. 103
+
+2158.01-Form Paragraphs for Use in Rejections Under AIA 35 U.S.C. 103
+
+2159-Applicability Date Provisions and Determining Whether an Application Is Subject to the First Inventor To File Provisions of
+ the AIA
+
+2159.01-Applications Filed Before March 16, 2013
+
+2159.02-Applications Filed on or After March 16, 2013
+
+2159.03-Applications Subject to the AIA but Also Containing a Claimed Invention Having an Effective Filing Date Before March 16, 2013
+
+2159.04-Applicant Statement in Transition Applications Containing a Claimed Invention Having an Effective Filing Date on or After
+ March 16, 2013
+
+2160-[Reserved]
+
+2161-Three Separate Requirements for Specification Under 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph
+
+2161.01-Computer Programming, Computer Implemented Inventions, and 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragr

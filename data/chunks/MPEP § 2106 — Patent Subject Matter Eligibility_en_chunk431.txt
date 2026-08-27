@@ -1,0 +1,23 @@
+ng the area. As another
+ example, employing well-known computer functions to execute an abstract idea, even
+ when limiting the use of the idea to one particular environment, does not
+ integrate the exception into a practical application or add significantly more,
+ similar to how limiting the computer implemented abstract idea in Flook to
+ petrochemical and oil-refining industries was insufficient. See 
+e.g.,
+ Parker v. Flook,
+ 437 U.S. 584, 588-90, 198 USPQ 193, 197-98 (1978)
+ (limiting use of mathematical formula to use in particular industries did not
+ amount to an inventive concept). See 
+MPEP §
+ 2106.05(g)
+ for more information about insignificant
+ extra-solution activity, and 
+MPEP § 2106.05(h)
+ for more
+ information about generally linking use of a judicial exception to a particular
+ technological environment or field of use.
+
+In the event a rejection is made, it is a best
+ practice for the examiner to consult the specification to determine if there are
+ elements that could be ad

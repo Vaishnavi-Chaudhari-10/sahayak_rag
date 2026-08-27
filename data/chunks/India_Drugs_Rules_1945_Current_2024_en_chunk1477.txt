@@ -1,0 +1,16 @@
+o a single particle counter; or 
+multiple small particle counters located near monitoring points and 
+networked to a data acquisition system. Combination of systems 
+can also be used. The system selected shall be appropriate fo r the 
+particle size considered. Where remote sampling systems are used, 
+the length of tubing and the radii of any bends in the tubing shall 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+be considered in the context of particle losses in the tubing. The 
+selection of the monitoring system shall take acc ount of any risk 
+presented by the materials used in the manufacturing operation, for 
+example, those involving live organisms or radiopharmaceuticals. 
+4.7.4. The sizes of samples taken for monitoring purposes using 
+automated systems will usually be a function of t he sampling rate 
+of the system used. It is not necessary for the sample volume to be 
+the same as that used for formal classification

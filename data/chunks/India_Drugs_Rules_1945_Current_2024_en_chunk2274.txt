@@ -1,0 +1,19 @@
+nalyze the primary and secondary endpoints defined above. Describe the level 
+of significance, statistical tests to be used, and the methods used for missing 
+data; method of evaluation of the data for treatment failures, non -compliance, 
+and subject withdrawals, rationale and conditions for any interim analysis, if 
+planned. 
+Describe statistical considerations for Pharmacokinetic (PK) analysis, if 
+applicable. 
+15. Undertaking by the Investigator (See Appendix VII). 
+16. Appendices.—Provide a study synopsis, copies of the informed consent 
+documents (patient information sheet, informed consent form etc.); CRF and 
+other data collection forms; a summary of relevant pre -clinical safety 
+information and any other documents referenced in the clinical protocol. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+APPENDIX XI 
+DATA ELEMENTS FOR REPORTING SERIOUS ADVERSE EVENTS 
+OCCURRING IN A CLINICAL TRIAL 
+1. Patient Details— 
+In

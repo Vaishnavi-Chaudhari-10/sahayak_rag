@@ -1,0 +1,20 @@
+ergen Corp. v. Kaz USA,
+ 725
+ Fed. App’x. 959, 966 (Fed. Cir. 2018) (the single copy of a thesis, written
+ in German and located in a German university library, considered to be a
+ "printed publication" in 
+In re Hall,
+ 781 F.2d 897, 228
+ USPQ 453 (Fed. Cir. 1986) "would not suffice to establish that something is
+ 'well-understood, routine, and conventional activity previously engaged in
+ by scientists who work in the field'"). The nature of the publication and
+ the description of the additional elements in the publication would need to
+ demonstrate that the additional elements are widely prevalent or in common
+ use in the relevant field, comparable to the types of activity or elements
+ that are so well-known that they do not need to be described in detail in a
+ patent application to satisfy 
+35 U.S.C. 112(a)
+. For
+ example, while U.S. patents and published applications are publications,
+ merely finding the additional element in a single patent or published
+ application would not be su

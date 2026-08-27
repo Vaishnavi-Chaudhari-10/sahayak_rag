@@ -1,0 +1,24 @@
+ase may be, grade B (Class 100) environment given in the said Table. 
+Table—Air Classification system for Manufacture of Sterile Products 
+Grade 
+Maximum number of particles 
+permitted per m3 
+Maximum Number of Viable 
+Micro-organism permitted per m3 
+0.5-5 
+micron Less than 5 micron 
+A (Class 100) 
+(Laminar-Air flow 
+workstation) 
+3500 None Less than 1 
+B (Class 100) 3500 None Less than 5 
+C (Class 10000) 3,50,000 2,000 Less than 100 
+
+(3) The physical and chemical operations used for the manufacture of plasma 
+fractionation shall maintain high yield of safe and effective protein. 
+(4) The fractionation procedure used shall give a good yield of products 
+meeting the in -house quality requirements as approved by the li censing 
+authority and Central Licence Approving Authority reducing the risk of 
+microbiological contamination and protein denaturation to the minimum. 
+(5) The procedure adopted shall not affect the antibody activity and biological 
+half-life or biological characteristi

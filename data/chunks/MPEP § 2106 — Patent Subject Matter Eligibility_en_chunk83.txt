@@ -1,0 +1,22 @@
+entable abstract idea,”). 
+
+When determining whether a claim recites a
+ mathematical concept (
+i.e.,
+ mathematical relationships,
+ mathematical formulas or equations, and mathematical calculations), examiners
+ should consider whether the claim recites a mathematical concept or merely
+ limitations that are based on or involve a mathematical concept. A claim does
+ not recite a mathematical concept (
+i.e.,
+ the claim
+ limitations do not fall within the mathematical concept grouping), if it is
+ only based on or involves a mathematical concept. See, 
+e.g., Thales
+ Visionix, Inc. v. United States,
+ 850 F.3d 1343, 1348-49, 121
+ USPQ2d 1898, 1902-03 (Fed. Cir. 2017) (determining that the claims to a
+ particular configuration of inertial sensors and a particular method of using
+ the raw data from the sensors in order to more accurately calculate the
+ position and orientation of an object on a moving platform did not merely
+ recite “the abstract idea of using ‘mathematical equations for determin

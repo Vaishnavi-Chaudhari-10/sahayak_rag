@@ -1,0 +1,28 @@
+with a pen and paper, and therefore, it qualified as a
+ mental process. 654 F.3d at 1372-73, 99 USPQ2d at 1695. See also
+
+Flook,
+ 437 U.S. at 586, 198 USPQ at 196 (claimed
+ “computations can be made by pencil and paper calculations”);
+
+University of Florida Research Foundation, Inc. v. General
+ Electric Co.,
+ 916 F.3d 1363, 1367, 129 USPQ2d 1409, 1411-12
+ (Fed. Cir. 2019) (relying on specification’s description of the claimed
+ analysis and manipulation of data as being performed mentally “‘using pen
+ and paper methodologies, such as flowsheets and patient charts’”);
+
+Symantec,
+ 838 F.3d at 1318, 120 USPQ2d at 1360
+ (although claimed as computer-implemented, steps of screening messages can
+ be “performed by a human, mentally or with pen and paper”). 
+
+C.
+ A Claim That Requires a Computer May Still Recite a Mental
+ Process
+Claims can recite a mental process even if
+ they are claimed as being performed on a computer. The Supreme Court
+ recognized this in 
+Benson,
+ determining that a
+ mat

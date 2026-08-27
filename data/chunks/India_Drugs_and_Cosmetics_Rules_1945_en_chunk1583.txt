@@ -1,0 +1,18 @@
+batch record. Container mapping may also be carried out in the case of Large Volume 
+Parenterals. 
+
+10.7.2 Chemical or biological indicators may also be used, but shall not take the place 
+of physical validation. 
+
+10.7.3. Sufficient time shall be allowed for the load to reach the required 
+temperature before measurement of sterilization time commences. This time shall be 
+separately determined for each type of load to be processed. 
+
+10.7.4. After the high temperature phase of a heat sterilization cycle, precautions 
+shall be taken against contamination of sterilized load during cooling. Any cooling fluid or 
+gas in contact with the product shall be sterilized unless it can be shown that any leaking 
+container would not be approved for use. Air inlet and outlets shall be provided with bacterial 
+retaining filters. 
+
+10.7.5. The process used for sterilization by dry heat shall include air-circulation 
+within the chamber and the maintenance of a positive pressure to prevent the entry of

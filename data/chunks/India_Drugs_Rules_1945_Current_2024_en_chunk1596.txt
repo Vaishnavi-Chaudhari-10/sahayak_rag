@@ -1,0 +1,17 @@
+t:- 
+6.1. In general, preparations containing live microorganisms or live viruses 
+shall not be manufactured and containers shall not be filled in areas 
+used for the processing of other pharmaceutical products. However, if 
+the manufacturer can demonstrate and validate effective containment 
+and decontamination of the live microorganisms and viruses, then the 
+use of multi -product facilities may be justifiable. In such cases, 
+measures such as campaign production, closed systems or disposable 
+systems or both shall be considered and shall be based on QRM 
+principles 
+6.2. Documented QRM shall be carried out for every additional product in 
+a biological manufacturing multi -product facility, w hich may include 
+a potency and toxicological evaluation based on cross -contamination 
+risks. Other factors to be taken into account include facility or 
+equipment design and use, personnel and material flows, 
+microbiological controls, physicochemical characteristics of the active 
+substance,

@@ -1,0 +1,22 @@
+d from D1. However, after reaching to D 2 and after finding that the 
+resultant compound does not display any selective COX II inhibiting properties, the 
+skilled person would not feel motivated to make any further change in D2 to reach to 
+the compound of the present invention. In other language the prior art teaches away 
+from the invention. 
+
+Conclusion: The invention is therefore non-obvious. 
+Example 3 
+Invention: Besylate salt of a compound A (A-B) with blood pressure lowering 
+properties. 
+
+Background: Conversion of A-M to A-B significantly improves the processability in the 
+manufacturing of the drug, and improves its stability, while the pharmacological 
+property of A-B remains same as that of A-M. 
+
+Prior Art: 
+
+D1: The closest prior art D1 teaches Maleate (A-M) salt of compound A having same 
+physiological properties. 
+
+D2: D2 shows a list of 53 pharmacologically acceptable anions as salt forming 
+candidates from the list of drug approval authorities. However, the most commo

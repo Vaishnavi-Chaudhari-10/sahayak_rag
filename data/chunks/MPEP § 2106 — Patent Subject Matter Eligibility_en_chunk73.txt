@@ -1,0 +1,31 @@
+requires further
+ analysis in Step 2A Prong Two, to determine whether any additional elements in the
+ claim integrate the abstract idea into a practical application, see
+
+MPEP
+ § 2106.04(d)
+.
+
+If the identified limitation(s) do not fall within
+ any of the groupings of abstract ideas, it is reasonable to find that the claim does
+ not recite an abstract idea. This concludes the abstract idea judicial exception
+ eligibility analysis, except in the rare circumstance discussed in
+
+MPEP
+ § 2106.04(a)(3)
+, below. The claim is thus eligible at
+ Pathway B unless the claim recites, and is directed to, another exception (such as a
+ law of nature or natural phenomenon).
+
+If the claims recites another judicial exception (i.e.
+ law of nature or natural phenomenon), see 
+MPEP §§
+ 2106.04(b)
+ and 
+2106.04(c)
+ for more information on Step 2A analysis.
+
+MPEP § 2106.04(a)(1)
+ provides
+ examples of claims that do not recite abstract ideas (or other judicial exceptions)
+ and thus are eligible at Step 2A Pr

@@ -1,0 +1,20 @@
+n either in explicit or 
+implicit manner. Mosaicing of prior art documents is not allowed 
+in determination of novelty. 
+8. A generic disclosure in the prior art may not necessarily take away 
+the novelty of a specific disclosure. For instance, a metal spring 
+may not take away the novelty of a copper spring. 
+9. A specific disclosure in the prior art takes away the novelty of a 
+generic disclosure. For instance, a copper spring takes away the 
+novelty of a metal spring. 
+10. In a case where a prior art is cited as an anticipation in the 
+Examination Report, the onus of proving that the same is not to 
+be an anticipation by reason of Section 29-34, lies on the 
+applicant. 
+09.03.03 Inventive step 
+09.03.03.01 General principle 
+Inventive step is a feature of an invention that involves technica l 
+advance compared to the existing knowledge or having economic 
+significance or both and that makes the invention not obvious to a 
+person skilled in the art. 
+While determining patentability o

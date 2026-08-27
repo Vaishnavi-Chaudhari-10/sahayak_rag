@@ -1,0 +1,30 @@
+);
+
+iii. a formula for computing an alarm
+ limit, 
+Parker v. Flook,
+ 437 U.S. 584, 585, 198 USPQ
+ 193, 195 (1978) (B1=B0 (1.0–F) + PVL(F)); and
+
+iv. a mathematical formula for hedging
+ (claim 4), 
+Bilski v. Kappos,
+ 561 U.S. 593, 599, 95
+ USPQ2d 1001, 1004 (2010) (Fixed Bill Price = Fi + [(Ci + Ti + LDi) x
+ (α + βE(Wi))]).
+
+C.
+ Mathematical
+ Calculations
+A claim that recites a mathematical
+ calculation, when the claim is given its broadest reasonable interpretation
+ in light of the specification, will be considered as falling within the
+ “mathematical concepts” grouping. A mathematical calculation is a
+ mathematical operation (such as multiplication) or an act of calculating
+ using mathematical methods to determine a variable or number,
+
+e.g.,
+ performing an arithmetic operation such as
+ exponentiation. There is no particular word or set of words that indicates a
+ claim recites a mathematical calculation. That is, a claim does not have to
+ recite the word “calculating” in order to be c

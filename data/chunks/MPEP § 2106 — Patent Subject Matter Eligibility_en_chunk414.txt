@@ -1,0 +1,22 @@
+n falls within a
+ statutory category (Step 1: YES) and is either not directed to a judicial exception
+ (Step 2A: NO) or is directed to a judicial exception and amounts to significantly more
+ than the judicial exception (Step 2B: YES), then the examiner should not reject the
+ claim. When evaluating a response by applicant to a subject matter eligibility
+ rejection, examiners must carefully consider all of applicant’s arguments and evidence
+ presented to rebut the rejection. If applicant properly challenges the examiner’s
+ findings, the rejection should be withdrawn or, if the examiner deems it appropriate to
+ maintain the rejection, a rebuttal must be provided in the next Office action. This is
+ discussed in greater detail in 
+MPEP § 2106.07(b)
+. 
+
+2106.07(a) Formulating a Rejection For Lack of Subject
+ Matter Eligibility [R-07.2022]
+
+After determining what has been invented and
+ establishing the broadest reasonable interpretation of the claimed invention (see
+
+MPEP §
+ 2111
+), the eligi

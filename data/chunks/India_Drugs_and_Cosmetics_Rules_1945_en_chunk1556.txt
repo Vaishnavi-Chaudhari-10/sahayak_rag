@@ -1,0 +1,18 @@
+all be 
+demonstrated under working of simulated conditions which shall be achieved by providing laminar air 
+flow work stations with suitable HEPA filters or isolator technology. 
+
+3.4. For products, which are terminally sterilized, the filling room shall meet Grade C 
+conditions at rest. This condition shall be obtainable within a period of about 30 minutes of the 
+personnel leaving the room after completion of operations. 
+
+3.5. Manufacturing and component preparation areas shall meet Grade C 
+conditions. 
+
+3.6. After completion of preparation, washed components and vessels shall be protected 
+with 1[Grade D background and should be handled in such a way that they are not recontaminated]. 
+
+3.7. The minimum air changes for Grade B and Grade C areas shall not be less than 20 
+air changes per hour in a room with good air flow pattern and appropriate HEPA filters. For Grade A 
+laminar air flow work stations, the air flow rate shall be 0.3 meter per second ± 20% (for vertical flows) 
+and

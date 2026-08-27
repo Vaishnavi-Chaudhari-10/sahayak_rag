@@ -1,0 +1,24 @@
+y other use of 
+the said intermediates. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+11.16 Illustrative examples for sufficiency of disclosure and support: 
+Example 1: 
+The alleged invention claims a compound of the following formula 
+
+Wherein, R1 is selected from phenyl, pyridyl, thiazolyl, thioalkyl, alkoxyl and methyl; R2- 
+R4 are methyl, tolyl or phenyl, pyridyl… the compounds are used as a pharmaceutical for 
+increasing the oxygen intaking capability of blood. 
+
+Description: the specification embraces innumerable c ompounds covering formula as 
+above. The examples however are restricted to the limitation that R1 is always phenyl, 
+e.g. : 
+
+R1 R2 R3 R4 
+phenyl tolyl Phenyl Methyl 
+phenyl tolyl Pyridyl Tolyl 
+phenyl pyridyl Methyl Tolyl 
+In all examples, the definition of R1 is restricted to Phenyl. The claim is much broader 
+than what has been described and enabled and is

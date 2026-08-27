@@ -1,0 +1,21 @@
+tion associated with the icon over a period
+ of time, and automatically moving the most used icons to a position in the
+ GUI closest to the start icon of the computer system based on the determined
+ amount of use; and
+
+vii. a method of training a neural network for
+ facial detection comprising: collecting a set of digital facial images,
+ applying one or more transformations to the digital images, creating a first
+ training set including the modified set of digital facial images; training
+ the neural network in a first stage using the first training set, creating a
+ second training set including digital non-facial images that are incorrectly
+ detected as facial images in the first stage of training; and training the
+ neural network in a second stage using the second training set. 
+
+2106.04(a)(2) Abstract Idea Groupings [R-07.2022]
+I.
+ MATHEMATICAL
+ CONCEPTS
+The mathematical concepts grouping is defined
+ as mathematical relationships, mathematical formulas or equations, and
+ mathematical

@@ -1,0 +1,30 @@
+ter
+ stores and retrieves data in memory in combination with the specific data
+ structure recited in the claims that demonstrated eligibility. 822 F.3d at 1339,
+ 118 USPQ2d at 1691. The claim was not simply the addition of general purpose
+ computers added post-hoc to an abstract idea, but a specific implementation of a
+ solution to a problem in the software arts. 822 F.3d at 1339, 118 USPQ2d at
+ 1691.
+
+ Examples that the courts have indicated may show
+ an improvement in computer-functionality: 
+
+i. A modification of conventional Internet
+ hyperlink protocol to dynamically produce a dual-source hybrid webpage,
+
+DDR Holdings,
+ 773 F.3d at 1258-59, 113 USPQ2d at
+ 1106-07;
+
+ii. Inventive distribution of functionality
+ within a network to filter Internet content, 
+BASCOM Global Internet
+ v. AT&T Mobility LLC,
+ 827 F.3d 1341, 1350-51, 119 USPQ2d
+ 1236, 1243 (Fed. Cir. 2016); 
+
+iii. A method of rendering a halftone digital
+ image, 
+Research Corp. Techs. v. Microsoft Corp.,
+ 627 F.3d
+ 859, 868

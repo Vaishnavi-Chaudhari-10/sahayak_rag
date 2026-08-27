@@ -1,0 +1,17 @@
+rade A zones, particle monitoring shall be undertaken for the 
+full duration of critical processing, including equipment assembly, 
+except where justified by contaminants in the process that would 
+damage the particle counter or present a hazard, for example, live 
+organisms and radiological hazards. In such cases monitoring 
+during routine equipment set -up operations shall be undertaken 
+before exposure to the risk. Monitoring during simulated 
+operations shall also be performed. The Grade A zone shal l be 
+monitored at a frequency and sample size such that all 
+interventions, transient events and any system deterioration would 
+be captured and alarms triggered if alert limits are exceeded. It is 
+accepted that it may not always be possible to demonstrate l ow 
+levels of ≥5.0 μm particles at the point of fill when filling is in 
+progress, due to the generation of particles or droplets from the 
+product itself. 
+4.7.2. It is recommended that a similar system be used for Grade B 
+zones

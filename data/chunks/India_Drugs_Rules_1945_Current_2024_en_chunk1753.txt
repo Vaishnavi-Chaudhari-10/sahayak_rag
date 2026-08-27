@@ -1,0 +1,16 @@
+vent the pressure differential 
+from pushing the door open. There shall be a method to indicate if both 
+doors to airlocks are open at the sam e time, or alternatively these shall 
+be interlocked. The determination of which doors shall be interlocked 
+shall be the subject of a risk assessment study. 
+1.22. Central dust extraction systems shall be interlocked with the appropriate 
+air-handling systems, to ensure that they operate simultaneously. 
+1.23. Room pressure differential between adjacent cubicles, which are linked 
+by common dust extraction ducting, shall be avoided. 
+1.24. Air shall not flow through the dust extraction ducting or return air 
+ducting from the room w ith the higher pressure to the room with the 
+lower pressure (this would normally occur only if extract or return 
+systems were inoperative). Systems shall be designed to prevent dust 
+flowing back in the opposite direction in the event of component failure 
+or airflow failure. 
+1.25. Adequate room pressure different

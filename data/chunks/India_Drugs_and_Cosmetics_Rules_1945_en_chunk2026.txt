@@ -1,0 +1,14 @@
+ufficient sensitivi ty and specificity will provide an adequate assessment of tissue 
+distribution and the potential for accumulation. Thus, repeated dose tissue distribution 
+studies should not be required uniformly for all compounds and should only be conducted 
+when appropriate data cannot be derived from other sources. Repeated dose studies may be 
+appropriate under certain circumstances based on the data from single dose tissue 
+distribution studies, toxicity and toxicokinetic studies. The studies may be most appropriate 
+for compounds which have an apparently long half life, incomplete elimination or 
+unanticipated organ toxicity. 
+Notes: 
+
+(i) Single Dose Toxicity Study: Each group should contain at least 5 animals of either sex. At 
+least four graded doses should be given. Animals should be exposed to the test substance in a single 
+bolus or by continuous infusion or several doses within 24 hours. Animals should be observed for 14 
+days. Signs of intoxication, effect on body we

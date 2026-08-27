@@ -1,0 +1,19 @@
+computer functions), it can still integrate or amount to
+ significantly more when considered in combination with the other elements of the
+ claim. For example, generic computer components that individually perform merely
+ generic computer functions (
+e.g.,
+ a CPU that performs mathematical
+ calculations or a clock that produces time data) in some instances are able in
+ combination to perform functions that are not generic computer functions and
+ therefore integrate or amount to significantly more than an abstract idea (and are
+ thus eligible). 
+
+If applicant properly challenges the examiner's
+ findings but the examiner deems it appropriate to maintain the rejection, a rebuttal
+ must be provided in the next Office action. Several examples of appropriate examiner
+ responses are provided below. 
+
+(1) If applicant challenges the identification of a
+ tentative abstract idea that was based on a court case and the challenge is not
+ persuasive, an appropriate response would be an explanation a

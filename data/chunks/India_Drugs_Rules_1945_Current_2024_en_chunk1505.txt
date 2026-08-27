@@ -1,0 +1,17 @@
+ld cause contamination of the product or equipment. 
+Steam used for sterilisation shall be tested regularly. 
+6.11.1.7. Sterilisation by dry heat may be suitable for non -aqueous 
+liquids or dry-powder products. The process used shall include 
+air circulation within the chamber and the maintenance of a 
+positive pressure to prevent the entry of non-sterile air. If air is 
+supplied it shall be passed through a microorganism -retaining 
+filter (e.g., a HEPA filter). Where sterilization by dry heat is 
+also intended to remove pyrogens, challenge tests using 
+endotoxins are required as part of the validation. 
+6.11.1.8. Sterilisation by radiation is used mainly for heat -sensitive 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+materials and products. Many pharmaceutical products and 
+some packaging materials are radiation -sensitive, so this 
+method is permissible only when the absence of deleterious 
+effects on the product has

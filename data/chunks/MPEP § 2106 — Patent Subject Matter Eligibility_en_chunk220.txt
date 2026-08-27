@@ -1,0 +1,20 @@
+ation need not explicitly set forth the improvement, but
+ it must describe the invention such that the improvement would be apparent to one
+ of ordinary skill in the art. Conversely, if the specification explicitly sets
+ forth an improvement but in a conclusory manner (
+i.e.,
+ a bare
+ assertion of an improvement without the detail necessary to be apparent to a
+ person of ordinary skill in the art), the examiner should not determine the claim
+ improves technology. Second, if the specification sets forth an improvement in
+ technology, the claim must be evaluated to ensure that the claim itself reflects
+ the disclosed improvement. That is, the claim includes the components or steps of
+ the invention that provide the improvement described in the specification. The
+ claim itself does not need to explicitly recite the improvement described in the
+ specification (
+e.g.,
+ “thereby increasing the bandwidth of the
+ channel”).
+
+While the courts usually evaluate “improvements” as
+ part of the “dir

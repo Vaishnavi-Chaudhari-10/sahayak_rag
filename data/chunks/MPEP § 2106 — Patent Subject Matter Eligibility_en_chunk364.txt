@@ -1,0 +1,20 @@
+on of
+ limitations did not simply recite an instruction to apply the abstract idea of
+ filtering content on the Internet. 
+BASCOM Global Internet Servs. v. AT&T
+ Mobility, LLC,
+ 827 F.3d 1341, 1350, 119 USPQ2d 1236, 1243 (Fed. Cir.
+ 2016). Instead, the claim recited a “technology based solution” of filtering content
+ on the Internet that overcome the disadvantages of prior art filtering systems. 827
+ F.3d at 1350-51, 119 USPQ2d at 1243. Finally, in 
+Thales Visionix,
+
+ the particular configuration of inertial sensors and the particular method of using
+ the raw data from the sensors was more than simply applying a law of nature.
+
+Thales Visionix, Inc. v. United States,
+ 850 F.3d 1343, 1348-49,
+ 121 USPQ2d 1898, 1902 (Fed. Cir. 2017). The court found that the claims provided a
+ system and method that “eliminate[d] many ‘complications’ inherent in previous
+ solutions for determining position and orientation of an object on a moving
+ platform.” In other words, the claim recited a technologi

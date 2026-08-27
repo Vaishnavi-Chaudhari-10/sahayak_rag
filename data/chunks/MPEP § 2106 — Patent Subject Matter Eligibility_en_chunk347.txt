@@ -1,0 +1,20 @@
+id not meaningfully limit the abstract idea of mitigating
+ settlement risk. 573 U.S. 208, 110 USPQ2d 1976 (2014). In particular, the Court
+ concluded that the additional elements such as the data processing system and
+ communications controllers recited in the system claims did not meaningfully limit
+ the abstract idea because they merely linked the use of the abstract idea to a
+ particular technological environment (i.e., “implementation via computers”) or were
+ well-understood, routine, conventional activity recited at a high level of
+ generality. 573 U.S. at 225-26, 110 USPQ2d at 1984-85.
+
+Classen Immunotherapies Inc. v. Biogen IDEC
+ provides another
+ example of claims that recited meaningful limitations. 659 F.3d 1057, 100 USPQ2d 1492
+ (Fed. Cir. 2011) (decision on remand from the Supreme Court, which had vacated the
+ lower court’s prior holding of ineligibility in view of 
+Bilski v.
+ Kappos
+, 561 U.S. 593, 95 USPQ2d 1001 (2010)). In
+
+Classen,
+ the claims recited methods that gathe

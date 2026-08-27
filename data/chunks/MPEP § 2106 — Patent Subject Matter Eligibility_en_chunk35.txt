@@ -1,0 +1,16 @@
+S. 67, 175 USPQ2d 675 (An "idea" is not patent
+ eligible). Thus, a product claim to a software program that does not also contain at
+ least one structural limitation (such as a “means plus function” limitation) has no
+ physical or tangible form, and thus does not fall within any statutory category.
+ Another example of an intangible product that does not fall within a statutory
+ category is a paradigm or business model for a marketing company. 
+In re
+ Ferguson,
+ 558 F.3d 1359, 1364, 90 USPQ2d 1035, 1039-40 (Fed. Cir. 2009). 
+
+Even when a product has a physical or tangible form,
+ it may not fall within a statutory category. For instance, a transitory signal, while
+ physical and real, does not possess concrete structure that would qualify as a device
+ or part under the definition of a machine, is not a tangible article or commodity
+ under the definition of a manufacture (even though it is man-made and physical in
+ that it exists in the real world and has tangible causes and effects), and

@@ -1,0 +1,37 @@
+l customers
+ and gathering statistics generated based on the testing about how
+ potential customers responded to the offers; the statistics are then used
+ to calculate an optimized price, 
+OIP Technologies,
+ 788
+ F.3d at 1363, 115 USPQ2d at 1092-93; 
+
+iv. Obtaining information about transactions
+ using the Internet to verify credit card transactions,
+
+CyberSource v. Retail Decisions, Inc.,
+ 654 F.3d
+ 1366, 1375, 99 USPQ2d 1690, 1694 (Fed. Cir. 2011);
+
+v. Consulting and updating an activity log,
+
+Ultramercial,
+ 772 F.3d at 715, 112 USPQ2d at 1754;
+ and 
+
+vi. Determining the level of a biomarker in
+ blood, 
+Mayo,
+ 566 U.S. at 79, 101 USPQ2d at 1968. See
+ also 
+PerkinElmer, Inc. v. Intema Ltd.,
+ 496 Fed. App'x
+ 65, 73, 105 USPQ2d 1960, 1966 (Fed. Cir. 2012) (assessing or measuring
+ data derived from an ultrasound scan, to be used in a diagnosis). 
+
+• Selecting a particular data source or type of data to be
+ manipulated:
+
+i. Limiting a database index to XML tags,
+
+Intellectual Ventures I L

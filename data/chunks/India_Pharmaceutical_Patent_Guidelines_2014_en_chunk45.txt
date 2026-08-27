@@ -1,0 +1,16 @@
+Analysis: Prior art discloses modified protein A havi ng C -peptide, wherein said C -peptide 
+consists of amino acids XX. The applicant failed to demonstrate any therapeutic efficacy as a 
+result of claimed modification over the prior art. Hence, the subject -matter of claim is not 
+patentable under Section 3 (d) of the Act. 
+
+13 
+
+The inventions relating to three -dimensional or crystal structure of a polypeptide 
+attracts the provision of Section 3 (d) of the Act unless it is proved that such polypeptide 
+differs significantly in the properties with regards to therapeutic efficacy. 
+ILLUSTRATIVE EXAMPLE: 
+Claim: A crystal of a peptide consisting of SEQ ID NO: A, wherein said crystal comprises an 
+asymmetric unit, said asymmetric unit comprises four molecules of said peptide per Zn 2+ 
+and further wherein the crystal belongs to space group X, Y, Z. 
+Analysis: The amorphous forms of peptide of SEQ ID NO: A are known. The applicant failed 
+to demonstrate any significant improvement in

@@ -1,0 +1,23 @@
+ns intended to be stored under 
+general conditions 
+
+ Drugs and Cosmetics Rules, 1945 
+628 
+
+Study Study conditions Duration of study 
+Long term 30°C ± 2°C/65% RH ± 5% RH 12 months 
+Accelerated 40°C ± 2°C/75% RH ± 5% RH 6 months 
+If at any time during 6 months‘ testing under the accelerated storage condition, such changes occur that 
+cause the product to fail in complying with the prescribed standard s, a dditional testing under an 
+intermediate storage condition should be conducted and evaluated against significant change criteria. 
+
+(ii) Study conditions for drug substances and formulations intended to be stored in a refrigerator 
+
+Study Study conditions Duration of study 
+Long term 5°C ± 3°C 12 months 
+Accelerated 25°C ± 2°C/60% RH ± 5% RH 6 months 
+
+(iii) Study conditions for drug substances and formulations intended to be stored in a freezer 
+Study Study conditions Duration of study____________________ 
+Long term - 20°C ± 5°C 12 months 
+(iv) Drug substances intended for storage be

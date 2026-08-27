@@ -1,0 +1,23 @@
+ectronic post office,
+ which recited limitations describing how the system would receive,
+ screen and distribute email on a computer network, was analogous to
+ how a person decides whether to read or dispose of a particular piece
+ of mail and that “with the exception of generic computer-implemented
+ steps, there is nothing in the claims themselves that foreclose them
+ from being performed by a human, mentally or with pen and paper”. 838
+ F.3d at 1318, 120 USPQ2d at 1360. Another example is
+
+FairWarning IP, LLC v. Iatric Sys., Inc.,
+ 839
+ F.3d 1089, 120 USPQ2d 1293 (Fed. Cir. 2016). The patentee in
+
+FairWarning
+ claimed a system and method of
+ detecting fraud and/or misuse in a computer environment, in which
+ information regarding accesses of a patient’s personal health
+ information was analyzed according to one of several rules
+ (
+i.e.,
+ related to accesses in excess of a
+ specific volume, accesses during a pre-determined time interval, or
+ accesses by a specific user) to determine if

@@ -1,0 +1,30 @@
+ures that the first criterion is met by confirming that the
+ claim falls within one of the four statutory categories of invention. See
+
+MPEP §
+ 2106.03
+ for more information on Step 1. Step 2, which is the
+ Supreme Court’s 
+Alice/Mayo
+ test, is a two-part test to identify
+ claims that are directed to a judicial exception (Step 2A) and to then evaluate if
+ additional elements of the claim provide an inventive concept (Step 2B) (also called
+ "significantly more" than the recited judicial exception). See 
+MPEP §
+ 2106.04
+ for more information on Step 2A and
+
+MPEP §
+ 2106.05
+ for more information on Step 2B. 
+
+The flowchart also shows three pathways (A, B, and C) to
+ eligibility:
+
+ Pathway A: Claims taken as a whole that fall within
+ a statutory category (Step 1: YES) and, which may or may not recite a judicial
+ exception, but whose eligibility is self-evident can be found eligible at Pathway
+ A using a streamlined analysis. See 
+MPEP §
+ 2106.06
+ for more information on this pathway and on

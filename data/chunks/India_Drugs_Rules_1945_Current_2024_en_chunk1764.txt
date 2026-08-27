@@ -1,0 +1,18 @@
+. of India  of 963 
+prevent cross-contamination. 
+1.61. HEPA filters may not be required where the air handl ing system is 
+serving a single product facility and there is evidence that cross -
+contamination would not be possible. 
+1.62. Re-circulation of air from areas where pharmaceutical dust is not 
+generated such as secondary packing may not require HEPA filters in 
+the system. 
+1.63. HEPA filters may be located in the air handling unit or placed terminally. 
+Where HEPA filters are terminally mounted they shall preferably not be 
+connected to the ducting by means of flexible ducting. Due to the high 
+air pressure required for the t erminal filter; this connection shall 
+preferably be a rigid duct connection. Where flexible ducting is used, it 
+shall be as short as possible and properly fixed to withstand duct 
+pressure. 
+1.64. Air containing dust from highly toxic processes or solvents or flam mable 
+vapours shall never be re-circulated to the HVAC system. 
+1.65. Adequate airlocks,

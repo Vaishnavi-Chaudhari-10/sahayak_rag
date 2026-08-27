@@ -1,0 +1,25 @@
+of paymen t like Net banking, Credit 
+Cards, Debit Cards and Unified Payments Interface (UPI). 
+The e-filing portal provides flexibility to applicants or their authorized 
+agents to work from their premises on 24x7 basis, even on holidays. 
+ Steps of e-filing: 
+1. Visit www.ipindia.gov.in and proceed to E-Gateways 
+2. Register for New User and creation of ―user-id‖ 
+3. Install Digital Signature Certificate (DSC) and configure the 
+system as per the DSC manual 
+4. Login to the e-filing module 
+5. Select New Application Filing or any particular Form which is to 
+be filed 
+Rule 6 
+
+18 
+
+6. Draft the Form(s) for new application or any other subsequent 
+form (s) 
+7. Upload the PDF version of required documents 
+8. Save the draft 
+9. Go to the drafted forms 
+10. Enter the mobile number, if SMS alert are required 
+11. Select the drafted form and proceed for signing of drafted form 
+12. After the forms are digitally signed, it is ready for making the 
+payment though the available Payment Gate

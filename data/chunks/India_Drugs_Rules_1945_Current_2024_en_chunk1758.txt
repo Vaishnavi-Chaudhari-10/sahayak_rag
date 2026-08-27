@@ -1,0 +1,17 @@
+ty, the associated temperature shall also 
+be specified. 
+1.38. Chemical driers using silica gel or lithium chlo ride are acceptable, 
+provided that they do not become sources of contamination. 
+1.39. Wherever possible, dust or vapour contamination shall be removed at 
+source. Point -of-use extraction, i.e., as close as possible to the point 
+where the dust is generated, shall be employed. Spot ventilation or 
+capture hoods may be used as appropriate. 
+1.40. Point-of-use extraction shall be either in the form of a fixed high velocity 
+extraction point or an articulated arm with movable hood or a fixed 
+extraction hood. 
+1.41. Dust extraction ducting shall be designed with sufficient transfer velocity 
+to ensure that dust is carried away and does not settle in the ducting. 
+Periodic checks shall be performed to ensure that there is no build -up of 
+the dust in the ducting. 
+1.42. The required transfer veloci ty shall be determined on the density of the 
+dust (the denser the dust, the hi

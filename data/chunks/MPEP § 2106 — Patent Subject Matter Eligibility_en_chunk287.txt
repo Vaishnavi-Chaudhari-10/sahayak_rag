@@ -1,0 +1,31 @@
+ation more quickly, 
+Trading Technologies v. IBG
+ LLC,
+ 921 F.3d 1084, 1093-94, 2019 USPQ2d 138290 (Fed. Cir.
+ 2019).
+
+II.
+ IMPROVEMENTS TO ANY OTHER
+ TECHNOLOGY OR TECHNICAL FIELD
+The courts have also found that improvements in
+ technology beyond computer functionality may demonstrate patent eligibility. In
+
+McRO,
+ the Federal Circuit held claimed methods of automatic
+ lip synchronization and facial expression animation using computer-implemented
+ rules to be patent eligible under 
+35 U.S.C. 101
+, because they
+ were not directed to an abstract idea. 
+McRO,
+ 837 F.3d at 1316,
+ 120 USPQ2d at 1103. The basis for the 
+McRO
+ court's decision was
+ that the claims were directed to an improvement in computer animation and thus did
+ not recite a concept similar to previously identified abstract ideas.
+
+Id.
+ The court relied on the specification's explanation of
+ how the claimed rules enabled the automation of specific animation tasks that
+ previously could not be automated. 837 F.3d at 1313, 1

@@ -1,0 +1,18 @@
+rs and microﬂuidisers). 
+12.7.5. Validated analytical methods with the sensitivity to detect 
+residues or contaminants shall be used. The detection limit for 
+each analytical method shall be sufﬁciently sensit ive to detect 
+the established acceptable level of the residue or contaminant. 
+The method’s attainable recovery level shall be established. 
+Residue limits shall be practical, achievable and veriﬁable and 
+be based on the most deleterious residue. Limits can be 
+established based on the minimum known pharmacological, 
+toxicological or physiological activity of the API or its most 
+deleterious component. 
+12.7.6. Equipment cleaning or sanitisation studies shall address 
+microbiological and endotoxin contamination for those 
+processes where there is a need to reduce total microbiological 
+count or endotoxins in the API, or other processes where such 
+contamination could be of concern (e.g., non -sterile APIs used 
+to manufacture sterile products). 
+12.7.7. Cleaning procedures shal

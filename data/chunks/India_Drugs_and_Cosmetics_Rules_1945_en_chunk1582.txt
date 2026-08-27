@@ -1,0 +1,23 @@
+or sub-batch) has passed through the 
+sterilization process. 
+
+10.6.7 Sterilization records shall be available for each sterilization-run and may also 
+include thermographs and sterilization monitoring strips. They shall be maintained as part of 
+the batch release procedure. 
+
+10.7. Sterilization (By dry heat).– 
+
+10.7.1 Each heat sterilization cycle shall be recorded on a time/temperature chart 
+of a suitable size by appropriate equipment of the required accuracy and precision. The 
+position of temperature probes used for controlling and/or recording shall be determined 
+during the validation and, where applicable, sh all also be checked against a second 
+independent temperature probe located in the same position. The chart shall form a part of the 
+
+Drugs and Cosmetics Rules 1945 
+457 
+
+batch record. Container mapping may also be carried out in the case of Large Volume 
+Parenterals. 
+
+10.7.2 Chemical or biological indicators may also be used, but shall not take the place 
+of physical

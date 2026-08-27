@@ -1,0 +1,26 @@
+hod that “eliminate[d] many ‘complications’ inherent in previous
+ solutions for determining position and orientation of an object on a moving
+ platform.” In other words, the claim recited a technological solution to a
+ technological problem. 
+Id.
+
+(2) Whether the claim invokes computers or
+ other machinery merely as a tool to perform an existing process.
+ Use of a
+ computer or other machinery in its ordinary capacity for economic or other tasks
+ (
+e.g., 
+to receive, store, or transmit data) or simply adding a
+ general purpose computer or computer components after the fact to an abstract idea
+ (
+e.g.,
+ a fundamental economic practice or mathematical
+ equation) does not integrate a judicial exception into a practical application or
+ provide significantly more. See 
+Affinity Labs v. DirecTV,
+ 838 F.3d
+ 1253, 1262, 120 USPQ2d 1201, 1207 (Fed. Cir. 2016) (cellular telephone); 
+TLI
+ Communications LLC v. AV Auto, LLC,
+ 823 F.3d 607, 613, 118 USPQ2d 1744,
+ 1748 (Fed. Cir. 2016) (computer serv

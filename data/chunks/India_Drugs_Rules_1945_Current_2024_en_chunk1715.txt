@@ -1,0 +1,20 @@
+package insert. 
+23.5.5. The qualitative and quantitative particulars of the active 
+ingredients in plant mate rials and plant preparations shall be 
+expressed in the following manner, namely- 
+23.5.5.1. For plant materials and plant preparations consisting of 
+comminuted or powdered plant materials- 
+(a) the quantity of the plant material must be stated or, if 
+constituents with kno wn therapeutic activity are 
+unidentified, the quantity of the plant material or 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+phytopharmaceutical preparation shall be stated; or 
+(b) the quantity of the plant material or 
+phytopharmaceutical preparation shall be given as a 
+range, corresponding to a defined quantity of 
+constituents with known therapeutic activity. 
+23.5.5.2. For plant preparations produced by steps, which exceed 
+commination, the nature and concentration of the 
+solvent and the physical state of the extract shall be 
+given.

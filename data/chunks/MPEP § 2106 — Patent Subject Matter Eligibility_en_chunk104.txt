@@ -1,0 +1,18 @@
+ed. Cir. 2014). The agreement at issue in
+
+buySAFE
+ was a transaction performance guaranty, which
+ is a contractual relationship. 765 F.3d at 1355, 112 USPQ2d at 1096. The
+ patentee claimed a method in which a computer operated by the provider of a
+ safe transaction service receives a request for a performance guarantee for
+ an online commercial transaction, the computer processes the request by
+ underwriting the requesting party in order to provide the transaction
+ guarantee service, and the computer offers, via a computer network, a
+ transaction guaranty that binds to the transaction upon the closing of the
+ transaction. 765 F.3d at 1351-52, 112 USPQ2d at 1094. The Federal Circuit
+ described the claims as directed to an abstract idea because they were
+ “squarely about creating a contractual relationship--a ‘transaction
+ performance guaranty’.” 765 F.3d at 1355, 112 USPQ2d at 1096.
+
+Other examples of subject matter where the
+ commercial or legal interaction is an agreement in the form

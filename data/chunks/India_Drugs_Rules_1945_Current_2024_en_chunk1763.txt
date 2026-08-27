@@ -1,0 +1,17 @@
+shall be designed with activated carbon filters or 
+granular chemical adsorption media. The chemical media for deep -bed 
+scrubbers shall be specific to the effluent being treated. 
+1.58. The type and quantity of the vapours to be removed shall be known to 
+enable the appropriate filter media, as well as the volume of media 
+required to be determined. 
+1.59. There shall be no risk of contamination or cross-contamination (including 
+by fumes and volatiles) due to recirculation of air. 
+1.60. Depending on the airborne contamina nts in the return air system it may 
+be acceptable to use re -circulated air, provided that HEPA filters are 
+installed in the supply air stream to remove contaminants and thus, 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+prevent cross-contamination. 
+1.61. HEPA filters may not be required where the air handl ing system is 
+serving a single product facility and there is evidence that cross -
+contami

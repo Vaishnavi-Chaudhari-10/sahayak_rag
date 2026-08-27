@@ -1,0 +1,16 @@
+terial 
+retaining filters. 
+
+10.7.5. The process used for sterilization by dry heat shall include air-circulation 
+within the chamber and the maintenance of a positive pressure to prevent the entry of non- 
+sterile air. Air inlets and outlets should be provided with micro-organism retaining filters. 
+Where this process of sterilization by dry heat is also intended to remove pyrogens, challenge 
+tests using endotoxins would be required as part of the validation process. 
+
+10.8. Sterilization (By Moist Heat).- 
+10.8.1 Both the temperature and pressure shall be used to monitor the process. 
+Control instrumentation shall normally be independent of monitoring instrumentation and 
+recording charts. Where automated control and monitoring s ystems are used for these 
+applications, these shall be validt. to ensure that critical process requirements are met. System 
+and cycle faults shall be registered by the system and observed by the operator. The reading 
+of the independent temperature indica

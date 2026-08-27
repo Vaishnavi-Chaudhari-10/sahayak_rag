@@ -1,0 +1,46 @@
+LLC,
+ 818 F.3d 1369, 1380, 118 USPQ2d
+ 1541, 1548 (Fed. Cir. 2016).
+
+Examiners are reminded that 
+35 U.S.C. 101
+ is
+ not the sole tool for determining patentability; 
+35 U.S.C. 112
+ , 
+35 U.S.C. 102
+, and
+
+35 U.S.C.
+ 103
+ will provide additional tools for ensuring that the claim
+ meets the conditions for patentability. As the Supreme Court made clear in
+
+Bilski,
+ 561 U.S. at 602, 95 USPQ2d at 1006:
+
+The 
+§ 101
+ patent-eligibility inquiry
+ is only a threshold test. Even if an invention qualifies as a process, machine,
+ manufacture, or composition of matter, in order to receive the Patent Act’s
+ protection the claimed invention must also satisfy ‘‘the conditions and requirements
+ of this title.’’ 
+§
+ 101
+. Those requirements include that the invention be novel,
+ see 
+§
+ 102
+, nonobvious, see 
+§ 103
+, and fully and particularly
+ described, see 
+§
+ 112
+. 
+
+II.
+ ESTABLISH BROADEST REASONABLE INTERPRETATION OF CLAIM AS A WHOLE
+It is essential that the broadest reasonable interpretation
+ (BR

@@ -1,0 +1,32 @@
+amendment,
+ if possible, that would resolve eligibility of the claim. 
+
+2106.04 Eligibility Step 2A: Whether a Claim is Directed
+ to a Judicial Exception [R-07.2022]
+
+I.
+ JUDICIAL EXCEPTIONS
+Determining that a claim falls within one of the four
+ enumerated categories of patentable subject matter recited in 
+35 U.S.C. 101
+
+ (i.e., process, machine, manufacture, or composition of matter) in Step 1 does not
+ end the eligibility analysis, because claims directed to nothing more than abstract
+ ideas (such as a mathematical formula or equation), natural phenomena, and laws of
+ nature are not eligible for patent protection. 
+Diamond v. Diehr,
+
+ 450 U.S. 175, 185, 209 USPQ 1, 7 (1981). 
+Alice Corp. Pty. Ltd. v. CLS Bank
+ Int'l,
+ 573 U.S. 208, 216, 110 USPQ2d 1976, 1980 (2014) (citing
+
+Association for Molecular Pathology v. Myriad Genetics, Inc.,
+
+ 569 U.S. 576, 589, 106 USPQ2d 1972, 1979 (2013)); 
+Diamond v.
+ Chakrabarty,
+ 447 U.S. 303, 309, 206 USPQ 193, 197 (1980);
+
+Parker v. Flook,
+ 437 U.S

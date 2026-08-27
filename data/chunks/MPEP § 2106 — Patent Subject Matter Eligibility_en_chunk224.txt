@@ -1,0 +1,22 @@
+879 F.3d 1299, 125
+ USPQ2d 1282 (Fed. Cir. 2018) (claims to virus scanning were found to be an
+ improvement in computer technology and not directed to an abstract idea);
+
+SRI Int’l, Inc. v. Cisco Systems, Inc.,
+ 930 F.3d 1295, 1303
+ (Fed. Cir. 2019) (claims to detecting suspicious activity by using network
+ monitors and analyzing network packets were found to be an improvement in computer
+ network technology and not directed to an abstract idea). Additional examples are
+ provided in 
+MPEP § 2106.05(a)
+.
+
+2106.04(d)(2) Particular Treatment and Prophylaxis in
+ Step 2A Prong Two [R-07.2022]
+
+A claim reciting a judicial exception is not
+ directed to the judicial exception if it also recites additional element(s)
+ demonstrating that the claim as a whole integrates the exception into a practical
+ application. One way to demonstrate such integration is when the additional
+ elements apply or use the recited judicial exception to effect a particular
+ treatment or prophylaxis for a disease or m

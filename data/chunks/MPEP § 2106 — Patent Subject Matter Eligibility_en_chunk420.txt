@@ -1,0 +1,30 @@
+ain
+ what subject matter those limitations describe, and why the described subject
+ matter is a judicial exception. See 
+MPEP §
+ 2106.04
+ for more information about Step 2A of the
+ eligibility analysis. 
+
+When the examiner has determined the claim recites
+ an 
+abstract idea
+, the rejection should identify the abstract idea as
+ it is recited (
+i.e.,
+ set forth or described) in the claim, and
+ explain why it falls within one of the groupings of abstract ideas
+ (
+i.e.,
+ mathematical concepts, mental processes, or certain
+ methods of organizing human activity) enumerated in 
+MPEP §
+ 2106.04(a)(2)
+. Alternatively, the examiner should
+ provide justification for why a specific limitation(s) recited in the claim is
+ being treated as an abstract idea if it does not fall within the groupings of
+ abstract ideas in accordance with the “tentative abstract idea” procedure (see
+
+MPEP § 2106.04(a)(3)
+). While not required, this
+ explanation or justification may include citing to an appropriate court d

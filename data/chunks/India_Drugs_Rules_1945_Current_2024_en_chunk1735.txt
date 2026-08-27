@@ -1,0 +1,19 @@
+identification of "blinded" products. The code, together with the 
+randomisation list, must permit proper identification of the 
+product, including any necessary traceability to the codes and 
+batch number of the product before the blind ing operation. 
+The coding system must permit determination without delay in 
+an emergency situation of the identity of the actual treatment 
+product received by individual subjects. 
+
+10. Production:- 
+10.1. Products intended for use in clinical trials (late Phase I I and Phase 
+III studies) shall as far as possible be manufactured at a licensed 
+facility, namely- 
+(a) a pilot plant, primarily designed and used for process development; 
+(b) a small -scale facility (sometimes called a "pharmacy") separate 
+both from the company's pilot plant and from routine production; 
+(c) a larger-scale production line assembled to manufacture materials 
+in larger batches, e.g., for late Phase III trials and first commercial 
+batches; and 
+(d) the normal production

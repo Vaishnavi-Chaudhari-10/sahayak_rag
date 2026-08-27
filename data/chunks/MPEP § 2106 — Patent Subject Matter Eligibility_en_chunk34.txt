@@ -1,0 +1,22 @@
+s of matter indicate, a product must have a physical or tangible form
+ in order to fall within one of these statutory categories.
+
+Digitech,
+ 758 F.3d at 1348, 111 USPQ2d at 1719. Thus, the
+ Federal Circuit has held that a product claim to an intangible collection of
+ information, even if created by human effort, does not fall within any statutory
+ category. 
+Digitech,
+ 758 F.3d at 1350, 111 USPQ2d at 1720 (claimed
+ “device profile” comprising two sets of data did not meet any of the categories
+ because it was neither a process nor a tangible product). Similarly, software
+ expressed as code or a set of instructions detached from any medium is an idea
+ without physical embodiment. See 
+Microsoft Corp. v. AT&T
+ Corp.,
+ 550 U.S. 437, 449, 82 USPQ2d 1400, 1407 (2007); see also
+
+Benson,
+ 409 U.S. 67, 175 USPQ2d 675 (An "idea" is not patent
+ eligible). Thus, a product claim to a software program that does not also contain at
+ least one structural limitation (such as a “means plus function” l

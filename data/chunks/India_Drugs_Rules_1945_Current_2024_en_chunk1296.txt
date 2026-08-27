@@ -1,0 +1,18 @@
+The raw data also includes record on receipt 
+of animals, result of environmental mon itoring, calibration, records of 
+equipments, integrator output from analytical equipment, including work-
+sheet used to read a note, information from Light Emitting Diode (LED) 
+display of any equipment. 
+(b) A single line shall strike through the data being changed; the correct 
+information shall be recorded along with the old data and the reason of 
+change. The analyst making the change shall be identified by his 
+signature with date. In case of automated data collection system, the 
+person responsible shall be identified at the time of data output. The 
+original entry must be saved and the system shall have audit trail for all 
+the data. 
+(c) Data integrity and security shall be maintained and the data shall not 
+be accessible to any unauthorised person. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+16. Storage and archival: 
+(a) The

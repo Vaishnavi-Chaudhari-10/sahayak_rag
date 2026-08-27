@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+*.env
+
+# Generated data
+data/raw/
+data/clean/
+
+# Local databases / vector stores
+qdrant_storage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+models/
+
+# Local llama.cpp repository
+llama.cpp/

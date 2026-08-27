@@ -1,0 +1,29 @@
+5-56 (Fed. Cir. 2014). See also
+ TLI Communications LLC v.
+ AV Automotive LLC,
+ 823 F.3d 607, 613, 118 USPQ2d 1744, 1748 (Fed.
+ Cir. 2016) (mere recitation of concrete or tangible components is not an inventive
+ concept); 
+Eon Corp. IP Holdings LLC v. AT&T Mobility LLC,
+
+ 785 F.3d 616, 623, 114 USPQ2d 1711, 1715 (Fed. Cir. 2015) (noting that
+
+Alappat
+’s rationale that an otherwise ineligible algorithm
+ or software could be made patent-eligible by merely adding a generic computer to
+ the claim was superseded by the Supreme Court’s 
+Bilski
+ and
+
+Alice Corp.
+ decisions). If applicant amends a claim to add a
+ generic computer or generic computer components and asserts that the claim recites
+ significantly more because the generic computer is 'specially programmed' (as in
+
+Alappat,
+ now considered superseded) or is a 'particular
+ machine' (as in 
+Bilski
+), the examiner should look at whether
+ the added elements integrate the exception into a practical application or provide
+ significantly m

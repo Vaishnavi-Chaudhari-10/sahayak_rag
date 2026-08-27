@@ -1,0 +1,32 @@
+ts of the
+ asserted improvement. If the examiner concludes the disclosed invention does not
+ improve technology, the burden shifts to applicant to provide persuasive arguments
+ supported by any necessary evidence to demonstrate that one of ordinary skill in the
+ art would understand that the disclosed invention improves technology. Any such
+ evidence submitted under 
+37 CFR 1.132
+ must establish what
+ the specification would convey to one of ordinary skill in the art and cannot be used
+ to supplement the specification. See, 
+e.g.
+MPEP §
+ 716.09
+ on 
+37 CFR 1.132
+ practice with
+ respect to rejections under 
+35 U.S.C. 112(a)
+. For example, in
+ response to a rejection under 
+35 U.S.C. 101
+, an applicant could
+ submit a declaration under 
+ § 1.132
+ providing testimony on
+ how one of ordinary skill in the art would interpret the disclosed invention as
+ improving technology and the underlying factual basis for that conclusion.
+
+I.
+ IMPROVEMENTS TO COMPUTER
+ FUNCTIONALITY
+In computer-related

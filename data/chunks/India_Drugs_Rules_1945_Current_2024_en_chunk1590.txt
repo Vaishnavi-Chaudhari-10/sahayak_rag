@@ -1,0 +1,17 @@
+5. Seed lots and cell banks:- 
+5.1. The recommendations set out in GMP for API shall be followed taking 
+into consideration specific guidance for API manufactured by cell culture 
+or fermentation. 
+5.2. Where human or animal cells are used as feeder cells in the 
+manufacturing process, appropriate controls over their sourcing, testing, 
+transport and storage shall be in place. 
+5.3. In order to prevent the unwanted drift of genetic properties which might 
+result from repeated subcultures or multiple generations, the production 
+of biol ogical products obtained by microbial culture, cell culture or 
+propagation in embryos and animals shall be based on a system of master 
+and working seed lots or cell banks or both; which is the beginning of the 
+manufacturing process of certain biological pr oducts (for example, 
+vaccines). 
+5.4. The number of generations (expressed as passages or doublings) between 
+the seed lot or cell bank and the finished product, defined as maximum, 
+shall be consi

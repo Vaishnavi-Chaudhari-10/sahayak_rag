@@ -1,0 +1,17 @@
+udicial
+ exception into a practical application at Step 2A Prong Two, and thus that the
+ claims were not directed to the judicial exception (Step 2A: NO).
+
+2106.04(d)(1) Evaluating Improvements in the
+ Functioning of a Computer, or an Improvement to Any Other Technology or Technical
+ Field in Step 2A Prong Two [R-10.2019]
+
+A claim reciting a judicial exception is not
+ directed to the judicial exception if it also recites additional elements
+ demonstrating that the claim as a whole integrates the exception into a practical
+ application. One way to demonstrate such integration is when the claimed invention
+ improves the functioning of a computer or improves another technology or technical
+ field. The application or use of the judicial exception in this manner
+ meaningfully limits the claim by going beyond generally linking the use of the
+ judicial exception to a particular technological environment, and thus transforms
+ a claim into patent-eligible subject matter. Such claims are eligibl

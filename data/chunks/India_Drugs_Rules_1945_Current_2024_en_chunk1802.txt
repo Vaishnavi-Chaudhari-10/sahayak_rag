@@ -1,0 +1,18 @@
+personnel. 
+2.1.3. The system for managing quality shall encompass the 
+organisational structure, procedures, processes and res ources, as 
+well as activities necessary to ensure conﬁdence that the API will 
+meet its intended speciﬁcations for quality and purity. All quality 
+related activities shall be deﬁned and documented. 
+2.1.4. There shall be a quality units that is independent of produ ction 
+and that fulﬁls both quality assurance (QA) and quality control 
+(QC) responsibilities. This can be in the form of separate QA and 
+QC units or a single individual or group, depending upon the size 
+and structure of the organisation. 
+2.1.5. The persons authorised to release intermediates and APIs shall be 
+speciﬁed. 
+2.1.6. All quality related activities shall be recorded at the time they are 
+performed. 
+2.1.7. Any deviation from established procedures shall be documented 
+and explained. Critical deviations shall be investigated and the 
+investigation and its conclusions shall be document

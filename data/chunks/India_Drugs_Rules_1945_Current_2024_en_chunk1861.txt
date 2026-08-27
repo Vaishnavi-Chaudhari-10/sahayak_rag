@@ -1,0 +1,18 @@
+make up the blend. 
+8.4.6. Where physical attributes of the API are critical (e.g., APIs 
+intended for use in solid oral dosage forms or suspensions), 
+blending operations shall be validated to show homogeneity of 
+the combined batch. Validation shall include testing of critical 
+attributes (e.g., particle size distribution, bulk density and tap 
+density) that may be affected by the blending process. 
+8.4.7. If the blending could adversely affect stability, stability testing 
+of the ﬁnal blended batches shall be performed. 
+8.4.8. The expiry or retest date of the blended batch shall be based on 
+the manufacturing date of the oldest tailings or batch in the 
+blend. 
+8.5. Contamination control- 
+8.5.1. Residual materials can be carried over into successive batches 
+of the same intermediate or API, if there is adequate control. 
+Examples include residue adhering to the wall of a microniser, 
+residual layer of damp crystals remaining in a cen trifuge bowl 
+after discharge and incomplete di

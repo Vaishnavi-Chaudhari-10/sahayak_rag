@@ -1,0 +1,20 @@
+MPEP §
+ 2106.06(b)
+ (summarizing 
+Enfish, LLC v. Microsoft
+ Corp.,
+ 822 F.3d 1327, 118 USPQ2d 1684 (Fed. Cir. 2016), 
+McRO,
+ Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d 1299, 120 USPQ2d 1091
+ (Fed. Cir. 2016), and other cases that were eligible as improvements to technology or
+ computer functionality instead of being directed to abstract ideas).
+
+Accordingly, after determining that a claim recites a
+ judicial exception in Step 2A Prong One, examiners should evaluate whether the claim
+ as a whole integrates the recited judicial exception into a practical application of
+ the exception in Step 2A Prong Two. A claim that integrates a judicial exception into
+ a practical application will apply, rely on, or use the judicial exception in a
+ manner that imposes a meaningful limit on the judicial exception, such that the claim
+ is more than a drafting effort designed to monopolize the judicial exception. Whether
+ or not a claim integrates a judicial exception into a practical application is

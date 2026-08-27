@@ -1,0 +1,27 @@
+ent, 
+Content Extraction and Transmission, LLC
+ v. Wells Fargo Bank,
+ 776 F.3d 1343, 1348, 113 USPQ2d 1354, 1358
+ (Fed. Cir. 2014) (optical character recognition); and 
+
+vi. A Web browser’s back and forward button
+ functionality, 
+Internet Patent Corp. v. Active Network,
+ Inc.,
+ 790 F.3d 1343, 1348, 115 USPQ2d 1414, 1418 (Fed. Cir.
+ 2015). 
+
+This listing is not meant to imply that all
+ computer functions are well‐understood, routine, conventional activities, or that
+ a claim reciting a generic computer component performing a generic computer
+ function is necessarily ineligible. See e.g.
+ Amdocs (Israel), Ltd. v.
+ Openet Telecom, Inc.,
+ 841 F.3d 1288, 1316, 120 USPQ2d 1527, 1549
+ (Fed. Cir. 2016), 
+BASCOM Global Internet Servs. v. AT&T Mobility
+ LLC,
+ 827 F.3d 1341, 1348, 119 USPQ2d 1236, 1241 (Fed. Cir. 2016).
+ Courts have held computer‐implemented processes not to be significantly more than
+ an abstract idea (and thus ineligible) where the claim as a whole amounts to
+ nothing more tha

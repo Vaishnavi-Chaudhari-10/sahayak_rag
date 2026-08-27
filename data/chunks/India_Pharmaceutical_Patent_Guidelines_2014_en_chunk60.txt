@@ -1,0 +1,13 @@
+AMPLE 2: 
+Claim: A computer -assisted me thod of generating a compound that inhibits the glutamine 
+formation active site activity of a glutamine synthetase polypeptide, wherein said test 
+compound is capable of inhibiting the interaction between an adenylated catalytic triad site 
+of the glutamine formation active site and a -glutamyl phosphate intermediate, or of 
+inhibiting the interaction between an de -adenylated catalytic triad site of the glutamine 
+formation active site and a -glutamyl phosphate intermediate, the method comprising the 
+steps of: (a) providing a three -dimensional structure of a glutamine formation active site of 
+a glutamine synthetase polypeptide; and (b) designing, based on the three -dimensional 
+structure, a test compound capable of inhibiting the interaction between the glutami ne 
+formation active site and a -glutamyl phosphate intermediate. 
+Analysis: The claimed method is considered as a mathematical method or computer 
+programme per se as it relates

@@ -1,0 +1,16 @@
+ther 
+with the use of closed systems can significantly reduce the risk of 
+accidental contamination and cross-contamination. 
+1.8. Control usually involves biological analytical techniques, which 
+typically have a greater variability than physicochemical 
+determinations. The combination of variability in starting materials and 
+the potential for subtle changes during the manufacturing process of 
+biological products also requires an emphasis on production 
+consistency. This is of particular concern because of the need to link 
+consistency to original clinical trials documenting the product’s safety 
+and efficacy. A robust manufacturing process is t herefore crucial and 
+in-process controls take on a particular importance in the manufacture 
+of biological active substances and medicinal products. 
+1.9. Because of the risks inherent in producing and manipulating pathogenic 
+and transmissible microorganisms duri ng the production and testing of 
+biological materials, GMP shall prioritise

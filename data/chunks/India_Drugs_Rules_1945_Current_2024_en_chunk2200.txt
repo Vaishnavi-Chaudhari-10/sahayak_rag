@@ -1,0 +1,16 @@
+Escherichia coli WP2 uvrA (pKM101) should be 
+used. 
+(i) In-vitro exposure (with and without metabolic activation, S9 mix) should be 
+done at a minimum of 5 log dose levels. "Solvent" and "positive" control should 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+be used. Positive control may include 9 -amino-acridine, 2-nitrofluorine, sodium 
+azide and mitomycin C, respectively, in the tester strains mentioned above. 
+Each set should consist of at least three replicates. A 2.5 fold (or more) increase 
+in number of revertants in comparison to spontaneous revertants would be 
+considered positive. 
+(ii) In-vitro Cytogenetic Assay: The desired level of toxicity for in -vitro 
+cytogenetic tests using cell lines should be greater than 50% reduction in cell 
+number or culture confluency. For lymphocyte cultures, an inhibition of mitotic 
+index by greater than 50% is considered sufficient. It should be performed in 
+CHO cells or on

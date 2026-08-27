@@ -1,0 +1,21 @@
+national Patent Classification 
+b. Technical field of invention for allocation to an examiner in 
+the respective field 
+c. Relevance to defence or atomic energy. 
+d. Correctness and completeness of abstract. 
+ If the abstract is found as not appropriate , the same will be 
+amended suitably by the office , so as to provide better 
+information to third parties. However, care is taken that such 
+amendment does not result in a change in the nature of 
+invention. 
+03.05.02 i. Numbering System for Applications 
+• FORMAT: YYYY J T NNNNNN , Where, 
+• "YYYY" is Four digit fixed length “Year of filing” 
+ ( in YYYY/MM/DD ) 
+• "J" is fixed length single digit “Jurisdiction” in numerals 
+(1 for Delhi, 2 for Mumbai, 3 for Kolkata, 4 for Chennai) 
+• "T" is fixed length single digit "Type of Application"in 
+numerals: 
+ (1 for Ordinary; 2 for Ordinary -Divisional;3 for Ord inary-Patent 
+of Addition; 4 for Convention; 5 for Convention -Divisional; 6 
+for Convention -Patent of Addition; 7 for PCT NP; 8 f

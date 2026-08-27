@@ -1,0 +1,29 @@
+the relevant art, in that the additional elements are widely
+ prevalent or in common use in the relevant field, comparable to the types of
+ activity or elements that are so well-known that they do not need to be
+ described in detail in a patent application to satisfy 
+35 U.S.C.
+ 112(a)
+. For example, the examiner could take official
+ notice that a generic computer component performing generic computer
+ functions at a high level of generality, such as using the Internet to
+ gather data, is well-understood, routine, conventional. Procedures for
+ taking official notice and addressing an applicant’s challenge to official
+ notice are discussed in 
+MPEP § 2144.03
+. 
+
+2106.07(a)(1) Form Paragraphs for use in Lack of
+ Subject Matter Eligibility Rejections [R-01.2024]
+
+Use form paragraphs 
+7.04.01
+,
+
+7.05
+,
+ and 
+7.05.01
+ for rejections based on a failure to
+ claim an invention that falls within any of the statutory categories of invention
+ (i.e., the claim is not to at least one of the four s

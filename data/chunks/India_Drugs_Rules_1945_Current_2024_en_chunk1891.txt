@@ -1,0 +1,20 @@
+ation shall be 
+representative of all batches made during the review period, 
+including any batches that failed to meet speciﬁcations, and 
+shall be sufﬁcient in number to demonstrate process 
+consistency. Retained samples can be tested to obtain data to 
+retrospectively validate the process. 
+12.5. Process validation programme- 
+12.5.1. The number of process runs for validation shall depend on the 
+complexity of the process or the magnitude of the process 
+change being considered. For prospective and concurrent 
+validation, three consecutive successful production batches 
+shall be used as a guide, but there may be situations where 
+additional process runs are warranted to prove consistency of 
+the process (e.g., complex API processes or API processes with 
+prolonged completion ti mes). Generally, for retrospective 
+validation, data from ten to thirty consecutive batches shall be 
+examined to assess process consistency, but fewer batches can 
+be examined, if justiﬁed. 
+
+Central Drugs S

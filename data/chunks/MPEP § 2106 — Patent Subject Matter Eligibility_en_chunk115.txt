@@ -1,0 +1,19 @@
+d at 1344, 127
+ USPQ2d 1553 (citing 
+Interval Licensing LLC v. AOL, Inc.,
+
+ 193 F. Supp.3d 1184, 1188 (W.D. 2014)). The patentee claimed an attention
+ manager for acquiring content from an information source, controlling the
+ timing of the display of acquired content, displaying the content, and
+ acquiring an updated version of the previously-acquired content when the
+ information source updates its content. 896 F.3d at 1339-40, 127 USPQ2d at
+ 1555. The Federal Circuit concluded that “[s]tanding alone, the act of
+ providing someone an additional set of information without disrupting the
+ ongoing provision of an initial set of information is an abstract idea,”
+ observing that the district court “pointed to the nontechnical human
+ activity of passing a note to a person who is in the middle of a meeting or
+ conversation as further illustrating the basic, longstanding practice that
+ is the focus of the [patent ineligible] claimed invention.” 896 F.3d at
+ 1344-45, 127 USPQ2d at 1559.
+
+An ex

@@ -1,0 +1,24 @@
+nts that produce that improvement. The clarifying remarks may be made at
+ any point during prosecution as well as with a notice of allowance. 
+
+Clarifying remarks may be useful in explaining the
+ rationale for a rejection as well. For instance, explaining the broadest reasonable
+ interpretation (BRI) of a claim will assist applicant in understanding and responding
+ to a rejection. As an example, a rejection for failure to recite patent eligible
+ subject matter in a claim to a computer readable medium could include an explanation
+ that the broadest reasonable interpretation of the claim covers a carrier wave, which
+ does not fall within one of the four categories of invention, and a suggestion to
+ overcome the rejection by submitting a narrowing amendment to cover the statutory
+ embodiments. 
+
+[top]
+
+2101-2102-[Reserved]
+
+2103-Patent Examination Process
+
+2104-Requirements of 35 U.S.C. 101
+
+2104.01-Barred by Atomic Energy Act
+
+2105-Patent Eligible Subject Matter — Living Subject Matter

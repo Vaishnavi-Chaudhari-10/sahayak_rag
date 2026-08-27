@@ -1,0 +1,31 @@
+d 1001, 1004
+ (2010);
+
+ii. mitigating settlement risk,
+
+Alice Corp. Pty. Ltd. v. CLS Bank Int'l,
+ 573
+ U.S. 208, 218, 110 USPQ2d 1976, 1979 (2014); and
+
+iii. arbitration, 
+In re
+ Comiskey
+, 554 F.3d 967, 981, 89 USPQ2d 1655, 1665 (Fed.
+ Cir. 2009).
+
+An example of a claim reciting advertising is
+ found in 
+Ultramercial, Inc. v. Hulu, LLC,
+ 772 F.3d 709,
+ 714-15, 112 USPQ2d 1750, 1753-54 (Fed. Cir. 2014). The patentee in
+
+Ultramercial
+ claimed an eleven-step method for
+ displaying an advertisement (ad) in exchange for access to copyrighted
+ media, comprising steps of receiving copyrighted media, selecting an ad,
+ offering the media in exchange for watching the selected ad, displaying the
+ ad, allowing the consumer access to the media, and receiving payment from
+ the sponsor of the ad. 772 F.3d. at 715, 112 USPQ2d at 1754. The Federal
+ Circuit determined that the "combination of steps recites an abstraction—an
+ idea, having no particular concrete or tangible form" and thus was directed
+ t

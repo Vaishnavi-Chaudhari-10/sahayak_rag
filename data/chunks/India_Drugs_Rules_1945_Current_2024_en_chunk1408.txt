@@ -1,0 +1,25 @@
+mpling 
+and acceptance limits. 
+
+17.3.8. Batch processing records- 
+17.3.8.1. A batch processing record shall be kept for each batch 
+processed. It shall be based on the relevant Parts of the 
+currently approved specifications on the record. The 
+method of preparation of such records shall be 
+designed to avoid errors. (copying or validated 
+computer programmes are recommended. Transcribing 
+from approved documents shall be avoided.) 
+17.3.8.2. Before any processing begins a check shall be made 
+that the equipment and work station are clear of 
+previous products, documents, or materials not 
+required for the planned process, and that the 
+equipment is clean and suitable for use. This check 
+shall be recorded. 
+17.3.8.3. During processing, the following information shall be 
+recorded at the time each action is taken, and after 
+completion of the record shall be dated and signed by 
+the person responsible for the processing operations, 
+namely:- 
+(a) the name of the product; 
+
+Central Dr

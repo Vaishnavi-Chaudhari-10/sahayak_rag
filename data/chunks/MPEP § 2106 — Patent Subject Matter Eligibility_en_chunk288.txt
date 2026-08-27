@@ -1,0 +1,24 @@
+eas.
+
+Id.
+ The court relied on the specification's explanation of
+ how the claimed rules enabled the automation of specific animation tasks that
+ previously could not be automated. 837 F.3d at 1313, 120 USPQ2d at 1101. The
+
+McRO
+ court indicated that it was the incorporation of the
+ particular claimed rules in computer animation that "improved [the] existing
+ technological process", unlike cases such as 
+Alice
+ where a
+ computer was merely used as a tool to perform an existing process. 837 F.3d at
+ 1314, 120 USPQ2d at 1102. The 
+McRO
+ court also noted that the
+ claims at issue described a specific way (use of particular rules to set morph
+ weights and transitions through phonemes) to solve the problem of producing
+ accurate and realistic lip synchronization and facial expressions in animated
+ characters, rather than merely claiming the idea of a solution or outcome, and
+ thus were not directed to an abstract idea. 837 F.3d at 1313, 120 USPQ2d at 1101. 
+
+Consideration of improvements is

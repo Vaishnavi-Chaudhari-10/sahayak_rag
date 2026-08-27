@@ -1,0 +1,17 @@
+idation. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+The validation of such processes given the typical variability of 
+biological products, the possible use of harmful and toxic materials 
+and the need for inactivation processes plays an important role in 
+demonstrating production consistency and in proving that the critical 
+process parameters and product attributes are controlled. 
+12.2. A QRM approach shall be used to determine the scope and extent of 
+validation. 
+12.3. All critical biological processes (including inoculation, multiplication, 
+fermentation, cell disruption, inactivation, purification, virus removal, 
+removal of toxic and harmful additives, filtration, formulation and 
+aseptic filling) are subject, as applicable, to process validation. 
+Manufacturing control parameters to be validated may include 
+specific addition sequences, mixing speeds, time and temperature 
+controls, limits of light exposure and

@@ -1,0 +1,21 @@
+t on, appropriate GMP as deﬁned in this 
+Part shall be applied to these intermed iate or API manufacturing 
+steps. This would include the validation of critical process steps 
+determined to impact the quality of the API. However, it shall be 
+noted that the fact that a company chooses to validate a process 
+step does not necessarily deﬁne that step as critical. 
+1.2.9. The guidance in this Part would normally be applied to the steps 
+shown in grey in Table below. It does not imply that all steps 
+shown shall be completed. The stringency of GMP in API 
+manufacturing shall increase as the process procee ds from early 
+API steps to ﬁnal steps, puriﬁcation and packaging. Physical 
+processing of APIs, such as granulation, coating or physical 
+manipulation of particle size (e.g., milling and micronising), shall 
+be conducted at least to the standards of this Part. 
+
+TABLE 
+ APPLICATION OF THIS GUIDE TO API MANUFACTURING 
+ Type of 
+manufacturin
+g 
+Application of this guide to steps (shown in

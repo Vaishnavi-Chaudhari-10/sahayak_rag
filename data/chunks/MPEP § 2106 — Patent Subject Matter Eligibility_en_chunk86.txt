@@ -1,0 +1,33 @@
+n abstract idea).
+
+A.
+ Mathematical Relationships
+A mathematical relationship is a
+ relationship between variables or numbers. A mathematical relationship may
+ be expressed in words or using mathematical symbols. For example, pressure
+ (p) can be described as the ratio between the magnitude of the normal force
+ (F) and area of the surface on contact (A), or it can be set forth in the
+ form of an equation such as p = F/A. 
+
+Examples of mathematical relationships
+ recited in a claim include:
+
+i. a relationship between reaction rate
+ and temperature, which relationship can be expressed in the form of a
+ formula called the Arrhenius equation, 
+Diamond v.
+ Diehr;
+ 450 U.S. at 178 n. 2, 179 n.5, 191-92, 209 USPQ at
+ 4-5 (1981);
+
+ii. a conversion between binary coded
+ decimal and pure binary, 
+Benson,
+ 409 U.S. at 64,
+ 175 USPQ at 674; 
+
+iii. a mathematical relationship between
+ enhanced directional radio activity and antenna conductor arrangement
+ (
+i.e.,
+ the length of the conductors with r

@@ -1,0 +1,39 @@
+e an abstract idea, despite the patentee’s arguments that the concept
+ was “new”. 
+Ultramercial, Inc. v. Hulu, LLC,
+ 772 F.3d 709, 714-15,
+ 112 USPQ2d 1750, 1753-54 (Fed. Cir. 2014). 
+Cf. Synopsys, Inc. v. Mentor
+ Graphics Corp.,
+ 839 F.3d 1138, 1151, 120 USPQ2d 1473, 1483 (Fed. Cir.
+ 2016) (“a 
+new
+ abstract idea is still an abstract
+ idea”) (emphasis in original).
+
+ For a detailed discussion of abstract ideas, see
+
+MPEP
+ § 2106.04(a)
+; for a detailed discussion of laws of nature,
+ natural phenomena and products of nature, see 
+MPEP §
+ 2106.04(b)
+. 
+
+II.
+ ELIGIBILITY STEP 2A: WHETHER A CLAIM
+ IS DIRECTED TO A JUDICIAL EXCEPTION
+As described in 
+MPEP § 2106
+,
+ subsection III, Step 2A of the Office’s eligibility analysis is the first part of the
+
+Alice/Mayo
+ test,
+ i.e.,
+ the Supreme Court’s
+ “framework for distinguishing patents that claim laws of nature, natural phenomena,
+ and abstract ideas from those that claim patent-eligible applications of those
+ concepts.” 
+Alice Corp. Pty. Ltd

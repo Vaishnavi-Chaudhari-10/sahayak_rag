@@ -1,0 +1,17 @@
+tate of control. Collection and evaluation of 
+information and data on the performance of the process will allow for 
+detection of undesired process variability and will determine whether 
+action shall be taken to prevent, anticipate or correct problems so that 
+the process remains under control. 
+12.5. Cleaning validation shall be performed in order to confirm the 
+effectiveness of cleaning procedures designed to remove biological 
+substances, growth media, process reagents, cleaning agents, 
+inactivation agents and so on. Careful consideration shall be given to 
+cleaning validation when campaign-based production is practiced. 
+12.6. Critical processes for inactivation or elimination of poten tially 
+harmful microorganisms of Biosafety Risk Group 2 or above, 
+including genetically modified ones, are subject to validation. 
+12.7. Process revalidation may be triggered by a process change as part of 
+the change control system. In addition, because of the va riability of 
+
+Central Drugs S

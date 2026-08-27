@@ -1,0 +1,19 @@
+during process development 
+or for batches used for pivotal clinical and toxicological 
+studies. 
+12.6. Periodic review of validated systems - Systems and processes shall 
+be periodically evaluated to verify that they are still operating in a 
+valid manner. Where no signiﬁcant changes have been made to the 
+system or process, and a quality review conﬁrms that the system or 
+process is consistently producing material meeting its speciﬁcations, 
+there is normally no need for revalidation. 
+12.7. Cleaning validation- 
+12.7.1. Cleaning procedures shall normally be validated. In general, 
+cleaning validation shall be directed to those si tuations or 
+process steps where contamination or carry -over of materials 
+poses the greatest risk to API quality. For example, in early 
+production it may be unnecessary to validate equipment 
+cleaning procedures where residues are removed by subsequent 
+puriﬁcation steps. 
+12.7.2. Validation of cleaning procedures shall reﬂect actual equipment 
+usage pa

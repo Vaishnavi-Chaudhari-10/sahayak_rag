@@ -1,0 +1,34 @@
+the “cDNA retains the naturally occurring exons of DNA, but it is distinct
+ from the DNA from which it was derived. As a result, [this] cDNA is not a
+ ‘product of nature’” and is eligible. 
+Myriad,
+ 569 U.S. at
+ 595, 106 USPQ2d at 1981. 
+
+2.
+ Examples of Products Lacking
+ Markedly Different Characteristics
+In 
+Myriad,
+ the Supreme
+ Court made clear that not all changes in characteristics will rise to the
+ level of a marked difference, 
+e.g.,
+ the incidental
+ changes resulting from isolation of a gene sequence are not enough to make
+ the isolated gene markedly different. 
+Myriad,
+ 569 U.S. at
+ 580, 106 USPQ2d at 1974-75. The patentee in 
+Myriad
+ had
+ discovered the location of the BRCA1 and BRCA2 genes in the human genome,
+ and isolated them, 
+i.e.,
+ separated those specific genes
+ from the rest of the chromosome on which they exist in nature. As a result
+ of their isolation, the isolated genes had a different structural
+ characteristic than the natural genes, 
+i.e.
+, the natural
+ gen

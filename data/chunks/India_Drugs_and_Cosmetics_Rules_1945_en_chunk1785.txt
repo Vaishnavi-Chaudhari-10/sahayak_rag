@@ -1,0 +1,24 @@
+meters ; 
+(ii) arrangements for the handling of starting materials, packaging materials, bulk and 
+finished products, including sampling, quarantine, release and storage; 
+(iii) arrangements for reprocessing or rework; 
+(iv) arrangements for the handling of rejected materials and products; 
+(v) brief description of general policy for process validation. 
+
+7. Quality Assurance: 
+Description of the Quality Assurance system and of the activities of the Quality Assurance 
+Department. Procedures for the release of finished products. 
+
+8. Storage: 
+Policy on the storage of medical device. 
+
+9. Documentation: 
+Arrangements for the preparation, revision and distribution of necessary documentation, 
+including storage of master documents. 
+
+10. Medical Device Complaints and Field Safety Corrective Action: 
+(i) Arrangements for the handling of complaints ; 
+(ii) Arrangements for the handling of field safety corrective action 
+
+11. Internal Audit: 
+Short Description of the internal audit system.

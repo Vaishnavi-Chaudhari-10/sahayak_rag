@@ -1,0 +1,18 @@
+Rules 1945 
+513 
+
+In defining the records required for traceability, the manufacturer shall include records of all 
+components, materials and work environment conditions, if these could cause the medical device not 
+to satisfy its specified requirements. 
+
+The manufacturer shall require that its agents or distributors maintain records of the distribution of 
+active implantable medical devices and implantable medical devices to allow traceability and that 
+such records are available for inspection. Records of the name and address of the shipping package 
+consignee shall be maintained. 
+
+7.5.3.3 Status identification: 
+
+The manufacturer shall identify the product status with respect to mo nitoring and measurement 
+requirements. The identification of product status shall be maintained throughout production, 
+storage, implant, usage and installation of the product to ensure that only product that has passed the 
+required inspections and tests (o r released under an authorized concession)

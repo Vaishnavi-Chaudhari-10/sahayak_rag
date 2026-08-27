@@ -1,0 +1,47 @@
+mon Name 
+as in AFI/API* 
+Plant's 
+Botanical 
+Name 
+Quantity 
+Used/per 
+annum (in Kgs.) 
+Sources of Supply Part Used 
+Traders/ 
+Manufacturers 
+Forest 
+Collectors Cultivators Imported Total Whole 
+plants Root Leaf Others 
+
+* Ayurvedic Formulary of India/Ayurvedic Pharmacopoeia of India 
+(b) Extracts Used 
+Name of Extracts 
+Quantity Used/per annum (in 
+Kgs.) 
+Sources of Supply 
+Common Name as in 
+AFI/API* 
+Botanical 
+Name In-House Export 
+Suppliers Imported Total 
+
+* Ayurvedic Formulary of India /Ayurvedic Pharmacopoeia of India 
+ (c) Metals/Minerals Used 
+Name of Mineral 
+Quantity Used/per annum (in Kgs.) 
+Sources of Supply 
+Common Name Chemical Name Manufacturers Traders (Domestic) Importers Total 
+
+(d) Animal By-Products Used 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+Name of By-Product 
+Quantity Used/per annum 
+(in Kgs.) 
+Sources of Supply 
+Common 
+Name 
+Biological /Chemical Name 
+(if any) 
+Manufacturers Traders 
+(Dom

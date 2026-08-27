@@ -1,0 +1,18 @@
+er- 
+4.3.1. Water used in the manufacture of APIs shall be demonstrated to 
+be suitable for its intended use. 
+4.3.2. Unless otherwise justiﬁed, proces s water shall, at a minimum, 
+meet World Health Organisation guidelines for drinking 
+(potable) water quality. 
+4.3.3. If drinking (potable) water is insufﬁcient to assure API quality, 
+and tighter chemical or microbiological water quality 
+speciﬁcations are called fo r, appropriate speciﬁcations for 
+physical and chemical attributes, total microbial counts, 
+objectionable organisms or endotoxins shall be established. 
+4.3.4. Where water used in the process is treated by the manufacturer 
+to achieve a deﬁned quality, the treatment process shall be 
+validated and monitored with appropriate action limits. 
+4.3.5. Where the manufacturer of a non -sterile API either intends or 
+claims that it is suitable for use in further processing to produce 
+a sterile FPP, water used in the ﬁnal isolation and puriﬁcation 
+steps shall be monitored and co

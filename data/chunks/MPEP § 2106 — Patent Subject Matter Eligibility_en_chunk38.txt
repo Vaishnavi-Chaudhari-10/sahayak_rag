@@ -1,0 +1,22 @@
+or
+ more statutory categories (Step 1: YES), and thus must be further analyzed to
+ determine whether it qualifies as eligible at Pathway A or requires further
+ analysis at Step 2A to determine if the claim is directed to a judicial
+ exception. 
+
+A claim whose BRI covers both statutory and
+ non-statutory embodiments embraces subject matter that is not eligible for patent
+ protection and therefore is directed to non-statutory subject matter. Such claims
+ fail the first step (Step 1: NO) and should be rejected under 
+35 U.S.C. 101
+,
+ for at least this reason. In such a case, it is a best practice for the examiner to
+ point out the BRI and recommend an amendment, if possible, that would narrow the
+ claim to those embodiments that fall within a statutory category. 
+
+For example, the BRI of machine readable media can
+ encompass non-statutory transitory forms of signal transmission, such as a
+ propagating electrical or electromagnetic signal per se. See 
+In re
+ Nuijten,
+ 500 F.3d 1346, 84 US

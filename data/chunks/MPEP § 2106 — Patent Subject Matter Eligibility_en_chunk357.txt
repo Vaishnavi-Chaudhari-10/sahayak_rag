@@ -1,0 +1,22 @@
+analysis, because that
+ consideration is only evaluated in Step 2B.
+
+For claim limitations that do not amount to more than
+ a recitation of the words “apply it” (or an equivalent), such as mere instructions to
+ implement an abstract idea on a computer, examiners should explain why they do not
+ meaningfully limit the claim in an eligibility rejection. For example, an examiner
+ could explain that implementing an abstract idea on a generic computer, does not
+ integrate the abstract idea into a practical application in Step 2A Prong Two or add
+ significantly more in Step 2B, similar to how the recitation of the computer in the
+ claim in 
+Alice
+ amounted to mere instructions to apply the abstract
+ idea of intermediated settlement on a generic computer. For more information on
+ formulating a subject matter eligibility rejection. See 
+MPEP §
+ 2106.07(a)
+. 
+
+When determining whether a claim simply recites a
+ judicial exception with the words “apply it” (or an equivalent), such as mere
+ instruc

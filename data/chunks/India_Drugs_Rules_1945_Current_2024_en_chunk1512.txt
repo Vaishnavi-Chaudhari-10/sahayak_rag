@@ -1,0 +1,21 @@
+ironment; 
+(b) personnel; 
+(c) critical surfaces; 
+(d) container or closure sterilisation and transfer 
+procedures; 
+(e) the maximum holding period of the product before 
+filling into the final container; and 
+(f) the sterilising filter. 
+6.11.2.4. Certain solutions and liquids that cannot be sterilised in the 
+final container can be filtered through a sterile filte r of 
+nominal pore size 0.22 µ (or less), or with at least equivalent 
+microorganism-retaining properties, into a previously 
+sterilised container. Such filters can remove bacteria and 
+moulds, but not all viruses or mycoplasmas. Consideration 
+shall be given t o complementing the filtration process with 
+some degree of heat treatment. Filtration alone is not 
+considered sufficient when sterilisation in the final container 
+is possible. Of the methods currently available, steam 
+sterilisation is preferred. 
+6.11.2.5. Owing to t he potential additional risks of the filtration 
+method as compared with other sterilisation proc

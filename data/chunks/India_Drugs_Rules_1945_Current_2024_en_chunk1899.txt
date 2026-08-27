@@ -1,0 +1,19 @@
+the modiﬁcation and appropriate data to verify that 
+the modi ﬁcation produces results that are as accurate and 
+reliable as the established method. 
+
+13. Change control: 
+13.1. A formal change control system shall be established to evaluate all 
+changes that may affect the production and control of the intermediate 
+or API. 
+13.2. Written procedures shall cover the identiﬁcation, documentation, 
+appropriate review and approval of changes in raw materials, 
+speciﬁcations, analytical methods, facilities, support systems, 
+equipment (including computer hardware), processing steps, labelling 
+and packaging materials and computer software. 
+13.3. Any proposals for relevant changes to GMP shall be drafted, reviewed 
+and approved by the appropriate organisational units and reviewed 
+and approved by the quality units. 
+13.4. The potential impact of the proposed chang e on the quality of the 
+intermediate or API shall be evaluated. A classiﬁcation procedure may 
+help in determining the level o

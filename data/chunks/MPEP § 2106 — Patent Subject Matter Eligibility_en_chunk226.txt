@@ -1,0 +1,18 @@
+Court jurisprudence as that consideration. However,
+ recent jurisprudence has provided additional guidance that is especially relevant
+ to only a subset of claims, thus warranting the elevation of the particular
+ treatment or prophylaxis consideration to become a stand-alone consideration in
+ the Step 2A Prong Two analysis. 
+Vanda Pharm. Inc. v. West-Ward Pharm.
+ Int’l Ltd.,
+ 887 F.3d 1117, 126 USPQ2d 1266 (Fed. Cir. 2018). The
+ claims in 
+Vanda
+ recited a method of treating a patient having
+ schizophrenia with iloperidone, a drug known to cause QTc prolongation (a
+ disruption of the heart’s normal rhythm that can lead to serious health problems)
+ in patients having a particular genotype associated with poor drug metabolism. 887
+ F.3d at 1121, 126 USPQ2d at 1269-70. In particular, the claims recited steps of:
+ (1) performing a genotyping assay to determine if a patient has a genotype
+ associated with poor drug metabolism; and (2) administering iloperidone to the
+ patient in a dose rang

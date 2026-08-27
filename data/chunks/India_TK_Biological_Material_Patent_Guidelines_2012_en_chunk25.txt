@@ -1,0 +1,16 @@
+ims are drafted to obtain a wide scope of protection encompassing a large 
+number of compounds whose properties might not have been tested, but only theoretically 
+inferred from the equivalence with other compounds with in the claim. Quite often the Markush 
+claims generate confusions regarding the novelty, non-obviousness and industrial applicability of a group 
+of compounds covered within the said Markush formula. Also, the Markush claims may invoke the 
+questions of sufficiency and plurality of distinct group of inventions surrounding such claims. 
+
+Illustrative example: 
+
+Claim 1: The compounds of the general formula: 
+
+Wherein, R1 is selected from phenyl, pyridyl, thiazolyl, thioalkyl, alkoxyl and methyl; R2 -R4 are methyl, tolyl 
+or phenyl the compounds are used as a pharmaceutical for increasing the oxygen intaking capability of 
+blood. 
+While examining above said Markush claims, the complete specification should be critically examined 
+whether: (i) it discloses best representat

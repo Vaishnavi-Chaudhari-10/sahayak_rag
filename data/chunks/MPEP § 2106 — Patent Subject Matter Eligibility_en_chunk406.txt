@@ -1,0 +1,20 @@
+viewed as a whole, their eligibility was self-evident based on
+ the clear improvement, so no further analysis was needed. Although the Federal
+ Circuit held these claims eligible at Step 2A as not being directed to abstract
+ ideas, it would be reasonable for an examiner to have found these claims eligible at
+ Pathway A based on the clear improvement, or at Pathway B (Step 2A) as not being
+ directed to an abstract idea. 
+
+If the claims are a “close call” such that it is
+ unclear whether the claims improve technology or computer functionality, a full
+ eligibility analysis should be performed to determine eligibility. See
+
+BASCOM Global Internet v. AT&T Mobility LLC,
+ 827 F.3d 1341,
+ 1349, 119 USPQ2d 1236, 1241 (Fed Cir. 2016). Only when the claims clearly improve
+ technology or computer functionality, or otherwise have self-evident eligibility,
+ should the streamlined analysis be used. For example, because the claims in
+
+BASCOM
+ described the concept of filtering content, which is a
+ met

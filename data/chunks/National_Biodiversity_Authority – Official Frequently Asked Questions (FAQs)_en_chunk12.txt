@@ -1,0 +1,9 @@
+tes to develop multi-parent hybrids, what is the recommended approach for distributing ABS payments — should these be allocated equally among the contributing states or based o
+
+If the applicant is covered under Section 7 of the Act and the applicant intends to access the biological resources from more than one state, prior intimation to all such State Biodiversity Boards shall be given by the applicant for obtaining approval as required under Section 7 of the Act.
+To facilitate the process, an online single window system is being developed by the NBA for facilitating the filing of ABS applications with SBB.
+The total amount of the accrued benefits shall be shared with the Boards or Councils concerned, proportionately, on a case-by-case basis as per Regulation 11 of the ABS Regulations 2025.
+
+15. Can molecular marker assisted breeding/selection be considered as ‘conventional breeding’ (as this is mentioned under commercial utilization).
+
+Molecular marker-aided breeding/selection cannot

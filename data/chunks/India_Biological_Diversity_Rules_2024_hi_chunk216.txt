@@ -1,0 +1,34 @@
+tent office in 
+which 
+application has 
+been filed [Drop 
+down menu] 
+Date of filing of 
+the patent 
+application 
+Patent 
+application 
+number 
+
+(3) Details of the biological resource accessed/claimed 
+in the invention 
+
+a. Nature of the accessed biological resource(s) 
+(Plant/animal/ microorganism/fungi/algae/others) 
+[Drop down] 
+b. Common name 
+c. Scientific name (Genus and species/variety/strain) 
+d. Plant parts (whole plant, seed, stem, bark, leaf, 
+flower, fruit, root, rhizome, etc.) 
+e. Source of access (Market/trader/ wild/ self-
+cultivated/repository/ others) 
+f. Geographical location (village, taluk, district, state). 
+If procured from trader/institute, entity’s name, 
+address, and contact details to be provided. If 
+procured from repository/institution, then origin of 
+collection is to be provided. 
+(4) Details of traditional knowledge accessed, if any 
+(i) Details of traditional knowledge accessed (in not more 
+than 100 words) 
+
+(ii) Name of the traditional knowledge holder,

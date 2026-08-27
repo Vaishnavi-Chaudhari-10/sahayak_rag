@@ -1,0 +1,22 @@
+od exception”). Likewise, software is not automatically an abstract
+ idea, even if performance of a software task involves an underlying mathematical
+ calculation or relationship. See, 
+e.g., Thales Visionix, Inc. v. United
+ States,
+ 850 F.3d 1343, 121 USPQ2d 1898, 1902 (Fed. Cir. 2017) (“That a
+ mathematical equation is required to complete the claimed method and system does not
+ doom the claims to abstraction.”); 
+McRO, Inc. v. Bandai Namco Games Am.
+ Inc.,
+ 837 F.3d 1299, 1316, 120 USPQ2d 1091, 1103 (Fed. Cir. 2016)
+ (methods of automatic lip synchronization and facial expression animation using
+ computer-implemented rules were not directed to an abstract idea); 
+Enfish,
+
+822 F.3d 1327, 1336, 118 USPQ2d 1684, 1689 (Fed. Cir. 2016) (claims to
+ self-referential table for a computer database were not directed to an abstract
+ idea). 
+
+To facilitate examination, the Office has set forth an
+ approach to identifying abstract ideas that distills the relevant case law into
+ enumerated groupi

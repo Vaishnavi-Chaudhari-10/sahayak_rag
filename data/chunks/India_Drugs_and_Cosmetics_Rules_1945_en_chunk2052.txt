@@ -1,0 +1,15 @@
+for chronic illnesses or otherwise over a long period of time - a chronic toxicity study (up to 
+one year) may be necessary to detect early tumorigenic effects. 
+
+Genotoxicity tests are in vitro and in vivo tests conducted to detect compounds which induce 
+genetic damage directly or indirectly. These tests should enable a hazard identification with 
+respect to damage to DNA and its fixation. 
+The following standard test battery is generally expected to be conducted: 
+(i) A test for gene mutation in bacteria. 
+(ii) An in vitro test with cytogenetic evaluation of chromosomal damage with mammalian 
+cells or an in vitro mouse lymphoma tic assay. 
+(iii) An in vivo test for chromosomal damage using rodent haematopoietic cells. Other 
+genotoxicity tests e.g. tests for measurement of DNA adducts, DNA strand 
+breaks, DNA repair or recombination serve as options in addition to the standard battery 
+for further investigation of genotoxicity test results obtained in the standard battery. Only 
+u

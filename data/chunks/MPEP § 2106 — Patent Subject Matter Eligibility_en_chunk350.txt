@@ -1,0 +1,20 @@
+deration overlaps with the particular
+ treatment or prophylaxis consideration that is evaluated in Step 2A Prong Two (see
+
+MPEP §
+ 2106.04(d)(2)
+).
+
+When evaluating whether additional elements
+ meaningfully limit the judicial exception, it is particularly critical that examiners
+ consider the additional elements both individually and as a combination. When an
+ additional element is considered individually by an examiner, the additional element
+ may be enough to qualify as “significantly more” if it meaningfully limits the
+ judicial exception, and may also add a meaningful limitation by integrating the
+ judicial exception into a practical application. However, even in the situation where
+ the individually-viewed elements do not add significantly more or integrate the
+ exception, those additional elements when viewed in combination may render the claim
+ eligible. See 
+Diamond v. Diehr,
+ 450 U.S. 175, 188, 209 USPQ2d 1, 9
+ (1981) (“a new combination of steps in a process may be patentable

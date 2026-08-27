@@ -1,0 +1,30 @@
+Application format for prior intimation to the Board or Council for access to biological resources, 
+digital sequence information or knowledge associated thereto for commercial utilisation by persons covered 
+under section 7 of the Act. 
+1. Particulars of the applicant 
+(i) Category of the applicant (Drop-down menu) 
+a. Individual 
+b. Entity 
+(ii) Name of the applicant 
+(iii) Address of the applicant 
+
+(Postal address including PIN code, email, 
+mobile and alternate mobile numbers and/or 
+landline number) 
+
+(iv) Profile of the individual / entity ie. Nature of 
+the business etc. 
+Individual- PAN/Aadhar 
+Entity: PAN/CIN No. 
+(v) Annual Turnover as per the last finalized 
+return 
+
+(vi) Details of the authorized representative for 
+the applicant 
+
+(Name with postal address including PIN 
+code, email, mobile and alternate mobile 
+numbers and/or landline number) 
+ PAN/Aadhar 
+2. Details of the biological resources and knowledge associated thereto intended to be accessed (State-wise) 
+(i) D

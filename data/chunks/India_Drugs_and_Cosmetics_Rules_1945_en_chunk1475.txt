@@ -1,0 +1,14 @@
+nge shall be identified by his signature with date. In case of automated data 
+collection system, the person responsible shall be identified a t the time of data output. 
+The original entry must be saved and the system have audit trial for all the data. 
+(c) Data integrity and security shall be maintained and the data shall not be accessible to 
+any unauthorised person. 
+16. Storage and archival. - 
+(a) The residu al sample shall be retained in proper storage condition for a period of one 
+year after the final report. 
+(b) The laboratory must establish and maintain procedures for the identification collection, 
+indexing, retrieval, storage, maintenance, and disposal of al l quality documents. 
+(c) All the raw data, documentation, Standard Operating Procedures, protocols, and final 
+reports are to be retained and there shall be archives for orderly storage and expeditious 
+retrieval of all raw data, documentation, protocols, inter im and final report. The 
+archive shall provide a suitab

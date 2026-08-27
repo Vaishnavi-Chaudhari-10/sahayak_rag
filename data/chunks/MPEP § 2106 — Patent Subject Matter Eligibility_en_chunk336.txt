@@ -1,0 +1,31 @@
+uding this consideration, before making a conclusion as to
+ whether they amount to an inventive concept.
+
+The courts have recognized the following computer
+ functions as well‐understood, routine, and conventional functions when they are
+ claimed in a merely generic manner (
+e.g.,
+ at a high level of
+ generality) or as insignificant extra-solution activity.
+
+i. Receiving or transmitting data over a
+ network, 
+e.g.,
+ using the Internet to gather data,
+
+Symantec,
+ 838 F.3d at 1321, 120 USPQ2d at 1362
+ (utilizing an intermediary computer to forward information); 
+TLI
+ Communications LLC v. AV Auto. LLC,
+ 823 F.3d 607, 610, 118
+ USPQ2d 1744, 1745 (Fed. Cir. 2016) (using a telephone for image
+ transmission); 
+OIP Techs., Inc., v. Amazon.com, Inc.,
+ 788
+ F.3d 1359, 1363, 115 USPQ2d 1090, 1093 (Fed. Cir. 2015) (sending messages
+ over a network); 
+buySAFE, Inc. v. Google, Inc.,
+ 765 F.3d
+ 1350, 1355, 112 USPQ2d 1093, 1096 (Fed. Cir. 2014) (computer receives and
+ sends information over a network

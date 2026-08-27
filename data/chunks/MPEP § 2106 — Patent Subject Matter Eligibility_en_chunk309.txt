@@ -1,0 +1,28 @@
+e
+ M-or-T test); 
+McRO, Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d
+ 1299, 1315, 120 USPQ2d 1091, 1102 (Fed. Cir. 2016) (“[T]here is nothing that requires
+ a method ‘be tied to a machine or transform an article’ to be patentable”). And if a
+ claim fails the 
+Alice/Mayo
+ test (
+i.e.,
+ is
+ directed to an exception at Step 2A and does not amount to significantly more than
+ the exception in Step 2B), then the claim is ineligible even if it passes the M-or-T
+ test. 
+DDR Holdings, LLC v. Hotels.com, L.P.,
+ 773 F.3d 1245, 1256,
+ 113 USPQ2d 1097, 1104 (Fed. Cir. 2014) (“[I]n 
+Mayo,
+ the Supreme
+ Court emphasized that satisfying the machine-or-transformation test, by itself, is
+ not sufficient to render a claim patent-eligible, as not all transformations or
+ machine implementations infuse an otherwise ineligible claim with an “inventive
+ concept.”). 
+
+Examiners may find it helpful to evaluate other
+ considerations such as the mere instructions to apply an exception consideration (see
+
+MPEP §

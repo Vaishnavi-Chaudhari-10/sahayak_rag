@@ -1,0 +1,17 @@
+of the results of the reviews and any necessary actions shall be maintained 
+
+7.3.5 Design and development verification: 
+Verification shall be performed in accordance with planned arrangements to ensure that the design 
+and development outputs ha ve met the design and development input requirements. Records of the 
+results of the verification and any necessary actions shall be maintained. 
+
+Drugs and Cosmetics Rules 1945 
+509 
+
+7.3.6 Design and development validation: 
+Design and development validation shall be performed in accordance wit h planned arrangements to 
+ensure that the resulting product is capable of meeting the requirements for the specified application 
+or intended use. 
+Design validation shall be performed under defined operating conditions on initial production units, 
+lots, or batches or their equivalence. Design validation shall include software validation and risk 
+analysis, where appropriate validation shall be completed prior to the delivery or implementation of

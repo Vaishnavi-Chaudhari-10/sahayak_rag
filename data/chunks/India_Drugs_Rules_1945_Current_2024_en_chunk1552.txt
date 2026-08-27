@@ -1,0 +1,18 @@
+essure status. The 
+appropriate design, alert and action limits shall be in place. System 
+redundancies shall be in place to respond appropriately to pressure 
+cascade failure; 
+(iv) the starting and stopping of the supply and exhaust air fan shall be 
+synchronized so that the premises remain at a negative pressure 
+during start-up and shut-down; 
+(v) the air pressure cascade within the facility, shall comply with 
+normal pharmaceutical pressure cascade requirements with regards 
+to product protection, dust containment and personnel protection; 
+(vi) visual indication of the status of room pressures shall be provided in 
+each room; 
+(vii) air shall be exhausted to the outside through HEPA ﬁlters and not be 
+re-circulated except to the same area, and provided that a further 
+HEPA ﬁltration stage is applied to the return air. Where HEPA 
+ﬁlters are mentioned in the Schedule, this refers to HEPA ﬁlters 
+with a minimum rating of H13 according to European norms; 
+(viii) where possible, sing

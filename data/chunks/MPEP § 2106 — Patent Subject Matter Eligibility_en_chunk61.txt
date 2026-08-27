@@ -1,0 +1,25 @@
+2106.04(d)(2)
+.
+
+The mere inclusion of a judicial exception such as
+ a mathematical formula (which is one of the mathematical concepts identified as an
+ abstract idea in 
+MPEP § 2106.04(a)
+) in a claim
+ means that the claim “recites” a judicial exception under Step 2A Prong One.
+ However, mere recitation of a judicial exception does not mean that the claim is
+ “directed to” that judicial exception under Step 2A Prong Two. Instead, under
+ Prong Two, a claim that recites a judicial exception is not directed to that
+ judicial exception, if the claim as a whole integrates the recited judicial
+ exception into a practical application of that exception. Prong Two thus
+ distinguishes claims that are “directed to” the recited judicial exception from
+ claims that are not “directed to” the recited judicial exception.
+
+Because a judicial exception is not eligible
+ subject matter, 
+Bilski,
+ 561 U.S. at 601, 95 USPQ2d at 1005-06
+ (quoting 
+Chakrabarty,
+ 447 U.S. at 309, 206 USPQ at 197 (1980)),
+ if

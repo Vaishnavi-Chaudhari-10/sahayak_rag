@@ -1,0 +1,19 @@
+RECORDS : 
+
+The records which the licensee is required to maintain shall include inter alia the 
+following particulars, namely: 
+
+(1) Blood donor record: It shall indicate serial number, date of bleeding, name, 
+address and signature of donor with other particulars of age, weight, 
+haemoglobin, blood grouping, blood pressure, medical examination, bag 
+number and patient‘s de tail for whom donated in case of replacement 
+donation, category of donation (voluntary / replacement) and deferral 
+records and signature of Medical Officer In-charge. 
+
+(2) Master records for blood and its components: It shall indicate bag serial 
+number, date of collection, date of expiry, quantity in ml. ABO/Rh Group, 
+results for testing of HIV I and HIV II antibodies, Malaria, V.D.R.L. 
+1[(Hepatitis B surface antigen and Hepatitis C Virus antibody)] and 
+irregular antibodies (if any), name and address of the donor with 
+particulars, utilization issue number, components prepared or discarded 
+and signature of

@@ -1,0 +1,24 @@
+m merely generic
+ computer functions, but when combined may perform functions that are not
+ generic computer functions and thus be an inventive concept. See,
+
+e.g. Rapid Litig. Mgmt. v. CellzDirect, Inc.,
+ 827 F.3d
+ 1042, 1051, 119 USPQ2d 1370, 1375 (Fed. Cir. 2016) (holding that while the
+ additional steps of freezing and thawing hepatocytes were well known,
+ repeating those steps, contrary to what was taught in the art, was not
+ routine or conventional). For example, in 
+BASCOM,
+ even
+ though the court found that all of the additional elements in the claim
+ recited generic computer network or Internet components, the elements in
+ combination amounted to significantly more because of the non-conventional
+ and non-generic arrangement that provided a technical improvement in the
+ art. 
+BASCOM Global Internet Servs. v. AT&T Mobility
+ LLC,
+ 827 F.3d 1341, 1350-51, 119 USPQ2d 1236, 1243-44
+ (2016).
+
+ A rejection should only be made if an examiner
+ relying on the examiner's expertise in the

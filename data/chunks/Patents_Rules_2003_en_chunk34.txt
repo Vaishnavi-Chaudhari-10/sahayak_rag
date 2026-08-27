@@ -1,0 +1,16 @@
+.in/writereaddata/Portal/ev/sections-index.html 
+8. The Patent Rules, 2003. https://ipindia.gov.in/writereaddata/Portal/ev/rules-index.html 
+
+ of 14 
+
+Annexure-II 
+Brief about synergism along with illustrations on synergistic data. 
+Section 3(e) precludes patenting of "a substance obtained by a mere admixture resulting only in 
+the aggregation of the properties of the components thereof or a process for producing such 
+substance". In order to assess whether the invention falls under Section 3(e), it is examined 
+whether there is synergistic effect o f claimed composition which is more than the combined 
+effect of each component of the composition when used individually. 
+Synergism is the interaction of two or more substances to produce a combined effect greater 
+than the sum of their individual effects. The Guidelines for examination of patent applications in 
+the field of Pharmaceuticals provides insight that "if the functional interaction between the 
+features achieves a combined tec

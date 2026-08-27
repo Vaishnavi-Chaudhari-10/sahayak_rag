@@ -1,0 +1,26 @@
+g that such
+ element(s) is not well-understood, routine, conventional activity, the examiner
+ must then provide one of the items discussed in paragraphs (A) through (C) of
+ subsection III above, or an affidavit or declaration under 
+37 CFR
+ 1.104(d)(2)
+ setting forth specific factual statements and
+ explanation to support the examiner’s position. See also 
+MPEP §
+ 2106.07(b)
+, item (2).
+
+(3) If applicant amends a claim to add a generic
+ computer or generic computer components and asserts that the claim is
+ integrated into a practical application or recites significantly more because
+ the generic computer is 'specially programmed' (as in
+
+Alappat
+, now considered superseded) or is a 'particular
+ machine' (as in 
+Bilski
+), the examiner should look at whether
+ the added elements integrate the judicial exception into a practical
+ application or provide significantly more than the judicial exception. Merely
+ adding a generic computer, generic computer components, or a programmed
+ computer t

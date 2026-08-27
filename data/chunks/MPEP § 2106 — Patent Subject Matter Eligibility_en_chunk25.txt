@@ -1,0 +1,45 @@
+y requirements: 
+35 U.S.C. 102
+, 
+103
+,
+
+112
+, and 
+101
+ (utility, inventorship and
+ double patenting) and non-statutory double patenting. 
+MPEP §
+ 2103
+.
+
+2106.01 [Reserved]
+
+2106.02 [Reserved]
+
+2106.03 Eligibility Step 1: The Four Categories of
+ Statutory Subject Matter [R-07.2022]
+
+I.
+ THE FOUR
+ CATEGORIES
+35 U.S.C. 101
+ enumerates four
+ categories of subject matter that Congress deemed to be appropriate subject matter
+ for a patent: processes, machines, manufactures and compositions of matter. As
+ explained by the courts, these “four categories together describe the exclusive reach
+ of patentable subject matter. If a claim covers material not found in any of the four
+ statutory categories, that claim falls outside the plainly expressed scope of
+
+§
+ 101
+ even if the subject matter is otherwise new and useful.”
+
+In re Nuijten,
+ 500 F.3d 1346, 1354, 84 USPQ2d 1495, 1500 (Fed.
+ Cir. 2007).
+
+A process defines “actions”, 
+i.e.,
+
+ an invention that is claimed as an act or step, or a serie

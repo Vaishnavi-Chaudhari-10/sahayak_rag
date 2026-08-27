@@ -1,0 +1,33 @@
+,
+ the sender, recipient, and contents of the
+ mail object, 
+Secured Mail Solutions LLC v. Universal Wilde,
+ Inc.,
+ 873 F.3d 905, 911, 124 USPQ2d 1502, 1506 (Fed. Cir.
+ 2017); and 
+
+vii. placing an order based on displayed
+ market information, 
+Trading Technologies Int’l, Inc. v. IBG
+ LLC,
+ 921 F.3d 1084, 1092, 2019 USPQ2d 138290 (Fed. Cir.
+ 2019).
+
+B.
+ Commercial or Legal Interactions
+“Commercial interactions” or “legal
+ interactions” include agreements in the form of contracts, legal
+ obligations, advertising, marketing or sales activities or behaviors, and
+ business relations.
+
+An example of a claim reciting a commercial
+ or legal interaction, where the interaction is an agreement in the form of
+ contracts, is found in 
+buySAFE, Inc. v. Google, Inc.,
+ 765
+ F.3d. 1350, 112 USPQ2d 1093 (Fed. Cir. 2014). The agreement at issue in
+
+buySAFE
+ was a transaction performance guaranty, which
+ is a contractual relationship. 765 F.3d at 1355, 112 USPQ2d at 1096. The
+ patentee claimed a method i

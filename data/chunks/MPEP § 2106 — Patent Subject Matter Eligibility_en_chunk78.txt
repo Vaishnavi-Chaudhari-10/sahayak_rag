@@ -1,0 +1,17 @@
+has a system processor and volatile memory and
+ non-volatile memory, the method comprising the steps of: responding to
+ powering up of the local computer system by requesting from a memory
+ location remote from the local computer system the transfer to and storage
+ in the volatile memory of the local computer system of BIOS configured for
+ effective use of the local computer system, transferring and storing such
+ BIOS, and transferring control of the local computer system to such
+ BIOS;
+
+vi. a method of rearranging icons on a graphical
+ user interface (GUI) comprising the steps of: receiving a user selection to
+ organize each icon based on the amount of use of each icon, determining the
+ amount of use of each icon by using a processor to track the amount of
+ memory allocated to the application associated with the icon over a period
+ of time, and automatically moving the most used icons to a position in the
+ GUI closest to the start icon of the computer system based on the determined
+ a

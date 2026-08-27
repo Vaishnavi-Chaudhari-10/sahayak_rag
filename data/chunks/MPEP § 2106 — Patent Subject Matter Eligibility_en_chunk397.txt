@@ -1,0 +1,25 @@
+he use of the abstract idea to computer
+ environments, 
+buySAFE Inc. v. Google, Inc.,
+ 765 F.3d 1350,
+ 1354, 112 USPQ2d 1093, 1095-96 (Fed. Cir. 2014). 
+
+Examiners should be aware that the courts often use
+ the terms “technological environment” and “field of use” interchangeably, and thus
+ for purposes of the eligibility analysis examiners should consider these terms
+ interchangeable. Examiners should also keep in mind that this consideration overlaps
+ with other considerations, particularly insignificant extra-solution activity (see
+
+MPEP
+ § 2106.05(g)
+). For instance, a data gathering step that is
+ limited to a particular data source (such as the Internet) or a particular type of
+ data (such as power grid data or XML tags) could be considered to be both
+ insignificant extra-solution activity and a field of use limitation. See,
+
+e.g., Ultramercial,
+ 772 F.3d at 716, 112 USPQ2d at 1755
+ (limiting use of abstract idea to the Internet); 
+Electric Power,
+
+ 830 F.3d at 1354, 119 USPQ2d at

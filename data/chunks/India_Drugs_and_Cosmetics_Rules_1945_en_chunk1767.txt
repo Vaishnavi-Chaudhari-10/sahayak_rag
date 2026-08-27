@@ -1,0 +1,21 @@
+manufacturer shall plan and implement the monitoring, measurement, analysis and 
+improvement processes needed:- 
+(a) to demonstrate conformity of the product; 
+(b) to ensure conformity of the quality management system; and 
+(c) to maintain the effectiveness of the quality management system. 
+
+This shall include determination of applicable methods, including statistical techniques, and the 
+extent of their use. 
+
+Drugs and Cosmetics Rules 1945 
+515 
+
+Note.- If relevant Indian standards are not available, International standards are applicable. In case 
+no Indian or International standards are available, validated testing process of the manufacturer is 
+applicable. 
+
+8.2 Monitoring and measurement.- 
+8.2.1 Feedback: 
+As one of the measurements of the performance of the quality management system, the 
+manufacturer shall monitor information relating to whether the manufacturer has met customer or 
+regulatory requirements. The methods for obtaining and using this information shall be determ

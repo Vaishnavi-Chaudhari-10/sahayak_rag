@@ -1,0 +1,17 @@
+c principle or 
+the formulation of an abstract theory or discovery of any living thing or non -living substance 
+occurring in nature is not a patentable invention. Products such as microorganisms, nucleic 
+acid sequences, proteins, enzymes, compounds, etc., which are directly isolated from 
+nature, are not patentable subject -matter. However, processes of isolation of these 
+products can be considered subject to requirements of Section 2 (1) (j) of the Act. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: Bacillus sp. IN123 comprising rDNA (ribosomal DNA) sequence represented as SEQ ID 
+NO: 1 (deposition No. XXXXXX). 
+
+12 
+
+Analysis: The subject -matter of cla im falls within the scope of Section 3 (c) of the Act, as it 
+attempts to claim an isolated Bacillus sp. IN123 (i.e. a living substance) occurring in nature 
+(i.e. from soil as disclosed in the specification). Thus, what is claimed in the claim is treated 
+as a discovery of a living thing occurring in nature and hence, not patentable. 
+ILLUSTRAT

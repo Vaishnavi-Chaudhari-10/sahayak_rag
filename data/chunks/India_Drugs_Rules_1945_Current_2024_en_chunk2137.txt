@@ -1,0 +1,23 @@
+rce degradation study 
+Stability evaluation in market intended pack at proposed st orage 
+conditions 
+Packing specifications 
+Process validation 
+When the application is for clinical trials only, the international non -
+proprietary name (INN) or generic name, drug category, dosage form and data 
+supporting stability in the intended container -closure system for the duration of 
+the clinical trial (information covered in Item Nos. 2.1, 2.3, 2.6, 2.7) are 
+required. 
+3. Animal Pharmacology (for details refer Appendix IV) 
+3.1 Summary 
+3.2 Specific pharmacological actions 
+3.3 General pharmacological actions 
+3.4 Follow-up and Supplemental Safety Pharmacology Studies 
+3.5 Pharmacokinetics: absorption; distribution; metabolism; excretion 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+4. Animal Toxicology (for details refer Appendix III) 
+4.1 General Aspects 
+4.2 Systemic Toxicity Studies 
+4.3 Male Fertility Study 
+4.4 Female Re

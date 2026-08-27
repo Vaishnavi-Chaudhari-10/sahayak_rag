@@ -1,0 +1,23 @@
+i. a printer comprising a belt, a roller, a
+ printhead and at least one ink cartridge; 
+
+ii. a washing machine comprising a tub, a drive
+ motor operatively connected to the tub, a controller for controlling the
+ drive motor, and a housing for containing the tub, drive motor, and
+ controller; 
+
+iii. an earring comprising a sensor for taking
+ periodic blood glucose measurements and a memory for storing measurement
+ data from the sensor;
+
+iv. a method for sequencing BRCA1 gene sequences
+ comprising: amplifying by a polymerization chain reaction technique all or
+ part of a BRCA1 gene from a tissue sample from a human subject using a set
+ of primers to produce amplified nucleic acids; and sequencing the amplified
+ nucleic acids;
+
+v. a method for loading BIOS into a local
+ computer system which has a system processor and volatile memory and
+ non-volatile memory, the method comprising the steps of: responding to
+ powering up of the local computer system by requesting from a memory
+ location r

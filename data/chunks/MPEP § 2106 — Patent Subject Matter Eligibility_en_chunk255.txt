@@ -1,0 +1,27 @@
+ed-upon
+ financial exchange will satisfy its obligation. In part one of the
+
+Alice/Mayo
+ test, the Court determined that the claims were
+ directed to the abstract idea of mitigating settlement risk. 
+Alice
+ Corp.,
+ 573 U.S. at 221, 110 USPQ2d at 1982. The Court then walked
+ through part two of the 
+Alice/Mayo
+ test, in which:
+
+ • The Court identified the additional
+ elements in the claim, 
+e.g.,
+ by noting that the method
+ claims recited steps of using a computer to “create electronic records,
+ track multiple transactions, and issue simultaneous instructions”, and that
+ the product claims recited hardware such as a “data processing system” with
+ a “communications controller” and a “data storage unit” (573 U.S. at 224-26,
+ 110 USPQ2d at 1984-85); 
+
+ • The Court considered the additional
+ elements individually, noting that all the computer functions were
+ “‘well-understood, routine, conventional activit[ies]’ previously known to
+ the industry," each step “does no more than require a gene

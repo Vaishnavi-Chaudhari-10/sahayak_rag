@@ -1,0 +1,22 @@
+ntional activity.
+
+For claim limitations that recite a generic
+ computer component performing generic computer functions at a high level of
+ generality, such as using the Internet to gather data, examiners can explain why
+ these generic computing functions do not meaningfully limit the claim. Examiners
+ should keep in mind that the courts have held computer-implemented processes to be
+ significantly more than an abstract idea (and thus eligible), where generic
+ computer components are able in combination to perform functions that are not
+ merely generic. 
+DDR Holdings, LLC v. Hotels.com, LP,
+ 773 F.3d
+ 1245, 1258-59, 113 USPQ2d 1097, 1106-07 (Fed. Cir. 2014). See
+
+MPEP § 2106.05(f)
+ for more information about generic
+ computing functions that the courts have found to be mere instructions to
+ implement a judicial exception on a computer, and 
+MPEP §
+ 2106.05(d)
+ for more information about well understood,
+ routine, conventional activities and elements (a relevant consideration only in

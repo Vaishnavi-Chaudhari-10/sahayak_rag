@@ -1,0 +1,17 @@
+supporting utilities and equipment operate in 
+accordance with their design specifications [operational 
+qualification (OQ)]; 
+(d) a specific process shall co nsistently produce a product meeting its 
+predetermined specifications and quality attributes [process 
+validation (PV), also called performance qualification (PQ)]. 
+5.4. Any aspect of operation, including significant changes to the premises, 
+facilities, equipment or processes, which may affect the quality of the 
+product, directly or indirectly, shall be qualified and validated. 
+5.5. Qualification and validation shall not be considered as one -off 
+exercises. An on -going programme shall follow their first 
+implementation and shall be based on a periodic review. 
+5.6. The commitment to maintain continued validation status shall be stated 
+in the relevant company documentation, such as the quality manual or 
+validation master plan. 
+5.7. The responsibility for performing validation shall be clearly defined. 
+5.8. Validation s

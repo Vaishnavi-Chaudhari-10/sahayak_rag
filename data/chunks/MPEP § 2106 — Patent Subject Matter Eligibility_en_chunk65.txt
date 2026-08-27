@@ -1,0 +1,17 @@
+claim into multiple exceptions, particularly in claims involving abstract ideas.
+ Accordingly, if possible examiners should treat the claim for Prong Two and Step
+ 2B purposes as containing a single judicial exception. 
+
+In some claims, the multiple exceptions are
+ distinct from each other, 
+e.g.,
+ a first limitation describes a
+ law of nature, and a second limitation elsewhere in the claim recites an abstract
+ idea. In these cases, for purposes of examination efficiency, examiners should
+ select one of the exceptions and conduct the eligibility analysis for that
+ selected exception. If the analysis indicates that the claim recites an additional
+ element or combination of elements that integrate the selected exception into a
+ practical application or that amount to significantly more than the selected
+ exception, then the claim should be considered patent eligible. On the other hand,
+ if the claim does not recite any additional element or combination of elements
+ that integrate the se

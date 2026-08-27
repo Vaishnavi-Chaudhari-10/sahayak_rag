@@ -1,0 +1,20 @@
+of API 
+for clinical trials may not yet be validated they shall be 
+scientiﬁcally sound. 
+18.8.2. A system for retaining reserve samples of all batches shall be 
+in place. This system shall ensure that a sufﬁcient quantity of 
+each reserve sample is retained for an appropriate length of 
+time after approval, termination or discontinuation of an 
+application. 
+18.8.3. Expiry and retest dating as referred to in paragraph 11.5 
+applies to existing APIs used in clinical trials. For new APIs 
+paragraph 11.5 does not normally apply in early stages of 
+clinical trials. 
+18.9. Documentation- 
+18.9.1. A system shall be in place to ensure that information gained 
+during the development and the manufacture of APIs for use in 
+clinical trials is documented and available. 
+18.9.2. The development and implementation of the analytical 
+methods used to supp ort the release of a batch of API for use 
+in clinical trials shall be appropriately documented. 
+18.9.3. A system for retaining production and c

@@ -1,0 +1,18 @@
+Corporation v. Active Network, Inc.,
+ 790 F.3d 1343, 1348, 115 USPQ2d
+ 1414, 1418 (Fed. Cir. 2015) (The recitation of maintaining the state of data in an
+ online form without restriction on how the state is maintained and with no
+ description of the mechanism for maintaining the state describes “the effect or
+ result dissociated from any method by which maintaining the state is accomplished”
+ and does not provide a meaningful limitation because it merely states that the
+ abstract idea should be applied to achieve a desired result). See also
+
+O’Reilly v. Morse,
+ 56 U.S. 62 (1854) (finding ineligible a
+ claim for “the use of electromagnetism for transmitting signals at a distance”); The
+
+Telephone Cases,
+ 126 U.S. 1, 209 (1888) (finding a method of
+ “transmitting vocal or other sound telegraphically ... by causing electrical
+ undulations, similar in form to the vibrations of the air accompanying the said vocal
+ or other sounds,” to be ineligible, because it “monopolize[d] a natural force

@@ -1,0 +1,23 @@
+ucts. As antibiotic of formula I, steroid of formula A and 
+bioactive compound of formula X do not share any common structural feature, 
+which could serve as a unifying feature. Each of these claims has to be considered as 
+a separate invention and said to lack unity a priori. 
+
+12.6 Illustrative Example of A Posteriori Determination Of Unity Of Invention: 
+Claims 
+1. A combination, comprising sulphonamide compound X and a taxane and its use in 
+treatment of cancer. 
+
+2. A c ombination, comprising s ulphonamide compound X and a vinca alkaloid 
+derivative or analogue thereof and its use in treatment of cancer 
+
+Prior art: Use of Sulphonamide compound X in treatment of cancer. 
+
+Analysis: Claims 1-2 contain the following inventions or group of inventions, which 
+are not so linked as to form a single general inventive concept as required u/s 10 (5) 
+of the Patents Act. 
+
+Group 1: claim 1: A combination, comprising sulphonamide compound X and a 
+taxane 
+
+Group 2: claim 2: A combination, co

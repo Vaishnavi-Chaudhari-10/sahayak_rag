@@ -1,0 +1,16 @@
+nufacturer shall establish documented requirements for cleanliness of product if:- 
+(a) product is cleaned by the manufacturer prior to sterilisation or its use; or 
+(b) product is supplied non -sterile to be subjected to a cleaning process prior to sterilisation or 
+its use; or 
+(c) product is supplied to be used non-sterile and its cleanliness is of significance in use; or 
+(d) process agents are to be removed from product during manufacture. 
+
+If the product i s cleaned in accordance with (a) or (b) above, the requirements content in clause 6.4 
+(a) and (b) do not apply prior to the cleaning process 
+
+7.5.1.2.2 Installation activities: 
+If appropriate, the manufacturer shall establish documented requirements which contain acceptance 
+criteria for installing and verifying the installation of the medical device or In-vitro Diagnostic 
+device. 
+If the agreed customer requirements allow installation to be performed other than by manufacturer or 
+its authorised agent, the manufacturer sh

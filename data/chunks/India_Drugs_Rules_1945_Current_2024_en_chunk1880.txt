@@ -1,0 +1,19 @@
+dates. 
+11.4.2. The test procedures used in stability testing shall be validated 
+and be stability-indicating. 
+11.4.3. Stability samples shall be stored in containers that simulate the 
+market container. For example, if the API is marketed in bags 
+within ﬁbre drums, stability sam ples can be packaged in bags 
+of the same material and in smaller drums of similar or 
+identical material composition to the drums in which the API is 
+marketed. 
+11.4.4. Normally the ﬁrst three commercial production batches shall 
+be placed on the stability monitoring programme to conﬁrm the 
+retest or expiry date. However, where data from previous 
+studies show that the API is expected to remain stable for at 
+least two years, fewer than three batches can be used. 
+11.4.5. Thereafter at least one batch per year of API manufacture d 
+(unless none is produced that year) shall be added to the 
+stability monitoring programme and tested at least annually to 
+conﬁrm the stability. 
+11.4.6. For APIs with short s

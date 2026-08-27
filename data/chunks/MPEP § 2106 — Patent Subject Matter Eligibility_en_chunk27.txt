@@ -1,0 +1,26 @@
+action”); 
+NTP, Inc. v. Research in Motion, Ltd.,
+ 418 F.3d
+ 1282, 1316, 75 USPQ2d 1763, 1791 (Fed. Cir. 2005) (“[A] process is a series of
+ acts.”) (quoting 
+Minton v. Natl. Ass’n. of Securities Dealers,
+ 336
+ F.3d 1373, 1378, 67 USPQ2d 1614, 1681 (Fed. Cir. 2003)). As defined in
+
+35 U.S.C.
+ 100(b)
+, the term “process” is synonymous with “method.”
+
+The other three categories (machines, manufactures
+ and compositions of matter) define the types of physical or tangible “things” or
+ “products” that Congress deemed appropriate to patent. 
+Digitech Image Techs.
+ v. Electronics for Imaging,
+ 758 F.3d 1344, 1348, 111 USPQ2d 1717, 1719
+ (Fed. Cir. 2014) (“For all categories except process claims, the eligible subject
+ matter must exist in some physical or tangible form.”). Thus, when determining
+ whether a claimed invention falls within one of these three categories, examiners
+ should verify that the invention is to at least one of the following categories
+
+and
+ is claimed in a physical or ta

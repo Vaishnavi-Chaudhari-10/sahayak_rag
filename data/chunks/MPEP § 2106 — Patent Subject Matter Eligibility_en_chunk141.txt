@@ -1,0 +1,41 @@
+tgage Grader,
+
+ 811 F.3d at 1318, 117 USPQ2d at 1695;
+
+ • A computer readable medium
+ containing program instructions for detecting fraud –
+
+CyberSource,
+ 654 F.3d at 1368 n. 1, 99 USPQ2d at
+ 1692 n.1;
+
+ • A post office for receiving and
+ redistributing email messages on a computer network –
+
+Symantec,
+ 838 F.3d at 1316, 120 USPQ2d at 1359;
+
+ • A self-verifying voting system –
+
+Voter Verified,
+ 887 F.3d at 1384-85, 126 USPQ2d
+ at 1504;
+
+ • A wide-area real-time performance
+ monitoring system for monitoring and assessing dynamic stability of an
+ electric power grid – 
+Electric Power Group,
+ 830
+ F.3d at 1351 and n.1, 119 USPQ2d at 1740 and n.1; and
+
+ • Computer readable storage media
+ comprising computer instructions to implement a method for determining
+ a price of a product offered to a purchasing organization –
+
+Versata,
+ 793 F.3d at 1312-13, 115 USPQ2d at
+ 1685.
+
+Examples of process claims reciting mental
+ process-type abstract ideas are discussed in the preceding subsections (A)
+ t

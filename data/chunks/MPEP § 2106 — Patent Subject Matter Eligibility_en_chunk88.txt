@@ -1,0 +1,23 @@
+Inc.,
+ 758 F.3d 1344, 1350, 111 USPQ2d 1717, 1721 (Fed.
+ Cir. 2014). The patentee in 
+Digitech
+ claimed
+ methods of generating first and second data by taking existing
+ information, manipulating the data using mathematical functions, and
+ organizing this information into a new form. The court explained that
+ such claims were directed to an abstract idea because they described a
+ process of organizing information through mathematical correlations,
+ like 
+Flook's
+ method of calculating using a
+ mathematical formula. 758 F.3d at 1350, 111 USPQ2d at 1721. 
+
+B.
+ Mathematical Formulas or Equations
+A claim that recites a numerical formula or
+ equation will be considered as falling within the “mathematical concepts”
+ grouping. In addition, there are instances where a formula or equation is
+ written in text format that should also be considered as falling within this
+ grouping. For example, the phrase “determining a ratio of A to B” is merely
+ using a textual replacement for the particular equa

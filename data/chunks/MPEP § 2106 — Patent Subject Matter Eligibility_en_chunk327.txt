@@ -1,0 +1,24 @@
+od, routine,
+ conventional activity only when the examiner can readily conclude, based on
+ their expertise in the art, that the element is widely prevalent or in
+ common use in the relevant industry. The analysis as to whether an element
+ (or combination of elements) is widely prevalent or in common use is the
+ same as the analysis under 
+35 U.S.C. 112(a)
+ as to
+ whether an element is so well-known that it need not be described in detail
+ in the patent specification. See 
+Genetic Techs. Ltd. v. Merial
+ LLC,
+ 818 F.3d 1369, 1377, 118 USPQ2d 1541, 1546 ( Fed. Cir.
+ 2016) (supporting the position that amplification was well-understood,
+ routine, conventional for purposes of subject matter eligibility by
+ observing that the patentee expressly argued during prosecution of the
+ application that amplification was a technique readily practiced by those
+ skilled in the art to overcome the rejection of the claim under
+
+35
+ U.S.C. 112
+, first paragraph); see also
+
+Lindemann Maschinenfabrik GMBH v

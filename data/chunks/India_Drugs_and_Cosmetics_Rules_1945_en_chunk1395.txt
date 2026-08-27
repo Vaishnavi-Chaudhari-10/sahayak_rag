@@ -1,0 +1,46 @@
+tate 
+130. Clotrimazole 
+131. Clozapine 
+132. 2[Codeine] 
+133. Colchicine 
+134. Corticosteroids 
+135. Cotrimoxazole 
+136. Cyclandelate 
+137. Cyclosporins 
+138. Daclizumab 
+139. Danazole 
+140. Dapsone 
+141. Desloratadine 
+142. Desogestrol 
+143. Dexrazoxane 
+144. Dextranomer 
+ 145. 2[* * *] 
+146. Dextropropoxyphene 
+147. 2[Diazepam] 
+148. Diazoxide 
+149. Diclofenac sodium/potassium/acid 
+150. Dicyclomin hydrochloride 
+151. Didanosine 
+152. Digoxine 
+153. Dilazep hydrochloride 
+154. Diltiazem 
+155. Dinoprostone 
+156. 2[Diphenoxylate, its salts] 
+157. Dipivefrin hydrochloride 
+158. Di-sodiumpamidronate 
+159. Disopyramide 
+160. Docetaxel 
+161. Domperidone 
+162. Donepezil hydrochloride 
+163. Dopamine hydrochloride 
+164. Dothiepin hydrochloride 
+165. Doxapram hydrochloride 
+166. Doxazosin mesylate 
+167. Doxepin hydrochloride 
+
+Drugs and Cosmetics Rules 1945 
+403 
+
+1. Subs. by G.S.R. No.160(E), dated 16.3.2006 . 
+2. Omitted by G.S.R 588(E) dated 30-8-2013 
+3. Omitted by G.S.R 602(E) dated 19-7

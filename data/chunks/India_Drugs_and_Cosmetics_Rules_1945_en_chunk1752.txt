@@ -1,0 +1,18 @@
+nd/or evaluation of 
+performance is not considered to be delivery. 
+
+7.3.7 Control of design and development changes: 
+Design and development changes shall be identified and records maintained. The changes shall be 
+reviewed, verified and validated, as appropriate, and approved before implementation. The review of 
+design and development changes shall include evaluation of the effect of the changes on constituent 
+parts and product already delivered. Records of the results of the review of changes and any 
+necessary actions shall be maintained. 
+
+Note.-Each manufacturer shall establish and maintain a Design History File for each type of device. 
+The Design History File shall contain or reference the records necessary to demonstrate that the 
+design was developed in accordance with the approved design plan and the requirements of design 
+and development. 
+
+7.4 Purchasing.- 
+7.4.1 Purchasing process: 
+The manufacturer organisation shall establish documented procedures to ensure that purc

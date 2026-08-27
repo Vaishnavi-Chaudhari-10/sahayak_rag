@@ -1,0 +1,18 @@
+and their acceptance criteria shall be 
+deﬁned based on the information gained during the development 
+stage or historical data. 
+8.3.2. The acceptance criteria and type and extent of testing can 
+depend on th e nature of the intermediate or API being 
+manufactured, the reaction or process step being conducted and 
+the degree to which the process introduces variability in the 
+product’s quality. Less stringent in -process controls may be 
+appropriate in early process ing steps, whereas tighter controls 
+may be appropriate for later processing steps (e.g., isolation and 
+puriﬁcation steps). 
+8.3.3. Critical in -process controls (and critical process monitoring), 
+including the control points and methods, shall be stated in 
+writing and approved by the quality units. 
+8.3.4. In-process controls can be performed by qualiﬁed production 
+department personnel and the process adjusted without prior 
+quality units’ approval if the adjustments are made within pre -
+established limits approved b

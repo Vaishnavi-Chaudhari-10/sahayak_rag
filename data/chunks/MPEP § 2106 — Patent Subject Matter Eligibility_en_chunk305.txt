@@ -1,0 +1,21 @@
+elements that invoke computers or other machinery merely as a tool to perform an
+ existing process will generally not amount to significantly more than a judicial
+ exception. See, e.g.,
+ Versata Development Group v. SAP America,
+
+ 793 F.3d 1306, 1335, 115 USPQ2d 1681, 1702 (Fed. Cir. 2015) (explaining that in
+ order for a machine to add significantly more, it must “play a significant part in
+ permitting the claimed method to be performed, rather than function solely as an
+ obvious mechanism for permitting a solution to be achieved more quickly”). 
+
+III.
+ WHETHER ITS INVOLVEMENT IS
+ EXTRA-SOLUTION ACTIVITY OR A FIELD-OF-USE
+Whether its involvement is extra-solution activity
+ or a field-of-use, 
+i.e.,
+ the extent to which (or how) the
+ machine or apparatus imposes meaningful limits on the claim. Use of a machine that
+ contributes only nominally or insignificantly to the execution of the claimed
+ method (e.g., in a data gathering step or in a field-of-use limitation) would not
+ integrate

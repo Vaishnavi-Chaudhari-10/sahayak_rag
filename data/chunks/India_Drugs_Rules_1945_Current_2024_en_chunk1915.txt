@@ -1,0 +1,19 @@
+ll bank (where appropriate); 
+(ii) proper inoculation and expansion of the culture; 
+(iii) control of the critical operating parameters during 
+fermentation or cell culture; 
+(iv) monitoring of the process for cell growth, viability (for most 
+cell culture processes) and productivity where 
+appropriate; 
+(v) harvest and puriﬁcation procedures that remove cells, 
+cellular debris and media components while protecting 
+the intermediate or API from contamination (particularly 
+of a microbiological nature) and from loss of quality; 
+(vi) monitoring of bioburden and, where n eeded, endotoxin 
+levels at appropriate stages of production; and 
+(vii) viral safety concerns as described in ICH Guideline Q5A (2) 
+[Viral safety evaluation of biotechnology products 
+derived from cell lines of human or animal origin]. 
+17.1.8. Where appropriate, the removal of media components, host cell 
+proteins, other process -related impurities, product -related 
+impurities and contaminants shall be demonstrated.

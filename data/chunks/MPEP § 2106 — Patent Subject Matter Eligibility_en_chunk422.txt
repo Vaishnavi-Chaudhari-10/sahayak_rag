@@ -1,0 +1,31 @@
+precedential decisions unless the facts of the application under examination
+ uniquely match the facts at issue in the non-precedential decisions. Examiners are
+ reminded that a chart of court decisions is available on the USPTO’s Internet
+ website (
+www.uspto.gov/ PatentEligibility
+). 
+
+Sample explanation:
+ The
+ claim recites the step of comparing collected information to a predefined
+ threshold, which is an act of evaluating information that can be practically
+ performed in the human mind. Thus, this step is an abstract idea in the “mental
+ process” grouping.
+
+When the examiner has determined the claim recites
+ a 
+law of nature
+ or a 
+natural phenomenon
+, the rejection
+ should identify the law of nature or natural phenomenon as it is recited
+ (
+i.e.,
+ set forth or described) in the claim and explain
+ using a reasoned rationale why it is considered a law of nature or natural
+ phenomenon. See 
+MPEP § 2106.04(b)
+ for more
+ information about laws of nature and natural phenomena. 
+
+Sample

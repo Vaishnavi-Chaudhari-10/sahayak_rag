@@ -1,0 +1,23 @@
+See 
+MPEP § 2106.05(g) &
+ (h)
+ for more information on insignificant extra-solution
+ activity and field of use, respectively. 
+
+2106.05(c) Particular Transformation [R-07.2022]
+
+Another consideration when determining whether a
+ claim integrates a judicial exception into a practical application in Step 2A Prong
+ Two and whether a claim recites significantly more in Step 2B is whether the claim
+ effects a transformation or reduction of a particular article to a different state or
+ thing. "[T]ransformation and reduction of an article ‘to a different state or thing’
+ is the clue to patentability of a process claim that does not include particular
+ machines." 
+Bilski v. Kappos,
+ 561 U.S. 593, 658, 95 USPQ2d 1001,
+ 1007 (2010) (quoting 
+Gottschalk v. Benson,
+ 409 U.S. 63, 70, 175
+ USPQ 673, 676 (1972)). If such a transformation exists, the claims are likely to be
+ significantly more than any recited judicial exception or to integrate any recited
+ judicial exception into a practical applicat

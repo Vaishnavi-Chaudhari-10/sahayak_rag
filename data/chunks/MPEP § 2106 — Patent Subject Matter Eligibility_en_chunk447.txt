@@ -1,0 +1,34 @@
+laim(s) does/do not fall within at least one of the four categories of patent eligible
+ subject matter because 
+[1]
+
+Examiner Note:
+
+1. This form paragraph should be preceded by form paragraph
+
+7.05
+.
+
+2. In bracket 1, explain why the claimed invention is not patent
+ eligible subject matter by identifying what the claim(s) is/are directed to and explain
+ why it does not fall within at least one of the four categories of patent eligible
+ subject matter recited in 
+35 U.S.C. 101
+ (process, machine,
+ manufacture, or composition of matter), e.g., the claim(s) is/are directed to a signal
+
+per se,
+ mere information in the form of data, a contract between
+ two parties, or a human being. Note, it is not necessary for a claim to fall into only a
+ single category, so long as it is clear that it falls into at least one category (see
+
+MPEP §
+ 2106.03
+).
+
+3. For a claim that is directed to a judicial exception and is
+ nonstatutory, use form paragraph 
+7.05.016
+.
+
+¶ 7.05.016 Rejection, 35 U.S.C. 101

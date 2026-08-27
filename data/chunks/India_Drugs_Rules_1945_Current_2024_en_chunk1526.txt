@@ -1,0 +1,17 @@
+sealed to prevent contamination from the void 
+space above them. 
+8.5. Pipes and ducts and other utilities shall be installed so t hat they do not 
+create recesses, unsealed openings and surfaces that are difficult to 
+clean. Sanitary pipes and fittings shall be used and threaded pipe 
+connections shall be avoided. 
+8.6. Sinks and drains shall be avoided wherever possible and shall be 
+excluded from Grade A and B zone where aseptic operations are carried 
+out. Where installed they shall be designed, located and maintained so 
+as to minimise the risks of microbial contamination; they shall be fitted 
+with effective, easily cleanable traps and with a ir breaks to prevent 
+backflow. Any floor channels shall be open and easily cleanable and be 
+connected to drains outside the area in a manner that prevents the 
+ingress of microbial contaminants. 
+8.7. Changing rooms shall be designed as airlocks and used to provi de 
+physical separation of the different stages of changing tominimise 
+micro

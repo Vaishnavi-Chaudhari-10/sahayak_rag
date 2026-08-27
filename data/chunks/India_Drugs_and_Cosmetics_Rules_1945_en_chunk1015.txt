@@ -1,0 +1,18 @@
+drug, if 
+applicable. 
+3.5 Sterility tests, if applicable, specification and protocol therein. 
+3.6 Pyrogen tests, if applicable, specification and protocol therein. 
+3.7 Acute and sub-acute toxicity tests, if applicable specification and protocol therein. 
+3.8 Bio-availability studies and bio-equivalence data, if applicable. 
+3.9 Data relating to the environmental risk assessment for r-DNA products. 
+3.10 Other information relevant under the section. 
+
+4. PHARMACOLOGICAL AND TOXICOLOGICAL INFORMATION OF DRUGS. 
+
+Executive summary of the product is to be submitted mentioning the specific and general 
+pharmacological actions of the drug and pharmacokinetic studies on absorption, metabolism, 
+distribution and excretion. A separate note is to be given on acute and sub-acute toxicity studies 
+and long term toxicity studies. Specific studies on reproductive toxicity, local toxicity and 
+carcinogenic activity of the drug is to be elaborated, as far as possible. 
+
+5 CLINICAL DOCUMENTATION

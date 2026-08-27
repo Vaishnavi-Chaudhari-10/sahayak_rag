@@ -1,0 +1,13 @@
+ge expected 
+to be needed for later clinical studies and to determine the nature of adverse reactions that 
+can be expected. These studies include both single and multiple dose administration. 
+(b) Pharmacokinetics, i.e., characterization of a drug's absorption, distribution, 
+metabolism and excretion. Although these studies continue throughout the development plan, 
+they should be performed to support formulation development and determine pharmacokinetic 
+parameters in different age groups to support dosing recommendations. 
+(c) Pharmacodynamics: Depending on the drug and the endpoints studied, 
+pharmacodynamic studies and studies relating to drug blood levels (pharmacokinetic/ 
+pharmacodynamic studies) may be conducted in healthy volunteer Subjects or in patients with 
+the target disease. If there are appropriate validated indicators of activity and potential efficacy, 
+pharmacodynamic data obtained from patients may guide the dosage and dose regimen to be 
+applied in later studies.

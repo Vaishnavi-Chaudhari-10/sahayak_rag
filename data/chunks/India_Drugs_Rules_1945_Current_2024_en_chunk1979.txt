@@ -1,0 +1,15 @@
+wn from each quantum shall not be less 
+than 0.5 per cent of the number. 
+(b) The number of samples drawn from each quantum shall be tested for 
+Burst Volume and Pressure Test and Water Leakage Test in accordance with the 
+method prescribed in paras 9 and 10 of this Schedule; 75 per cent of the samples 
+drawn will be tested for Water Leakage Test and 25 per cent will be tested for 
+Burst Volume and Pressure Test; 
+(c) The number of t est samples 'N' and the number of rejected samples 'R' 
+from a sequence of production quanta shall be recorded in a register. The 
+cumulative total of test samples 'N' and the cumulative total of rejects 'R' from 
+the test shall be recorded and the condoms sh all be deemed to comply with the 
+requirements if the cumulative total of rejects 'R' is not more than 1265[0.0025N 
++ 3 x √0.0025N] for Water Leakage Test, and 1265[0.01N + 3 x √0.015N] for 
+Burst Volume and Pressure Test. 
+(3) Each unit of 100 test samples shall be distributed for the various tests

@@ -1,0 +1,26 @@
+e product specific requirements, temperature and humidity in 
+the aseptic areas 1[shall be 27 ± 2 degree centigrade and relative humidity 55% ± 5, 
+respectively]. 
+1[TABLE I 
+
+AIR BORNE PARTICULATE CLASSIFICATION FOR MANUFACTURE 
+OF STERILE PRODUCTS 
+
+Grade Maximum number of permitted particles per cubic metre equal t to or above 
+ At rest (b) In operation (a) 
+ 0.5µm 5µm 0.5µm 5µm 
+A 3500 0 3500 0 
+B (a) 3500 0 3,50,000 2,000 
+C (a) 350,000 2,000 35,00,000 20,000 
+D (a) 35,00,000 20,000 Not defined (c) Not defined (c)] 
+
+Notes : 
+
+(a) In order to reach the B, C and D air grades, the number of air changes shall be 
+related to the size of the room and the equipment and personnel present in the 
+room. The air system shall be provided with the appropriate filters such as HEPA 
+for Grades A, B and C. The maximum permitted number of particles in the ―at rest‖ 
+condition shall approximately be as under: 
+
+1[Grade A and B corresponds with class 100 or M 3.5 or class 5]; Grade C with Class 
+10

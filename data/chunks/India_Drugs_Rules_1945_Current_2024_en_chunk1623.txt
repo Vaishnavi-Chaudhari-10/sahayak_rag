@@ -1,0 +1,16 @@
+plicable, to process validation. 
+Manufacturing control parameters to be validated may include 
+specific addition sequences, mixing speeds, time and temperature 
+controls, limits of light exposure and containment. 
+12.4. After initial process validation studies have been finalised and routine 
+production has begun, critical processes shall be subject to monitoring 
+and trending with the objective of assuring consistency and detecting 
+any unexpected variability. The monitoring strategy shall be defined, 
+taking into consideration factors such as the inherent variability, 
+complexity of quality attributes and heterogeneity of biological 
+products. A system or systems for detecting unplanned departures 
+from the process as designed shall be in place to ensure that the 
+process remains in a state of control. Collection and evaluation of 
+information and data on the performance of the process will allow for 
+detection of undesired process variability and will determine whether 
+action shal

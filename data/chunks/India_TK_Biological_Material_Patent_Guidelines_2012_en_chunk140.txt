@@ -1,0 +1,21 @@
+: 
+
+(A) all alternatives have a common property or activity; AND 
+
+(B)(1) a common structure is present, that is, a significant structural element is shared 
+by all of the alternatives; OR 
+
+(B)(2) in cases w here the common structure cannot be the unifying criteria, all 
+alternatives belong to a recognized class of chemical compounds in the art to which 
+the invention pertains. 
+The claims of a specification may be said to be linked with a single inventive concept, if 
+they are co-related to reach other by a common thread. For example, the specification 
+may contain a claim for ( 1) a drug (2) intermediates (3) process of making t he 
+compound of claim (1) and (2). However, the intermediates shall be allowed provided 
+they are new and non-obvious and the specification does not disclose any other use of 
+the said intermediates. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+11.1

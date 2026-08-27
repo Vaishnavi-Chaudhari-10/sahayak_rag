@@ -1,0 +1,20 @@
+d. at 1324, 117 USPQ2d
+ at 1699. The patentee in 
+Mortgage Grader
+ claimed a
+ computer-implemented system for enabling borrowers to anonymously shop
+ for loan packages offered by a plurality of lenders, comprising a
+ database that stores loan package data from the lenders, and a
+ computer system providing an interface and a grading module. The
+ interface prompts a borrower to enter personal information, which the
+ grading module uses to calculate the borrower’s credit grading, and
+ allows the borrower to identify and compare loan packages in the
+ database using the credit grading. 811 F.3d. at 1318, 117 USPQ2d at
+ 1695. The Federal Circuit determined that these claims were directed
+ to the concept of “anonymous loan shopping”, which was a concept that
+ could be “performed by humans without a computer.” 811 F.3d. at 1324,
+ 117 USPQ2d at 1699. Another example is 
+Berkheimer v. HP,
+ Inc.,
+ 881 F.3d 1360, 125 USPQ2d 1649 (Fed. Cir. 2018), in
+ which the patentee claimed methods for parsing

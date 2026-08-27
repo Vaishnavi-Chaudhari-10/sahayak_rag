@@ -1,0 +1,27 @@
+ject matter eligibility rejection. See 
+MPEP §
+ 2106.07(a)
+. 
+
+When determining whether a claim simply recites a
+ judicial exception with the words “apply it” (or an equivalent), such as mere
+ instructions to implement an abstract idea on a computer, examiners may consider the
+ following:
+
+(1) Whether the claim recites only the idea of a solution or outcome
+
+i.e.,
+ the claim fails to recite details of how a solution to
+ a problem is accomplished.
+ The recitation of claim limitations that attempt
+ to cover any solution to an identified problem with no restriction on how the result
+ is accomplished and no description of the mechanism for accomplishing the result,
+ does not integrate a judicial exception into a practical application or provide
+ significantly more because this type of recitation is equivalent to the words “apply
+ it”. See 
+Electric Power Group, LLC v. Alstom, S.A.,
+ 830 F.3d 1350,
+ 1356, 119 USPQ2d 1739, 1743-44 (Fed. Cir. 2016); 
+Intellectual Ventures I v.
+ Symantec,
+ 838

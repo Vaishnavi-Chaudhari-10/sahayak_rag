@@ -1,0 +1,15 @@
+marrow. Data analysis of 
+CA should include analysis of ‗gaps.‘ 
+Cytotoxic anticancer agents: Genotoxicity data are not required before Phase I and 
+II trials. But these studies should be completed before applying for Phase III trials. 
+Notes: 
+Ames‘ Test (Reverse mutation assay in Salmonella): S. typhimurium tester strains 
+such as TA98, TA100, TA102, TA1535, TA97 or Escherichia coli WP2 uvrA or 
+Escherichia coli WP2 uvrA (pKM101) should be used. 
+(i) In-vitro exposure (with and without metabolic activation, S9 mix) should be done at a 
+minimum of 5 log dose levels. ―Solvent‖ and ―positive‖ control should be used. Positive 
+control may include 9-amino-acridine, 2 -nitrofluorine, sodium azide and mit omycin C, 
+respectively, in the tester strains mentioned above. Each set should consist of at least three 
+replicates. A 2.5 fold (or more) increase in number of revertants in c omparison to 
+spontaneous revertants would be considered positive. 
+(ii) In-vitro cytogenetic assay : The desir

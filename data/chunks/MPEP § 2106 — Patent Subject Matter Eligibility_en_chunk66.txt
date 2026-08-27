@@ -1,0 +1,18 @@
+the selected
+ exception, then the claim should be considered patent eligible. On the other hand,
+ if the claim does not recite any additional element or combination of elements
+ that integrate the selected exception into a practical application, and also does
+ not recite any additional element or combination of elements that amounts to
+ significantly more than the selected exception, then the claim should be
+ considered ineligible. 
+University of Utah Research Foundation v. Ambry
+ Genetics,
+ 774 F.3d 755, 762, 113 USPQ2d 1241, 1246 (Fed. Cir. 2014)
+ (because claims did not amount to significantly more than the recited abstract
+ idea, court “need not decide” if claims also recited a law of nature).
+
+In other claims, multiple abstract ideas, which
+ may fall in the same or different groupings, or multiple laws of nature may be
+ recited. In these cases, examiners should not parse the claim. For example, in a
+ claim that includes a series of steps that recite mental steps as well as a
+ mat

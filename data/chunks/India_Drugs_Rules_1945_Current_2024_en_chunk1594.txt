@@ -1,0 +1,16 @@
+gen level shall be monitored. Any deviation 
+from the set limits, and any corre ctive and preventive action taken, shall 
+be recorded. Temperature deviations shall be detected as early as possible 
+(for example, through the use of an alarm system for temperature and 
+nitrogen levels). 
+5.9. Seed lots and cell banks shall be stored and used in such a way so as to 
+minimise the risks of contamination or alteration (for example, stored in 
+qualified ultra -low temperature freezers or liquid nitrogen storage 
+containers). Control measures for the storage of different seeds or cells or 
+both in the same area or equipment shall prevent mix -up and shall take 
+into account the infectious nature of the materials in order to prevent 
+cross-contamination. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+5.10. Master Seed Lots (MSLs), MCBs, and preferably also Working Seed 
+Lots (WSLs) and WCBs, shall be stored in two or more controlled

@@ -1,0 +1,21 @@
+intenance; 
+(x) log Book (day to day entry including status of the equi pment) 
+(xi) staff responsible for monitoring the calibration and maintenance status of the 
+equipment; 
+
+Drugs and Cosmetics Rules 1945 
+423 
+
+(xii) calibrating records; 
+(xiii) list of authorised users or operators, if any; 
+(xiv) history of any damage, malfunction, modification or upgradation, repair and 
+calibration; 
+(xv) list of spares and accessories, if any. 
+(f) A progress register for non -functional equipments and action for procurement of spares 
+and accessories, monitoring thereof, shall be maintained. 
+(g) A Standard Operating Procedure for preventive maintenance of machine or e quipment 
+or apparatus shall be prepared by the laboratory. 
+(h) Other equipments such as burettes, pipettes, volumetric flasks, weight boxes, 
+thermometers, etc., shall be thoroughly checked for accuracy of calibration before 
+acceptance for use. 
+(i) Maintenance pro cedure in the form of Standard Operating Procedures must be

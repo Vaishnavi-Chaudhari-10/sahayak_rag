@@ -1,0 +1,31 @@
+and explain
+ using a reasoned rationale why it is considered a law of nature or natural
+ phenomenon. See 
+MPEP § 2106.04(b)
+ for more
+ information about laws of nature and natural phenomena. 
+
+Sample explanation:
+ The
+ claim recites the correlation of X, and X is a law of nature because it
+ describes a consequence of natural processes in the human body, e.g., the
+ naturally-occurring relationship between the presence of Y and the
+ manifestation of Z. 
+
+Sample explanation:
+ The
+ claim recites X, which is a natural phenomenon because it occurs in nature and
+ exists in principle apart from any human action. 
+
+When the examiner has determined the claim recites
+ a 
+product of nature,
+ the rejection should identify the exception as
+ it is recited (
+i.e.,
+ set forth or described) in the claim, and
+ explain using a reasoned rationale why the product does not have markedly
+ different characteristics from its naturally occurring counterpart in its natural
+ state. See 
+MPEP § 2106.04(b)
+ for mor

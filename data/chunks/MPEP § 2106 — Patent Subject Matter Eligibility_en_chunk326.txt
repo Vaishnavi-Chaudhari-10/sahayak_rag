@@ -1,0 +1,22 @@
+llectual
+ Ventures v. Symantec,
+ 838 F.3d 1307, 1317; 120 USPQ2d 1353,
+ 1359 (Fed. Cir. 2016) (“The written description is particularly useful in
+ determining what is well-known or conventional”); 
+Internet Patents
+ Corp. v. Active Network, Inc.,
+ 790 F.3d 1343, 1348, 115 USPQ2d
+ 1414, 1418 (Fed. Cir. 2015) (relying on specification’s description of
+ additional elements as “well-known”, “common” and “conventional”);
+
+TLI Communications LLC v. AV Auto. LLC,
+ 823 F.3d 607,
+ 614, 118 USPQ2d 1744, 1748 (Fed. Cir. 2016) (Specification described
+ additional elements as “either performing basic computer functions such as
+ sending and receiving data, or performing functions ‘known’ in the art.”). 
+
+As such, an examiner should determine that
+ an element (or combination of elements) is well-understood, routine,
+ conventional activity only when the examiner can readily conclude, based on
+ their expertise in the art, that the element is widely prevalent or in
+ common use in the relevant industry.

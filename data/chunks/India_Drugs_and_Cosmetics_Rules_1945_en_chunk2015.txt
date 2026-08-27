@@ -1,0 +1,20 @@
+he administrative structure of the study (Investigators, site staff, Sponsor/ 
+designates, Central laboratory etc). 
+
+8. Introduction: 
+A brief description of the product development rationale should be given here. 
+
+9. Study Objective: 
+A statement describing the overall purpose of the study and the primary and secondary 
+objectives to be achieved should be mentioned here. 
+
+10. Investigational Plan: 
+This section should describe the overall trial design, the Subject selection criteria, the treatment 
+procedures, blinding / randomization techniques if any, allowed/ disallowed concomitant treatment, 
+the efficacy and safety criteria assessed, the data quality assurance procedures and the statistical 
+methods planned for the analysis of the data obtained. 
+
+11. Trial Subjects: 
+A clear accounting of all trial Subjects who entered the study will be given here. Mention should 
+also be made of all cases that were dropouts or protocol deviations. Enumerate the patients 
+screened, randomised

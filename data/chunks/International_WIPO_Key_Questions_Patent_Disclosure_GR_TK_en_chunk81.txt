@@ -1,0 +1,20 @@
+closure). Drawing the dividing 
+line between formal and substantive requirements is not 
+always an easy task, since this difference can be nuanced 
+in practice.2
+A standalone PDR related to GRs and TK (i.e., separate from 
+general requirements related to sufficiency of disclosure or 
+enablement) may take several different forms, as follows.
+A voluntary PDR. If an encouragement is included in 
+the preamble of patent legislation, it may constitute an 
+exhortation to disclose details of GRs or TK in patent 
+specifications when relevant to the claimed invention and/
+or ABS compliance. For example:
+European Union (EU): Directive 98/44/EC on the 
+Legal Protection of Biotechnological Inventions of 
+July 6, 1998. In its Preamble, the Directive encour-
+ages applicants to mention the geographical origin 
+of biological material in the patent application:
+“(26) Whereas if an invention is based on biological 
+material of human origin or if it uses such material, 
+where a patent application is filed

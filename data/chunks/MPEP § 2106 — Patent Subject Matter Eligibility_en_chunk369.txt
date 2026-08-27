@@ -1,0 +1,30 @@
+on of details
+ of how to carry out the abstract idea. 
+
+Other examples where the courts have found the
+ additional elements to be mere instructions to apply an exception, because they do no
+ more than merely invoke computers or machinery as a tool to perform an existing
+ process include: 
+
+i. A commonplace business method or mathematical
+ algorithm being applied on a general purpose computer, 
+Alice Corp.
+ Pty. Ltd. V. CLS Bank Int’l,
+ 573 U.S. 208, 223, 110 USPQ2d 1976,
+ 1983 (2014); 
+Gottschalk v. Benson,
+ 409 U.S. 63, 64, 175 USPQ
+ 673, 674 (1972); 
+Versata Dev. Group, Inc. v. SAP Am., Inc.,
+
+ 793 F.3d 1306, 1334, 115 USPQ2d 1681, 1701 (Fed. Cir. 2015); 
+
+ii. Generating a second menu from a first menu and
+ sending the second menu to another location as performed by generic computer
+ components, 
+Apple, Inc. v. Ameranth, Inc.,
+ 842 F.3d 1229,
+ 1243-44, 120 USPQ2d 1844, 1855-57 (Fed. Cir. 2016); 
+
+iii. A process for monitoring audit log data that is
+ executed on a general-purpose comp

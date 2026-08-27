@@ -1,0 +1,27 @@
+he
+ human mind (including an observation, evaluation, judgment, opinion) (see
+
+MPEP § 2106.04(a)(2)
+, subsection III).
+
+Examiners should determine whether a claim recites an
+ abstract idea by (1) identifying the specific limitation(s) in the claim under
+ examination that the examiner believes recites an abstract idea, and (2) determining
+ whether the identified limitations(s) fall within at least one of the groupings of
+ abstract ideas listed above. The groupings of abstract ideas, and their relationship
+ to the body of judicial precedent, are further discussed in 
+MPEP §
+ 2106.04(a)(2)
+. 
+
+If the identified limitation(s) falls within at least
+ one of the groupings of abstract ideas, it is reasonable to conclude that the claim
+ recites an abstract idea in Step 2A Prong One. The claim then requires further
+ analysis in Step 2A Prong Two, to determine whether any additional elements in the
+ claim integrate the abstract idea into a practical application, see
+
+MPEP
+ § 2106.04(d)
+.
+
+If the

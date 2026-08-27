@@ -1,0 +1,13 @@
+al, and it should not reduce the life span of animals by more than 10% of 
+expected normal. The lowest dose should be comparable to the intended human 
+therapeutic dose or a multiple of it, e.g. 2.5x; to make allowance for the 
+sensitivity of the species. The intermediate dose is to be placed logarithmically 
+between the other two doses. An untreated control and (if indicated) a vehicle 
+control group should be included. The drug should be administered 7 day s a 
+week for a fraction of the life span comparable to the fraction of human life 
+span over which the drug is likely to be used therapeutically. Generally, the 
+period of dosing should be 24 months for rats and 18 months for mice. 
+Observations should includ e macroscopic changes observed at autopsy and 
+detailed histopathology of organs and tissues. Additional tests for 
+carcinogenicity (short-term bioassays, neonatal mouse assay or tests employing 
+transgenic animals) may also be done depending on their applica bility on a case

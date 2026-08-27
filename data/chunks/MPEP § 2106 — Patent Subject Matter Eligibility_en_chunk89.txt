@@ -1,0 +1,32 @@
+n in text format that should also be considered as falling within this
+ grouping. For example, the phrase “determining a ratio of A to B” is merely
+ using a textual replacement for the particular equation (ratio = A/B).
+ Additionally, the phrase “calculating the force of the object by multiplying
+ its mass by its acceleration” is using a textual replacement for the
+ particular equation (F= ma). 
+
+Examples of mathematical equations or formulas
+ recited in a claim include:
+
+i. a formula describing certain
+ electromagnetic standing wave phenomena, 
+Mackay Radio &
+ Tel. Co. v. Radio Corp. of America,
+ 306 U.S. 86, 91, 40
+ USPQ 199, 201 (1939) (50.9(l/lambda<-0.513>);
+
+ii. the Arrhenius equation,
+
+Diamond v. Diehr;
+ 450 U.S. 175, 178 n. 2, 179
+ n.5, 191-92, 209 USPQ at 4-5 (1981) (ln v = CZ + x);
+
+iii. a formula for computing an alarm
+ limit, 
+Parker v. Flook,
+ 437 U.S. 584, 585, 198 USPQ
+ 193, 195 (1978) (B1=B0 (1.0–F) + PVL(F)); and
+
+iv. a mathematical formula for hedging
+ (claim 4), 
+Bil

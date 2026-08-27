@@ -1,0 +1,25 @@
+(4) If applicant argues that the claim is specific
+ and does not preempt all applications of the exception, the examiner should
+ reconsider Step 2A of the eligibility analysis, 
+e.g.,
+ to
+ determine whether the claim is directed to an improvement to the functioning of
+ a computer or to any other technology or technical field. If an examiner still
+ determines that the claim is directed to a judicial exception, the examiner
+ should then reconsider in Step 2B whether the additional elements in
+ combination (as well as individually) amount to an inventive concept,
+
+e.g.,
+ because they are more than the non-conventional and
+ non-generic arrangement of known, conventional elements. Such reconsideration
+ is appropriate because, although preemption is not a standalone test for
+ eligibility, it remains the underlying concern that drives the two-part
+ framework from 
+Alice Corp.
+ and 
+Mayo
+
+ (Steps 2A and 2B). 
+Synopsys, Inc. v. Mentor Graphics Corp.,
+
+ 839 F.3d 1138, 1150, 120 USPQ2d 1473, 1

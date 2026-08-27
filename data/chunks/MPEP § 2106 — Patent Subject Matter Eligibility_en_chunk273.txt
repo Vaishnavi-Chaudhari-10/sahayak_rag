@@ -1,0 +1,23 @@
+making this determination, it is critical that examiners look at the claim “as a
+ whole,” in other words, the claim should be evaluated “as an ordered combination,
+ without ignoring the requirements of the individual steps.” When performing this
+ evaluation, examiners should be “careful to avoid oversimplifying the claims” by
+ looking at them generally and failing to account for the specific requirements of the
+ claims. 
+McRO,
+ 837 F.3d at 1313, 120 USPQ2d at 1100.
+
+ An important consideration in determining whether a
+ claim improves technology is the extent to which the claim covers a particular
+ solution to a problem or a particular way to achieve a desired outcome, as opposed to
+ merely claiming the idea of a solution or outcome. 
+McRO,
+ 837 F.3d
+ at 1314-15, 120 USPQ2d at 1102-03; 
+DDR Holdings,
+ 773 F.3d at 1259,
+ 113 USPQ2d at 1107. In this respect, the improvement consideration overlaps with
+ other considerations, specifically the particular machine consideration (see
+
+MPEP
+ § 2

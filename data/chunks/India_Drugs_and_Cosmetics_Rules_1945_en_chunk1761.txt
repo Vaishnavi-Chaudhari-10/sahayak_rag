@@ -1,0 +1,23 @@
+such product identification. The manufacturer shall 
+establish documented procedures to ensure that medical devices and In-vitro Diagnostics returned to 
+the manufacturer are identified and distinguished from conforming product. 
+
+7.5.3.2 Traceability.- 
+7.5.3.2.1 General: 
+The manufacturer shall establish documented procedures for traceability. Such procedures shall 
+define the extent of product traceability and the records required. 
+
+Where traceability is a requirement, the manufacturer shall control and record the unique 
+identification of the product. 
+
+NOTE.- Configuration management is a means by which identification and traceability can be 
+maintained. 
+
+7.5.3.2.2 Particular requirements for active implantable medical devices and implantable 
+medical devices: 
+
+Drugs and Cosmetics Rules 1945 
+513 
+
+In defining the records required for traceability, the manufacturer shall include records of all 
+components, materials and work environment conditions, if these could cause the med

@@ -1,0 +1,5 @@
+in the module on real time basis. The list 
+should display at least the following fields: application number, patent number, date of filing, 
+date of grant, title of the invention and name of patentee (indexed in the order of date of 
+grant). 
+[End of document]

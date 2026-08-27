@@ -1,0 +1,24 @@
+g conditions: 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+a)They have a common property or activity, 
+
+b) All of the alternatives have a common structure, which is a significant structural 
+element shared by all of the alternatives (it includes compounds that share a 
+common chemical structure which occupies a large portion of their structures, or 
+compounds that have in c ommon only a small portion of their structures, which 
+constitutes a structurally distinctive portion in view of the prior art, and is essential 
+to the common property or activity), 
+
+12.10 Illustrative example showing unity of invention in Markush claims 
+
+Example 1: 
+
+A compound A of formula: 
+R1-R2-R3 
+wherein R1 is indolyl moiety and R2-R3 are methyl, benzyl, or phenyl. The 
+compounds are useful as pharmaceutical for treatment of asthma. 
+
+In this case the compound A has a significant structural elemen

@@ -1,0 +1,16 @@
+shall be of appropriate design, adequate size and suitably 
+located to facilitate operations for its intended use and for its cleaning and maintenance. 
+
+4.2. If equipment is used for different intermediates and active pharmaceutical 
+ingredients, proper cleaning before switching from one product to another becomes 
+particularly important. If cleaning of a specific type of equipment is difficult, the equipment 
+may need to be dedicated to a particular intermediate or active pharmaceutical ingredient. 
+
+4.3. The choice of cleaning methods, detergents and levels of cleaning shall be 
+defined and justified. Selection of cleaning agents (e.g. solvents) should depend on : 
+
+(a) the suitability of the cleaning agent to remove residues of raw materials; 
+intermediates, precursors, degradation products and isomers, as appropriate. 
+(b) whether the cleaning agent leaves a residue itself; 
+(c) compatibility with equipment construction materials like centrifuge/ 
+filtration, dryer/fluid bed drye

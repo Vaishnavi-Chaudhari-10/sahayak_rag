@@ -1,0 +1,39 @@
+110-[Reserved]
+
+2111-Claim Interpretation; Broadest Reasonable Interpretation
+
+2111.01-Plain Meaning
+
+2111.02-Effect of Preamble
+
+2111.03-Transitional Phrases
+
+2111.04-“Adapted to,” “Adapted for,” “Wherein,” “Whereby,” and Contingent Clauses
+
+2111.05-Functional and Nonfunctional Descriptive Material
+
+2112-Requirements of Rejection Based on Inherency; Burden of Proof
+
+2112.01-Composition, Product, and  Apparatus Claims
+
+2112.02-Process Claims
+
+2113-Product-by-Process Claims
+
+2114-Apparatus and Article Claims — Functional Language
+
+2115-Material or Article Worked Upon by Apparatus
+
+2116-Novel, Nonobvious Starting Material or End Product
+
+2116.01-Novel, Nonobvious Starting Material or End Product
+
+2117-Markush Claims
+
+2118-2119-[Reserved]
+
+2120-Rejection on Prior Art
+
+2120.01-Rejections Under 35 U.S.C. 102(a)(1) and (a)(2) and Pre-AIA 35 U.S.C. 102(a), (b), or (e): Printed Publication or Patent
+
+2120.02-Rejections Under 35 U.S.C. 102(a)(1) or Pre-AIA 35 U.S.C. 102(a) or (b): Knowledge by

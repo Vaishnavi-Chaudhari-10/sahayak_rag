@@ -1,0 +1,27 @@
+it
+ applications, 
+Dealertrack v. Huber,
+ 674 F.3d 1315,
+ 1331, 101 USPQ2d 1325, 1339 (Fed. Cir. 2012).
+
+C.
+ Managing Personal Behavior or Relationships or Interactions
+ Between People
+The sub-grouping “managing personal behavior
+ or relationships or interactions between people” include social activities,
+ teaching, and following rules or instructions. 
+
+An example of a claim reciting managing
+ personal behavior is 
+Intellectual Ventures I LLC v. Capital One
+ Bank (USA),
+ 792 F.3d 1363, 115 USPQ2d 1636 (Fed. Cir. 2015).
+ The patentee in this case claimed methods comprising storing user-selected
+ pre-set limits on spending in a database, and when one of the limits is
+ reached, communicating a notification to the user via a device. 792 F.3d. at
+ 1367, 115 USPQ2d at 1639-40. The Federal Circuit determined that the claims
+ were directed to the abstract idea of “tracking financial transactions to
+ determine whether they exceed a pre-set spending limit
+ (
+i.e.,
+ budgeting)”, which “is not me

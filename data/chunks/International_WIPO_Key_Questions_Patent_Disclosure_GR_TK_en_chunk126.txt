@@ -1,0 +1,21 @@
+m of which any of the member countries is 
+the country of origin.”
+
+30
+Key Questions on Patent Disclosure Requirements for GRs and TK
+A reference to GRs alone could instead exclude the ap -
+plication of a PDR where the subject matter or claimed 
+invention neither includes utilization of nor is directly based 
+on material containing DNA/RNA (for example, an invention 
+based on a naturally occurring protein would not be covered 
+per se – i.e., when no use was made of the GR from which 
+it was initially derived).
+Germany: Section 34(a) of Patent Act (as amended 
+by the Law of July 31, 2009) states: 
+“Should an invention be based on biological material 
+of plant or animal origin or if such material is used 
+therefor, the patent application is to include information 
+on the geographical origin of such material, if known.”
+However, contracts such as material transfer agreements 
+(MTAs) which are used for the acquisition of biological and 
+research materials may be required as part of the ini

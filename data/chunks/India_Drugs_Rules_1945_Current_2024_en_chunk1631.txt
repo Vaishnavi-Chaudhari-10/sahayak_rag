@@ -1,0 +1,18 @@
+retrospective 
+test data. In addition to the common parameters typically used for 
+validating assays (accuracy and precision) additional measurements 
+(for example, of the performance of references, critical reagents or 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+cell lines or both) shall be considered during the validation of 
+bioassays based on the biological nature of the assay an d reagents 
+used. 
+
+14. Documentation (batch processing records):- 
+14.1. In general, the processing records of regular production batches shall 
+provide a complete account of the manufacturing activities of each 
+batch of biological product showing that it has been prod uced, tested 
+and dispensed into containers in accordance with the approved 
+procedures. In the case of vaccines, a batch processing record and a 
+summary protocol shall be prepared for each batch for the purpose of 
+lot release by the Licensing Authority. The information in

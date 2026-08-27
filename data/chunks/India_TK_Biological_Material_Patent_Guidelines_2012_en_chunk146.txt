@@ -1,0 +1,21 @@
+C2-C6-alkenyl, C2-C6- 
+alkynyl, C3-C6-cycloalkyl, 
+n represents 0 to 4, 
+G5 represents hydrogen, halogen, cyano, nitro, C1-C4-alkyl, C1-C4-haloalkyl, C2-C6- 
+alkenyl, CrC6-haloalkenyl, C2-C6-alkynyl, C1-C4-alkoxy, C1-C4-haloalkoxy, 
+G6 represents C1-C6-alkyl, C3-C6-cycloalkyl, C1-C6-haloalkyl, C1-C6-halocycloalkyl, 
+C2-C6-alkenyl, C2-C6-haloalkenyl, C2-C6-alkynyl, C2-C6-haloalkynyl, C1-C4-alkoxy, 
+
+G7 represents a 5- or 6-membered heteroaromatic ring optionally mono- or 
+polysubstituted. 
+
+Guidelines For Examination Of Patent Applications In The Field Of Pharmaceuticals 
+Office of the Controller General of Patents, Designs and Trademarks  
+
+Analysis: 
+
+In the present case the disclosure in the description is not considered sufficient for 
+the entire scope of t he subject matter clai med s pecifically where G1 represents 
+sulphur. 
+Even though the description sufficiently discloses the compounds where G1 
+represents oxygen there is a lack of evidence demonstrating the use (insecticidal)

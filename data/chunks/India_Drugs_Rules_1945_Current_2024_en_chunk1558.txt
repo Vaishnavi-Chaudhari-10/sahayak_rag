@@ -1,0 +1,16 @@
+it passes through 
+the wheel. The relative pressures between supply and exhaust air systems 
+shall be such that the exhaust-air system operates at a lower pressure than 
+the supply system. (Alternatives to the energy recovery wheel, such as 
+crossover plate heat exchangers, heat pipes and water coil heat 
+exchangers, may be used.) 
+8.3. Risk management principles shall be applied to address the potential of 
+cross-contamination where energy wheels are used. 
+8.4. If return air is to be re -circulated it shall pass through a safe change 
+ﬁltration system before being introduced back into the supply AHU. The 
+return air fan could form part of the AHU; however, the safe change ﬁlter 
+shall be a dedicated unit. With this arrangement the return air passes 
+through two sets of HEPA ﬁlters in series, i.e., the return air ﬁlters in the 
+safe change housing and the s upply air HEPA ﬁlters. The supply air 
+HEPA ﬁlters could either be located in the AHU or terminally located at 
+the supply diffu

@@ -1,0 +1,21 @@
+a 2 - class sampling plan or 
+acceptable from satisfactory in a 3-class sampling plan. 
+M = Microbiological limit that separates unsatisfactory from satisfactory in a 3-class sampling plan. 
+Interpretation of Results: 
+2-Class Sampling Plan (where n,c and m 
+are specified) 
+3-Class Sampling Plan (where n,c,m 
+and M are specified) 
+1. Satisfactory, if all the values observed are ≤ m 
+2. Unsatisfactory, if one or more of the values 
+observed are >m 
+1. Satisfactory, if all the values observed are ≤ m 
+2. Acceptable, if a maximum of c values are 
+between m and M. 
+3. Unsatisfactory, if one or more of the values 
+observed are > M or more than prescribed c 
+values are >m 
+Reference test methods. - The following test methods shall be applied as reference methods. Test 
+methods prescribed in Food Safety and Standards Authority of India Manual of Method of Analysis of 
+Foods (Microbiological Testing) may also be referred along with the IS/ISO methods specified for 
+Process Hygiene Criteria an

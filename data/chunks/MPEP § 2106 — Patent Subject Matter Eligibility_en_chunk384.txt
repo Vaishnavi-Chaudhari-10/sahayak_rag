@@ -1,0 +1,37 @@
+.3d at 715-16, 112 USPQ2d at
+ 1754.
+
+• Insignificant application:
+
+i. Cutting hair after first determining the
+ hair style, 
+In re Brown,
+ 645 Fed. App'x 1014,
+ 1016-1017 (Fed. Cir. 2016) (non-precedential); and 
+
+ii. Printing or downloading generated menus,
+
+Ameranth,
+ 842 F.3d at 1241-42, 120 USPQ2d at
+ 1854-55. 
+
+Some cases have identified insignificant computer
+ implementation as an example of insignificant extra-solution activity. See
+
+e.g., Fort Props., Inc. v. Am. Master Lease LLC,
+ 671 F.3d 1317,
+ 1323-24, 101 USPQ2d 1785, 1789-90 (Fed. Cir. 2012); 
+Bancorp Servs., LLC v.
+ Sun Life Assur. Co. of Canada,
+ 687 F.3d 1266, 1280-81, 103 USPQ2d 1425,
+ 1434-35 (Fed. Cir. 2012). Other cases have considered these types of limitations as
+ mere instructions to apply a judicial exception. See 
+MPEP §
+ 2106.05(f)
+ for more information about insignificant
+ computer implementation.
+
+For claim limitations that add insignificant
+ extra-solution activity to the judicial exception (
+e.g.,
+ mere d

@@ -1,0 +1,19 @@
+s. 
+4.11. The area Grades specified in this Part shall be selected by the 
+manufacturer on the basis of the nature of the process operations being 
+performed and validation runs (e.g., aseptic media fills or others types 
+of process simulations) are used to establish processing hold times and a 
+maximum fill duration. The determination of an appropriate process 
+area environment and a time limit shall be based on the microbial 
+contamination (bio burden) found. 
+
+4.11.1. Terminally sterilised products 
+4.11.1.1. Components and products shall be prepared in at least a 
+Grade D zone to ensure low microbial bio burden and 
+particulate counts prior to filtration and sterilisation. 
+Where the product is at unusual risk of microbial 
+contamination (e.g., because it activel y supports 
+microbial growth, must be held for a long period before 
+sterilisation, or is necessarily processed mainly in open 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of

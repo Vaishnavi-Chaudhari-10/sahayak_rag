@@ -1,0 +1,15 @@
+t gross toxicity or death, and should be placed logarithmically between 
+the other two doses. 
+The parameters to be monitored and recorded in long -term toxicity studies 
+should include behavioural, physiological, bioc hemical and microscopic 
+observations. In case of parenteral drug administration, the sites of injection 
+should be subjected to gross and microscopic examination. Initial and final 
+electrocardiogram and fundus examination should be carried out in the non -
+rodent species. 
+In the case of cytotoxic anticancer agents dosing and study design should be 
+in accordance with the proposed clinical schedule in terms of days of exposure 
+and number of cycles Two rodent species may be tested for initiating Phase I 
+trials. A non-rodent species should be added if the drug has a novel mechanism 
+of action, or if permission for Phase II, III or marketing is being sought. 
+For most compounds, it is expected that single dose tissue distribution studies 
+with sufficient sensitivity and

@@ -1,0 +1,27 @@
+all groupings
+ to the extent possible, if a claim limitation(s) is determined to fall within
+ multiple groupings and proceed with the analysis in Step 2A Prong Two. 
+
+2106.04(a)(1) Examples of Claims That Do Not Recite
+ Abstract Ideas [R-10.2019]
+
+When evaluating a claim to determine whether it
+ recites an abstract idea, examiners should keep in mind that while “all inventions
+ at some level embody, use, reflect, rest upon, or apply laws of nature, natural
+ phenomenon, or abstract ideas”, not all claims recite an abstract idea. See
+
+Alice Corp. Pty. Ltd. v. CLS Bank, Int’l,
+ 573 U.S. 208, 217,
+ 110 USPQ2d 1976, 1980-81 (2014) (citing 
+Mayo Collaborative Servs. v.
+ Prometheus Labs. Inc.,
+ 566 US 66, 71, 101 USPQ2d 1961, 1965 (2012)).
+ The Step 2A Prong One analysis articulated in 
+MPEP §
+ 2106.04
+ accounts for this cautionary principle by
+ requiring a claim to recite (
+i.e.,
+ set forth or describe) an
+ abstract idea in Prong One before proceeding to the Prong Two inquiry about
+ whether

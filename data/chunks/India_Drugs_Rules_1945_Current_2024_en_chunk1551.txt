@@ -1,0 +1,18 @@
+C system shall be appropriately designed, installed and 
+maintained to ensure protection of product, personnel and the 
+environment. 
+7.2. Facilities and premises dealing with hazardous substances shall have the 
+following basic air-handling characteristics, namely:- 
+(i) there shall be no direct venting of air to the outside; 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+(ii) air-conditioning or ventilation shall result in a negative pressure 
+relative to the outside. Air pressure differentials shall be such that 
+there is no uncontrolled ﬂow of air between the work area and the 
+external environment; 
+(iii) appropriate air pressure alarm systems shall be provided to warn of 
+any pressure cascade reversal or loss of design pressure status. The 
+appropriate design, alert and action limits shall be in place. System 
+redundancies shall be in place to respond appropriately to pressure 
+cascade failure; 
+(iv) the starting and

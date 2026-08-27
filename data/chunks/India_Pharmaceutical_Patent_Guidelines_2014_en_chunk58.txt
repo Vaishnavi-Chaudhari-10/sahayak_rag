@@ -1,0 +1,17 @@
+. Thus, the determination of patentability of inventions 
+relating to bioinformatics requires special attention vis-a-vis exclusions under Section 3 (k) 
+of the Act. 
+ILLUSTRATIVE EXAMPLE 1: 
+Claim: A data processing method, wherein a first chemical substance is a compound; a 
+second chemical substance is nucleic acid, protein or a complex thereof; a first characteristic 
+amount is expressed as a vector comprised of more than one type of chemical substance 
+information of the first chemical substance; a second characteristic amount is expressed as 
+a vector comprised of more than one typ e of biological information of the second chemical 
+
+17 
+
+substance; and the first characteristic amount and the second characteristic amount are 
+map-transformed using a multivariate analysis technique or a mechanical leaning method so 
+as to increase a correlatio n between first space expressing the first characteristic amount 
+and second space expressing the second characteristic amount. 
+Analysis:

@@ -1,0 +1,15 @@
+istry of Health and Family Welfare, Govt. of India  of 963 
+In general, a drug substance should be evaluated under storage conditions 
+that test its thermal stability and, if applicable, its sensitivity to moisture. The 
+storage conditions and the length of studies chosen should be sufficient to cover 
+storage, shipment and subsequent use. 
+Stress testing of the drug substance should be conducted to identify the 
+likely degradation products, which in turn establish the degradation pathways, 
+evaluate the intrinsic stability of t he molecule and validate the stability 
+indicating power of the analytical procedures used. The nature of the stress 
+testing will depend on the individual drug substance and the type of formulation 
+involved. 
+Stress testing may generally be carried out on a single batch of the drug 
+substance. It should include the effect of temperature(s), humidity where 
+appropriate, oxidation and photolysis on the drug substance. 
+Data should be provided for (a) Photostabi

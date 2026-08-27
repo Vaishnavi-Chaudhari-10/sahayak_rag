@@ -1,0 +1,40 @@
+,
+ 687 F.3d 1266, 1273-74, 103 USPQ2d 1425, 1430 (Fed.
+ Cir. 2012); 
+In re Bilski,
+ 545 F.3d 943, 951, 88 USPQ2d 1385, 1388
+ (Fed. Cir. 2008) (
+en banc
+ ), aff'd by 
+Bilski v.
+ Kappos,
+ 561 U.S. 593, 95 USPQ2d 1001 (2010) (“claim construction … is an
+ important first step in a 
+§ 101
+ analysis”). Evaluating
+ eligibility based on the BRI also ensures that patent eligibility under
+
+35 U.S.C.
+ 101
+ does not depend simply on the draftsman’s art.
+
+Alice,
+ 573 U.S. 208, 224, 110 USPQ2d at 1984, 1985 (citing
+
+Parker v. Flook,
+ 437 U.S. 584, 593, 198 USPQ 193, 198 (1978) and
+
+Mayo,
+ 566 U.S. at 72, 101 USPQ2d at 1966). See
+
+MPEP §
+ 2111
+ for more information about determining the BRI.
+
+Claim interpretation affects the evaluation of both
+ criteria for eligibility. For example, in 
+Mentor Graphics v. EVE-USA,
+ Inc.,
+ 851 F.3d 1275, 112 USPQ2d 1120 (Fed. Cir. 2017), claim interpretation
+ was crucial to the court’s determination that claims to a “machine-readable medium” were
+ not to a statutory c

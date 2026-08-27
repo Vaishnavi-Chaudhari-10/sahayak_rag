@@ -1,0 +1,16 @@
+for the examiner to fully reevaluate their position when such additional
+ elements are not discussed in the specification as being known generic
+ functions/components/activities or are not treated by the courts as
+ well-understood, routine, conventional activities. If the rejection is to be
+ maintained, the examiner should consider whether evidence should be provided to
+ further support the rejection and clarify the record for appeal. See
+
+MPEP § 2106.05(d)
+ for examples of elements that the
+ courts have found to be well understood, routine and conventional activity. If
+ the examiner has taken official notice per item (D) of subsection III above
+ that an element(s) is well-understood, routine, conventional activity, and the
+ applicant challenges the examiner's position, specifically stating that such
+ element(s) is not well-understood, routine, conventional activity, the examiner
+ must then provide one of the items discussed in paragraphs (A) through (C) of
+ subsection III above, or an

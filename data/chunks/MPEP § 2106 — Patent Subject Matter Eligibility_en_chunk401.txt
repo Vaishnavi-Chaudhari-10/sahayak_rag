@@ -1,0 +1,19 @@
+way A) were applied to that claim. It may not be apparent that
+ an examiner employed the streamlined analysis because the result is a conclusion that
+ the claim is eligible, and there will be no rejection of the claim on eligibility
+ grounds. In practice, the record may reflect the conclusion of eligibility simply by the
+ absence of an eligibility rejection or may include clarifying remarks, when appropriate. 
+
+In the context of the flowchart in 
+MPEP § 2106
+,
+ subsection III, if, when viewed as a whole, the eligibility of the claim is self-evident
+ (e.g., because the claim clearly improves a technology or computer functionality), the
+ claim is eligible at Pathway A, thereby concluding the eligibility analysis. 
+
+2106.06(a) Eligibility is Self Evident [R-08.2017]
+
+A streamlined eligibility analysis can be used for a
+ claim that may or may not recite a judicial exception but, when viewed as a whole,
+ clearly does not seek to tie up any judicial exception such that others cannot
+ practic

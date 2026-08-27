@@ -1,0 +1,31 @@
+it determined that the claims
+ were directed to the abstract idea of “tracking financial transactions to
+ determine whether they exceed a pre-set spending limit
+ (
+i.e.,
+ budgeting)”, which “is not meaningfully
+ different from the ideas found to be abstract in other cases before the
+ Supreme Court and our court involving methods of organizing human activity.”
+ 792 F.3d. at 1367-68, 115 USPQ2d at 1640. 
+
+Other examples of managing personal behavior
+ recited in a claim include:
+
+i. filtering content, 
+BASCOM
+ Global Internet v. AT&T Mobility, LLC,
+ 827 F.3d 1341,
+ 1345-46, 119 USPQ2d 1236, 1239 (Fed. Cir. 2016) (finding that
+ filtering content was an abstract idea under step 2A, but reversing an
+ invalidity judgment of ineligibility due to an inadequate step 2B
+ analysis); 
+
+ii. considering historical usage
+ information while inputting data, 
+BSG Tech. LLC v.
+ Buyseasons, Inc.,
+ 899 F.3d 1281, 1286, 127 USPQ2d 1688,
+ 1691 (Fed. Cir. 2018); and
+
+iii. a mental process that a neurologist
+ s

@@ -1,0 +1,21 @@
+vide resources specific to the product; 
+
+(c) required verification, va lidation, monitoring, inspection and test activities specific to the 
+product and the criteria for product acceptance; 
+(d) records needed to provide evidence that the realisation processes and resulting product meet 
+requirements. 
+
+The output of this planning shall be in a form suitable for the manufacturer‘s method of operations. 
+
+The manufacturer organisation shall establish documented requirements for risk management (as per 
+the IS or ISO 14971) throughout product realisation. Records arising from risk ma nagement shall be 
+maintained. 
+
+7.2 Customer-related processes.- 
+7.2.1 Determination of requirements related to the product: 
+The manufacturer shall determine:- 
+(a) requirements specified by the customer, including the requirements for delivery and post -
+delivery activities, 
+(b) requirements not stated by the customer but necessary for specified or intended use, where 
+known; 
+(c) statutory requirement

@@ -1,0 +1,29 @@
+the way the additional steps of the process integrated the equation into
+ the process as a whole,’’ but the Court in 
+Gottschalk v. Benson
+
+ ‘‘held that simply implementing a mathematical principle on a physical machine,
+ namely a computer, was not a patentable application of that principle’’). Similarly,
+ in a growing body of decisions, the Federal Circuit has distinguished between claims
+ that are ‘‘directed to’’ a judicial exception (which require further analysis to
+ determine their eligibility) and those that are not (which are therefore patent
+ eligible), 
+e.g.,
+ claims that improve the functioning of a computer
+ or other technology or technological field. See 
+Diamond v. Diehr,
+
+ 450 U.S. 175, 209 USPQ 1 (1981); 
+Gottschalk v. Benson,
+ 409 U.S.
+ 63, 175 USPQ 673 (1972). See, e.g., 
+MPEP §
+ 2106.06(b)
+ (summarizing 
+Enfish, LLC v. Microsoft
+ Corp.,
+ 822 F.3d 1327, 118 USPQ2d 1684 (Fed. Cir. 2016), 
+McRO,
+ Inc. v. Bandai Namco Games Am. Inc.,
+ 837 F.3d 1299, 120 USPQ2d 1091
+ (Fed

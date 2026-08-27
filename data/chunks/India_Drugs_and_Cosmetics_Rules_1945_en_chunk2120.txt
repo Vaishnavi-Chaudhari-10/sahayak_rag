@@ -1,0 +1,17 @@
+should be provided. 
+Describes how protocol violations will be treated, including conditions where the study will be 
+terminated for non-compliance with the protocol. 
+9. Study Treatment 
+
+(a) Dosing schedule (dose, frequency, and duration of the experimental treatment) Describe the 
+administration of placebos and/or dummy medications if they are part of the trea tment plan. If 
+applicable, concomitant drug(s), their doses, frequency, and duration of concomitant treatment should be 
+stated. 
+(b) Study drug supplies and administration: A statement about who is going to provide the study 
+medication and that the investigational dr ug formulation has been manufactured following all 
+regulations Details of the product stability, storage requirements and dispensing requirements 
+should be provided. 
+(c) Dose modification for study drug toxicity: Rules for changing the dose or stopping the study drug 
+should be provided. 
+(d) Possible drug interactions. 
+(e) Concomitant therapy: The drugs th

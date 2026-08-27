@@ -1,0 +1,20 @@
+l element(s) in combination
+ with the recited judicial exception. See 
+MPEP §
+ 2106.04(d)
+ (discussing 
+Finjan, Inc. v. Blue Coat
+ Sys., Inc.,
+ 879 F.3d 1299, 1303-04, 125 USPQ2d 1282, 1285-87 (Fed. Cir.
+ 2018)). Thus, it is important for examiners to analyze the claim as a whole when
+ determining whether the claim provides an improvement to the functioning of computers
+ or an improvement to other technology or technical field.
+
+During examination, the examiner should analyze the
+ “improvements” consideration by evaluating the specification and the claims to ensure
+ that a technical explanation of the asserted improvement is present in the
+ specification, and that the claim reflects the asserted improvement. Generally,
+ examiners are not expected to make a qualitative judgement on the merits of the
+ asserted improvement. If the examiner concludes the disclosed invention does not
+ improve technology, the burden shifts to applicant to provide persuasive arguments
+ supported by any necess

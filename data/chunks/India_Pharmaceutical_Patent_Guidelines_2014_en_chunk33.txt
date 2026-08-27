@@ -1,0 +1,15 @@
+ral Pro -insulin having 30 amino acids C -peptide, Pro -insulin with C -
+peptide as short as two amino acids (Arg-Arg). 
+Analysis: The claim was held to be prima facie obvious. The applicant argued that the yield 
+of claimed Pro -insulin having a C -peptide expressed in yeast is 1.6 to 2.0 mmol/l whereas 
+the yield of the prior art Pro -insulin with a C -chain of Arg -Arg is only 1.0 mmol/l. Such a 
+difference in change did not constitute ‘unexpected property’ and hence, the subject-matter 
+is held to be obvious. 
+ILLUSTRATIVE EXAMPLE 2: 
+Claim: A recombinant DNA sequence of SEQ ID NO: X encoding human interferon α2 
+polypeptide. 
+Prior art discloses a nucleic acid sequence of SEQ ID NO: X1 encoding human interferon α1 
+polypeptide. 
+Analysis: The claimed human interferon α2 is structurally clo se to the prior art’s human 
+interferon α1. However, the alleged invention can be held non -obvious, because of the fact 
+that the claimed human interferon is thirty times more potent in its ant

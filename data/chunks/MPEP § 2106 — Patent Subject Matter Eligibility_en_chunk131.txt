@@ -1,0 +1,23 @@
+ay Still Recite a Mental
+ Process
+Claims can recite a mental process even if
+ they are claimed as being performed on a computer. The Supreme Court
+ recognized this in 
+Benson,
+ determining that a
+ mathematical algorithm for converting binary coded decimal to pure binary
+ within a computer’s shift register was an abstract idea. The Court concluded
+ that the algorithm could be performed purely mentally even though the
+ claimed procedures “can be carried out in existing computers long in use, no
+ new machinery being necessary.” 409 U.S at 67, 175 USPQ at 675. See also
+
+Mortgage Grader,
+ 811 F.3d at 1324, 117 USPQ2d at 1699
+ (concluding that concept of “anonymous loan shopping” recited in a computer
+ system claim is an abstract idea because it could be “performed by humans
+ without a computer”). 
+
+In evaluating whether a claim that requires a
+ computer recites a mental process, examiners should carefully consider the
+ broadest reasonable interpretation of the claim in light of the
+ specifi

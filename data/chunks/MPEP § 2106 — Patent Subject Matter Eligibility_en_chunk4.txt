@@ -1,0 +1,21 @@
+t consist of
+ a series of steps or acts to be performed). See 
+35 U.S.C. 100(b)
+ (“The term
+ ‘process’ means process, art, or method, and includes a new use of a known process,
+ machine, manufacture, composition of matter, or material.”). See 
+MPEP §
+ 2106.03
+ for detailed information on the four categories.
+
+Second, the claimed invention also must qualify as
+ patent-eligible subject matter, i.e., the claim must not be directed to a judicial
+ exception unless the claim as a whole includes additional limitations amounting to
+ significantly more than the exception. The judicial exceptions (also called “judicially
+ recognized exceptions” or simply “exceptions”) are subject matter that the courts have
+ found to be outside of, or exceptions to, the four statutory categories of invention,
+ and are limited to abstract ideas, laws of nature and natural phenomena (including
+ products of nature). 
+Alice Corp. Pty. Ltd. v. CLS Bank Int'l,
+ 573
+ U.S. 208, 216, 110 USPQ2d 1976, 1980 (2014) (citing

@@ -1,0 +1,17 @@
+ll be inserted in the load in sufficient number 
+and close enough togeth er to ensure that there is always a 
+dosimeter in the chamber. Where plastic dosimeters are used 
+they shall be used within the time -limit of their calibration. 
+Dosimeter absorbance shall be read shortly after exposure to 
+radiation. Radiation -sensitive colou r discs may be used to 
+differentiate between packages that have been subjected to 
+irradiation and those that have not; they are not indicators of 
+successful sterilisation. The information obtained shall 
+constitute part of the batch record. 
+6.11.1.11. Validation procedures shall ensure that consideration is given 
+to the effects of variations in the density of the packages. 
+6.11.1.12. Material-handling procedures shall prevent any mix -up of 
+irradiated and non -irradiated materials. Each package shall 
+carry a radiation -sensitive indicator to show whether or not it 
+has been subjected to radiation treatment. 
+6.11.1.13. The total radiation dose shal

@@ -1,0 +1,29 @@
+remains the underlying concern that drives the two-part
+ framework from 
+Alice Corp.
+ and 
+Mayo
+
+ (Steps 2A and 2B). 
+Synopsys, Inc. v. Mentor Graphics Corp.,
+
+ 839 F.3d 1138, 1150, 120 USPQ2d 1473, 1483 (Fed. Cir. 2016); 
+Rapid
+ Litig. Mgmt. v. CellzDirect, Inc.,
+ 827 F.3d 1042, 1052, 119 USPQ2d
+ 1370, 1376 (Fed. Cir. 2016); 
+Ariosa Diagnostics, Inc. v. Sequenom,
+ Inc.,
+ 788 F.3d 1371, 1379, 115 USPQ2d 1152, 1158 (Fed. Cir. 2015).
+
+2106.07(c) Clarifying the Record [R-08.2017]
+
+When the claims are deemed patent eligible, the
+ examiner may make clarifying remarks on the record. For example, if a claim is found
+ eligible because it improves upon existing technology, the examiner could reference
+ the portion of the specification that describes the claimed improvement and note the
+ claim elements that produce that improvement. The clarifying remarks may be made at
+ any point during prosecution as well as with a notice of allowance. 
+
+Clarifying remarks may be useful in explaining the
+ rati

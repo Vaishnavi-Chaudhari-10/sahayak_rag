@@ -1,0 +1,17 @@
+ovt. of India  of 963 
+process. Control instrumentation shall normally be 
+independent of monitoring instrumentation and recording 
+charts. Where automated control and monitoring systems are 
+used for these applications they shal l be validated to ensure 
+that critical process requirements are met. System and cycle 
+faults shall be registered by the system and observed by the 
+operator. The reading of the independent temperature indicator 
+shall be routinely checked against the reading on the chart 
+recorder during the sterilisation period. For sterilisers fitted 
+with a drain at the bottom of the chamber, it may also be 
+necessary to record the temperature at this position throughout 
+the sterilisation period. There shall be regular leak t ests on the 
+chamber when a vacuum phase is part of the cycle. 
+6.11.1.5. The items to be sterilised, other than products in sealed 
+containers, shall be wrapped in a material that allows the 
+removal of air and the penetration of steam but prevents

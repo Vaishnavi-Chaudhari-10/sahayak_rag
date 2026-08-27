@@ -1,0 +1,31 @@
+. 
+11. Response. 
+12. Summed response. 
+13. Signature of the Analyst. 
+14. Opinion and signature of the approved Analyst. 
+TOXICITY TEST 
+1. Test Report Number. 
+2. Name of the sample. 
+3. Batch Number. 
+4. Number of mice used and weight of each mouse. 
+5. Strength and volume of the drugs injected. 
+6. Date of injection. 
+7. Results and remarks. 
+8. Signature of Analyst. 
+9. Opinion and signature of the approved Analyst. 
+C. FOR OTHER DRUGS 
+1. Analytical report number. 
+2. Name of the sample. 
+3. Batch/Lot number. 
+4. Date of receipt of sample. 
+5. Protocol of tests applied. 
+(a) Description 
+(b) Identification 
+(c) Any other tests. 
+(d) Results'-of Assay. 
+Note.— Particulars regarding various tests applied (including readings and 
+calculations) shall be maintained and necessary reference to these records shall 
+be entered in Column 5 above, whenever necessary. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+6. Signature of

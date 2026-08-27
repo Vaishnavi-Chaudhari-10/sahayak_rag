@@ -1,0 +1,17 @@
+, radiation therapy, surgery, and
+ the like. For example, an immunization step that integrates an abstract idea into
+ a specific process of immunizing that lowers the risk that immunized patients will
+ later develop chronic immune-mediated diseases is considered to be a particular
+ prophylaxis limitation that practically applies the abstract idea. See,
+
+e.g., Classen Immunotherapies, Inc. v. Biogen IDEC,
+ 659 F.3d
+ 1057, 1066–68, 100 USPQ2d 1492, 1500-01 (Fed. Cir. 2011). 
+
+Examiners should keep in mind that in order to
+ qualify as a “treatment” or “prophylaxis” limitation for purposes of this
+ consideration, the claim limitation in question must affirmatively recite an
+ action that effects a particular treatment or prophylaxis for a disease or medical
+ condition. An example of such a limitation is a step of “administering amazonic
+ acid to a patient” or a step of “administering a course of plasmapheresis to a
+ patient.” If the limitation does not actually provide a treatment or prophy

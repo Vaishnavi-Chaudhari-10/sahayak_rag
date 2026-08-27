@@ -1,0 +1,20 @@
+dence
+ traversing a subject matter eligibility rejection according to the procedures set
+ forth in 
+MPEP §
+ 716.01
+ and 
+37 CFR 1.132
+. When evaluating a
+ response, examiners must carefully consider all of applicant's arguments and evidence
+ rebutting the subject matter eligibility rejection. If applicant has amended the
+ claim, examiners should determine the amended claim’s broadest reasonable
+ interpretation and again perform the subject matter eligibility analysis. 
+
+If applicant's claim amendment(s), evidence, and/or
+ argument(s) persuasively establish that the claim is not directed to a judicial
+ exception or is directed to significantly more than a judicial exception, the
+ rejection should be withdrawn. Applicant may argue that a claim is eligible because
+ the claim as a whole integrates the judicial exception into a practical application
+ or amounts to significantly more than the judicial exception when the additional
+ elements are considered both individually and in combination

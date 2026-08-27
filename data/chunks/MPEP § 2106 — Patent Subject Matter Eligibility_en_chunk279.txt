@@ -1,0 +1,31 @@
+T Mobility LLC,
+ 827 F.3d 1341, 1350-51, 119 USPQ2d
+ 1236, 1243 (Fed. Cir. 2016); 
+
+iii. A method of rendering a halftone digital
+ image, 
+Research Corp. Techs. v. Microsoft Corp.,
+ 627 F.3d
+ 859, 868-69, 97 USPQ2d 1274, 1380 (Fed. Cir. 2010); 
+
+iv. A distributed network architecture operating
+ in an unconventional fashion to reduce network congestion while generating
+ networking accounting data records, 
+Amdocs (Israel), Ltd. v. Openet
+ Telecom, Inc.,
+ 841 F.3d 1288, 1300-01, 120 USPQ2d 1527, 1536-37
+ (Fed. Cir. 2016);
+
+v. A memory system having programmable
+ operational characteristics that are configurable based on the type of
+ processor, which can be used with different types of processors without a
+ tradeoff in processor performance, 
+Visual Memory, LLC v. NVIDIA
+ Corp.,
+ 867 F.3d 1253, 1259-60, 123 USPQ2d 1712, 1717 (Fed. Cir.
+ 2017);
+
+vi. Technical details as to how to transmit
+ images over a cellular network or append classification information to
+ digital image data, 
+TLI Comm

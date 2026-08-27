@@ -1,0 +1,26 @@
+Q 812,
+ 816 (CCPA 1979); and
+
+iii. offer-based price optimization, which
+ pertains to marketing, 
+OIP Techs., Inc. v. Amazon.com,
+ Inc.,
+ 788 F.3d 1359, 1362-63, 115 USPQ2d 1090, 1092 (Fed.
+ Cir. 2015).
+
+ An example of a claim reciting business
+ relations is found in 
+Credit Acceptance Corp. v. Westlake
+ Services,
+ 859 F.3d 1044, 123 USPQ2d 1100 (Fed. Cir. 2017). The
+ business relation at issue in 
+Credit Acceptance
+ is the
+ relationship between a customer and dealer when processing a credit
+ application to purchase a vehicle. The patentee claimed a “system for
+ maintaining a database of information about the items in a dealer’s
+ inventory, obtaining financial information about a customer from a user,
+ combining these two sources of information to create a financing package for
+ each of the inventoried items, and presenting the financing packages to the
+ user.” 859 F.3d at 1054, 123 USPQ2d at 1108. The Federal Circuit described
+ the claims as directed to the abstract idea of “processin

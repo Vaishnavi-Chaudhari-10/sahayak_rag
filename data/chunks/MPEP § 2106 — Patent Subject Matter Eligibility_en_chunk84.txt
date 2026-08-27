@@ -1,0 +1,19 @@
+he sensors in order to more accurately calculate the
+ position and orientation of an object on a moving platform did not merely
+ recite “the abstract idea of using ‘mathematical equations for determining the
+ relative position of a moving object to a moving reference frame’.”). For
+ example, a limitation that is merely based on or involves a mathematical
+ concept described in the specification may not be sufficient to fall into this
+ grouping, provided the mathematical concept itself is not recited in the claim. 
+
+It is important to note that a mathematical
+ concept need not be expressed in mathematical symbols, because “[w]ords used in
+ a claim operating on data to solve a problem can serve the same purpose as a
+ formula.” 
+In re Grams,
+ 888 F.2d 835, 837 and n.1, 12 USPQ2d
+ 1824, 1826 and n.1 (Fed. Cir. 1989). See, 
+e.g., SAP America, Inc. v.
+ InvestPic, LLC,
+ 898 F.3d 1161, 1163, 127 USPQ2d 1597, 1599 (Fed.
+ Cir. 2018) (holding that claims to a ‘‘series of mathematical calculations

@@ -1,0 +1,31 @@
+periodic intervals. The 
+recommended frequencies of periodic monitoring shall be as follows :- 
+
+(a) Particulate monitoring in air – 6 Monthly. 
+(b) HEPA filter integrity testing (smoke testing) – Yearly 
+(c) Air change rates – 6 Monthly. 
+(d) Air pressure differentials – Daily. 
+(e) Temperature and humidity – Daily 
+(f) Microbiological monitoring by settle plates and/or swabs in aseptic areas– 
+Daily, and at decreased frequency in other areas. 
+
+`Note: The above frequencies of monitoring shall be changed as per the 
+requirements and load in individual cases. 
+
+4.2 There shall be a written environmental monitoring program and 
+microbiological results shall be recorded. Recommended limits for microbiological 
+monitoring of clean areas ―in operation‖ are as given in the table below: 
+
+TABLE 
+
+RECOMMENDED LIMITS FOR MICROBIOLOGICAL MONITORING OF CLEAN 
+AREAS ― IN OPERATION‖ 
+
+Grade Air sample 
+Cfu/m2 
+Settle plates (dia. 90mm. 
+Cfu/2 hrs. 
+Contact plates 
+(dia. 55mm) cfu per 
+plate 
+Glov

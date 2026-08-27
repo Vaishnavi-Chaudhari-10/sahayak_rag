@@ -1,0 +1,20 @@
+should be made only if it is readily
+ apparent to an examiner relying on the examiner's expertise in the art in the Step
+ 2A Prong Two inquiry and Step 2B inquiry that the additional elements do not
+ integrate the exception into a practical application and do not amount to claiming
+ significantly more than the recited judicial exception. When making a rejection,
+ it is important for the examiner to explain the rationale underlying the
+ conclusion so that applicant can effectively respond. On the other hand, when
+ appropriate, the examiner should explain why the additional elements integrate an
+ exception into a practical application or provide an inventive concept by adding a
+ meaningful limitation to the claimed exception. See 
+MPEP §§
+ 2106.04(d)
+ and 
+2106.05
+ for a listing of considerations that qualify,
+ and to not qualify, as integrating an exception or providing significantly more
+ than an exception, and 
+MPEP § 2106.07(c)
+ for more
+ information on clarifying the record when a c

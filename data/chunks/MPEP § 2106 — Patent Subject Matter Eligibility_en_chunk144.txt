@@ -1,0 +1,23 @@
+e claim is 
+eligible
+ at
+ Pathway C. This concludes the eligibility analysis. 
+
+ • If the claim as a whole does not provide
+ an inventive concept (Step 2B: NO), the application should be brought to the
+ attention of the Technology Center (TC) director. A rejection of a claim
+ reciting a tentative abstract idea must be approved by the TC director
+ (which approval will be indicated in the file record of the application) and
+ must provide a justification for why such claim limitation is being treated
+ as reciting an abstract idea.
+
+The TC Director will give approval for a Step
+ 2B subject matter eligibility rejection of a claim reciting a tentative
+ abstract idea. The ensuing Office action will identify that the claim(s) are
+ directed to a previously non-enumerated abstract idea via form paragraph
+
+7.05.017
+ and include the TC Director’s
+ signature. The TC Director will then inform Patents Management that this
+ procedure has been used so that the public can be notified, for example, on
+ U

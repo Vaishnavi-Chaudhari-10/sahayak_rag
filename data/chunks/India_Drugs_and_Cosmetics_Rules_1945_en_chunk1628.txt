@@ -1,0 +1,20 @@
+aterial or contaminants unless otherwise 
+established by validation. 
+
+4.6. As processing approaches the final purified active pharmaceutical ingredient, 
+it is important to ensure that incidental carry over between batches does not have adverse 
+impact on the established impurity profile. However, this does not generally hold good for 
+any biological, active pharmaceutical ingredient where many of the processing steps are 
+accomplished aseptically and where it is necessary to clean and sterilize equipment between 
+batches. 
+
+5. In-Process Controls: 
+5.1. In-process control for chemical reactions may include the following: 
+(a) reaction time or reaction completion; 
+(b) reaction mass appearance, clarity, completeness or pH solutions; 
+(c) reaction temperature; 
+(d) concentration of a reactant; 
+(e) assay or purity of the product; 
+(f) process completion check by TLC / any other means. 
+5.2. In-process control for physical operations may include the following: 
+(a) appearance and colour

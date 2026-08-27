@@ -1,0 +1,17 @@
+PRODUCT-BY-PROCESS CLAIMS 
+A claim to a product obtained or produced by a process is anticipated by any prior 
+disclosure of that particular product per se, regardless of its method of production. 
+Examples of ‘Product-by-process’ claims– 
+(a) A polypeptide/compound which is the product of the method according to claim X. 
+
+6 
+
+(b) A transgenic microorganism obtained by the method ….characterized in that …..” 
+(c) A plasmid obtained by the method of …… 
+Such claims are admissible only if the products themselves fulfil the requirement of 
+patentability over the prior art. The claimed products cannot be considered novel merely 
+due to the novelty in the processes by which they are produced, but rather novelty can 
+only be established, if technical evidences are provided showing that the modifications in 
+the processes result in other products which are distinct with regard to their properties 
+over the products known in the prior art. Such technical evidences may vary from case to 
+case

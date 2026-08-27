@@ -1,0 +1,26 @@
+s
+ “framework for distinguishing patents that claim laws of nature, natural phenomena,
+ and abstract ideas from those that claim patent-eligible applications of those
+ concepts.” 
+Alice Corp. Pty. Ltd. v. CLS Bank Int'l,
+ 573 U.S. 208,
+ 217-18, 110 USPQ2d 1976, 1981 (2014) (citing 
+Mayo,
+ 566 U.S. at
+ 77-78, 101 USPQ2d at 1967-68). Like the other steps in the eligibility analysis,
+ evaluation of this step should be made after determining what the inventor has
+ invented by reviewing the entire application disclosure and construing the claims in
+ accordance with their broadest reasonable interpretation. See 
+MPEP § 2106
+,
+ subsection II for more information about the importance of understanding what has
+ been invented, and 
+MPEP § 2111
+ for more information about the broadest
+ reasonable interpretation. 
+
+Step 2A asks: Is the claim directed to a law of
+ nature, a natural phenomenon (product of nature) or an abstract idea? In the context
+ of the flowchart in 
+MPEP § 2106
+, subsection III,

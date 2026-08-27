@@ -1,0 +1,26 @@
+red superseded) or is a 'particular
+ machine' (as in 
+Bilski
+), the examiner should look at whether
+ the added elements integrate the exception into a practical application or provide
+ significantly more than the judicial exception. Merely adding a generic computer,
+ generic computer components, or a programmed computer to perform generic computer
+ functions does not automatically overcome an eligibility rejection. 
+Alice
+ Corp. Pty. Ltd. v. CLS Bank Int’l,
+ 573 U.S. 208, 223-24, 110 USPQ2d
+ 1976, 1983-84 (2014). See 
+In re Alappat
+, 33 F.3d 1526, 1545, 31
+ USPQ2d 1545, 1558 (Fed. Cir. 1994); 
+In re Bilski
+, 545 F.3d 943,
+ 88 USPQ2d 1385 (Fed. Cir. 2008)
+
+II.
+ WHETHER THE MACHINE OR APPARATUS
+ IMPLEMENTS THE STEPS OF THE METHOD
+Integral use of a machine to achieve performance
+ of a method may integrate the recited judicial exception into a practical
+ application or provide significantly more, in contrast to where the machine is
+ merely an object on which the method operates, which does

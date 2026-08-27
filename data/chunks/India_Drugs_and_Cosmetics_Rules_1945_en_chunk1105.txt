@@ -1,0 +1,36 @@
+ng Grade C 
+(Class 10,000) environment as given in the Table below. 
+
+(2) The filling and sealing shall be carried out under aseptic 
+conditions in centrally air-conditioned areas fitted with HEPA Filters 
+Grade A or, as the case may be, Grade B (Class 100) environment given 
+in the said Table. 
+
+ TABLE 
+AIR CLASSIFICATION SYSTEM FOR MANUFACTURE OF STERILE 
+PRODUCTS. 
+
+Grade Maximum number of particles 
+permitted per m3 
+
+0.5 – 5 micron Less than 5 micron 
+
+Maximum number of Viable 
+Micro-organism permitted per 
+m3 
+
+Drugs and Cosmetics Rules 1945 
+326 
+
+A (Class 100) 
+(Laminar - Airflow 
+workstation) 
+3500 None Less than 1 
+B (Class 100) 3500 None Less than 5 
+C (Class 10,000) 3,50,000 2000 Less than 100 
+
+(3) The physical and chemical operations used for the manufacture of 
+plasma fractionation shall maintain high yield of safe and effective protein. 
+
+(4) The fractionation procedure used shall give a go od yield of products 
+meeting the in -house quality requirements as approved by

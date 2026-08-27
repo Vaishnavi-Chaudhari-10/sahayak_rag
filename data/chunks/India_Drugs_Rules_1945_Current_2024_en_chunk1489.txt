@@ -1,0 +1,16 @@
+ining live microorganisms and 
+other sterile pharmaceutical products, the manufacturer shall 
+demonstrate and validate the effective decontamination of the live 
+micro-organisms, in addition to precautions taken to minimise 
+contamination. 
+5.3. Validation of aseptic processing shall include a process simulation test 
+using a nutrient medium (media fill). Selection of the nutrient medium 
+shall be based on dosage form of the product and selectivity, clarity, 
+concentration and suitability for sterilisation of the nutrient medium. 
+5.4. The process simulation test shall imitate as closely as possible the 
+routine aseptic manufacturing steps except where the activity may lead 
+to any potential microbial contamination. 
+5.5. Process simulation tests shall be performe d as part of validation by 
+running three consecutive satisfactory simulation tests. These tests shall 
+be repeated at defined intervals and after any significant modification to 
+the HVAC system, equipment or process. Proces

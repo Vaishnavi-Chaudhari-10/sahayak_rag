@@ -1,0 +1,26 @@
+formula I 
+
+Claim 2: A method of preparing the compound of formula I. 
+Claim 3: Compound of formula I for use as a fungicide. 
+Unity exists between claims 1, 2 and 3as the special technical feature is compound of 
+formula I. 
+
+Example 2 
+
+Claim 1: A process of manufacture of compound of formula I comprising steps A and 
+B. 
+
+Claim 2: Apparatus specifically designed for step A. 
+Claim 3: Apparatus specifically designed for step B. 
+Unity exists between claims 1 and 2 or between claims 1 and 3. Claims 2 and 3 lack 
+unity since there exists no common special technical feature between the two claims. 
+
+Example 3 
+
+Claim 1: A compound of formula I 
+
+Claim 2: A process of manufacture of compound of formula I comprising step A. 
+Claim 2: Apparatus specifically designed for step A. 
+Unity exists between claims 1, 2 and 3 as the special technical feature is compound of 
+formula I. The process should essentially result in c ompound of formula I and 
+contribution over the prior art of the apparat

@@ -1,0 +1,20 @@
+ions, see 
+MPEP §
+ 2106.04
+, subsection II.B.
+
+III.
+ EXAMPLES OF HOW THE OFFICE
+ EVALUATES WHETHER THE CLAIM AS A WHOLE INTEGRATES THE JUDICIAL EXCEPTION INTO A
+ PRACTICAL APPLICATION
+The Prong Two analysis considers the claim as a
+ whole. That is, the limitations containing the judicial exception as well as the
+ additional elements in the claim besides the judicial exception need to be
+ evaluated together to determine whether the claim integrates the judicial
+ exception into a practical application. Because a judicial exception alone is not
+ eligible subject matter, if there are no additional claim elements besides the
+ judicial exception, or if the additional claim elements merely recite another
+ judicial exception, that is insufficient to integrate the judicial exception into
+ a practical application. However, the way in which the additional elements use or
+ interact with the exception may integrate it into a practical application.
+ Accordingly, the additional limitations should not

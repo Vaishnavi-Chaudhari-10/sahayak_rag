@@ -1,0 +1,50 @@
+ily Welfare, Govt. of India  of 963 
+BATCH SIZE :150001 to 5 LAKHS 
+Single Sampling Plan 
+Sample Size 315 : 
+AQL —0.25 
+AC —2 
+R —3 
+
+BATCH SIZE: OVER 5 LAKHS 
+Single Sampling Plan 
+Sample Size 500 : 
+AQL —0.25 
+AC —3 
+R —4 
+
+Note.—AQL denotes Acceptance Quality Level; 
+AC denotes Acceptance Number i.e., the maximum allowable number of 
+defectives for acceptance of the Batch; and 
+R denotes Rejection Number i.e., minimum number of defectives for 
+rejection of the Batch 
+
+ANNEXURE II 
+[See paragraph 5(A)] 
+SAMPLING PLAN FOR QUALITY CONTROL OF CONDOMS AT 
+PURCHASER'S LEVEL 
+
+BATCH SIZE : 35001 to 1.5 LAKHS 
+Single Sampling Plan 
+Sample Size 200 : 
+AQL —0.25 
+AC —1 
+R —2 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+
+BATCH SIZE :150001 to 5 LAKHS 
+Single Sampling Plan 
+Sample Size 315 : 
+AQL —0.25 
+AC —2 
+R —3 
+
+BATCH SIZE: OVER 5 LAKHS 
+Single Sampling Plan 
+Sample Size 500 : 
+AQL —0.25 
+AC —3 
+R —4 
+
+Note.—AQL denotes Accep

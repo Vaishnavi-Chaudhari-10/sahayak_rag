@@ -1,0 +1,26 @@
+kill in the art would interpret the disclosed invention as
+ improving technology and the underlying factual basis for that conclusion.
+
+I.
+ IMPROVEMENTS TO COMPUTER
+ FUNCTIONALITY
+In computer-related technologies, the examiner
+ should determine whether the claim purports to improve computer capabilities or,
+ instead, invokes computers merely as a tool. 
+Enfish, LLC v. Microsoft
+ Corp.,
+ 822 F.3d 1327, 1336, 118 USPQ2d 1684, 1689 (Fed. Cir. 2016).
+ In 
+Enfish,
+ the court evaluated the patent eligibility of claims
+ related to a self-referential database. 
+Id.
+ The court concluded
+ the claims were not directed to an abstract idea, but rather an improvement to
+ computer functionality. 
+Id. 
+It was the specification’s
+ discussion of the prior art and how the invention improved the way the computer
+ stores and retrieves data in memory in combination with the specific data
+ structure recited in the claims that demonstrated eligibility. 822 F.3d at 1339,
+ 118 USPQ2d at 1691. The claim was not

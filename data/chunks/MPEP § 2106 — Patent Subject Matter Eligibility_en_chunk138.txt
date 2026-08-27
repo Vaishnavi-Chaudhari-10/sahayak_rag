@@ -1,0 +1,27 @@
+a computer.” 811 F.3d. at 1324,
+ 117 USPQ2d at 1699. Another example is 
+Berkheimer v. HP,
+ Inc.,
+ 881 F.3d 1360, 125 USPQ2d 1649 (Fed. Cir. 2018), in
+ which the patentee claimed methods for parsing and evaluating data
+ using a computer processing system. The Federal Circuit determined
+ that these claims were directed to mental processes of parsing and
+ comparing data, because the steps were recited at a high level of
+ generality and merely used computers as a tool to perform the
+ processes. 881 F.3d at 1366, 125 USPQ2d at 1652-53. 
+
+D.
+ Both Product and
+ Process Claims May Recite a Mental
+ Process
+Examiners should keep in mind that both
+ product claims (
+e.g.,
+ computer system, computer-readable
+ medium, etc.) and process claims may recite mental processes. For example,
+ in 
+Mortgage Grader,
+ the patentee claimed a
+ computer-implemented system and a method for enabling borrowers to
+ anonymously shop for loan packages offered by a plurality of lenders,
+ comprising a database that stor

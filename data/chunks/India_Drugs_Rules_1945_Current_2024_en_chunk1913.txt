@@ -1,0 +1,17 @@
+roduction of APIs or intermediates from cell culture or 
+fermentation involves biological processes such as cultivation 
+of cells or extraction and puriﬁcation of material from living 
+organisms. There may be additional process steps, such as 
+physicochemical modiﬁcation, that are part of the 
+manufacturing process. The raw materials used (media, buffer 
+components) may provide the potential for growth of 
+microbiological contaminants. Depending on the source, 
+method of preparation and the intended use of the API or 
+intermediate, control of bioburden, viral contamination and 
+endotoxins during manufacturing and monitoring of the process 
+at appropriate stages may be necessary. 
+17.1.5. Appropriate controls shall be established at all stages of 
+manufacturing to assure intermediate or API quality. This starts 
+at the cell culture or fermentation step, prior steps (e.g., cell 
+banking) shall be performed under appropriate process 
+controls. This covers cell culture or fermentation from

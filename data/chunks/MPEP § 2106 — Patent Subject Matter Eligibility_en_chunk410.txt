@@ -1,0 +1,15 @@
+ct matter should be
+ made on a claim-by-claim basis, because claims do not automatically rise or fall with
+ similar claims in an application. For example, even if an independent claim is
+ determined to be ineligible, the dependent claims may be eligible because they add
+ limitations that integrate the judicial exception into a practical application or amount
+ to significantly more than the judicial exception recited in the independent claim. And
+ conversely, even if an independent claim is determined to be eligible, a dependent claim
+ may be ineligible because it adds a judicial exception without also adding limitations
+ that integrate the judicial exception or provide significantly more. Thus, each claim in
+ an application should be considered separately based on the particular elements recited
+ therein.
+
+If the evaluation of the claimed invention results in a
+ conclusion that it is more likely than not that the claim as a whole does not satisfy
+ both criteria for eligibility (Step 1:

@@ -1,0 +1,21 @@
+ces 
+may vary from single -door to double -door designs to fully -
+sealed systems incorporating sterilisation mechanisms. 
+6.11.3.2. The transfer of materials into and out of the unit is one of 
+the greatest potential sourc es of contamination. In general 
+the area inside the isolator is the local zone for high -risk 
+manipulations, although it is recognised that unidirectional 
+airflow may not exist in the working zone of all isolators 
+and transfer devices. 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+Explanation.- For the purpose of this paragraph “local 
+zone” means an area inside the isolator for high risk 
+manipulation. 
+
+6.11.3.3. The air classification required for the background 
+environment depends on the design of the isolator and its 
+application. It shall be controlled, and fo r aseptic processing 
+it shall be at least Grade D. 
+6.11.3.4. Isolators shall be introduced only after appropriate 
+validation. Valid

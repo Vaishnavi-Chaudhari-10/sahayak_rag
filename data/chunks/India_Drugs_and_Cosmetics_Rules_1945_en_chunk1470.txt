@@ -1,0 +1,17 @@
+res are written procedures for different activities being 
+conducted in a laboratory and shall include the following characteristics: 
+(i) they shall be written in a chronological order listing different steps leading to an 
+analysis of drugs or calibration of an instrument: 
+(ii) testing laboratories shall have Standard Operating Procedure manuals and have its 
+periodic review; 
+(iii) it shall be user friendly documents and shall include designation of the person 
+responsible for intended activity. 
+(b) Standard Operating Proce dures in addition to those recommended under various 
+activities shall also be prepared to the minimum in respect of the following: 
+(i) sample handling and accountability; 
+(ii) receipt identification, storage, mixing and method sampling of the test and 
+control a rticles; 
+(iii) record keeping, reporting, storage and retrieval of data; 
+(iv) coding of different studies, handling of data including use of computerized data 
+system; 
+(v) operation of technical a

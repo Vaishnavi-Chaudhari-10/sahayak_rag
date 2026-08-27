@@ -1,0 +1,17 @@
+exhaust air shall be determined to see whether the 
+filtration efficiency is adequate with all types of dust collectors and wet 
+scrubbers. 
+1.53. Where necessary, additional filtration may be provided downstream of 
+the dust collector. 
+1.54. The sy stems for fume, dust and effluent control shall be designed, 
+installed and operated in such a manner that they do not become possible 
+sources of contamination or cross -contamination, e.g., an exhaust -air 
+discharge point located close to the HVAC system fresh air inlet. 
+1.55. Fumes shall be removed by means of wet scrubbers or dry chemical 
+scrubbers (deep-bed scrubbers). 
+1.56. Wet scrubbers for fume removal normally require the addition of various 
+chemicals to the water to increase the adsorption efficiency. 
+1.57. Deep-bed sc rubbers shall be designed with activated carbon filters or 
+granular chemical adsorption media. The chemical media for deep -bed 
+scrubbers shall be specific to the effluent being treated. 
+1.58. The type and

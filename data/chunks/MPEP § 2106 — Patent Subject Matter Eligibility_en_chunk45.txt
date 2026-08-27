@@ -1,0 +1,24 @@
+S. 66, 71, 101
+ USPQ2d 1961, 1965 (2012)). The Supreme Court’s concern that drives this “exclusionary
+ principle” is pre-emption. 
+Alice Corp.,
+ 573 U.S. at 216, 110
+ USPQ2d at 1980. The Court has held that a claim may not preempt abstract ideas, laws
+ of nature, or natural phenomena, even if the judicial exception is narrow (e.g., a
+ particular mathematical formula such as the Arrhenius equation). See, 
+e.g.,
+ Mayo,
+ 566 U.S. at 79-80, 86-87, 101 USPQ2d at 1968-69, 1971 (claims
+ directed to “narrow laws that may have limited applications” held ineligible);
+
+Flook,
+ 437 U.S. at 589-90, 198 USPQ at 197 (claims that did not
+ “wholly preempt the mathematical formula” held ineligible). This is because such a
+ patent would “in practical effect [] be a patent on the [abstract idea, law of nature
+ or natural phenomenon] itself.” 
+Benson,
+ 409 U.S. at 71- 72, 175
+ USPQ at 676. The concern over preemption was expressed as early as 1852. See
+
+Le Roy v. Tatham,
+ 55 U.S. (14 How.) 156, 175 (1852)

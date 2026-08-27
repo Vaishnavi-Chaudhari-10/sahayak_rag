@@ -1,0 +1,20 @@
+the isolator and its 
+application. It shall be controlled, and fo r aseptic processing 
+it shall be at least Grade D. 
+6.11.3.4. Isolators shall be introduced only after appropriate 
+validation. Validation shall take into account all critical 
+factors of isolator technology, for example, the quality of the 
+air inside and outside (back ground) the isolator, sanitisation 
+of the isolator, the transfer process and isolator integrity. 
+6.11.3.5. Monitoring shall be done routinely and shall include 
+frequent leak testing of the isolator and the glove or sleeve 
+system. 
+
+6.11.4. Blow, Fill-Seal technology- 
+6.11.4.1. Blow, Fill -Seal units are purpose -built machines in which, 
+in one continuous operation, containers are formed from a 
+thermoplastic granulate, filled and then sealed, all by the 
+one automatic machine. Blow, Fill -Seal equipment used for 
+aseptic production which is fitted with an effective Grade A 
+air shower may be installed in at least a Grade C zone, 
+provided that Grad

@@ -1,0 +1,17 @@
+al application. However, the way in which the additional elements use or
+ interact with the exception may integrate it into a practical application.
+ Accordingly, the additional limitations should not be evaluated in a vacuum,
+ completely separate from the recited judicial exception. Instead, the analysis
+ should take into consideration all the claim limitations and how those limitations
+ interact and impact each other when evaluating whether the exception is integrated
+ into a practical application. 
+
+Two examples of how the Office evaluates whether
+ the claim as a whole integrates the recited judicial exception into a practical
+ application are provided. In 
+Solutran, Inc. v. Elavon, Inc.,
+
+ 931 F.3d 1161, 2019 USPQ2d 281076 (Fed. Cir. 2019), the claims were to methods for
+ electronically processing paper checks, all of which contained limitations setting
+ forth receiving merchant transaction data from a merchant, crediting a merchant’s
+ account, and receiving and scanning paper chec

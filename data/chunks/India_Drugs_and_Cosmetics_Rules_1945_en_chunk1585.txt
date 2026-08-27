@@ -1,0 +1,15 @@
+alidt. to ensure that critical process requirements are met. System 
+and cycle faults shall be registered by the system and observed by the operator. The reading 
+of the independent temperature indicator shall be routinely checked against the chart-recorder 
+during the sterilization period. For sterilizers fitted with a drain at the bottom of the chamber, 
+it may also be necessary to record the temperature at this position throughout the sterilization 
+period. There shall be frequent leak tests done on the chamber during the vacuum phase of the 
+cycle. 
+
+10.8.2 The items to be sterilized, other than products in sealed containers, shall be 
+wrapped in a material which allows removal of air and penetration of steam but which 
+prevents re-contamination after sterilization. All parts of the load shall be in contact with the 
+sterilizing agent at the required temperature for the required time. 
+
+10.8.3. No Large Volume Parenteral shall be subjected to steam sterilization cycle 
+until it has

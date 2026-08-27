@@ -1,0 +1,28 @@
+d of
+ use and technological environment consideration (see 
+MPEP §
+ 2106.05(h)
+) may assist examiners in making a determination
+ of whether an element (or combination of elements) is insignificant extra-solution
+ activity. Note, however, that examiners should not evaluate the well-understood,
+ routine, conventional consideration in the Step 2A Prong Two analysis, because that
+ consideration is only evaluated in Step 2B.
+
+This consideration is similar to factors used in past
+ Office guidance (for example, the now superseded 
+Bilski
+ and
+
+Mayo
+ analyses) that were described as mere data gathering in
+ conjunction with a law of nature or abstract idea. When determining whether an
+ additional element is insignificant extra-solution activity, examiners may consider
+ the following: 
+
+(1) Whether the extra-solution limitation is well
+ known.
+ See 
+Bilski v. Kappos,
+ 561 U.S. 593, 611-12, 95
+ USPQ2d 1001, 1010 (2010) (well-known random analysis techniques to establish the
+ inputs of an equation

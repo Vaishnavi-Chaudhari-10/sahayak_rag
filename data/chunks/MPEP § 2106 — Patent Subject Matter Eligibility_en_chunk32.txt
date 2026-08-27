@@ -1,0 +1,16 @@
+duct that is concrete
+ and consists of parts such as a frame and wheels (thus satisfying the machine
+ category), and it is an article that was produced from raw materials such as aluminum
+ ore and liquid rubber by giving them a new form (thus satisfying the manufacture
+ category). Similarly, a genetically modified bacterium satisfies both the composition
+ of matter and manufacture categories, because it is a tangible product that is a
+ combination of two or more substances such as proteins, carbohydrates and other
+ chemicals (thus satisfying the composition of matter category), and it is an article
+ that was genetically modified by humans to have new properties such as the ability to
+ digest multiple types of hydrocarbons (thus satisfying the manufacture category). 
+
+Non-limiting examples of claims that are not directed
+ to any of the statutory categories include:
+
+ • Products that do not have a physical or
+ tangible form, such as information (often referred to as “data per se”) or a

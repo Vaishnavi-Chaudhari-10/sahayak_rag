@@ -1,0 +1,37 @@
+s
+
+2163.06-Relationship of Written Description Requirement to New Matter
+
+2163.07-Amendments to Application Which Are Supported in the Original Description
+
+2163.07(a)-Inherent Function, Theory, or Advantage
+
+2163.07(b)-Incorporation by Reference
+
+2164-The Enablement Requirement
+
+2164.01-Test of Enablement
+
+2164.01(a)-Undue Experimentation Factors
+
+2164.01(b)-How to Make the Claimed Invention
+
+2164.01(c)-How to Use the Claimed Invention
+
+2164.02-Working and Prophetic Examples
+
+2164.03-Relationship of Predictability of the Art and the Enablement Requirement
+
+2164.04-Burden on the Examiner Under the Enablement Requirement
+
+2164.05-Determination of Enablement Based on Evidence as a Whole
+
+2164.05(a)-Specification Must Be Enabling as of the Filing Date
+
+2164.05(b)-Specification Must Be Enabling to Persons Skilled in the Art
+
+2164.06-Quantity of Experimentation
+
+2164.06(a)-Examples of Enablement Issues-Missing Information
+
+2164.06(b)-Examples of Enablement Issues — Biological and Chemical C

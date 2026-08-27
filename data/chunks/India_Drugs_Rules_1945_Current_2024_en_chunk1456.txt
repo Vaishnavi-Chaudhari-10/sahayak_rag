@@ -1,0 +1,21 @@
+963 
+(a) brief description of major equipment used in production and Qual ity 
+Control Laboratories (a list of equipment required); 
+(b) description of planned preventive maintenance programmes for 
+equipment and of the recording system; and 
+(c) qualification and calibration including the recording systems and 
+arrangements for computerised systems validation. 
+
+5. Sanitation:-availability of written specifications and procedures for 
+cleaning manufacturing areas and equipment. 
+6. Documentation:- 
+(a) arrangements for the preparation, revision and distribution of; 
+(b) necessary documentation for the manufacture; and 
+(c) any other documentation related to product quality that is not 
+mentioned elsewhere (e.g., microbiological controls about air and 
+water). 
+
+7. Production:- 
+(a) brief description of production operations using, wherever possible, flow 
+sheets and charts specifying important parameters; 
+(b) arrangements for the handling of starting materials, packaging materials,

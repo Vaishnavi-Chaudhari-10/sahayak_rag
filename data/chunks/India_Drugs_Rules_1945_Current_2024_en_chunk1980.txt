@@ -1,0 +1,18 @@
+1265[0.0025N 
++ 3 x √0.0025N] for Water Leakage Test, and 1265[0.01N + 3 x √0.015N] for 
+Burst Volume and Pressure Test. 
+(3) Each unit of 100 test samples shall be distributed for the various tests 
+as follows:— 
+25 for Burst Volume Pressure Test, and; 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+75 for Water Leakage Test. 
+(4) Where the number of test samples is a multiple of 100 the distributi on 
+scale mentioned above shall be prorated. 
+(5) If the cumulative total of samples rejected exceeds the number of 
+allowables at any point in the sequence of quanta, the quantum at which this 
+occurs shall be liable to rejection. The assessment of quality of further 
+production quanta shall include all previous test results starting from Quantum 
+Number 1 and approval of production shall be in suspense until the condition 
+required by the scheme is again fulfilled. 
+(6) At least one sample shall be taken at random from each pr

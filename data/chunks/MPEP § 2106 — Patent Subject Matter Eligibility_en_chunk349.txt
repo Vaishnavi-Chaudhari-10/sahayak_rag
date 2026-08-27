@@ -1,0 +1,25 @@
+integrated the results of the analysis into a specific and tangible method that
+ resulted in the method “moving from abstract scientific principle to specific
+ application.” 659 F.3d at 1066-68; 100 USPQ2d at 1500-01. In contrast, in
+
+OIP Technologies, Inc. v. Amazon.com, Inc.,
+ the court
+ determined that the additional steps to “test prices and collect data based on the
+ customer reactions” did not meaningfully limit the abstract idea of offer-based price
+ optimization, because the steps were well-understood, routine, conventional
+ data-gathering activities. 788 F.3d 1359, 1363-64, 115 USPQ2d 1090, 1093 (Fed. Cir.
+ 2015). 
+
+With respect to treatment or prophylaxis limitations,
+ such as the immunization step in 
+Classen,
+ examiners should note
+ that the other meaningful limitations consideration overlaps with the particular
+ treatment or prophylaxis consideration that is evaluated in Step 2A Prong Two (see
+
+MPEP §
+ 2106.04(d)(2)
+).
+
+When evaluating whether additional elements
+ meanin

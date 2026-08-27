@@ -1,0 +1,42 @@
+he eligibility analysis. Additional discussion of these considerations, and how
+ they were applied in particular judicial decisions, is provided in
+
+MPEP § 2106.05(a)
+ through 
+(c)
+ and 
+MPEP §
+ 2106.05(e)
+ through 
+(h)
+.
+
+Limitations the courts have found indicative that
+ an additional element (or combination of elements) may have integrated the
+ exception into a practical application include:
+
+ • An improvement in the functioning of a
+ computer, or an improvement to other technology or technical field, as
+ discussed in 
+MPEP §§ 2106.04(d)(1)
+ and
+
+2106.05(a)
+;
+
+ • Applying or using a judicial exception to
+ effect a particular treatment or prophylaxis for a disease or medical
+ condition, as discussed in 
+MPEP §
+ 2106.04(d)(2)
+;
+
+ • Implementing a judicial exception with, or
+ using a judicial exception in conjunction with, a particular machine or
+ manufacture that is integral to the claim, as discussed in
+
+MPEP § 2106.05(b)
+;
+
+ • Effecting a transformation or reduction of
+ a particular

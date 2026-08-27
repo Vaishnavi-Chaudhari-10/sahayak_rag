@@ -1,0 +1,20 @@
+viations in yield 
+associated with critical process steps shall be inves tigated to 
+determine their impact or potential impact on the resulting 
+quality of affected batches. 
+8.1.6. Any deviation shall be documented and explained. Any critical 
+deviation shall be investigated. 
+8.1.7. The processing status of major units of equipment shall be 
+indicated either on the individual units of equipment or by 
+appropriate documentation, computer control systems or 
+alternative means. 
+8.1.8. Materials to be reprocessed or reworked shall be appropriately 
+controlled to prevent unauthorised use. 
+8.2. Time limits- 
+8.2.1. If time limits are speciﬁed in the master production instructions 
+(see paragraph 6.4.2), these time limits shall be met to ensure the 
+quality of intermediates and APIs. Deviations shall be 
+documented and evaluated. Time limits may be inappropriate 
+when processing to a target value (e.g., pH adjustment, 
+hydrogenation or drying to a predetermined speciﬁcation) 
+because com

@@ -1,0 +1,21 @@
+9 U.S. at 585, 106 USPQ2d at
+ 1977 (“Myriad's patents would, if valid, give it the exclusive right to
+ isolate an individual’s BRCA1 and BRCA2 genes … But isolation is necessary
+ to conduct genetic testing”) and 569 U.S. at 593, 106 USPQ2d at 1980
+ (describing how would-be infringers could not avoid the scope of Myriad’s
+ claims). In sum, the claimed genes were different, but not markedly
+ different, from their naturally occurring counterparts (the BRCA genes), and
+ thus were product of nature exceptions. 
+
+In 
+Ambry Genetics,
+ the
+ court identified claimed DNA fragments known as “primers” as products of
+ nature, because they lacked markedly different characteristics.
+
+University of Utah Research Foundation v. Ambry Genetics
+ Corp.,
+ 774 F.3d 755, 113 USPQ2d 1241 (Fed. Cir. 2014). The
+ claimed primers were single-stranded pieces of DNA, each of which
+ corresponded to a naturally occurring double-stranded DNA sequence in or
+ near the BRCA genes. The patentee argued that these primers ha

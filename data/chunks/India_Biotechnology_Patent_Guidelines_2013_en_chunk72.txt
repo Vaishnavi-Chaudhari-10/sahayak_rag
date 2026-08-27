@@ -1,0 +1,29 @@
+every Friday with the 
+following particulars in respect of application: 
+i. Application number 
+ii. Country 
+iii. Date of filing 
+iv. Publication date 
+v. Title of invention 
+vi. International Patent Classification 
+vii. Priority details like priority document number, priority date, 
+Priority country, International Application No. and Filing date, 
+etc. 
+viii. Name and address of the applicant 
+ix. Name of the inventor(s) 
+x. Reference in respect of Patent of Addition shall be the 
+application number and filing date of the main application. 
+xi. Reference in respect of Divisional Application shall be the 
+application number and filin g date of the of the first mentioned 
+application. 
+xii. Abstract 
+xiii. No. of pages 
+xiv. No. of claims 
+Section 
+11A 
+
+04.04 Effects of Publication 
+a) Upon publication, the Patent Office makes the specification 
+(complete as well as provisional, if any), abstract, draw ings and 
+any other document s filed in respect of the application available 
+to the

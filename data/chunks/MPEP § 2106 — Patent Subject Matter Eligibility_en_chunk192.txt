@@ -1,0 +1,14 @@
+imed primers were single-stranded pieces of DNA, each of which
+ corresponded to a naturally occurring double-stranded DNA sequence in or
+ near the BRCA genes. The patentee argued that these primers had markedly
+ different structural characteristics from the natural DNA, because the
+ primers were synthetically created and because “single-stranded DNA cannot
+ be found in the human body”. The court disagreed, concluding that the
+ primers’ structural characteristics were not markedly different than the
+ corresponding strands of DNA in nature, because the primers and their
+ counterparts had the same genetic structure and nucleotide sequence. 774
+ F.3d at 760, 113 USPQ2d at 1243-44. The patentee also argued that the
+ primers had a different function than when they are part of the DNA strand
+ because when isolated as a primer, a primer can be used as a starting
+ material for a DNA polymerization process. The court disagreed, because this
+ ability to serve as a starting material is innate to D

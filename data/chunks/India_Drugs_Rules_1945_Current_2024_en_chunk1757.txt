@@ -1,0 +1,17 @@
+idity control shall be achieved by removing moisture from the air, or 
+adding moisture to the air, as relevant. 
+1.33. Dehumidification (moisture removal) may be achieved by means of 
+either refrigerated dehumidifiers or chemical dehumidifiers. 
+1.34. Duct material in the vicinity of the humidifier shall not add contaminants 
+to air that will not be removed by filtration further downstream. 
+1.35. Air filters shall not be installed immediately downstream of humidifiers, 
+as moisture on the filters could lead to bacterial growth. 
+1.36. Cold surfaces shall be insulated to prevent condensation within the clean 
+
+Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India  of 963 
+area or on air-handling components. 
+1.37. When specifying relative humidity, the associated temperature shall also 
+be specified. 
+1.38. Chemical driers using silica gel or lithium chlo ride are acceptable, 
+provided that they do not become sources of contamination. 
+1.39.

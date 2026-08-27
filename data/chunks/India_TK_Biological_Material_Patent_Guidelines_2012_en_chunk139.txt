@@ -1,0 +1,19 @@
+n drafted in terms of Markush 
+formula. Special care should be given to search and examine such claims. Claims with 
+Markush formulas may cover innumerable compounds and may be overbroad, thus 
+leading to conclusion of inconsistency between description and claims. Also, such 
+formulas can lead to the question of plurality of distinct inventions. Compounds 
+represented by different alternatives should have a technical interrelation ship. 
+
+11.15 Where a single claim defines alternatives of a Markush group, the requirement of a 
+technical interrelationship is considered met when t he alternatives are of a similar 
+nature. When the Markush grouping is for alternatives of chemical compounds, the 
+alternatives are regarded as being of a similar nature where the following criteria are 
+fulfilled: 
+
+(A) all alternatives have a common property or activity; AND 
+
+(B)(1) a common structure is present, that is, a significant structural element is shared 
+by all of the alternatives; OR 
+
+(B)(2) in
