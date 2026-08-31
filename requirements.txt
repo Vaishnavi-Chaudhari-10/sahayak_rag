@@ -44,7 +44,6 @@ pymupdf==1.28.2
 pypdf==6.16.2
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
-pywin32==312
 PyYAML==6.0.3
 qdrant-client==1.19.0
 regex==2026.7.19
