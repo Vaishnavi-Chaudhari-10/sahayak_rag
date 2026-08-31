@@ -1,7 +1,14 @@
 # Python
 venv/
+.venv/
 __pycache__/
 *.pyc
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/src/node_modules/
+frontend/dist/
 
 # Environment / secrets
 .env
@@ -33,3 +40,7 @@ data/chunks_legal/
 
 # Keep cleaned text files
 !data/cleaned/
+
+# Vite cache
+.vite/
+frontend/.vite/
