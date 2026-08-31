@@ -44,3 +44,8 @@ data/chunks_legal/
 # Vite cache
 .vite/
 frontend/.vite/
+# Dependencies and Python cache
+node_modules/
+__pycache__/
+*.pyc
+.vite/
