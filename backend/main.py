@@ -5562,11 +5562,7 @@ def ask_sahayak(
     # ========================================================
     # QDRANT RETRIEVAL
     # ========================================================
-
-    if (
-        qdrant is not None
-        and embedder is not None
-    ):
+    if qdrant is not None:
 
         try:
 
@@ -5577,38 +5573,23 @@ def ask_sahayak(
             embedding = get_embedder().encode(
                 query
             ).tolist()
-            # embedding = embedder.encode(
-            #     query
-            # ).tolist()
-
 
             print(
                 "Searching Qdrant..."
             )
 
-
             results = qdrant.query_points(
-
-                collection_name=
-                    QDRANT_COLLECTION,
-
-                query=
-                    embedding,
-
-                limit=
-                    TOP_K
-
+                collection_name=QDRANT_COLLECTION,
+                query=embedding,
+                limit=TOP_K
             ).points
 
-
             retrieval_status = "success"
-
 
             print(
                 "Retrieved chunks:",
                 len(results)
             )
-
 
         except Exception as e:
 
@@ -5621,20 +5602,9 @@ def ask_sahayak(
 
             retrieval_status = "failed"
 
-
     elif qdrant is None:
 
-        retrieval_status = (
-            "not_configured"
-        )
-
-
-    elif embedder is None:
-
-        retrieval_status = (
-            "embedding_unavailable"
-        )
-
+        retrieval_status = "not_configured"
 
     # ========================================================
     # FILTER EVIDENCE
