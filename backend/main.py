@@ -5192,32 +5192,46 @@ else:
 # ============================================================
 # EMBEDDING MODEL
 # ============================================================
-
 embedder = None
 
+def get_embedder():
+    global embedder
 
-try:
+    if embedder is None:
+        print("Loading embedding model...")
 
-    print(
-        "Loading embedding model..."
-    )
+        embedder = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )
 
-    embedder = SentenceTransformer(
-        "all-MiniLM-L6-v2"
-    )
+        print("Embedding model loaded successfully.")
 
-    print(
-        "Embedding model loaded successfully."
-    )
+    return embedder
+# embedder = None
 
-except Exception as e:
 
-    print(
-        "Embedding model initialization error:",
-        e
-    )
+# try:
 
-    embedder = None
+#     print(
+#         "Loading embedding model..."
+#     )
+
+#     embedder = SentenceTransformer(
+#         "all-MiniLM-L6-v2"
+#     )
+
+#     print(
+#         "Embedding model loaded successfully."
+#     )
+
+# except Exception as e:
+
+#     print(
+#         "Embedding model initialization error:",
+#         e
+#     )
+
+#     embedder = None
 
 
 # ============================================================
@@ -5560,10 +5574,12 @@ def ask_sahayak(
                 "Generating query embedding..."
             )
 
-
-            embedding = embedder.encode(
+            embedding = get_embedder().encode(
                 query
             ).tolist()
+            # embedding = embedder.encode(
+            #     query
+            # ).tolist()
 
 
             print(
