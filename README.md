@@ -4,6 +4,8 @@ AI-Powered Multilingual Assistant for Ayurveda, Traditional Knowledge & Intellec
 Sahayak RAG is a Retrieval-Augmented Generation (RAG) system that helps researchers, students, and stakeholders explore Indian traditional knowledge, Ayurveda documentation, and intellectual-property regulations. It delivers grounded answers with official sources in multiple languages.
 
 ✨ Why Sahayak?
+
+
 🔎 Evidence-based: Answers are grounded in curated documents, not just model memory.
 
 🌐 Multilingual: Supports English, Hindi, Marathi, and Tamil.
