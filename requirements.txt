@@ -73,3 +73,5 @@ uvicorn
 
 bcrypt
 PyJWT
+
+email-validator
