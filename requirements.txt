@@ -71,3 +71,4 @@ urllib3==2.7.0
 fastapi
 uvicorn
 
+bcrypt
