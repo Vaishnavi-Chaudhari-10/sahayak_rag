@@ -1,6 +1,6 @@
-🌿 Sahayak RAG
+##🌿 Sahayak RAG
 
-AI-Powered Multilingual Assistant for Ayurveda, Traditional Knowledge & Intellectual Property
+#AI-Powered Multilingual Assistant for Ayurveda, Traditional Knowledge & Intellectual Property
 
 
 
