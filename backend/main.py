@@ -244,45 +244,62 @@ else:
 # EMBEDDING MODEL
 # ============================================================
 
-embedder = None
+# embedder = None
 
 
+# def get_embedder():
+
+#     global embedder
+
+#     if embedder is None:
+
+#         print("========================================")
+#         print("Loading embedding model...")
+#         print("Model: all-MiniLM-L6-v2")
+#         print("========================================")
+
+#         try:
+
+#             embedder = SentenceTransformer(
+#                 "sentence-transformers/all-MiniLM-L6-v2"
+#             )
+
+#             print(
+#                 "Embedding model loaded successfully."
+#             )
+
+#             print(
+#                 "Embedding dimension:",
+#                 embedder.get_sentence_embedding_dimension()
+#             )
+
+#         except Exception as e:
+
+#             print(
+#                 "EMBEDDING MODEL ERROR:",
+#                 repr(e)
+#             )
+
+#             embedder = None
+
+#             raise
+
+#     return embedder
 def get_embedder():
-
     global embedder
 
     if embedder is None:
+        print("==========================================")
+        print("LOADING EMBEDDING MODEL")
+        print("==========================================")
 
-        print("========================================")
-        print("Loading embedding model...")
-        print("Model: all-MiniLM-L6-v2")
-        print("========================================")
+        embedder = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )
 
-        try:
-
-            embedder = SentenceTransformer(
-                "sentence-transformers/all-MiniLM-L6-v2"
-            )
-
-            print(
-                "Embedding model loaded successfully."
-            )
-
-            print(
-                "Embedding dimension:",
-                embedder.get_sentence_embedding_dimension()
-            )
-
-        except Exception as e:
-
-            print(
-                "EMBEDDING MODEL ERROR:",
-                repr(e)
-            )
-
-            embedder = None
-
-            raise
+        print("==========================================")
+        print("EMBEDDING MODEL LOADED SUCCESSFULLY")
+        print("==========================================")
 
     return embedder
 # ============================================================
