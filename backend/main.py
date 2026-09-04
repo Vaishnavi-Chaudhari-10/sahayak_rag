@@ -1722,3 +1722,64 @@ def get_chat(
                 "created_at"
             )
     }
+# ============================================================
+# DELETE SINGLE CHAT
+# ============================================================
+
+@app.delete("/chats/{chat_id}")
+def delete_chat(
+    chat_id: str,
+    current_user=Depends(get_current_user)
+):
+
+    try:
+        object_id = ObjectId(chat_id)
+
+    except Exception:
+
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid chat ID."
+        )
+
+    try:
+
+        result = chats_collection.delete_one(
+            {
+                "_id": object_id,
+                "user_id": current_user["_id"]
+            }
+        )
+
+        if result.deleted_count == 0:
+
+            raise HTTPException(
+                status_code=404,
+                detail="Chat not found."
+            )
+
+        print(
+            "Chat deleted:",
+            chat_id
+        )
+
+        return {
+            "message": "Chat deleted successfully.",
+            "chat_id": chat_id
+        }
+
+    except HTTPException:
+
+        raise
+
+    except Exception as e:
+
+        print(
+            "DELETE CHAT ERROR:",
+            repr(e)
+        )
+
+        raise HTTPException(
+            status_code=500,
+            detail="Unable to delete chat."
+        )
