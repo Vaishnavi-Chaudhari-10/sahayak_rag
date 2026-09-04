@@ -239,7 +239,29 @@ else:
         "=================================================="
     )
 
+# ============================================================
+# EMBEDDING MODEL
+# ============================================================
 
+embedder = None
+
+
+def get_embedder():
+    global embedder
+
+    if embedder is None:
+
+        print("Loading embedding model...")
+
+        embedder = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )
+
+        print(
+            "Embedding model loaded successfully."
+        )
+
+    return embedder
 # ============================================================
 # EMBEDDING MODEL
 # ============================================================
@@ -285,23 +307,23 @@ else:
 #             raise
 
 #     return embedder
-def get_embedder():
-    global embedder
+# def get_embedder():
+#     global embedder
 
-    if embedder is None:
-        print("==========================================")
-        print("LOADING EMBEDDING MODEL")
-        print("==========================================")
+#     if embedder is None:
+#         print("==========================================")
+#         print("LOADING EMBEDDING MODEL")
+#         print("==========================================")
 
-        embedder = SentenceTransformer(
-            "all-MiniLM-L6-v2"
-        )
+#         embedder = SentenceTransformer(
+#             "all-MiniLM-L6-v2"
+#         )
 
-        print("==========================================")
-        print("EMBEDDING MODEL LOADED SUCCESSFULLY")
-        print("==========================================")
+#         print("==========================================")
+#         print("EMBEDDING MODEL LOADED SUCCESSFULLY")
+#         print("==========================================")
 
-    return embedder
+#     return embedder
 # ============================================================
 # GEMINI CONFIGURATION
 # ============================================================
