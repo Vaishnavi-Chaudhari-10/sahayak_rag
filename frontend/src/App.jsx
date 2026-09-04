@@ -1103,32 +1103,119 @@ const handleSignup = async (e) => {
     setSidebarOpen(false);
 
   };
-
   // ==========================================================
   // DELETE CHAT
   // ==========================================================
 
-  const deleteChat = (
-    id,
-    e
-  ) => {
-
-    /*
-     * Your currently tested backend endpoints do not include
-     * DELETE /chats/{chat_id}.
-     *
-     * Therefore we do NOT pretend to delete it from MongoDB.
-     *
-     * Once you create a backend delete endpoint, connect it here.
-     */
+  const deleteChat = async (id, e) => {
 
     e.stopPropagation();
 
-    console.warn(
-      "Delete is not connected to the backend yet."
+    if (!id) {
+      console.error("No chat ID provided.");
+      return;
+    }
+
+    const confirmed = window.confirm(
+      "Are you sure you want to delete this chat?"
     );
 
+    if (!confirmed) {
+      return;
+    }
+
+    try {
+
+      const response = await fetch(
+        `${API_BASE_URL}/chats/${id}`,
+        {
+          method: "DELETE",
+          credentials: "include",
+          headers: {
+            Accept: "application/json",
+          },
+        }
+      );
+
+      const data = await response.json();
+
+      console.log(
+        "Delete chat response:",
+        data
+      );
+
+      if (!response.ok) {
+
+        throw new Error(
+          typeof data.detail === "string"
+            ? data.detail
+            : "Failed to delete chat."
+        );
+      }
+
+      // Remove deleted chat from React state
+      setChatHistory((previousChats) =>
+        previousChats.filter(
+          (chat) =>
+            (chat.id || chat.chat_id) !== id
+        )
+      );
+
+      // If the deleted chat is currently open,
+      // return to the new-chat screen.
+      if (currentChatId === id) {
+
+        setCurrentChatId(null);
+
+        setMessages([]);
+
+        setQuery("");
+
+      }
+
+      console.log(
+        "Chat deleted successfully:",
+        id
+      );
+
+    } catch (error) {
+
+      console.error(
+        "Delete chat error:",
+        error
+      );
+
+      window.alert(
+        error.message ||
+        "Unable to delete chat."
+      );
+    }
   };
+  // // ==========================================================
+  // // DELETE CHAT
+  // // ==========================================================
+
+  // const deleteChat = (
+  //   id,
+  //   e
+  // ) => {
+
+  //   /*
+  //    * Your currently tested backend endpoints do not include
+  //    * DELETE /chats/{chat_id}.
+  //    *
+  //    * Therefore we do NOT pretend to delete it from MongoDB.
+  //    *
+  //    * Once you create a backend delete endpoint, connect it here.
+  //    */
+
+  //   e.stopPropagation();
+
+  //   console.warn(
+  //     "Delete is not connected to the backend yet."
+  //   );
+
+  // };
 
   // ==========================================================
   // CLEAR HISTORY
